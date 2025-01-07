@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "neptun-ai-scraper"
+version = "0.0.0"
+description = "A tool for web-scraping and generating training data using GPT-4."
+authors = ["neptun <neptun.org@protonmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+beautifulsoup4 = "^4.12.0"
+openai = "^1.3.0"
+python-dotenv = "^1.0.0"
+crawl4ai = "^0.4.243"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

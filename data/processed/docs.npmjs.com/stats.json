@@ -1,0 +1,213 @@
+{
+  "scraping_stats": {
+    "total_pages_processed": 20,
+    "total_success": 20,
+    "total_failures": 0,
+    "average_fetch_time_ms": 18818.33246946335,
+    "average_store_time_ms": 37225.08286237717,
+    "total_jsonl_entries": 114,
+    "average_entries_per_page": 5.7,
+    "pages": [
+      {
+        "timestamp": "2025-01-07T18:47:38.658480+0000",
+        "url": "https://docs.npmjs.com/using-deprecated-packages",
+        "fetch_time_ms": 7049.595832824707,
+        "store_time_ms": 22248.711347579956,
+        "total_time_ms": 29298.307180404663,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 6
+      },
+      {
+        "timestamp": "2025-01-07T18:48:22.441792+0000",
+        "url": "https://docs.npmjs.com/cli/v11/commands/npm-help-search",
+        "fetch_time_ms": 12056.62488937378,
+        "store_time_ms": 31724.689483642578,
+        "total_time_ms": 43781.31437301636,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 5
+      },
+      {
+        "timestamp": "2025-01-07T18:49:54.866096+0000",
+        "url": "https://docs.npmjs.com/cli/v11/commands/npm-team",
+        "fetch_time_ms": 24044.629335403442,
+        "store_time_ms": 68377.67457962036,
+        "total_time_ms": 92422.3039150238,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 0
+      },
+      {
+        "timestamp": "2025-01-07T18:50:41.214291+0000",
+        "url": "https://docs.npmjs.com/managing-your-profile-settings",
+        "fetch_time_ms": 8705.997467041016,
+        "store_time_ms": 37640.19799232483,
+        "total_time_ms": 46346.195459365845,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 5
+      },
+      {
+        "timestamp": "2025-01-07T18:51:59.746107+0000",
+        "url": "https://docs.npmjs.com/cli/v11/using-npm/scope",
+        "fetch_time_ms": 18748.921632766724,
+        "store_time_ms": 59781.893491744995,
+        "total_time_ms": 78530.81512451172,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 8
+      },
+      {
+        "timestamp": "2025-01-07T18:53:12.848703+0000",
+        "url": "https://docs.npmjs.com/creating-and-publishing-an-organization-scoped-package",
+        "fetch_time_ms": 23070.863723754883,
+        "store_time_ms": 50030.21144866943,
+        "total_time_ms": 73101.07517242432,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 7
+      },
+      {
+        "timestamp": "2025-01-07T18:54:06.927681+0000",
+        "url": "https://docs.npmjs.com/about-semantic-versioning",
+        "fetch_time_ms": 10632.725477218628,
+        "store_time_ms": 43443.20011138916,
+        "total_time_ms": 54075.92558860779,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 6
+      },
+      {
+        "timestamp": "2025-01-07T18:54:38.950687+0000",
+        "url": "https://docs.npmjs.com/organization-roles-and-permissions",
+        "fetch_time_ms": 9733.09850692749,
+        "store_time_ms": 22288.36965560913,
+        "total_time_ms": 32021.46816253662,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 5
+      },
+      {
+        "timestamp": "2025-01-07T18:55:41.469507+0000",
+        "url": "https://docs.npmjs.com/cli/v11/commands/npm-cache",
+        "fetch_time_ms": 19822.74103164673,
+        "store_time_ms": 42694.010734558105,
+        "total_time_ms": 62516.751766204834,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 7
+      },
+      {
+        "timestamp": "2025-01-07T18:56:58.422303+0000",
+        "url": "https://docs.npmjs.com/cli/v11/configuring-npm/npmrc",
+        "fetch_time_ms": 39795.15719413757,
+        "store_time_ms": 37156.638622283936,
+        "total_time_ms": 76951.79581642151,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 8
+      },
+      {
+        "timestamp": "2025-01-07T18:58:15.533589+0000",
+        "url": "https://docs.npmjs.com/removing-members-from-your-organization",
+        "fetch_time_ms": 11227.13828086853,
+        "store_time_ms": 65883.14890861511,
+        "total_time_ms": 77110.28718948364,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 10
+      },
+      {
+        "timestamp": "2025-01-07T18:59:01.226220+0000",
+        "url": "https://docs.npmjs.com/cli/v11/commands/npm-shrinkwrap",
+        "fetch_time_ms": 15171.449899673462,
+        "store_time_ms": 30519.17815208435,
+        "total_time_ms": 45690.62805175781,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 3
+      },
+      {
+        "timestamp": "2025-01-07T19:00:11.476891+0000",
+        "url": "https://docs.npmjs.com/cli/v11/commands/npm-access",
+        "fetch_time_ms": 46546.2863445282,
+        "store_time_ms": 23702.386140823364,
+        "total_time_ms": 70248.67248535156,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 7
+      },
+      {
+        "timestamp": "2025-01-07T19:00:48.290993+0000",
+        "url": "https://docs.npmjs.com/renaming-an-organization",
+        "fetch_time_ms": 16737.30516433716,
+        "store_time_ms": 20074.795722961426,
+        "total_time_ms": 36812.100887298584,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 5
+      },
+      {
+        "timestamp": "2025-01-07T19:01:42.957219+0000",
+        "url": "https://docs.npmjs.com/about-npm",
+        "fetch_time_ms": 25678.914785385132,
+        "store_time_ms": 28985.790967941284,
+        "total_time_ms": 54664.705753326416,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 7
+      },
+      {
+        "timestamp": "2025-01-07T19:02:51.714810+0000",
+        "url": "https://docs.npmjs.com/cli/v11/commands/npm-search",
+        "fetch_time_ms": 23297.0712184906,
+        "store_time_ms": 45458.95862579346,
+        "total_time_ms": 68756.02984428406,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 0
+      },
+      {
+        "timestamp": "2025-01-07T19:03:30.874160+0000",
+        "url": "https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities",
+        "fetch_time_ms": 12611.107110977173,
+        "store_time_ms": 26546.242475509644,
+        "total_time_ms": 39157.34958648682,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 8
+      },
+      {
+        "timestamp": "2025-01-07T19:04:46.583179+0000",
+        "url": "https://docs.npmjs.com/cli/v11/using-npm/dependency-selectors",
+        "fetch_time_ms": 31094.537019729614,
+        "store_time_ms": 44612.478256225586,
+        "total_time_ms": 75707.0152759552,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 6
+      },
+      {
+        "timestamp": "2025-01-07T19:05:20.251959+0000",
+        "url": "https://docs.npmjs.com/cli/v11/commands/npm-ping",
+        "fetch_time_ms": 11101.335525512695,
+        "store_time_ms": 22565.443515777588,
+        "total_time_ms": 33666.77904129028,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 5
+      },
+      {
+        "timestamp": "2025-01-07T19:05:50.261749+0000",
+        "url": "https://docs.npmjs.com/cli",
+        "fetch_time_ms": 9241.148948669434,
+        "store_time_ms": 20767.637014389038,
+        "total_time_ms": 30008.78596305847,
+        "success": true,
+        "error": null,
+        "jsonl_entries": 6
+      }
+    ]
+  }
+}

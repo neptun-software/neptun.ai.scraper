@@ -1,0 +1,67 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm-ping"
+    ],
+    "content": [
+      "# npm-ping",
+      "Ping npm registry",
+      "Select CLI Version:",
+      "Version 11.0.0 (Latest)",
+      "See DetailsTable of contents"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "synopsis"
+    ],
+    "content": [
+      "## [Synopsis](https://docs.npmjs.com/cli/v11/commands/<#synopsis>)",
+      "``` npmping ``` Note: This command is unaware of workspaces."
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "description"
+    ],
+    "content": [
+      "## [Description](https://docs.npmjs.com/cli/v11/commands/<#description>)",
+      "Ping the configured or given npm registry and verify authentication. If it works it will output something like:",
+      "``` npm notice PING https://registry.npmjs.org/\nnpm notice PONG 255ms ``` otherwise you will get an error:",
+      "``` npm notice PING http://foo.com/\nnpm ERR! code E404\nnpm ERR!404 Not Found - GET http://www.foo.com/-/ping?write=true ```"
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "configuration"
+    ],
+    "content": [
+      "## [Configuration](https://docs.npmjs.com/cli/v11/commands/<#configuration>)",
+      "### `registry`[](https://docs.npmjs.com/cli/v11/commands/<#registry>)",
+      "  * Default: \\\"<https://registry.npmjs.org/>\\\"",
+      "  * Type: URL ",
+      "The base URL of the npm registry."
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "see-also"
+    ],
+    "content": [
+      "## [See Also](https://docs.npmjs.com/cli/v11/commands/<#see-also>)",
+      "  * [npm doctor](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-doctor>)",
+      "  * [npm config](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-config>)",
+      "  * [npmrc](https://docs.npmjs.com/cli/v11/commands/</cli/v11/configuring-npm/npmrc>)"
+    ],
+    "error": false
+  }
+]

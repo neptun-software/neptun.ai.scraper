@@ -1,0 +1,194 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm CLI commands"
+    ],
+    "content": [
+      "npm",
+      "npm access",
+      "npm adduser",
+      "npm audit",
+      "npm bugs",
+      "npm cache",
+      "npm ci",
+      "npm completion",
+      "npm config",
+      "npm dedupe",
+      "npm deprecate",
+      "npm diff",
+      "npm dist-tag",
+      "npm docs",
+      "npm doctor",
+      "npm edit",
+      "npm exec",
+      "npm explain",
+      "npm explore",
+      "npm find-dupes",
+      "npm fund",
+      "npm help",
+      "npm help-search",
+      "npm init",
+      "npm install",
+      "npm install-ci-test",
+      "npm install-test",
+      "npm link",
+      "npm login",
+      "npm logout",
+      "npm ls",
+      "npm org",
+      "npm outdated",
+      "npm owner",
+      "npm pack",
+      "npm ping",
+      "npm pkg",
+      "npm prefix",
+      "npm profile",
+      "npm prune",
+      "npm publish",
+      "npm query",
+      "npm rebuild",
+      "npm repo",
+      "npm restart",
+      "npm root",
+      "npm run-script",
+      "npm sbom",
+      "npm search",
+      "npm shrinkwrap",
+      "npm star",
+      "npm stars",
+      "npm start",
+      "npm stop",
+      "npm team",
+      "npm test",
+      "npm token",
+      "npm uninstall",
+      "npm unpublish",
+      "npm unstar",
+      "npm update",
+      "npm version",
+      "npm view",
+      "npm whoami",
+      "npx"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "npm access command"
+    ],
+    "content": [
+      "# npm-access",
+      "Set access level on published packages",
+      "Select CLI Version:",
+      "Version 11.0.0 (Latest)",
+      "See DetailsTable of contents",
+      "* [Synopsis](https://docs.npmjs.com/cli/v11/commands/<#synopsis>)",
+      "* [Description](https://docs.npmjs.com/cli/v11/commands/<#description>)",
+      "* [Details](https://docs.npmjs.com/cli/v11/commands/<#details>)",
+      "* [Configuration](https://docs.npmjs.com/cli/v11/commands/<#configuration>)",
+      "* [json](https://docs.npmjs.com/cli/v11/commands/<#json>)",
+      "* [otp](https://docs.npmjs.com/cli/v11/commands/<#otp>)",
+      "* [registry](https://docs.npmjs.com/cli/v11/commands/<#registry>)",
+      "* [See Also](https://docs.npmjs.com/cli/v11/commands/<#see-also>)"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "npm access synopsis"
+    ],
+    "content": [
+      "## [Synopsis](https://docs.npmjs.com/cli/v11/commands/<#synopsis>)",
+      "``` npm access list packages [<user>|<scope>|<scope:team>][<package>]",
+      "npm access list collaborators [<package>[<user>]]",
+      "npm access get status [<package>]",
+      "npm access setstatus=public|private [<package>]",
+      "npm access setmfa=none|publish|automation [<package>]",
+      "npm access grant <read-only|read-write><scope:team>[<package>]",
+      "npm access revoke <scope:team>[<package>] ```",
+      "Note: This command is unaware of workspaces."
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "npm access description"
+    ],
+    "content": [
+      "## [Description](https://docs.npmjs.com/cli/v11/commands/<#description>)",
+      "Used to set access controls on private packages.",
+      "For all of the subcommands, `npm access` will perform actions on the packages in the current working directory if no package name is passed to the subcommand.",
+      "* public / restricted (deprecated): Set a package to be either publicly accessible or restricted.",
+      "* grant / revoke (deprecated): Add or remove the ability of users and teams to have read-only or read-write access to a package.",
+      "* 2fa-required / 2fa-not-required (deprecated): Configure whether a package requires that anyone publishing it have two-factor authentication enabled on their account.",
+      "* ls-packages (deprecated): Show all of the packages a user or a team is able to access, along with the access level, except for read-only public packages (it won\\'t print the whole registry listing)",
+      "* ls-collaborators (deprecated): Show all of the access privileges for a package. Will only show permissions for packages to which you have at least read access. If `<user>` is passed in, the list is filtered only to teams _that_ user happens to belong to.",
+      "* edit (not implemented)"
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "npm access details"
+    ],
+    "content": [
+      "## [Details](https://docs.npmjs.com/cli/v11/commands/<#details>)",
+      "`npm access` always operates directly on the current registry, configurable from the command line using `--registry=<registry url>`.",
+      "Unscoped packages are _always public_.",
+      "Scoped packages _default to restricted_ , but you can either publish them as public using `npm publish --access=public`, or set their access as public using `npm access public` after the initial publish.",
+      "You must have privileges to set the access of a package:",
+      "* You are an owner of an unscoped or scoped package.",
+      "* You are a member of the team that owns a scope.",
+      "* You have been given read-write privileges for a package, either as a member of a team or directly as an owner.",
+      "If you have two-factor authentication enabled then you\\'ll be prompted to provide a second factor, or may use the `--otp=...` option to specify it on the command line.",
+      "If your account is not paid, then attempts to publish scoped packages will fail with an HTTP 402 status code (logically enough), unless you use `--access=public`.",
+      "Management of teams and team memberships is done with the `npm team` command."
+    ],
+    "error": false
+  },
+  {
+    "index": 5,
+    "tags": [
+      "npm access configuration"
+    ],
+    "content": [
+      "## [Configuration](https://docs.npmjs.com/cli/v11/commands/<#configuration>)",
+      "### `json`[](https://docs.npmjs.com/cli/v11/commands/<#json>)",
+      "* Default: false",
+      "* Type: Boolean",
+      "Whether or not to output JSON data, rather than the normal output.",
+      "* In `npm pkg set` it enables parsing set values with JSON.parse() before saving them to your `package.json`.",
+      "Not supported by all npm commands.",
+      "### `otp`[](https://docs.npmjs.com/cli/v11/commands/<#otp>)",
+      "* Default: null",
+      "* Type: null or String",
+      "This is a one-time password from a two-factor authenticator. It\\'s needed when publishing or changing package permissions with `npm access`.",
+      "If not set, and a registry response fails with a challenge for a one-time password, npm will prompt on the command line for one.",
+      "### `registry`[](https://docs.npmjs.com/cli/v11/commands/<#registry>)",
+      "* Default: \\\"<https://registry.npmjs.org/>\\\"",
+      "* Type: URL",
+      "The base URL of the npm registry."
+    ],
+    "error": false
+  },
+  {
+    "index": 6,
+    "tags": [
+      "npm access see also"
+    ],
+    "content": [
+      "## [See Also](https://docs.npmjs.com/cli/v11/commands/<#see-also>)",
+      "* `libnpmaccess`[](https://docs.npmjs.com/cli/v11/commands/<https:/npm.im/libnpmaccess>)",
+      "* [npm team](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-team>)",
+      "* [npm publish](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-publish>)",
+      "* [npm config](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-config>)",
+      "* [npm registry](https://docs.npmjs.com/cli/v11/commands/</cli/v11/using-npm/registry>)"
+    ],
+    "error": false
+  }
+]

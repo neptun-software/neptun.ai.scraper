@@ -1,0 +1,232 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm CLI commands"
+    ],
+    "content": [
+      "npm",
+      "npm access",
+      "npm adduser",
+      "npm audit",
+      "npm bugs",
+      "npm cache",
+      "npm ci",
+      "npm completion",
+      "npm config",
+      "npm dedupe",
+      "npm deprecate",
+      "npm diff",
+      "npm dist-tag",
+      "npm docs",
+      "npm doctor",
+      "npm edit",
+      "npm exec",
+      "npm explain",
+      "npm explore",
+      "npm find-dupes",
+      "npm fund",
+      "npm help",
+      "npm help-search",
+      "npm init",
+      "npm install",
+      "npm install-ci-test",
+      "npm install-test",
+      "npm link",
+      "npm login",
+      "npm logout",
+      "npm ls",
+      "npm org",
+      "npm outdated",
+      "npm owner",
+      "npm pack",
+      "npm ping",
+      "npm pkg",
+      "npm prefix",
+      "npm profile",
+      "npm prune",
+      "npm publish",
+      "npm query",
+      "npm rebuild",
+      "npm repo",
+      "npm restart",
+      "npm root",
+      "npm run-script",
+      "npm sbom",
+      "npm search",
+      "npm shrinkwrap",
+      "npm star",
+      "npm stars",
+      "npm start",
+      "npm stop",
+      "npm team",
+      "npm test",
+      "npm token",
+      "npm uninstall",
+      "npm unpublish",
+      "npm unstar",
+      "npm update",
+      "npm version",
+      "npm view",
+      "npm whoami",
+      "npx"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "npm configuration"
+    ],
+    "content": [
+      "Install",
+      "Folders",
+      ".npmrc",
+      "npm-shrinkwrap.json",
+      "package.json",
+      "package-lock.json"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "using npm"
+    ],
+    "content": [
+      "Registry",
+      "Package spec",
+      "Config",
+      "Logging",
+      "Scope",
+      "Scripts",
+      "Workspaces",
+      "Organizations",
+      "Dependency Selectors",
+      "Developers",
+      "Removal",
+      "Changelog"
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "npmrc description"
+    ],
+    "content": [
+      "npm gets its config settings from the command line, environment variables, and `npmrc` files.",
+      "The `npm config` command can be used to update and edit the contents of the user and global npmrc files.",
+      "For a list of available configuration options, see config."
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "npmrc files"
+    ],
+    "content": [
+      "The four relevant files are:",
+      "per-project config file (`/path/to/my/project/.npmrc`)",
+      "per-user config file (`~/.npmrc`)",
+      "global config file (`$PREFIX/etc/npmrc`)",
+      "npm builtin config file (`/path/to/npm/npmrc`)",
+      "All npm config files are an ini-formatted list of `key = value` parameters. Environment variables can be replaced using `${VARIABLE_NAME}`. For example:",
+      "cache =${HOME}/.npm-packages",
+      "Each of these files is loaded, and config options are resolved in priority order. For example, a setting in the userconfig file would override the setting in the globalconfig file.",
+      "Array values are specified by adding \"[]\" after the key name. For example:",
+      "key[]=\"first value\"",
+      "key[]=\"second value\""
+    ],
+    "error": false
+  },
+  {
+    "index": 5,
+    "tags": [
+      "npmrc comments"
+    ],
+    "content": [
+      "Lines in `.npmrc` files are interpreted as comments when they begin with a `;` or `#` character. `.npmrc` files are parsed by npm/ini, which specifies this comment syntax.",
+      "For example:",
+      "# last modified: 01 Jan 2016",
+      "; Set a new registry for a scoped package",
+      "@myscope:registry=https://mycustomregistry.example.org"
+    ],
+    "error": false
+  },
+  {
+    "index": 6,
+    "tags": [
+      "per-project config file"
+    ],
+    "content": [
+      "When working locally in a project, a `.npmrc` file in the root of the project (ie, a sibling of `node_modules` and `package.json`) will set config values specific to this project.",
+      "Note that this only applies to the root of the project that you're running npm in. It has no effect when your module is published. For example, you can't publish a module that forces itself to install globally, or in a different location.",
+      "Additionally, this file is not read in global mode, such as when running `npm install -g`."
+    ],
+    "error": false
+  },
+  {
+    "index": 7,
+    "tags": [
+      "per-user config file"
+    ],
+    "content": [
+      "$HOME/.npmrc (or the `userconfig` param, if set in the environment or on the command line)"
+    ],
+    "error": false
+  },
+  {
+    "index": 8,
+    "tags": [
+      "global config file"
+    ],
+    "content": [
+      "$PREFIX/etc/npmrc (or the `globalconfig` param, if set above): This file is an ini-file formatted list of `key = value` parameters. Environment variables can be replaced as above."
+    ],
+    "error": false
+  },
+  {
+    "index": 9,
+    "tags": [
+      "built-in config file"
+    ],
+    "content": [
+      "path/to/npm/itself/npmrc",
+      "This is an unchangeable \"builtin\" configuration file that npm keeps consistent across updates. Set fields in here using the `./configure` script that comes with npm. This is primarily for distribution maintainers to override default configs in a standard and consistent manner."
+    ],
+    "error": false
+  },
+  {
+    "index": 10,
+    "tags": [
+      "auth related configuration"
+    ],
+    "content": [
+      "The settings `_auth`, `_authToken`, `username` and `_password` must all be scoped to a specific registry. This ensures that `npm` will never send credentials to the wrong host.",
+      "The full list is:",
+      "_auth (base64 authentication string)",
+      "_authToken (authentication token)",
+      "username",
+      "_password",
+      "email",
+      "cafile (path to certificate authority file)",
+      "keyfile (path to key file)",
+      "In order to scope these values, they must be prefixed by a URI fragment. If the credential is meant for any request to a registry on a single host, the scope may look like `//registry.npmjs.org/:`. If it must be scoped to a specific path on the host that path may also be provided, such as `//my-custom-registry.org/unique/path:`.",
+      "; bad config",
+      "_authToken=MYTOKEN",
+      "; good config",
+      "@myorg:registry=https://somewhere-else.com/myorg",
+      "@another:registry=https://somewhere-else.com/another",
+      "//registry.npmjs.org/:_authToken=MYTOKEN",
+      "; would apply to both @myorg and @another",
+      "//somewhere-else.com/:_authToken=MYTOKEN",
+      "; would apply only to @myorg",
+      "//somewhere-else.com/myorg/:_authToken=MYTOKEN1",
+      "; would apply only to @another",
+      "//somewhere-else.com/another/:_authToken=MYTOKEN2"
+    ],
+    "error": false
+  }
+]

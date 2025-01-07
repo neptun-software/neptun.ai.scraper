@@ -1,0 +1,20 @@
+{
+  "scraping_stats": {
+    "total_pages_processed": 0,
+    "total_success": 0,
+    "total_failures": 0,
+    "average_fetch_time_ms": 0,
+    "average_store_time_ms": 0,
+    "pages": [
+      {
+        "timestamp": "2024-01-07T18:00:00Z",
+        "url": "https://example.com/package/test",
+        "fetch_time_ms": 250,
+        "store_time_ms": 50,
+        "total_time_ms": 300,
+        "success": true,
+        "error": null
+      }
+    ]
+  }
+}

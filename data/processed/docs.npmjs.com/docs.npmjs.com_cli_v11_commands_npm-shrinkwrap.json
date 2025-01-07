@@ -1,0 +1,132 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm CLI commands"
+    ],
+    "content": [
+      "npm",
+      "npm access",
+      "npm adduser",
+      "npm audit",
+      "npm bugs",
+      "npm cache",
+      "npm ci",
+      "npm completion",
+      "npm config",
+      "npm dedupe",
+      "npm deprecate",
+      "npm diff",
+      "npm dist-tag",
+      "npm docs",
+      "npm doctor",
+      "npm edit",
+      "npm exec",
+      "npm explain",
+      "npm explore",
+      "npm find-dupes",
+      "npm fund",
+      "npm help",
+      "npm help-search",
+      "npm init",
+      "npm install",
+      "npm install-ci-test",
+      "npm install-test",
+      "npm link",
+      "npm login",
+      "npm logout",
+      "npm ls",
+      "npm org",
+      "npm outdated",
+      "npm owner",
+      "npm pack",
+      "npm ping",
+      "npm pkg",
+      "npm prefix",
+      "npm profile",
+      "npm prune",
+      "npm publish",
+      "npm query",
+      "npm rebuild",
+      "npm repo",
+      "npm restart",
+      "npm root",
+      "npm run-script",
+      "npm sbom",
+      "npm search",
+      "npm shrinkwrap",
+      "npm star",
+      "npm stars",
+      "npm start",
+      "npm stop",
+      "npm team",
+      "npm test",
+      "npm token",
+      "npm uninstall",
+      "npm unpublish",
+      "npm unstar",
+      "npm update",
+      "npm version",
+      "npm view",
+      "npm whoami",
+      "npx"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "npm shrinkwrap"
+    ],
+    "content": [
+      "# npm-shrinkwrap",
+      "Lock down dependency versions for publication",
+      "Select CLI Version:",
+      "Version 11.0.0 (Latest)",
+      "See DetailsTable of contents",
+      "* Synopsis",
+      "* Description",
+      "* See Also"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "npm shrinkwrap synopsis"
+    ],
+    "content": [
+      "## Synopsis",
+      "``` npm shrinkwrap ``` Note: This command is unaware of workspaces."
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "npm shrinkwrap description"
+    ],
+    "content": [
+      "## Description",
+      "This command repurposes `package-lock.json` into a publishable `npm-shrinkwrap.json` or simply creates a new one. The file created and updated by this command will then take precedence over any other existing or future `package-lock.json` files. For a detailed explanation of the design and purpose of package locks in npm, see [package-lock-json](https://docs.npmjs.com/cli/v11/commands/</cli/v11/configuring-npm/package-lock-json>)."
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "npm shrinkwrap see also"
+    ],
+    "content": [
+      "## See Also",
+      "* [npm install](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-install>)",
+      "* [npm run-script](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-run-script>)",
+      "* [npm scripts](https://docs.npmjs.com/cli/v11/commands/</cli/v11/using-npm/scripts>)",
+      "* [package.json](https://docs.npmjs.com/cli/v11/commands/</cli/v11/configuring-npm/package-json>)",
+      "* [package-lock.json](https://docs.npmjs.com/cli/v11/commands/</cli/v11/configuring-npm/package-lock-json>)",
+      "* [npm-shrinkwrap.json](https://docs.npmjs.com/cli/v11/commands/</cli/v11/configuring-npm/npm-shrinkwrap-json>)",
+      "* [npm ls](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-ls>)"
+    ],
+    "error": false
+  }
+]
