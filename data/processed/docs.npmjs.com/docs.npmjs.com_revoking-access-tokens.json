@@ -1,0 +1,132 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm CLI commands"
+    ],
+    "content": [
+      "npm",
+      "npm access",
+      "npm adduser",
+      "npm audit",
+      "npm bugs",
+      "npm cache",
+      "npm ci",
+      "npm completion",
+      "npm config",
+      "npm dedupe",
+      "npm deprecate",
+      "npm diff",
+      "npm dist-tag",
+      "npm docs",
+      "npm doctor",
+      "npm edit",
+      "npm exec",
+      "npm explain",
+      "npm explore",
+      "npm find-dupes",
+      "npm fund",
+      "npm help",
+      "npm help-search",
+      "npm init",
+      "npm install",
+      "npm install-ci-test",
+      "npm install-test",
+      "npm link",
+      "npm login",
+      "npm logout",
+      "npm ls",
+      "npm org",
+      "npm outdated",
+      "npm owner",
+      "npm pack",
+      "npm ping",
+      "npm pkg",
+      "npm prefix",
+      "npm profile",
+      "npm prune",
+      "npm publish",
+      "npm query",
+      "npm rebuild",
+      "npm repo",
+      "npm restart",
+      "npm root",
+      "npm run-script",
+      "npm sbom",
+      "npm search",
+      "npm shrinkwrap",
+      "npm star",
+      "npm stars",
+      "npm start",
+      "npm stop",
+      "npm team",
+      "npm test",
+      "npm token",
+      "npm uninstall",
+      "npm unpublish",
+      "npm unstar",
+      "npm update",
+      "npm version",
+      "npm view",
+      "npm whoami",
+      "npx"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "npm CLI configuration"
+    ],
+    "content": [
+      "Install",
+      "Folders",
+      ".npmrc",
+      "npm-shrinkwrap.json",
+      "package.json",
+      "package-lock.json"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "using npm"
+    ],
+    "content": [
+      "Registry",
+      "Package spec",
+      "Config",
+      "Logging",
+      "Scope",
+      "Scripts",
+      "Workspaces",
+      "Organizations",
+      "Dependency Selectors",
+      "Developers",
+      "Removal",
+      "Changelog"
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "revoking access tokens"
+    ],
+    "content": [
+      "Revoking access tokens",
+      "To keep your account and packages secure, we strongly recommend revoking (deleting) tokens you no longer need or that have been compromised. You can revoke any token you have created.",
+      "To see a list of your tokens, on the command line, run:",
+      "`npm token list`",
+      "In the tokens table, find and copy the ID of the token you want to delete.",
+      "On the command line, run the following command, replacing `123456` with the ID of the token you want to delete:",
+      "`npm token delete 123456`",
+      "npm will report `Removed 1 token`",
+      "To confirm that the token has been removed, run:",
+      "`npm token list`",
+      "Note: You must use the token ID to delete a token, not the truncated version of the token. In some cases, there may be a delay of up to an hour before a token is successfully revoked."
+    ],
+    "error": false
+  }
+]

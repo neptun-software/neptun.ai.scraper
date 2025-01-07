@@ -1,0 +1,134 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm CLI commands"
+    ],
+    "content": [
+      "npm",
+      "npm access",
+      "npm adduser",
+      "npm audit",
+      "npm bugs",
+      "npm cache",
+      "npm ci",
+      "npm completion",
+      "npm config",
+      "npm dedupe",
+      "npm deprecate",
+      "npm diff",
+      "npm dist-tag",
+      "npm docs",
+      "npm doctor",
+      "npm edit",
+      "npm exec",
+      "npm explain",
+      "npm explore",
+      "npm find-dupes",
+      "npm fund",
+      "npm help",
+      "npm help-search",
+      "npm init",
+      "npm install",
+      "npm install-ci-test",
+      "npm install-test",
+      "npm link",
+      "npm login",
+      "npm logout",
+      "npm ls",
+      "npm org",
+      "npm outdated",
+      "npm owner",
+      "npm pack",
+      "npm ping",
+      "npm pkg",
+      "npm prefix",
+      "npm profile",
+      "npm prune",
+      "npm publish",
+      "npm query",
+      "npm rebuild",
+      "npm repo",
+      "npm restart",
+      "npm root",
+      "npm run-script",
+      "npm sbom",
+      "npm search",
+      "npm shrinkwrap",
+      "npm star",
+      "npm stars",
+      "npm start",
+      "npm stop",
+      "npm team",
+      "npm test",
+      "npm token",
+      "npm uninstall",
+      "npm unpublish",
+      "npm unstar",
+      "npm update",
+      "npm version",
+      "npm view",
+      "npm whoami",
+      "npx"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "configuring npm"
+    ],
+    "content": [
+      "Install",
+      "Folders",
+      ".npmrc",
+      "npm-shrinkwrap.json",
+      "package.json",
+      "package-lock.json"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "using npm"
+    ],
+    "content": [
+      "Registry",
+      "Package spec",
+      "Config",
+      "Logging",
+      "Scope",
+      "Scripts",
+      "Workspaces",
+      "Organizations",
+      "Dependency Selectors",
+      "Developers",
+      "Removal",
+      "Changelog"
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "generating provenance statements"
+    ],
+    "content": [
+      "Generating provenance statements",
+      "See DetailsTable of contents",
+      "About npm provenance",
+      "About Sigstore",
+      "Provenance limitations",
+      "Prerequisites",
+      "Publishing packages with provenance via GitHub Actions",
+      "Example GitHub Actions workflow",
+      "Using third-party package publishing tools",
+      "Publishing packages with provenance via GitLab CI/CD",
+      "Example GitLab CI job",
+      "Verifying provenance attestations",
+      "You can generate provenance statements for the packages you publish. This allows you to publicly establish where a package was built and who published a package, which can increase supply-chain security for your packages."
+    ],
+    "error": false
+  }
+]

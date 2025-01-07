@@ -1,0 +1,188 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm CLI commands"
+    ],
+    "content": [
+      "npm",
+      "npm access",
+      "npm adduser",
+      "npm audit",
+      "npm bugs",
+      "npm cache",
+      "npm ci",
+      "npm completion",
+      "npm config",
+      "npm dedupe",
+      "npm deprecate",
+      "npm diff",
+      "npm dist-tag",
+      "npm docs",
+      "npm doctor",
+      "npm edit",
+      "npm exec",
+      "npm explain",
+      "npm explore",
+      "npm find-dupes",
+      "npm fund",
+      "npm help",
+      "npm help-search",
+      "npm init",
+      "npm install",
+      "npm install-ci-test",
+      "npm install-test",
+      "npm link",
+      "npm login",
+      "npm logout",
+      "npm ls",
+      "npm org",
+      "npm outdated",
+      "npm owner",
+      "npm pack",
+      "npm ping",
+      "npm pkg",
+      "npm prefix",
+      "npm profile",
+      "npm prune",
+      "npm publish",
+      "npm query",
+      "npm rebuild",
+      "npm repo",
+      "npm restart",
+      "npm root",
+      "npm run-script",
+      "npm sbom",
+      "npm search",
+      "npm shrinkwrap",
+      "npm star",
+      "npm stars",
+      "npm start",
+      "npm stop",
+      "npm team",
+      "npm test",
+      "npm token",
+      "npm uninstall",
+      "npm unpublish",
+      "npm unstar",
+      "npm update",
+      "npm version",
+      "npm view",
+      "npm whoami",
+      "npx"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "npm org command"
+    ],
+    "content": [
+      "npm-org",
+      "Manage orgs",
+      "Select CLI Version:",
+      "Version 11.0.0 (Latest)",
+      "See DetailsTable of contents",
+      "Synopsis",
+      "Example",
+      "Description",
+      "Configuration",
+      "registry",
+      "otp",
+      "json",
+      "parseable",
+      "See Also"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "npm org synopsis"
+    ],
+    "content": [
+      "Synopsis",
+      "npm org set orgname username [developer | admin | owner]",
+      "npm org rm orgname username",
+      "npm org ls orgname [<username>]",
+      "alias: ogr",
+      "Note: This command is unaware of workspaces."
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "npm org examples"
+    ],
+    "content": [
+      "Example",
+      "Add a new developer to an org:",
+      "$ npm org set my-org @mx-smith",
+      "Add a new admin to an org (or change a developer to an admin):",
+      "$ npm org set my-org @mx-santos admin",
+      "Remove a user from an org:",
+      "$ npm org rm my-org mx-santos",
+      "List all users in an org:",
+      "$ npm org ls my-org",
+      "List all users in JSON format:",
+      "$ npm org ls my-org --json",
+      "See what role a user has in an org:",
+      "$ npm org ls my-org @mx-santos"
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "npm org description"
+    ],
+    "content": [
+      "Description",
+      "You can use the `npm org` commands to manage and view users of an organization. It supports adding and removing users, changing their roles, listing them, and finding specific ones and their roles."
+    ],
+    "error": false
+  },
+  {
+    "index": 5,
+    "tags": [
+      "npm org configuration"
+    ],
+    "content": [
+      "Configuration",
+      "registry",
+      "Default: \"https://registry.npmjs.org/\"",
+      "Type: URL",
+      "The base URL of the npm registry.",
+      "otp",
+      "Default: null",
+      "Type: null or String",
+      "This is a one-time password from a two-factor authenticator. It's needed when publishing or changing package permissions with `npm access`.",
+      "If not set, and a registry response fails with a challenge for a one-time password, npm will prompt on the command line for one.",
+      "json",
+      "Default: false",
+      "Type: Boolean",
+      "Whether or not to output JSON data, rather than the normal output.",
+      "In `npm pkg set` it enables parsing set values with JSON.parse() before saving them to your `package.json`.",
+      "Not supported by all npm commands.",
+      "parseable",
+      "Default: false",
+      "Type: Boolean",
+      "Output parseable results from commands that write to standard output. For `npm search`, this will be tab-separated table format."
+    ],
+    "error": false
+  },
+  {
+    "index": 6,
+    "tags": [
+      "npm org see also"
+    ],
+    "content": [
+      "See Also",
+      "using orgs",
+      "Documentation on npm Orgs"
+    ],
+    "error": false
+  }
+]

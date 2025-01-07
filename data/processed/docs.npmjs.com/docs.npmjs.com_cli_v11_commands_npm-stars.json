@@ -1,0 +1,147 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm CLI commands"
+    ],
+    "content": [
+      "npm",
+      "npm access",
+      "npm adduser",
+      "npm audit",
+      "npm bugs",
+      "npm cache",
+      "npm ci",
+      "npm completion",
+      "npm config",
+      "npm dedupe",
+      "npm deprecate",
+      "npm diff",
+      "npm dist-tag",
+      "npm docs",
+      "npm doctor",
+      "npm edit",
+      "npm exec",
+      "npm explain",
+      "npm explore",
+      "npm find-dupes",
+      "npm fund",
+      "npm help",
+      "npm help-search",
+      "npm init",
+      "npm install",
+      "npm install-ci-test",
+      "npm install-test",
+      "npm link",
+      "npm login",
+      "npm logout",
+      "npm ls",
+      "npm org",
+      "npm outdated",
+      "npm owner",
+      "npm pack",
+      "npm ping",
+      "npm pkg",
+      "npm prefix",
+      "npm profile",
+      "npm prune",
+      "npm publish",
+      "npm query",
+      "npm rebuild",
+      "npm repo",
+      "npm restart",
+      "npm root",
+      "npm run-script",
+      "npm sbom",
+      "npm search",
+      "npm shrinkwrap",
+      "npm star",
+      "npm stars",
+      "npm start",
+      "npm stop",
+      "npm team",
+      "npm test",
+      "npm token",
+      "npm uninstall",
+      "npm unpublish",
+      "npm unstar",
+      "npm update",
+      "npm version",
+      "npm view",
+      "npm whoami",
+      "npx"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "npm stars command"
+    ],
+    "content": [
+      "# npm-stars",
+      "View packages marked as favorites",
+      "Select CLI Version:",
+      "Version 11.0.0 (Latest)",
+      "See DetailsTable of contents",
+      "Synopsis",
+      "Description",
+      "Configuration",
+      "registry",
+      "See Also"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "npm stars synopsis"
+    ],
+    "content": [
+      "## Synopsis",
+      "``` npm stars [<user>] ``` Note: This command is unaware of workspaces."
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "npm stars description"
+    ],
+    "content": [
+      "## Description",
+      "If you have starred a lot of neat things and want to find them again quickly this command lets you do just that.",
+      "You may also want to see your friend's favorite packages, in this case you will most certainly enjoy this command."
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "npm stars configuration"
+    ],
+    "content": [
+      "## Configuration",
+      "### `registry`",
+      "Default: \"<https://registry.npmjs.org/>\"",
+      "Type: URL",
+      "The base URL of the npm registry."
+    ],
+    "error": false
+  },
+  {
+    "index": 5,
+    "tags": [
+      "npm stars see also"
+    ],
+    "content": [
+      "## See Also",
+      "npm star",
+      "npm unstar",
+      "npm view",
+      "npm whoami",
+      "npm adduser"
+    ],
+    "error": false
+  }
+]

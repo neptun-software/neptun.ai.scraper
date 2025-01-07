@@ -1,0 +1,227 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm CLI commands"
+    ],
+    "content": [
+      "npm",
+      "npm access",
+      "npm adduser",
+      "npm audit",
+      "npm bugs",
+      "npm cache",
+      "npm ci",
+      "npm completion",
+      "npm config",
+      "npm dedupe",
+      "npm deprecate",
+      "npm diff",
+      "npm dist-tag",
+      "npm docs",
+      "npm doctor",
+      "npm edit",
+      "npm exec",
+      "npm explain",
+      "npm explore",
+      "npm find-dupes",
+      "npm fund",
+      "npm help",
+      "npm help-search",
+      "npm init",
+      "npm install",
+      "npm install-ci-test",
+      "npm install-test",
+      "npm link",
+      "npm login",
+      "npm logout",
+      "npm ls",
+      "npm org",
+      "npm outdated",
+      "npm owner",
+      "npm pack",
+      "npm ping",
+      "npm pkg",
+      "npm prefix",
+      "npm profile",
+      "npm prune",
+      "npm publish",
+      "npm query",
+      "npm rebuild",
+      "npm repo",
+      "npm restart",
+      "npm root",
+      "npm run-script",
+      "npm sbom",
+      "npm search",
+      "npm shrinkwrap",
+      "npm star",
+      "npm stars",
+      "npm start",
+      "npm stop",
+      "npm team",
+      "npm test",
+      "npm token",
+      "npm uninstall",
+      "npm unpublish",
+      "npm unstar",
+      "npm update",
+      "npm version",
+      "npm view",
+      "npm whoami",
+      "npx"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "npm config command"
+    ],
+    "content": [
+      "npm-config",
+      "Manage the npm configuration files",
+      "Select CLI Version:",
+      "Version 11.0.0 (Latest)",
+      "See DetailsTable of contents",
+      "Synopsis",
+      "Description",
+      "Sub-commands",
+      "set",
+      "get",
+      "list",
+      "delete",
+      "edit",
+      "fix",
+      "Configuration",
+      "json",
+      "global",
+      "editor",
+      "location",
+      "long",
+      "See Also"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "npm config synopsis"
+    ],
+    "content": [
+      "Synopsis",
+      "npm config set<key>=<value>[<key>=<value>...]",
+      "npm config get [<key>[<key>...]]",
+      "npm config delete <key>[<key>...]",
+      "npm config list [--json]",
+      "npm config edit",
+      "npm config fix",
+      "alias: c",
+      "Note: This command is unaware of workspaces."
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "npm config description"
+    ],
+    "content": [
+      "Description",
+      "npm gets its config settings from the command line, environment variables, `npmrc` files, and in some cases, the `package.json` file.",
+      "See npmrc for more information about the npmrc files.",
+      "See config for a more thorough explanation of the mechanisms involved, and a full list of config options available.",
+      "The `npm config` command can be used to update and edit the contents of the user and global npmrc files."
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "npm config sub-commands"
+    ],
+    "content": [
+      "Sub-commands",
+      "Config supports the following sub-commands:",
+      "set",
+      "npm config setkey=value [key=value...]",
+      "npmsetkey=value [key=value...]",
+      "Sets each of the config keys to the value provided. Modifies the user configuration file unless `location` is passed.",
+      "If value is omitted, the key will be removed from your config file entirely.",
+      "Note: for backwards compatibility, `npm config set key value` is supported as an alias for `npm config set key=value`.",
+      "get",
+      "npm config get [key ...]",
+      "npm get [key ...]",
+      "Echo the config value(s) to stdout.",
+      "If multiple keys are provided, then the values will be prefixed with the key names.",
+      "If no keys are provided, then this command behaves the same as `npm config list`.",
+      "list",
+      "npm config list",
+      "Show all the config settings. Use `-l` to also show defaults. Use `--json` to show the settings in json format.",
+      "delete",
+      "npm config delete key [key ...]",
+      "Deletes the specified keys from all configuration files.",
+      "edit",
+      "npm config edit",
+      "Opens the config file in an editor. Use the `--global` flag to edit the global config.",
+      "fix",
+      "npm config fix",
+      "Attempts to repair invalid configuration items. Usually this means attaching authentication config (i.e. `_auth`, `_authToken`) to the configured `registry`."
+    ],
+    "error": false
+  },
+  {
+    "index": 5,
+    "tags": [
+      "npm config configuration"
+    ],
+    "content": [
+      "Configuration",
+      "json",
+      "Default: false",
+      "Type: Boolean",
+      "Whether or not to output JSON data, rather than the normal output.",
+      "In `npm pkg set` it enables parsing set values with JSON.parse() before saving them to your `package.json`.",
+      "Not supported by all npm commands.",
+      "global",
+      "Default: false",
+      "Type: Boolean",
+      "Operates in \"global\" mode, so that packages are installed into the `prefix` folder instead of the current working directory. See folders for more on the differences in behavior.",
+      "packages are installed into the `{prefix}/lib/node_modules` folder, instead of the current working directory.",
+      "bin files are linked to `{prefix}/bin`",
+      "man pages are linked to `{prefix}/share/man`",
+      "editor",
+      "Default: The EDITOR or VISUAL environment variables, or '%SYSTEMROOT%\\notepad.exe' on Windows, or 'vi' on Unix systems",
+      "Type: String",
+      "The command to run for `npm edit` and `npm config edit`.",
+      "location",
+      "Default: \"user\" unless `--global` is passed, which will also set this value to \"global\"",
+      "Type: \"global\", \"user\", or \"project\"",
+      "When passed to `npm config` this refers to which config file to use.",
+      "When set to \"global\" mode, packages are installed into the `prefix` folder instead of the current working directory. See folders for more on the differences in behavior.",
+      "packages are installed into the `{prefix}/lib/node_modules` folder, instead of the current working directory.",
+      "bin files are linked to `{prefix}/bin`",
+      "man pages are linked to `{prefix}/share/man`",
+      "long",
+      "Default: false",
+      "Type: Boolean",
+      "Show extended information in `ls`, `search`, and `help-search`."
+    ],
+    "error": false
+  },
+  {
+    "index": 6,
+    "tags": [
+      "npm config see also"
+    ],
+    "content": [
+      "See Also",
+      "npm folders",
+      "npm config",
+      "package.json",
+      "npmrc",
+      "npm"
+    ],
+    "error": false
+  }
+]

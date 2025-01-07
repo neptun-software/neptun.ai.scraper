@@ -1,0 +1,146 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm CLI commands"
+    ],
+    "content": [
+      "npm",
+      "npm access",
+      "npm adduser",
+      "npm audit",
+      "npm bugs",
+      "npm cache",
+      "npm ci",
+      "npm completion",
+      "npm config",
+      "npm dedupe",
+      "npm deprecate",
+      "npm diff",
+      "npm dist-tag",
+      "npm docs",
+      "npm doctor",
+      "npm edit",
+      "npm exec",
+      "npm explain",
+      "npm explore",
+      "npm find-dupes",
+      "npm fund",
+      "npm help",
+      "npm help-search",
+      "npm init",
+      "npm install",
+      "npm install-ci-test",
+      "npm install-test",
+      "npm link",
+      "npm login",
+      "npm logout",
+      "npm ls",
+      "npm org",
+      "npm outdated",
+      "npm owner",
+      "npm pack",
+      "npm ping",
+      "npm pkg",
+      "npm prefix",
+      "npm profile",
+      "npm prune",
+      "npm publish",
+      "npm query",
+      "npm rebuild",
+      "npm repo",
+      "npm restart",
+      "npm root",
+      "npm run-script",
+      "npm sbom",
+      "npm search",
+      "npm shrinkwrap",
+      "npm star",
+      "npm stars",
+      "npm start",
+      "npm stop",
+      "npm team",
+      "npm test",
+      "npm token",
+      "npm uninstall",
+      "npm unpublish",
+      "npm unstar",
+      "npm update",
+      "npm version",
+      "npm view",
+      "npm whoami",
+      "npx"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "npm whoami command"
+    ],
+    "content": [
+      "# npm-whoami",
+      "Display npm username",
+      "Select CLI Version:",
+      "Version 11.0.0 (Latest)",
+      "See DetailsTable of contents",
+      "Synopsis",
+      "Description",
+      "Configuration",
+      "registry",
+      "See Also"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "npm whoami synopsis"
+    ],
+    "content": [
+      "## Synopsis",
+      "``` npmwhoami ``` Note: This command is unaware of workspaces."
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "npm whoami description"
+    ],
+    "content": [
+      "## Description",
+      "Display the npm username of the currently logged-in user.",
+      "If logged into a registry that provides token-based authentication, then connect to the `/-/whoami` registry endpoint to find the username associated with the token, and print to standard output.",
+      "If logged into a registry that uses Basic Auth, then simply print the `username` portion of the authentication string."
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "npm whoami configuration"
+    ],
+    "content": [
+      "## Configuration",
+      "### `registry`",
+      "Default: \"https://registry.npmjs.org/\"",
+      "Type: URL",
+      "The base URL of the npm registry."
+    ],
+    "error": false
+  },
+  {
+    "index": 5,
+    "tags": [
+      "npm whoami see also"
+    ],
+    "content": [
+      "## See Also",
+      "npm config",
+      "npmrc",
+      "npm adduser"
+    ],
+    "error": false
+  }
+]

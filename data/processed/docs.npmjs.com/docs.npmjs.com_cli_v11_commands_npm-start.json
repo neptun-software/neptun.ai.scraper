@@ -1,0 +1,112 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm start command"
+    ],
+    "content": [
+      "# npm-start",
+      "Start a package",
+      "Select CLI Version:",
+      "Version 11.0.0 (Latest)",
+      "See DetailsTable of contents"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "synopsis"
+    ],
+    "content": [
+      "## [Synopsis](https://docs.npmjs.com/cli/v11/commands/<#synopsis>)",
+      "``` npm start [-- <args>] ```"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "description"
+    ],
+    "content": [
+      "## [Description](https://docs.npmjs.com/cli/v11/commands/<#description>)",
+      "This runs a predefined command specified in the `\\\"start\\\"` property of a package\\'s `\\\"scripts\\\"` object.",
+      "If the `\\\"scripts\\\"` object does not define a `\\\"start\\\"` property, npm will run `node server.js`.",
+      "Note that this is different from the default node behavior of running the file specified in a package\\'s `\\\"main\\\"` attribute when evoking with `node .`",
+      "As of `npm@2.0.0`[](https://docs.npmjs.com/cli/v11/commands/<https:/blog.npmjs.org/post/98131109725/npm-2-0-0>), you can use custom arguments when executing scripts. Refer to `npm run-script`[](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-run-script>) for more details."
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "example"
+    ],
+    "content": [
+      "## [Example](https://docs.npmjs.com/cli/v11/commands/<#example>)",
+      "``` {",
+      "\\\"scripts\\\":{",
+      "\\\"start\\\":\\\"node foo.js\\\"",
+      "}",
+      "} ```",
+      "``` npm start",
+      "> npm@x.x.x start",
+      ">node foo.js",
+      "(foo.js output would be here) ```"
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "configuration"
+    ],
+    "content": [
+      "## [Configuration](https://docs.npmjs.com/cli/v11/commands/<#configuration>)"
+    ],
+    "error": false
+  },
+  {
+    "index": 5,
+    "tags": [
+      "ignore-scripts"
+    ],
+    "content": [
+      "### `ignore-scripts`[](https://docs.npmjs.com/cli/v11/commands/<#ignore-scripts>)",
+      "  * Default: false",
+      "  * Type: Boolean ",
+      "If true, npm does not run scripts specified in package.json files.",
+      "Note that commands explicitly intended to run a particular script, such as `npm start`, `npm stop`, `npm restart`, `npm test`, and `npm run-script` will still run their intended script if `ignore-scripts` is set, but they will _not_ run any pre- or post-scripts."
+    ],
+    "error": false
+  },
+  {
+    "index": 6,
+    "tags": [
+      "script-shell"
+    ],
+    "content": [
+      "### `script-shell`[](https://docs.npmjs.com/cli/v11/commands/<#script-shell>)",
+      "  * Default: \\'/bin/sh\\' on POSIX systems, \\'cmd.exe\\' on Windows",
+      "  * Type: null or String ",
+      "The shell to use for scripts run with the `npm exec`, `npm run` and `npm init <package-spec>` commands."
+    ],
+    "error": false
+  },
+  {
+    "index": 7,
+    "tags": [
+      "see also"
+    ],
+    "content": [
+      "## [See Also](https://docs.npmjs.com/cli/v11/commands/<#see-also>)",
+      "  * [npm run-script](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-run-script>)",
+      "  * [npm scripts](https://docs.npmjs.com/cli/v11/commands/</cli/v11/using-npm/scripts>)",
+      "  * [npm test](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-test>)",
+      "  * [npm restart](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-restart>)",
+      "  * [npm stop](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-stop>)"
+    ],
+    "error": false
+  }
+]

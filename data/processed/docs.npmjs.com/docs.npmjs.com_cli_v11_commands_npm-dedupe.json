@@ -1,0 +1,319 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm-dedupe"
+    ],
+    "content": [
+      "# npm-dedupe",
+      "Reduce duplication in the package tree",
+      "Select CLI Version:",
+      "Version 11.0.0 (Latest)",
+      "See DetailsTable of contents"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "synopsis"
+    ],
+    "content": [
+      "## [Synopsis](https://docs.npmjs.com/cli/v11/commands/<#synopsis>)",
+      "``` npm dedupe",
+      "alias: ddp ```"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "description"
+    ],
+    "content": [
+      "## [Description](https://docs.npmjs.com/cli/v11/commands/<#description>)",
+      "Searches the local package tree and attempts to simplify the overall structure by moving dependencies further up the tree, where they can be more effectively shared by multiple dependent packages.",
+      "For example, consider this dependency graph:",
+      "``` a",
+      "+-- b <-- depends on c@1.0.x",
+      "|`-- c@1.0.3",
+      "`-- d <-- depends on c@~1.0.9",
+      "  `-- c@1.0.10 ```",
+      "In this case, `npm dedupe` will transform the tree to:",
+      "``` a",
+      "+-- b",
+      "+-- d",
+      "`-- c@1.0.10 ```",
+      "Because of the hierarchical nature of node\\'s module lookup, b and d will both get their dependency met by the single c package at the root level of the tree.",
+      "In some cases, you may have a dependency graph like this:",
+      "``` a",
+      "+-- b <-- depends on c@1.0.x",
+      "+-- c@1.0.3",
+      "`-- d <-- depends on c@1.x",
+      "`-- c@1.9.9 ```",
+      "During the installation process, the `c@1.0.3` dependency for `b` was placed in the root of the tree. Though `d`\\'s dependency on `c@1.x` could have been satisfied by `c@1.0.3`, the newer `c@1.9.0` dependency was used, because npm favors updates by default, even when doing so causes duplication.",
+      "Running `npm dedupe` will cause npm to note the duplication and re-evaluate, deleting the nested `c` module, because the one in the root is sufficient.",
+      "To prefer deduplication over novelty during the installation process, run `npm install --prefer-dedupe` or `npm config set prefer-dedupe true`.",
+      "Arguments are ignored. Dedupe always acts on the entire tree.",
+      "Note that this operation transforms the dependency tree, but will never result in new modules being installed.",
+      "Using `npm find-dupes` will run the command in `--dry-run` mode.",
+      "Note: `npm dedupe` will never update the semver values of direct dependencies in your project `package.json`, if you want to update values in `package.json` you can run: `npm update --save` instead."
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "configuration"
+    ],
+    "content": [
+      "## [Configuration](https://docs.npmjs.com/cli/v11/commands/<#configuration>)"
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "install-strategy"
+    ],
+    "content": [
+      "### `install-strategy`[](https://docs.npmjs.com/cli/v11/commands/<#install-strategy>)",
+      "  * Default: \\\"hoisted\\\"",
+      "  * Type: \\\"hoisted\\\", \\\"nested\\\", \\\"shallow\\\", or \\\"linked\\\"",
+      "Sets the strategy for installing packages in node_modules. hoisted (default): Install non-duplicated in top-level, and duplicated as necessary within directory structure. nested: (formerly --legacy-bundling) install in place, no hoisting. shallow (formerly --global-style) only install direct deps at top-level. linked: (experimental) install in node_modules/.store, link in place, unhoisted."
+    ],
+    "error": false
+  },
+  {
+    "index": 5,
+    "tags": [
+      "legacy-bundling"
+    ],
+    "content": [
+      "### `legacy-bundling`[](https://docs.npmjs.com/cli/v11/commands/<#legacy-bundling>)",
+      "  * Default: false",
+      "  * Type: Boolean",
+      "  * DEPRECATED: This option has been deprecated in favor of `--install-strategy=nested`",
+      "Instead of hoisting package installs in `node_modules`, install packages in the same manner that they are depended on. This may cause very deep directory structures and duplicate package installs as there is no de-duplicating. Sets `--install-strategy=nested`."
+    ],
+    "error": false
+  },
+  {
+    "index": 6,
+    "tags": [
+      "global-style"
+    ],
+    "content": [
+      "### `global-style`[](https://docs.npmjs.com/cli/v11/commands/<#global-style>)",
+      "  * Default: false",
+      "  * Type: Boolean",
+      "  * DEPRECATED: This option has been deprecated in favor of `--install-strategy=shallow`",
+      "Only install direct dependencies in the top level `node_modules`, but hoist on deeper dependencies. Sets `--install-strategy=shallow`."
+    ],
+    "error": false
+  },
+  {
+    "index": 7,
+    "tags": [
+      "strict-peer-deps"
+    ],
+    "content": [
+      "### `strict-peer-deps`[](https://docs.npmjs.com/cli/v11/commands/<#strict-peer-deps>)",
+      "  * Default: false",
+      "  * Type: Boolean",
+      "If set to `true`, and `--legacy-peer-deps` is not set, then _any_ conflicting `peerDependencies` will be treated as an install failure, even if npm could reasonably guess the appropriate resolution based on non-peer dependency relationships.",
+      "By default, conflicting `peerDependencies` deep in the dependency graph will be resolved using the nearest non-peer dependency specification, even if doing so will result in some packages receiving a peer dependency outside the range set in their package\\'s `peerDependencies` object.",
+      "When such an override is performed, a warning is printed, explaining the conflict and the packages involved. If `--strict-peer-deps` is set, then this warning is treated as a failure."
+    ],
+    "error": false
+  },
+  {
+    "index": 8,
+    "tags": [
+      "package-lock"
+    ],
+    "content": [
+      "### `package-lock`[](https://docs.npmjs.com/cli/v11/commands/<#package-lock>)",
+      "  * Default: true",
+      "  * Type: Boolean",
+      "If set to false, then ignore `package-lock.json` files when installing. This will also prevent _writing_ `package-lock.json` if `save` is true."
+    ],
+    "error": false
+  },
+  {
+    "index": 9,
+    "tags": [
+      "omit"
+    ],
+    "content": [
+      "### `omit`[](https://docs.npmjs.com/cli/v11/commands/<#omit>)",
+      "  * Default: \\'dev\\' if the `NODE_ENV` environment variable is set to \\'production\\', otherwise empty.",
+      "  * Type: \\\"dev\\\", \\\"optional\\\", or \\\"peer\\\" (can be set multiple times)",
+      "Dependency types to omit from the installation tree on disk.",
+      "Note that these dependencies _are_ still resolved and added to the `package-lock.json` or `npm-shrinkwrap.json` file. They are just not physically installed on disk.",
+      "If a package type appears in both the `--include` and `--omit` lists, then it will be included.",
+      "If the resulting omit list includes `\\'dev\\'`, then the `NODE_ENV` environment variable will be set to `\\'production\\'` for all lifecycle scripts."
+    ],
+    "error": false
+  },
+  {
+    "index": 10,
+    "tags": [
+      "include"
+    ],
+    "content": [
+      "### `include`[](https://docs.npmjs.com/cli/v11/commands/<#include>)",
+      "  * Default:",
+      "  * Type: \\\"prod\\\", \\\"dev\\\", \\\"optional\\\", or \\\"peer\\\" (can be set multiple times)",
+      "Option that allows for defining which types of dependencies to install.",
+      "This is the inverse of `--omit=<type>`.",
+      "Dependency types specified in `--include` will not be omitted, regardless of the order in which omit/include are specified on the command-line."
+    ],
+    "error": false
+  },
+  {
+    "index": 11,
+    "tags": [
+      "ignore-scripts"
+    ],
+    "content": [
+      "### `ignore-scripts`[](https://docs.npmjs.com/cli/v11/commands/<#ignore-scripts>)",
+      "  * Default: false",
+      "  * Type: Boolean",
+      "If true, npm does not run scripts specified in package.json files.",
+      "Note that commands explicitly intended to run a particular script, such as `npm start`, `npm stop`, `npm restart`, `npm test`, and `npm run-script` will still run their intended script if `ignore-scripts` is set, but they will _not_ run any pre- or post-scripts."
+    ],
+    "error": false
+  },
+  {
+    "index": 12,
+    "tags": [
+      "audit"
+    ],
+    "content": [
+      "### `audit`[](https://docs.npmjs.com/cli/v11/commands/<#audit>)",
+      "  * Default: true",
+      "  * Type: Boolean",
+      "When \\\"true\\\" submit audit reports alongside the current npm command to the default registry and all registries configured for scopes. See the documentation for `npm audit`[](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-audit>) for details on what is submitted."
+    ],
+    "error": false
+  },
+  {
+    "index": 13,
+    "tags": [
+      "bin-links"
+    ],
+    "content": [
+      "### `bin-links`[](https://docs.npmjs.com/cli/v11/commands/<#bin-links>)",
+      "  * Default: true",
+      "  * Type: Boolean",
+      "Tells npm to create symlinks (or `.cmd` shims on Windows) for package executables.",
+      "Set to false to have it not do this. This can be used to work around the fact that some file systems don\\'t support symlinks, even on ostensibly Unix systems."
+    ],
+    "error": false
+  },
+  {
+    "index": 14,
+    "tags": [
+      "fund"
+    ],
+    "content": [
+      "### `fund`[](https://docs.npmjs.com/cli/v11/commands/<#fund>)",
+      "  * Default: true",
+      "  * Type: Boolean",
+      "When \\\"true\\\" displays the message at the end of each `npm install` acknowledging the number of dependencies looking for funding. See `npm fund`[](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-fund>) for details."
+    ],
+    "error": false
+  },
+  {
+    "index": 15,
+    "tags": [
+      "dry-run"
+    ],
+    "content": [
+      "### `dry-run`[](https://docs.npmjs.com/cli/v11/commands/<#dry-run>)",
+      "  * Default: false",
+      "  * Type: Boolean",
+      "Indicates that you don\\'t want npm to make any changes and that it should only report what it would have done. This can be passed into any of the commands that modify your local installation, eg, `install`, `update`, `dedupe`, `uninstall`, as well as `pack` and `publish`.",
+      "Note: This is NOT honored by other network related commands, eg `dist-tags`, `owner`, etc."
+    ],
+    "error": false
+  },
+  {
+    "index": 16,
+    "tags": [
+      "workspace"
+    ],
+    "content": [
+      "### `workspace`[](https://docs.npmjs.com/cli/v11/commands/<#workspace>)",
+      "  * Default:",
+      "  * Type: String (can be set multiple times)",
+      "Enable running a command in the context of the configured workspaces of the current project while filtering by running only the workspaces defined by this configuration option.",
+      "Valid values for the `workspace` config are either:",
+      "  * Workspace names",
+      "  * Path to a workspace directory",
+      "  * Path to a parent workspace directory (will result in selecting all workspaces within that folder)",
+      "When set for the `npm init` command, this may be set to the folder of a workspace which does not yet exist, to create the folder and set it up as a brand new workspace within the project.",
+      "This value is not exported to the environment for child processes."
+    ],
+    "error": false
+  },
+  {
+    "index": 17,
+    "tags": [
+      "workspaces"
+    ],
+    "content": [
+      "### `workspaces`[](https://docs.npmjs.com/cli/v11/commands/<#workspaces>)",
+      "  * Default: null",
+      "  * Type: null or Boolean",
+      "Set to true to run the command in the context of **all** configured workspaces.",
+      "Explicitly setting this to false will cause commands like `install` to ignore workspaces altogether. When not set explicitly:",
+      "  * Commands that operate on the `node_modules` tree (install, update, etc.) will link workspaces into the `node_modules` folder. - Commands that do other things (test, exec, publish, etc.) will operate on the root project, _unless_ one or more workspaces are specified in the `workspace` config.",
+      "This value is not exported to the environment for child processes."
+    ],
+    "error": false
+  },
+  {
+    "index": 18,
+    "tags": [
+      "include-workspace-root"
+    ],
+    "content": [
+      "### `include-workspace-root`[](https://docs.npmjs.com/cli/v11/commands/<#include-workspace-root>)",
+      "  * Default: false",
+      "  * Type: Boolean",
+      "Include the workspace root when workspaces are enabled for a command.",
+      "When false, specifying individual workspaces via the `workspace` config, or all workspaces via the `workspaces` flag, will cause npm to operate only on the specified workspaces, and not on the root project.",
+      "This value is not exported to the environment for child processes."
+    ],
+    "error": false
+  },
+  {
+    "index": 19,
+    "tags": [
+      "install-links"
+    ],
+    "content": [
+      "### `install-links`[](https://docs.npmjs.com/cli/v11/commands/<#install-links>)",
+      "  * Default: false",
+      "  * Type: Boolean",
+      "When set file: protocol dependencies will be packed and installed as regular dependencies instead of creating a symlink. This option has no effect on workspaces."
+    ],
+    "error": false
+  },
+  {
+    "index": 20,
+    "tags": [
+      "see-also"
+    ],
+    "content": [
+      "## [See Also](https://docs.npmjs.com/cli/v11/commands/<#see-also>)",
+      "  * [npm find-dupes](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-find-dupes>)",
+      "  * [npm ls](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-ls>)",
+      "  * [npm update](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-update>)",
+      "  * [npm install](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-install>)"
+    ],
+    "error": false
+  }
+]

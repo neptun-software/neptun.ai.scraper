@@ -1,0 +1,150 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm CLI commands"
+    ],
+    "content": [
+      "npm",
+      "npm access",
+      "npm adduser",
+      "npm audit",
+      "npm bugs",
+      "npm cache",
+      "npm ci",
+      "npm completion",
+      "npm config",
+      "npm dedupe",
+      "npm deprecate",
+      "npm diff",
+      "npm dist-tag",
+      "npm docs",
+      "npm doctor",
+      "npm edit",
+      "npm exec",
+      "npm explain",
+      "npm explore",
+      "npm find-dupes",
+      "npm fund",
+      "npm help",
+      "npm help-search",
+      "npm init",
+      "npm install",
+      "npm install-ci-test",
+      "npm install-test",
+      "npm link",
+      "npm login",
+      "npm logout",
+      "npm ls",
+      "npm org",
+      "npm outdated",
+      "npm owner",
+      "npm pack",
+      "npm ping",
+      "npm pkg",
+      "npm prefix",
+      "npm profile",
+      "npm prune",
+      "npm publish",
+      "npm query",
+      "npm rebuild",
+      "npm repo",
+      "npm restart",
+      "npm root",
+      "npm run-script",
+      "npm sbom",
+      "npm search",
+      "npm shrinkwrap",
+      "npm star",
+      "npm stars",
+      "npm start",
+      "npm stop",
+      "npm team",
+      "npm test",
+      "npm token",
+      "npm uninstall",
+      "npm unpublish",
+      "npm unstar",
+      "npm update",
+      "npm version",
+      "npm view",
+      "npm whoami",
+      "npx"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "npm explore command"
+    ],
+    "content": [
+      "npm-explore",
+      "Browse an installed package",
+      "Select CLI Version:",
+      "Version 11.0.0 (Latest)",
+      "See DetailsTable of contents",
+      "Synopsis",
+      "Description",
+      "Configuration",
+      "shell",
+      "See Also"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "npm explore synopsis"
+    ],
+    "content": [
+      "Synopsis",
+      "npm explore <pkg>[ -- <command>]",
+      "Note: This command is unaware of workspaces."
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "npm explore description"
+    ],
+    "content": [
+      "Description",
+      "Spawn a subshell in the directory of the installed package specified.",
+      "If a command is specified, then it is run in the subshell, which then immediately terminates.",
+      "This is particularly handy in the case of git submodules in the `node_modules` folder:",
+      "npm explore some-dependency -- git pull origin master",
+      "Note that the package is _not_ automatically rebuilt afterwards, so be sure to use `npm rebuild <pkg>` if you make any changes."
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "npm explore configuration"
+    ],
+    "content": [
+      "Configuration",
+      "shell",
+      "Default: SHELL environment variable, or \"bash\" on Posix, or \"cmd.exe\" on Windows",
+      "Type: String",
+      "The shell to run for the `npm explore` command."
+    ],
+    "error": false
+  },
+  {
+    "index": 5,
+    "tags": [
+      "npm explore see also"
+    ],
+    "content": [
+      "See Also",
+      "npm folders",
+      "npm edit",
+      "npm rebuild",
+      "npm install"
+    ],
+    "error": false
+  }
+]

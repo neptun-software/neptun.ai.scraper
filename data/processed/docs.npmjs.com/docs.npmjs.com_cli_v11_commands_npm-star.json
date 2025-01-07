@@ -1,0 +1,139 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm-star command"
+    ],
+    "content": [
+      "# npm-star",
+      "Mark your favorite packages",
+      "Select CLI Version:",
+      "Version 11.0.0 (Latest)",
+      "See DetailsTable of contents"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "synopsis"
+    ],
+    "content": [
+      "## [Synopsis](https://docs.npmjs.com/cli/v11/commands/<#synopsis>)",
+      "``` npm star [<package-spec>...] ``` Note: This command is unaware of workspaces."
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "description"
+    ],
+    "content": [
+      "## [Description](https://docs.npmjs.com/cli/v11/commands/<#description>)",
+      "\\\"Starring\\\" a package means that you have some interest in it. It\\'s a vaguely positive way to show that you care.",
+      "It\\'s a boolean thing. Starring repeatedly has no additional effect."
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "more commands"
+    ],
+    "content": [
+      "## [More](https://docs.npmjs.com/cli/v11/commands/<#more>)",
+      "There\\'s also these extra commands to help you manage your favorite packages:"
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "unstar command"
+    ],
+    "content": [
+      "### [Unstar](https://docs.npmjs.com/cli/v11/commands/<#unstar>)",
+      "You can also \\\"unstar\\\" a package using `npm unstar`[](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-unstar>)",
+      "\\\"Unstarring\\\" is the same thing, but in reverse."
+    ],
+    "error": false
+  },
+  {
+    "index": 5,
+    "tags": [
+      "listing stars"
+    ],
+    "content": [
+      "### [Listing stars](https://docs.npmjs.com/cli/v11/commands/<#listing-stars>)",
+      "You can see all your starred packages using `npm stars`[](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-stars>)"
+    ],
+    "error": false
+  },
+  {
+    "index": 6,
+    "tags": [
+      "configuration"
+    ],
+    "content": [
+      "## [Configuration](https://docs.npmjs.com/cli/v11/commands/<#configuration>)"
+    ],
+    "error": false
+  },
+  {
+    "index": 7,
+    "tags": [
+      "registry configuration"
+    ],
+    "content": [
+      "### `registry`[](https://docs.npmjs.com/cli/v11/commands/<#registry>)",
+      "  * Default: \\\"<https://registry.npmjs.org/>\\\"",
+      "  * Type: URL ",
+      "The base URL of the npm registry."
+    ],
+    "error": false
+  },
+  {
+    "index": 8,
+    "tags": [
+      "unicode configuration"
+    ],
+    "content": [
+      "### `unicode`[](https://docs.npmjs.com/cli/v11/commands/<#unicode>)",
+      "  * Default: false on windows, true on mac/unix systems with a unicode locale, as defined by the `LC_ALL`, `LC_CTYPE`, or `LANG` environment variables.",
+      "  * Type: Boolean ",
+      "When set to true, npm uses unicode characters in the tree output. When false, it uses ascii characters instead of unicode glyphs."
+    ],
+    "error": false
+  },
+  {
+    "index": 9,
+    "tags": [
+      "otp configuration"
+    ],
+    "content": [
+      "### `otp`[](https://docs.npmjs.com/cli/v11/commands/<#otp>)",
+      "  * Default: null",
+      "  * Type: null or String ",
+      "This is a one-time password from a two-factor authenticator. It\\'s needed when publishing or changing package permissions with `npm access`.",
+      "If not set, and a registry response fails with a challenge for a one-time password, npm will prompt on the command line for one."
+    ],
+    "error": false
+  },
+  {
+    "index": 10,
+    "tags": [
+      "see also"
+    ],
+    "content": [
+      "## [See Also](https://docs.npmjs.com/cli/v11/commands/<#see-also>)",
+      "  * [package spec](https://docs.npmjs.com/cli/v11/commands/</cli/v11/using-npm/package-spec>)",
+      "  * [npm unstar](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-unstar>)",
+      "  * [npm stars](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-stars>)",
+      "  * [npm view](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-view>)",
+      "  * [npm whoami](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-whoami>)",
+      "  * [npm adduser](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-adduser>)"
+    ],
+    "error": false
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm CLI commands"
+    ],
+    "content": [
+      "npm",
+      "npm access",
+      "npm adduser",
+      "npm audit",
+      "npm bugs",
+      "npm cache",
+      "npm ci",
+      "npm completion",
+      "npm config",
+      "npm dedupe",
+      "npm deprecate",
+      "npm diff",
+      "npm dist-tag",
+      "npm docs",
+      "npm doctor",
+      "npm edit",
+      "npm exec",
+      "npm explain",
+      "npm explore",
+      "npm find-dupes",
+      "npm fund",
+      "npm help",
+      "npm help-search",
+      "npm init",
+      "npm install",
+      "npm install-ci-test",
+      "npm install-test",
+      "npm link",
+      "npm login",
+      "npm logout",
+      "npm ls",
+      "npm org",
+      "npm outdated",
+      "npm owner",
+      "npm pack",
+      "npm ping",
+      "npm pkg",
+      "npm prefix",
+      "npm profile",
+      "npm prune",
+      "npm publish",
+      "npm query",
+      "npm rebuild",
+      "npm repo",
+      "npm restart",
+      "npm root",
+      "npm run-script",
+      "npm sbom",
+      "npm search",
+      "npm shrinkwrap",
+      "npm star",
+      "npm stars",
+      "npm start",
+      "npm stop",
+      "npm team",
+      "npm test",
+      "npm token",
+      "npm uninstall",
+      "npm unpublish",
+      "npm unstar",
+      "npm update",
+      "npm version",
+      "npm view",
+      "npm whoami",
+      "npx"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "configuring npm"
+    ],
+    "content": [
+      "Install",
+      "Folders",
+      ".npmrc",
+      "npm-shrinkwrap.json",
+      "package.json",
+      "package-lock.json"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "using npm"
+    ],
+    "content": [
+      "Registry",
+      "Package spec",
+      "Config",
+      "Logging",
+      "Scope",
+      "Scripts",
+      "Workspaces",
+      "Organizations",
+      "Dependency Selectors",
+      "Developers",
+      "Removal",
+      "Changelog"
+    ],
+    "error": false
+  },
+  {
+    "index": 0,
+    "tags": [
+      "npm commands"
+    ],
+    "content": [
+      "You choose what data the npm publish command includes in package data. You can use an [.npmignore](https://docs.npmjs.com/policies/</files/package.json#files>) file in your package to keep specific files out of the package. You can also use a [files list in package.json files](https://docs.npmjs.com/policies/</files/package.json#files>) to instruct npm to include only specific files that you name, in addition to standard files like `README` files, `LICENSE` files, and package.json.",
+      "To double check the data that you will share in a package that you plan to publish, run the `npm publish --dry-run` command. If you are running an older version of the npm command, run the npm pack command to create a [tarball](https://docs.npmjs.com/policies/<https:/en.wikipedia.org/wiki/Tar_\\(computing\\)>), then check its contents, such as with `tar tvzf $tarball`."
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "npm features"
+    ],
+    "content": [
+      "npm\\'s website only uses cookies strictly necessary to provide, optimize and secure the website. For example, we use them to keep you logged in, remember your preferences, authenticate your device for security purposes, analyze your use of the service, compile statistical reports, and provide information for future development of npm. The website uses internal cookies for analytics purposes, not any third-party analytics or service providers.",
+      "By using the website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device\u2019s ability to accept these cookies, you will not be able to log in or use the website."
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "npm documentation"
+    ],
+    "content": [
+      "You can access your account data at any time by visiting your account page on [www.npmjs.com](https://docs.npmjs.com/policies/<https:/www.npmjs.com/>). Your account page also lists all the packages published under your account or other accounts.",
+      "You can access package data by downloading the packages, as long as they\\'re public or you have permission to access them.",
+      "You can see metadata about packages by running npm info $package, or by accessing the appropriate [registry\\'s API](https://docs.npmjs.com/policies/<https:/github.com/npm/registry/tree/master/docs>). Registry APIs provide metadata in standard [JSON](https://docs.npmjs.com/policies/<https:/www.json.org/>) format, and packages as [tarballs](https://docs.npmjs.com/policies/<https:/en.wikipedia.org/wiki/Tar_\\(computing\\)>)."
+    ],
+    "error": false
+  },
+  {
+    "index": 0,
+    "tags": [
+      "npm commands"
+    ],
+    "content": [
+      "npm collects data about you:",
+      "when you use the npm command, the npx command or another program to access the npm public registry, Enterprise registries that npm hosts, private packages, such as when you're publishing a software package, and APIs for functionality like account and permissions management"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "npm software usage"
+    ],
+    "content": [
+      "When you use the npm command, the npx command, or other software to work with the npm public registry, an Enterprise registry that npm hosts, or private packages, npm logs data that might be identified to you:",
+      "a random, unique identifier, called npm-session, for each time you run commands like npm install",
+      "the names and versions of your project's dependencies, their dependencies, and so on, that come from the npm public registry, but not of other dependencies, like Git dependencies",
+      "the versions of Node.js, the npm command, and the operating system you are using",
+      "an npm-in-ci header, showing whether the command was run on a continuous integration server",
+      "the scope of the package for which you ran npm install, as an npm-scope header",
+      "a referrer header that shows the command you ran, with any file or directory paths redacted",
+      "data about the software you're using to access the registry, such as the User-Agent string",
+      "network request data, such as the date and time, your IP address, and the URL"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "npm website usage"
+    ],
+    "content": [
+      "When you visit www.npmjs.com, docs.npmjs.com, and other npm websites, npm uses cookies, server logs, and other methods to collect data about what pages you visit, and when. npm also collects technical information about the software and computer you use, such as:",
+      "your IP address",
+      "your preferred language",
+      "the web browser software you use",
+      "the kind of computer you use",
+      "the website that referred you"
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "npm account features"
+    ],
+    "content": [
+      "Many features of npm services require an npm account. For example, you must have an npm account to publish packages to the npm public registry.",
+      "To create an npm account, npm requires a working email address and an available user name. npm uses this data to provide you access to features and identify you across npm services, publicly and within npm.",
+      "You do not have to give your personal or legal name to create an npm account. You can use a pseudonym instead. You can also open more than one account."
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "npm package data"
+    ],
+    "content": [
+      "When you use npm publish or other software to publish packages to the npm public registry, an Enterprise registry that npm hosts, or as a private package, npm collects the contents of the package, plus metadata, including your account data. Other npm users may also publish packages that include data about you, such as the fact that you contributed code to a package.",
+      "npm uses data in packages to provide those packages to you and others who request them:",
+      "When you publish a package to the npm public registry, or change a package from private to public, npm makes the package and metadata available to everyone, online.",
+      "When you publish a package to an Enterprise registry that npm hosts, or as a private package, npm makes all of that data available to other users according to how the registry or the private packages account is configured. You may be able to configure who can access the package, or that may be up to others, such as the administrator of your company's Enterprise registry."
+    ],
+    "error": false
+  }
+]

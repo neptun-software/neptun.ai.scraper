@@ -1,0 +1,99 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "npm_logout_command"
+    ],
+    "content": [
+      "# npm-logout",
+      "Log out of the registry",
+      "Select CLI Version:",
+      "Version 11.0.0 (Latest)",
+      "See DetailsTable of contents"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "synopsis"
+    ],
+    "content": [
+      "## [Synopsis](https://docs.npmjs.com/cli/v11/commands/<#synopsis>)",
+      "``` npmlogout ``` Note: This command is unaware of workspaces."
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "description"
+    ],
+    "content": [
+      "## [Description](https://docs.npmjs.com/cli/v11/commands/<#description>)",
+      "When logged into a registry that supports token-based authentication, tell the server to end this token\\'s session. This will invalidate the token everywhere you\\'re using it, not just for the current environment.",
+      "When logged into a legacy registry that uses username and password authentication, this will clear the credentials in your user configuration. In this case, it will _only_ affect the current environment.",
+      "If `--scope` is provided, this will find the credentials for the registry connected to that scope, if set."
+    ],
+    "error": false
+  },
+  {
+    "index": 3,
+    "tags": [
+      "configuration"
+    ],
+    "content": [
+      "## [Configuration](https://docs.npmjs.com/cli/v11/commands/<#configuration>)"
+    ],
+    "error": false
+  },
+  {
+    "index": 4,
+    "tags": [
+      "registry"
+    ],
+    "content": [
+      "### `registry`[](https://docs.npmjs.com/cli/v11/commands/<#registry>)",
+      "  * Default: \\\"<https://registry.npmjs.org/>\\\"",
+      "  * Type: URL ",
+      "The base URL of the npm registry."
+    ],
+    "error": false
+  },
+  {
+    "index": 5,
+    "tags": [
+      "scope"
+    ],
+    "content": [
+      "### `scope`[](https://docs.npmjs.com/cli/v11/commands/<#scope>)",
+      "  * Default: the scope of the current project, if any, or \\\"\\\"",
+      "  * Type: String ",
+      "Associate an operation with a scope for a scoped registry.",
+      "Useful when logging in to or out of a private registry:",
+      "``` # log in, linking the scope to the custom registry",
+      "npm login --scope=@mycorp --registry=https://registry.mycorp.com",
+      "# log out, removing the link and the auth token",
+      "npmlogout--scope=@mycorp ``` This will cause `@mycorp` to be mapped to the registry for future installation of packages specified according to the pattern `@mycorp/package`.",
+      "This will also cause `npm init` to create a scoped package.",
+      "``` # accept all defaults, and create a package named \\\"@foo/whatever\\\",",
+      "# instead of just named \\\"whatever\\\"",
+      "npm init --scope=@foo --yes ```"
+    ],
+    "error": false
+  },
+  {
+    "index": 6,
+    "tags": [
+      "see_also"
+    ],
+    "content": [
+      "## [See Also](https://docs.npmjs.com/cli/v11/commands/<#see-also>)",
+      "  * [npm adduser](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-adduser>)",
+      "  * [npm registry](https://docs.npmjs.com/cli/v11/commands/</cli/v11/using-npm/registry>)",
+      "  * [npm config](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-config>)",
+      "  * [npm whoami](https://docs.npmjs.com/cli/v11/commands/</cli/v11/commands/npm-whoami>)"
+    ],
+    "error": false
+  }
+]
