@@ -13,8 +13,8 @@ if not FIRECRAWL_API_KEY:
 
 app = FirecrawlApp(api_key=FIRECRAWL_API_KEY)
 
-BASE_URL = "https://docs.github.com/en"
-OUTPUT_FILE = "data/github_docs.jsonl"
+BASE_URL = "https://docs.github.com/en/actions"
+OUTPUT_FILE = "data/github_actions_docs.jsonl"
 
 class Section(BaseModel):
     title: str = Field(description="The title of the section")
@@ -24,7 +24,7 @@ class CodeExample(BaseModel):
     title: str = Field(description="The title of the code example")
     snippet: str = Field(description="The code snippet")
 
-class GitHubDocumentationPageContent(BaseModel):
+class GitHubActionsContent(BaseModel):
     title: str = Field(description="The title of the documentation page")
     description: str = Field(description="A brief description of what the page covers")
     sections: List[Section] = Field(description="The main content sections of the page")
@@ -37,11 +37,11 @@ def scrape_url(url):
         data = app.scrape_url(url, {
             'formats': ['markdown', 'json'],
             'jsonOptions': {
-                'schema': GitHubDocumentationPageContent.model_json_schema(),
-                'systemPrompt': """You are an expert in GitHub documentation analysis. Extract from this page:
+                'schema': GitHubActionsContent.model_json_schema(),
+                'systemPrompt': """You are an expert in GitHub Actions documentation analysis. Extract from this page:
                 1. The exact page title and description
                 2. All content sections with their titles and detailed content
-                3. Any code examples or logs with their context
+                3. Any code examples or workflow snippets with their context
                 4. Tips and best practices mentioned
                 Be thorough and preserve all technical details."""
             }
@@ -61,7 +61,9 @@ def scrape_url(url):
 
 def get_documentation_links():
     try:
-        response = app.map_url(BASE_URL)
+        response = app.map_url(BASE_URL, {
+            "search": "action"
+        })
         
         if not response or not response.get("links"):
             print("No links returned from map endpoint, using fallback method")
@@ -84,7 +86,7 @@ def create_conversation(content):
     
     # Main overview question
     if content.get("title") and content.get("description"):
-        question = f"What is \"{content['title']}\"?"
+        question = f"What is {content['title']}?"
         answer = content["description"]
         if content.get("sections"):
             # Add section content to the answer
@@ -95,7 +97,7 @@ def create_conversation(content):
     
     # Code examples question
     if content.get("codeExamples"):
-        question = f"Can you show me some code examples for \"{content['title']}\"?"
+        question = f"Can you show me some code examples for {content['title']}?"
         answer = "Here are some code examples:\n\n"
         for example in content["codeExamples"]:
             answer += f"### {example['title']}\n```yaml\n{example['snippet']}\n```\n\n"
@@ -103,7 +105,7 @@ def create_conversation(content):
     
     # Best practices question
     if content.get("tipsAndBestPractices"):
-        question = f"What are the best practices for \"{content['title']}\"?"
+        question = f"What are the best practices for {content['title']}?"
         answer = "Here are the recommended best practices:\n\n"
         for tip in content["tipsAndBestPractices"]:
             answer += f"• {tip}\n"
@@ -113,7 +115,7 @@ def create_conversation(content):
     jsonl_entries = []
     for question, answer in qa_pairs:
         entry = {
-            "text": f"System: You are a helpful GitHub expert.\n\nUser: {question}\n\nAssistant: {answer}"
+            "text": f"System: You are a helpful GitHub Actions expert.\n\nUser: {question}\n\nAssistant: {answer}"
         }
         jsonl_entries.append(entry)
     

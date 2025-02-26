@@ -13,8 +13,8 @@ if not FIRECRAWL_API_KEY:
 
 app = FirecrawlApp(api_key=FIRECRAWL_API_KEY)
 
-BASE_URL = "https://docs.github.com/en"
-OUTPUT_FILE = "data/github_docs.jsonl"
+BASE_URL = "https://docs.github.com/en/packages"
+OUTPUT_FILE = "data/github_packages_docs.jsonl"
 
 class Section(BaseModel):
     title: str = Field(description="The title of the section")
@@ -24,11 +24,11 @@ class CodeExample(BaseModel):
     title: str = Field(description="The title of the code example")
     snippet: str = Field(description="The code snippet")
 
-class GitHubDocumentationPageContent(BaseModel):
+class GitHubPackagesContent(BaseModel):
     title: str = Field(description="The title of the documentation page")
     description: str = Field(description="A brief description of what the page covers")
     sections: List[Section] = Field(description="The main content sections of the page")
-    codeExamples: List[CodeExample] = Field(description="Code examples and workflows found on the page", default_factory=list)
+    codeExamples: List[CodeExample] = Field(description="Logs and code snippets found on the page", default_factory=list)
     tipsAndBestPractices: List[str] = Field(description="Tips and best practices mentioned in the documentation", default_factory=list)
 
 def scrape_url(url):
@@ -37,8 +37,8 @@ def scrape_url(url):
         data = app.scrape_url(url, {
             'formats': ['markdown', 'json'],
             'jsonOptions': {
-                'schema': GitHubDocumentationPageContent.model_json_schema(),
-                'systemPrompt': """You are an expert in GitHub documentation analysis. Extract from this page:
+                'schema': GitHubPackagesContent.model_json_schema(),
+                'systemPrompt': """You are an expert in GitHub Packages documentation analysis. Extract from this page:
                 1. The exact page title and description
                 2. All content sections with their titles and detailed content
                 3. Any code examples or logs with their context
@@ -61,7 +61,9 @@ def scrape_url(url):
 
 def get_documentation_links():
     try:
-        response = app.map_url(BASE_URL)
+        response = app.map_url(BASE_URL, {
+            "search": "package"
+        })
         
         if not response or not response.get("links"):
             print("No links returned from map endpoint, using fallback method")
@@ -69,8 +71,11 @@ def get_documentation_links():
             
         links = response.get("links", [])
         
-        print(f"Found {len(links)} unique documentation links")
-        return links
+        # Filter to only include GitHub package documentation links. It fetches about 2136 links of the total 2230 on the documentation site, without that setting.
+        package_links = filter_github_package_links(links)
+        
+        print(f"Found {len(package_links)} GitHub package documentation links")
+        return package_links
     except Exception as e:
         print(f"Error getting documentation links: {e}")
         return [BASE_URL]
@@ -84,7 +89,7 @@ def create_conversation(content):
     
     # Main overview question
     if content.get("title") and content.get("description"):
-        question = f"What is \"{content['title']}\"?"
+        question = f"What is {content['title']}?"
         answer = content["description"]
         if content.get("sections"):
             # Add section content to the answer
@@ -95,7 +100,7 @@ def create_conversation(content):
     
     # Code examples question
     if content.get("codeExamples"):
-        question = f"Can you show me some code examples for \"{content['title']}\"?"
+        question = f"Can you show me some code examples for {content['title']}?"
         answer = "Here are some code examples:\n\n"
         for example in content["codeExamples"]:
             answer += f"### {example['title']}\n```yaml\n{example['snippet']}\n```\n\n"
@@ -103,7 +108,7 @@ def create_conversation(content):
     
     # Best practices question
     if content.get("tipsAndBestPractices"):
-        question = f"What are the best practices for \"{content['title']}\"?"
+        question = f"What are the best practices for {content['title']}?"
         answer = "Here are the recommended best practices:\n\n"
         for tip in content["tipsAndBestPractices"]:
             answer += f"• {tip}\n"
@@ -113,11 +118,20 @@ def create_conversation(content):
     jsonl_entries = []
     for question, answer in qa_pairs:
         entry = {
-            "text": f"System: You are a helpful GitHub expert.\n\nUser: {question}\n\nAssistant: {answer}"
+            "text": f"System: You are a helpful GitHub Packages expert.\n\nUser: {question}\n\nAssistant: {answer}"
         }
         jsonl_entries.append(entry)
     
     return jsonl_entries
+
+def filter_github_package_links(links):
+    package_links = []
+    
+    for link in links:
+        if isinstance(link, str) and link.startswith("https://docs.github.com/en/packages"):
+            package_links.append(link)
+    
+    return package_links
 
 def main():
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
