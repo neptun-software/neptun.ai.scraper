@@ -1,0 +1,4 @@
+firecrawl
+tqdm
+pydantic
+python-dotenv
