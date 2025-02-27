@@ -61,6 +61,15 @@ class DocumentationPageContent(BaseModel):
     codeExamples: List[CodeExample] = Field(description="Code examples, configurations, commands and command-line outputs found on the page", default_factory=list)
     tipsAndBestPractices: List[str] = Field(description="Tips and best practices mentioned in the documentation", default_factory=list)
 
+def filter_links_by_base_url(base_url, links):
+    filtered_links = []
+    
+    for link in links:
+        if isinstance(link, str) and link.startswith(base_url):
+            filtered_links.append(link)
+    
+    return filtered_links
+
 # https://docs.firecrawl.dev/api-reference/endpoint/credit-usage
 def scrape_url(url, key_manager, max_retries=3):
     print(f"Scraping: {url}")
@@ -119,8 +128,11 @@ def get_documentation_links(base_url, key_manager, max_retries=3):
             response = key_manager.app.map_url(base_url)
             if response and response.get("links"):
                 links = response.get("links", [])
-                print(f"Found {len(links)} unique documentation links")
-                return links
+
+                filtered_links = filter_links_by_base_url(base_url, links)
+
+                print(f"Found {len(filtered_links)} unique documentation links")
+                return filtered_links
             else:
                 print("No links returned from map endpoint, using fallback method")
                 return [base_url]
