@@ -61,6 +61,7 @@ class DocumentationPageContent(BaseModel):
     codeExamples: List[CodeExample] = Field(description="Code examples, configurations, commands and command-line outputs found on the page", default_factory=list)
     tipsAndBestPractices: List[str] = Field(description="Tips and best practices mentioned in the documentation", default_factory=list)
 
+# https://docs.firecrawl.dev/api-reference/endpoint/credit-usage
 def scrape_url(url, key_manager, max_retries=3):
     print(f"Scraping: {url}")
     retries = 0
@@ -101,7 +102,7 @@ def scrape_url(url, key_manager, max_retries=3):
             if retries < max_retries:
                 print(f"Error scraping {url} (attempt {retries}/{max_retries}): {e}")
                 print("Retrying...")
-                if "rate limit" in str(e).lower() and key_manager.has_more_keys():
+                if ("rate limit" in str(e).lower() or "payment required" in str(e).lower() or "unexpected error" in str(e).lower()) and key_manager.has_more_keys():
                     if key_manager.rotate_key():
                         retries = 0
                 time.sleep(2)
@@ -125,7 +126,7 @@ def get_documentation_links(base_url, key_manager, max_retries=3):
                 return [base_url]
         except Exception as e:
             print(f"Error getting documentation links: {e}")
-            if "rate limit" in str(e).lower() and key_manager.has_more_keys():
+            if ("rate limit" in str(e).lower() or "payment required" in str(e).lower() or "unexpected error" in str(e).lower()) and key_manager.has_more_keys():
                 if key_manager.rotate_key():
                     retries = 0
             retries += 1
