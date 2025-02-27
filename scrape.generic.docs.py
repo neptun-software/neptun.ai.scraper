@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 from tqdm import tqdm
 import time
 import argparse
+import sys
 
 load_dotenv()
 
@@ -80,14 +81,12 @@ def scrape_url(url, key_manager, max_retries=3):
                     Be thorough and preserve all technical details."""
                 }
             })
-
             if data and isinstance(data, dict):
                 json_data = data.get("json")
                 metadata = data.get("metadata", {})
                 if json_data:
                     print(f"Successfully extracted JSON data from {url}")
                     return {"json": json_data, "metadata": metadata}
-            
             print(f"No usable data returned for {url}")
             retries += 1
             if retries < max_retries:
@@ -96,7 +95,6 @@ def scrape_url(url, key_manager, max_retries=3):
                     if key_manager.rotate_key():
                         retries = 0
                 time.sleep(2)
-            
         except Exception as e:
             last_error = e
             retries += 1
@@ -107,7 +105,6 @@ def scrape_url(url, key_manager, max_retries=3):
                     if key_manager.rotate_key():
                         retries = 0
                 time.sleep(2)
-            
     if last_error:
         print(f"Failed to scrape {url} after {max_retries} attempts and trying {len(key_manager.tried_keys)} different API keys. Last error: {last_error}")
     return None
@@ -186,18 +183,24 @@ def create_conversation(product, content, url, page_metadata=None):
     
     return jsonl_entries
 
-def log_failed_url(url, output_file, error=None):
-    failed_urls_file = f"data/failed_urls_{output_file}"
-    os.makedirs(os.path.dirname(failed_urls_file), exist_ok=True)
+def log_url_attempt(index, url, output_file, status, entries_created=None, error=None):
+    """Log every URL processing attempt to a file."""
+    log_file = f"data/url_attempts_{os.path.basename(output_file)}"
+    os.makedirs(os.path.dirname(log_file), exist_ok=True)
     entry = {
+        "index": index,
         "url": url,
         "timestamp": time.strftime("%Y-%m-%d %H:%M:%S"),
-        "error": str(error) if error else None
+        "status": status,
     }
-    with open(failed_urls_file, "a", encoding="utf-8") as f:
+    if status == "success":
+        entry["entries_created"] = entries_created
+    elif status == "failure":
+        entry["error"] = error
+    with open(log_file, "a", encoding="utf-8") as f:
         f.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
-def main(product, base_url, output_file, api_keys):
+def main(product, base_url, output_file, api_keys, start_index=0):
     if api_keys is None:
         api_keys = [key for key in os.getenv("FIRECRAWL_API_KEY", "").split(";") if key]
     else:
@@ -208,80 +211,88 @@ def main(product, base_url, output_file, api_keys):
     
     print(f"Using {len(api_keys)} API keys")
     key_manager = KeyManager(api_keys)
-    
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     links = get_documentation_links(base_url, key_manager)
-    print(f"\nStarting to process {len(links)} pages...")
-    
+    total_links = len(links)
+    print(f"\nStarting to process {total_links} pages...")
+
+    if start_index < 0 or start_index >= total_links:
+        print(f"Error: --start_index {start_index} is out of bounds. Must be between 0 and {total_links - 1}.")
+        sys.exit(1)
+
+    links_to_process = links[start_index:]
+    print(f"Processing {len(links_to_process)} pages starting from index {start_index}")
+
     total_entries = 0
-    processed_pages = 0
     failed_urls = []
     max_retries = 25
     
-    for link in tqdm(links, desc="Processing documentation pages"):
-        try:
-            result = scrape_url(link, key_manager)
-            if result and result.get("json"):
-                jsonl_entries = create_conversation(product, result["json"], link, result.get("metadata"))
-                if jsonl_entries:
-                    with open(output_file, "a", encoding="utf-8") as f:
-                        for entry in jsonl_entries:
-                            f.write(json.dumps(entry, ensure_ascii=False) + "\n")
-                            total_entries += 1
-                    print(f"\nCreated {len(jsonl_entries)} entries from {link}")
-            else:
-                failed_urls.append(link)
-                log_failed_url(link, output_file, "No usable data returned")
-            
-            processed_pages += 1
-            print(f"\nCompleted page {processed_pages}/{len(links)}")
-        
-        except Exception as e:
-            print(f"\nError processing {link}: {e}")
-            failed_urls.append(link)
-            log_failed_url(link, output_file, str(e))
-            continue
+    with tqdm(total=total_links, initial=start_index, desc="Processing documentation pages") as pbar:
+        for idx, link in enumerate(links_to_process, start=start_index):
+            try:
+                result = scrape_url(link, key_manager)
+                if result and result.get("json"):
+                    jsonl_entries = create_conversation(product, result["json"], link, result.get("metadata"))
+                    entries_created = len(jsonl_entries) if jsonl_entries else 0
+                    if jsonl_entries:
+                        with open(output_file, "a", encoding="utf-8") as f:
+                            for entry in jsonl_entries:
+                                f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+                                total_entries += 1
+                    print(f"\nProcessed {link} with {entries_created} entries")
+                    log_url_attempt(idx, link, output_file, "success", entries_created=entries_created)
+                else:
+                    failed_urls.append((idx, link))
+                    log_url_attempt(idx, link, output_file, "failure", error="No usable data returned from scrape_url")
+            except Exception as e:
+                print(f"\nError processing {link}: {e}")
+                failed_urls.append((idx, link))
+                log_url_attempt(idx, link, output_file, "failure", error=str(e))
+            pbar.update(1)
+            print(f"\nCompleted page {pbar.n}/{total_links}")
     
     if failed_urls:
         print(f"\nRetrying {len(failed_urls)} failed URLs...")
         retry_count = 0
-        
+
         while failed_urls and retry_count < max_retries:
             retry_count += 1
             print(f"\nRetry attempt {retry_count}/{max_retries}")
             still_failed = []
-            
-            for link in tqdm(failed_urls, desc=f"Retry attempt {retry_count}"):
+
+            for idx, link in failed_urls:
                 try:
                     result = scrape_url(link, key_manager)
                     if result and result.get("json"):
                         jsonl_entries = create_conversation(product, result["json"], link, result.get("metadata"))
+                        entries_created = len(jsonl_entries) if jsonl_entries else 0
                         if jsonl_entries:
                             with open(output_file, "a", encoding="utf-8") as f:
                                 for entry in jsonl_entries:
                                     f.write(json.dumps(entry, ensure_ascii=False) + "\n")
                                     total_entries += 1
-                            print(f"\nCreated {len(jsonl_entries)} entries from {link}")
-                            continue
-                    still_failed.append(link)
-                    log_failed_url(link, output_file, f"Failed after retry attempt {retry_count}")
+                        print(f"\nProcessed {link} with {entries_created} entries on retry {retry_count}")
+                        log_url_attempt(idx, link, output_file, "success", entries_created=entries_created)
+                    else:
+                        still_failed.append((idx, link))
+                        log_url_attempt(idx, link, output_file, "failure", error=f"No usable data returned on retry {retry_count}")
                 except Exception as e:
-                    print(f"\nError processing {link}: {e}")
-                    still_failed.append(link)
-                    log_failed_url(link, output_file, f"Error on retry {retry_count}: {str(e)}")
-                    continue
-            
+                    print(f"\nError processing {link} on retry {retry_count}: {e}")
+                    still_failed.append((idx, link))
+                    log_url_attempt(idx, link, output_file, "failure", error=f"Error on retry {retry_count}: {str(e)}")
+
             failed_urls = still_failed
             if failed_urls:
                 print(f"\n{len(failed_urls)} URLs still failing. Waiting before next retry...")
                 time.sleep(5)
     
-    print(f"\nFinished processing {processed_pages} pages. Created {total_entries} entries in {output_file}")
+    print(f"\nFinished processing from index {start_index}. Created {total_entries} new entries in {output_file}")
     if failed_urls:
         print(f"Failed to process {len(failed_urls)} URLs after {max_retries} retries:")
-        for url in failed_urls:
-            print(f"- {url}")
-        print(f"\nAll failed URLs have been logged to data/failed_urls.jsonl with timestamps and error details")
+        for idx, url in failed_urls:
+            print(f"- Index {idx}: {url}")
+    log_file = f"data/url_attempts_{os.path.basename(output_file)}"
+    print(f"\nAll URL attempts have been logged to {log_file}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Scrape documentation")
@@ -289,6 +300,7 @@ if __name__ == "__main__":
     parser.add_argument("--base_url", required=True, help="Base URL for documentation (example: https://docs.github.com/en)")
     parser.add_argument("--output_file", required=True, help="Output file for the JSONL data (example: data/github_docs.jsonl)")
     parser.add_argument("--api_key", action="append", help="API key for Firecrawl. Can be specified multiple times.")
+    parser.add_argument("--start_index", type=int, default=0, help="Index to start processing from (0-based; e.g., 1489 to resume after page 1488)")
     args = parser.parse_args()
 
-    main(args.product, args.base_url, args.output_file, args.api_key)
+    main(args.product, args.base_url, args.output_file, args.api_key, args.start_index)

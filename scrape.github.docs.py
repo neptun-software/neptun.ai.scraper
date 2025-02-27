@@ -201,7 +201,7 @@ def create_conversation(content, url, page_metadata=None):
     return jsonl_entries
 
 def log_failed_url(url, error=None):
-    failed_urls_file = "data/failed_urls.jsonl"
+    failed_urls_file = "data/github_docs_failed_urls.jsonl"
     os.makedirs(os.path.dirname(failed_urls_file), exist_ok=True)
     
     entry = {

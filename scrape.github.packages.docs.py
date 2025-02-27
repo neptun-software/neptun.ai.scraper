@@ -71,7 +71,7 @@ def get_documentation_links():
             
         links = response.get("links", [])
         
-        # Filter to only include GitHub package documentation links. It fetches about 2136 links of the total 2230 on the documentation site, without that setting.
+        # Filter to only include GitHub package documentation links. It fetches about 2136 links of the total 2230 (2311 actually?) on the documentation site, without that setting.
         package_links = filter_github_package_links(links)
         
         print(f"Found {len(package_links)} GitHub package documentation links")
