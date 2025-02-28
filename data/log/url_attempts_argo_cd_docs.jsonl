@@ -1,0 +1,553 @@
+{"index": 0, "url": "https://argo-cd.readthedocs.io/en/stable", "timestamp": "2025-02-27 23:19:41", "status": "success", "entries_created": 3}
+{"index": 1, "url": "https://argo-cd.readthedocs.io/en/stable/CONTRIBUTING", "timestamp": "2025-02-27 23:20:03", "status": "success", "entries_created": 1}
+{"index": 2, "url": "https://argo-cd.readthedocs.io/en/stable/SUPPORT", "timestamp": "2025-02-27 23:21:18", "status": "success", "entries_created": 2}
+{"index": 3, "url": "https://argo-cd.readthedocs.io/en/stable/bug_triage", "timestamp": "2025-02-27 23:21:53", "status": "success", "entries_created": 2}
+{"index": 4, "url": "https://argo-cd.readthedocs.io/en/stable/cli_installation", "timestamp": "2025-02-27 23:22:44", "status": "success", "entries_created": 3}
+{"index": 5, "url": "https://argo-cd.readthedocs.io/en/stable/core_concepts", "timestamp": "2025-02-27 23:22:55", "status": "success", "entries_created": 1}
+{"index": 6, "url": "https://argo-cd.readthedocs.io/en/stable/faq", "timestamp": "2025-02-27 23:23:52", "status": "success", "entries_created": 3}
+{"index": 7, "url": "https://argo-cd.readthedocs.io/en/stable/getting_started", "timestamp": "2025-02-27 23:24:48", "status": "success", "entries_created": 3}
+{"index": 8, "url": "https://argo-cd.readthedocs.io/en/stable/roadmap", "timestamp": "2025-02-27 23:25:00", "status": "success", "entries_created": 1}
+{"index": 9, "url": "https://argo-cd.readthedocs.io/en/stable/security_considerations", "timestamp": "2025-02-27 23:25:16", "status": "success", "entries_created": 2}
+{"index": 10, "url": "https://argo-cd.readthedocs.io/en/stable/try_argo_cd_locally", "timestamp": "2025-02-27 23:25:28", "status": "success", "entries_created": 3}
+{"index": 11, "url": "https://argo-cd.readthedocs.io/en/stable/understand_the_basics", "timestamp": "2025-02-27 23:25:35", "status": "success", "entries_created": 1}
+{"index": 12, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide", "timestamp": "2025-02-27 23:25:39", "status": "success", "entries_created": 2}
+{"index": 13, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/api-docs", "timestamp": "2025-02-27 23:27:03", "status": "success", "entries_created": 3}
+{"index": 14, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/ci", "timestamp": "2025-02-27 23:27:23", "status": "success", "entries_created": 3}
+{"index": 15, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/code-contributions", "timestamp": "2025-02-27 23:28:03", "status": "success", "entries_created": 2}
+{"index": 16, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/contributing", "timestamp": "2025-02-27 23:29:20", "status": "success", "entries_created": 2}
+{"index": 17, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/contributors-quickstart", "timestamp": "2025-02-27 23:29:42", "status": "success", "entries_created": 3}
+{"index": 18, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/debugging-remote-environment", "timestamp": "2025-02-27 23:30:16", "status": "success", "entries_created": 3}
+{"index": 19, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/dependencies", "timestamp": "2025-02-27 23:30:59", "status": "success", "entries_created": 3}
+{"index": 20, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/docs-site", "timestamp": "2025-02-27 23:31:22", "status": "success", "entries_created": 3}
+{"index": 21, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/faq", "timestamp": "2025-02-27 23:31:40", "status": "success", "entries_created": 2}
+{"index": 22, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/release-process-and-cadence", "timestamp": "2025-02-27 23:32:03", "status": "success", "entries_created": 2}
+{"index": 23, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/releasing", "timestamp": "2025-02-27 23:32:28", "status": "success", "entries_created": 3}
+{"index": 24, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/running-locally", "timestamp": "2025-02-27 23:33:09", "status": "success", "entries_created": 3}
+{"index": 25, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/static-code-analysis", "timestamp": "2025-02-27 23:33:20", "status": "success", "entries_created": 1}
+{"index": 26, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/test-e2e", "timestamp": "2025-02-27 23:33:45", "status": "success", "entries_created": 3}
+{"index": 27, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/toolchain-guide", "timestamp": "2025-02-27 23:34:24", "status": "success", "entries_created": 3}
+{"index": 28, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/ui-extensions", "timestamp": "2025-02-27 23:34:39", "status": "success", "entries_created": 1}
+{"index": 29, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/use-gitpod", "timestamp": "2025-02-27 23:35:56", "status": "success", "entries_created": 3}
+{"index": 30, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/architecture/authz-authn", "timestamp": "2025-02-27 23:36:21", "status": "success", "entries_created": 1}
+{"index": 31, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/architecture/components", "timestamp": "2025-02-27 23:36:39", "status": "success", "entries_created": 1}
+{"index": 32, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/extensions/proxy-extensions", "timestamp": "2025-02-27 23:37:06", "status": "success", "entries_created": 3}
+{"index": 33, "url": "https://argo-cd.readthedocs.io/en/stable/developer-guide/extensions/ui-extensions", "timestamp": "2025-02-27 23:37:51", "status": "success", "entries_created": 3}
+{"index": 34, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual", "timestamp": "2025-02-27 23:38:01", "status": "success", "entries_created": 2}
+{"index": 35, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/app-any-namespace", "timestamp": "2025-02-27 23:40:55", "status": "success", "entries_created": 3}
+{"index": 36, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/app-sync-using-impersonation", "timestamp": "2025-02-27 23:41:13", "status": "success", "entries_created": 3}
+{"index": 37, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/architecture", "timestamp": "2025-02-27 23:43:07", "status": "success", "entries_created": 3}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-27 23:55:13", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-27 23:58:18", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 40, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-rbac-cm-yaml", "timestamp": "2025-02-27 23:59:03", "status": "success", "entries_created": 3}
+{"index": 41, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-repo-creds-yaml", "timestamp": "2025-02-27 23:59:41", "status": "success", "entries_created": 2}
+{"index": 42, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-repositories-yaml", "timestamp": "2025-02-28 00:00:29", "status": "success", "entries_created": 2}
+{"index": 43, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-secret-yaml", "timestamp": "2025-02-28 00:03:25", "status": "success", "entries_created": 2}
+{"index": 44, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-ssh-known-hosts-cm-yaml", "timestamp": "2025-02-28 00:06:31", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 45, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-tls-certs-cm-yaml", "timestamp": "2025-02-28 00:09:36", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 46, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/cluster-bootstrapping", "timestamp": "2025-02-28 00:10:00", "status": "success", "entries_created": 3}
+{"index": 47, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/cluster-management", "timestamp": "2025-02-28 00:10:23", "status": "success", "entries_created": 3}
+{"index": 48, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins", "timestamp": "2025-02-28 00:11:04", "status": "success", "entries_created": 3}
+{"index": 49, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/core", "timestamp": "2025-02-28 00:11:35", "status": "success", "entries_created": 3}
+{"index": 50, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/custom-styles", "timestamp": "2025-02-28 00:11:53", "status": "success", "entries_created": 3}
+{"index": 51, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/custom_tools", "timestamp": "2025-02-28 00:12:17", "status": "success", "entries_created": 2}
+{"index": 52, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup", "timestamp": "2025-02-28 00:15:23", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 53, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/deep_links", "timestamp": "2025-02-28 00:15:46", "status": "success", "entries_created": 3}
+{"index": 54, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/disaster_recovery", "timestamp": "2025-02-28 00:17:00", "status": "success", "entries_created": 3}
+{"index": 55, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/dynamic-cluster-distribution", "timestamp": "2025-02-28 00:17:21", "status": "success", "entries_created": 3}
+{"index": 56, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/feature-maturity", "timestamp": "2025-02-28 00:17:34", "status": "success", "entries_created": 2}
+{"index": 57, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/health", "timestamp": "2025-02-28 00:17:58", "status": "success", "entries_created": 3}
+{"index": 58, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/high_availability", "timestamp": "2025-02-28 00:21:03", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 59, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress", "timestamp": "2025-02-28 00:24:09", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 60, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/installation", "timestamp": "2025-02-28 00:24:36", "status": "success", "entries_created": 3}
+{"index": 61, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/metrics", "timestamp": "2025-02-28 00:27:34", "status": "success", "entries_created": 3}
+{"index": 62, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/project-specification", "timestamp": "2025-02-28 00:28:03", "status": "success", "entries_created": 3}
+{"index": 63, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/rbac", "timestamp": "2025-02-28 00:31:11", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 64, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/reconcile", "timestamp": "2025-02-28 00:31:26", "status": "success", "entries_created": 3}
+{"index": 65, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/resource_actions", "timestamp": "2025-02-28 00:34:38", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 66, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/resource_actions_builtin", "timestamp": "2025-02-28 00:35:14", "status": "success", "entries_created": 1}
+{"index": 67, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/secret-management", "timestamp": "2025-02-28 00:35:18", "status": "success", "entries_created": 2}
+{"index": 68, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/security", "timestamp": "2025-02-28 00:36:01", "status": "success", "entries_created": 3}
+{"index": 69, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/signed-release-assets", "timestamp": "2025-02-28 00:36:28", "status": "success", "entries_created": 3}
+{"index": 70, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/tested-kubernetes-versions", "timestamp": "2025-02-28 00:36:34", "status": "success", "entries_created": 1}
+{"index": 71, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/tls", "timestamp": "2025-02-28 00:37:06", "status": "success", "entries_created": 3}
+{"index": 72, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/troubleshooting", "timestamp": "2025-02-28 00:37:29", "status": "success", "entries_created": 3}
+{"index": 73, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/ui-customization", "timestamp": "2025-02-28 00:37:33", "status": "success", "entries_created": 1}
+{"index": 74, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/web_based_terminal", "timestamp": "2025-02-28 00:37:47", "status": "success", "entries_created": 3}
+{"index": 75, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/webhook", "timestamp": "2025-02-28 00:38:09", "status": "success", "entries_created": 3}
+{"index": 76, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset", "timestamp": "2025-02-28 00:39:57", "status": "success", "entries_created": 2}
+{"index": 77, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Application-Deletion", "timestamp": "2025-02-28 00:40:09", "status": "success", "entries_created": 3}
+{"index": 78, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Appset-Any-Namespace", "timestamp": "2025-02-28 00:40:25", "status": "success", "entries_created": 3}
+{"index": 79, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Argo-CD-Integration", "timestamp": "2025-02-28 00:40:35", "status": "success", "entries_created": 2}
+{"index": 80, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Controlling-Resource-Modification", "timestamp": "2025-02-28 00:42:20", "status": "success", "entries_created": 3}
+{"index": 81, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Cluster-Decision-Resource", "timestamp": "2025-02-28 00:42:29", "status": "success", "entries_created": 3}
+{"index": 82, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Cluster", "timestamp": "2025-02-28 00:43:07", "status": "success", "entries_created": 3}
+{"index": 83, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Git-File-Globbing", "timestamp": "2025-02-28 00:43:21", "status": "success", "entries_created": 3}
+{"index": 84, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Git", "timestamp": "2025-02-28 00:43:46", "status": "success", "entries_created": 3}
+{"index": 85, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-List", "timestamp": "2025-02-28 00:43:59", "status": "success", "entries_created": 3}
+{"index": 86, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Matrix", "timestamp": "2025-02-28 00:47:05", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 87, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Merge", "timestamp": "2025-02-28 00:47:33", "status": "success", "entries_created": 3}
+{"index": 88, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Plugin", "timestamp": "2025-02-28 00:48:23", "status": "success", "entries_created": 3}
+{"index": 89, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Post-Selector", "timestamp": "2025-02-28 00:48:38", "status": "success", "entries_created": 3}
+{"index": 90, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Pull-Request", "timestamp": "2025-02-28 00:51:43", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 91, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-SCM-Provider", "timestamp": "2025-02-28 00:54:49", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 92, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators", "timestamp": "2025-02-28 00:55:02", "status": "success", "entries_created": 2}
+{"index": 93, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Getting-Started", "timestamp": "2025-02-28 00:55:23", "status": "success", "entries_created": 3}
+{"index": 94, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/GoTemplate", "timestamp": "2025-02-28 00:56:14", "status": "success", "entries_created": 3}
+{"index": 95, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Progressive-Syncs", "timestamp": "2025-02-28 00:56:51", "status": "success", "entries_created": 3}
+{"index": 96, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Security", "timestamp": "2025-02-28 00:57:05", "status": "success", "entries_created": 2}
+{"index": 97, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Template", "timestamp": "2025-02-28 00:57:36", "status": "success", "entries_created": 3}
+{"index": 98, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Use-Cases", "timestamp": "2025-02-28 00:58:11", "status": "success", "entries_created": 3}
+{"index": 99, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/applicationset-specification", "timestamp": "2025-02-28 01:00:00", "status": "success", "entries_created": 3}
+{"index": 100, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications", "timestamp": "2025-02-28 01:00:22", "status": "success", "entries_created": 3}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 01:03:28", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 102, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/functions", "timestamp": "2025-02-28 01:05:10", "status": "success", "entries_created": 2}
+{"index": 103, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/monitoring", "timestamp": "2025-02-28 01:05:22", "status": "success", "entries_created": 3}
+{"index": 104, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/subscriptions", "timestamp": "2025-02-28 01:05:59", "status": "success", "entries_created": 3}
+{"index": 105, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/templates", "timestamp": "2025-02-28 01:06:16", "status": "success", "entries_created": 3}
+{"index": 106, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/triggers", "timestamp": "2025-02-28 01:06:40", "status": "success", "entries_created": 3}
+{"index": 107, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/troubleshooting-commands", "timestamp": "2025-02-28 01:07:33", "status": "success", "entries_created": 2}
+{"index": 108, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/troubleshooting-errors", "timestamp": "2025-02-28 01:07:53", "status": "success", "entries_created": 3}
+{"index": 109, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/troubleshooting", "timestamp": "2025-02-28 01:08:51", "status": "success", "entries_created": 3}
+{"index": 110, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/alertmanager", "timestamp": "2025-02-28 01:09:33", "status": "success", "entries_created": 3}
+{"index": 111, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/awssqs", "timestamp": "2025-02-28 01:09:54", "status": "success", "entries_created": 3}
+{"index": 112, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/email", "timestamp": "2025-02-28 01:10:04", "status": "success", "entries_created": 2}
+{"index": 113, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/github", "timestamp": "2025-02-28 01:10:28", "status": "success", "entries_created": 3}
+{"index": 114, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/googlechat", "timestamp": "2025-02-28 01:10:50", "status": "success", "entries_created": 3}
+{"index": 115, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/grafana", "timestamp": "2025-02-28 01:11:13", "status": "success", "entries_created": 3}
+{"index": 116, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/mattermost", "timestamp": "2025-02-28 01:11:53", "status": "success", "entries_created": 3}
+{"index": 117, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/newrelic", "timestamp": "2025-02-28 01:12:15", "status": "success", "entries_created": 3}
+{"index": 118, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/opsgenie", "timestamp": "2025-02-28 01:12:56", "status": "success", "entries_created": 3}
+{"index": 119, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/overview", "timestamp": "2025-02-28 01:13:14", "status": "success", "entries_created": 2}
+{"index": 120, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/pagerduty", "timestamp": "2025-02-28 01:13:51", "status": "success", "entries_created": 3}
+{"index": 121, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/pagerduty_v2", "timestamp": "2025-02-28 01:14:11", "status": "success", "entries_created": 3}
+{"index": 122, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/pushover", "timestamp": "2025-02-28 01:14:30", "status": "success", "entries_created": 2}
+{"index": 123, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/rocketchat", "timestamp": "2025-02-28 01:14:58", "status": "success", "entries_created": 3}
+{"index": 124, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/slack", "timestamp": "2025-02-28 01:15:21", "status": "success", "entries_created": 3}
+{"index": 125, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/teams", "timestamp": "2025-02-28 01:16:52", "status": "success", "entries_created": 3}
+{"index": 126, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/telegram", "timestamp": "2025-02-28 01:17:13", "status": "success", "entries_created": 3}
+{"index": 127, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/webex", "timestamp": "2025-02-28 01:17:37", "status": "success", "entries_created": 2}
+{"index": 128, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/webhook", "timestamp": "2025-02-28 01:20:43", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 129, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/server-commands/additional-configuration-method", "timestamp": "2025-02-28 01:22:07", "status": "success", "entries_created": 2}
+{"index": 130, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/server-commands/argocd-application-controller", "timestamp": "2025-02-28 01:22:47", "status": "success", "entries_created": 2}
+{"index": 131, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/server-commands/argocd-dex", "timestamp": "2025-02-28 01:22:54", "status": "success", "entries_created": 3}
+{"index": 132, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/server-commands/argocd-dex_gendexcfg", "timestamp": "2025-02-28 01:24:28", "status": "success", "entries_created": 2}
+{"index": 133, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/server-commands/argocd-dex_rundex", "timestamp": "2025-02-28 01:24:45", "status": "success", "entries_created": 2}
+{"index": 134, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/server-commands/argocd-repo-server", "timestamp": "2025-02-28 01:26:15", "status": "success", "entries_created": 3}
+{"index": 135, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/server-commands/argocd-server", "timestamp": "2025-02-28 01:28:01", "status": "success", "entries_created": 2}
+{"index": 136, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/server-commands/argocd-server_version", "timestamp": "2025-02-28 01:29:17", "status": "success", "entries_created": 3}
+{"index": 137, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/1.0-1.1", "timestamp": "2025-02-28 01:30:39", "status": "success", "entries_created": 2}
+{"index": 138, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/1.1-1.2", "timestamp": "2025-02-28 01:31:32", "status": "success", "entries_created": 2}
+{"index": 139, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/1.2-1.3", "timestamp": "2025-02-28 01:31:43", "status": "success", "entries_created": 2}
+{"index": 140, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/1.3-1.4", "timestamp": "2025-02-28 01:33:05", "status": "success", "entries_created": 2}
+{"index": 141, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/1.4-1.5", "timestamp": "2025-02-28 01:33:26", "status": "success", "entries_created": 2}
+{"index": 142, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/1.5-1.6", "timestamp": "2025-02-28 01:33:40", "status": "success", "entries_created": 2}
+{"index": 143, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/1.6-1.7", "timestamp": "2025-02-28 01:33:51", "status": "success", "entries_created": 3}
+{"index": 144, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/1.7-1.8", "timestamp": "2025-02-28 01:34:04", "status": "success", "entries_created": 3}
+{"index": 145, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/1.8-2.0", "timestamp": "2025-02-28 01:34:30", "status": "success", "entries_created": 3}
+{"index": 146, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.0-2.1", "timestamp": "2025-02-28 01:34:43", "status": "success", "entries_created": 3}
+{"index": 147, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.1-2.2", "timestamp": "2025-02-28 01:35:02", "status": "success", "entries_created": 3}
+{"index": 148, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.10-2.11", "timestamp": "2025-02-28 01:35:17", "status": "success", "entries_created": 3}
+{"index": 149, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.11-2.12", "timestamp": "2025-02-28 01:35:29", "status": "success", "entries_created": 2}
+{"index": 150, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.12-2.13", "timestamp": "2025-02-28 01:35:47", "status": "success", "entries_created": 2}
+{"index": 151, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.13-2.14", "timestamp": "2025-02-28 01:35:51", "status": "success", "entries_created": 1}
+{"index": 152, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.2-2.3", "timestamp": "2025-02-28 01:36:17", "status": "success", "entries_created": 3}
+{"index": 153, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.3-2.4", "timestamp": "2025-02-28 01:36:53", "status": "success", "entries_created": 3}
+{"index": 154, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.4-2.5", "timestamp": "2025-02-28 01:37:29", "status": "success", "entries_created": 3}
+{"index": 155, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.5-2.6", "timestamp": "2025-02-28 01:37:47", "status": "success", "entries_created": 3}
+{"index": 156, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.6-2.7", "timestamp": "2025-02-28 01:38:11", "status": "success", "entries_created": 3}
+{"index": 157, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.7-2.8", "timestamp": "2025-02-28 01:38:31", "status": "success", "entries_created": 3}
+{"index": 158, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.8-2.9", "timestamp": "2025-02-28 01:38:44", "status": "success", "entries_created": 3}
+{"index": 159, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/2.9-2.10", "timestamp": "2025-02-28 01:38:59", "status": "success", "entries_created": 3}
+{"index": 160, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/upgrading/overview", "timestamp": "2025-02-28 01:39:07", "status": "success", "entries_created": 3}
+{"index": 161, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management", "timestamp": "2025-02-28 01:39:42", "status": "success", "entries_created": 3}
+{"index": 162, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/auth0", "timestamp": "2025-02-28 01:40:12", "status": "success", "entries_created": 3}
+{"index": 163, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/google", "timestamp": "2025-02-28 01:40:55", "status": "success", "entries_created": 3}
+{"index": 164, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/identity-center", "timestamp": "2025-02-28 01:41:15", "status": "success", "entries_created": 3}
+{"index": 165, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/keycloak", "timestamp": "2025-02-28 01:41:50", "status": "success", "entries_created": 3}
+{"index": 166, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/microsoft", "timestamp": "2025-02-28 01:42:09", "status": "success", "entries_created": 3}
+{"index": 167, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/okta", "timestamp": "2025-02-28 01:42:42", "status": "success", "entries_created": 3}
+{"index": 168, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/onelogin", "timestamp": "2025-02-28 01:43:10", "status": "success", "entries_created": 3}
+{"index": 169, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/openunison", "timestamp": "2025-02-28 01:43:29", "status": "success", "entries_created": 3}
+{"index": 170, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/zitadel", "timestamp": "2025-02-28 01:43:59", "status": "success", "entries_created": 3}
+{"index": 171, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/001-proposal-template", "timestamp": "2025-02-28 01:44:10", "status": "success", "entries_created": 1}
+{"index": 172, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/002-ui-extensions", "timestamp": "2025-02-28 01:44:51", "status": "success", "entries_created": 3}
+{"index": 173, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/003-applications-outside-argocd-namespace", "timestamp": "2025-02-28 01:47:45", "status": "success", "entries_created": 3}
+{"index": 174, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/004-scalability-benchmarking", "timestamp": "2025-02-28 01:48:09", "status": "success", "entries_created": 1}
+{"index": 175, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/2022-07-13-appset-progressive-rollout-strategy", "timestamp": "2025-02-28 01:48:44", "status": "success", "entries_created": 3}
+{"index": 176, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/application-name-identifier", "timestamp": "2025-02-28 01:49:31", "status": "success", "entries_created": 3}
+{"index": 177, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/applicationset-plugin-generator", "timestamp": "2025-02-28 01:49:59", "status": "success", "entries_created": 2}
+{"index": 178, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/backend-support-appset", "timestamp": "2025-02-28 01:51:41", "status": "success", "entries_created": 3}
+{"index": 179, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/config-management-plugin-v2", "timestamp": "2025-02-28 01:52:33", "status": "success", "entries_created": 3}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 01:55:38", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 181, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/deep-links", "timestamp": "2025-02-28 01:56:01", "status": "success", "entries_created": 3}
+{"index": 182, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/feature-bounties", "timestamp": "2025-02-28 01:56:10", "status": "success", "entries_created": 1}
+{"index": 183, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/headless-argocd", "timestamp": "2025-02-28 01:56:29", "status": "success", "entries_created": 3}
+{"index": 184, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/manifest-hydrator", "timestamp": "2025-02-28 01:56:39", "status": "success", "entries_created": 3}
+{"index": 185, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/multiple-sources-for-applications-ui", "timestamp": "2025-02-28 01:56:58", "status": "success", "entries_created": 2}
+{"index": 186, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/multiple-sources-for-applications", "timestamp": "2025-02-28 01:57:32", "status": "success", "entries_created": 3}
+{"index": 187, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/native-oci-support", "timestamp": "2025-02-28 01:58:04", "status": "success", "entries_created": 1}
+{"index": 188, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/notifications-API", "timestamp": "2025-02-28 01:58:16", "status": "success", "entries_created": 2}
+{"index": 189, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/parameterized-config-management-plugins", "timestamp": "2025-02-28 01:58:51", "status": "success", "entries_created": 3}
+{"index": 190, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/project-repos-and-clusters", "timestamp": "2025-02-28 01:59:19", "status": "success", "entries_created": 3}
+{"index": 191, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/project-scoped-repository-enhancements", "timestamp": "2025-02-28 01:59:48", "status": "success", "entries_created": 1}
+{"index": 192, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/proxy-extensions", "timestamp": "2025-02-28 02:00:23", "status": "success", "entries_created": 3}
+{"index": 193, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/rebalancing-clusters-across-shards-dynamically", "timestamp": "2025-02-28 02:00:55", "status": "success", "entries_created": 2}
+{"index": 194, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/resource-deletion-with-approval", "timestamp": "2025-02-28 02:01:28", "status": "success", "entries_created": 3}
+{"index": 195, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/respect-rbac-for-resource-exclusions", "timestamp": "2025-02-28 02:02:59", "status": "success", "entries_created": 2}
+{"index": 196, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/server-side-apply", "timestamp": "2025-02-28 02:03:17", "status": "success", "entries_created": 2}
+{"index": 197, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/server-side-pagination", "timestamp": "2025-02-28 02:03:53", "status": "success", "entries_created": 3}
+{"index": 198, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/sync-timeout", "timestamp": "2025-02-28 02:04:10", "status": "success", "entries_created": 3}
+{"index": 199, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/feature-bounties/hide-annotations", "timestamp": "2025-02-28 02:04:17", "status": "success", "entries_created": 3}
+{"index": 200, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/manifest-hydrator/commit-server", "timestamp": "2025-02-28 02:04:23", "status": "success", "entries_created": 3}
+{"index": 201, "url": "https://argo-cd.readthedocs.io/en/stable/snyk", "timestamp": "2025-02-28 02:04:50", "status": "success", "entries_created": 1}
+{"index": 202, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide", "timestamp": "2025-02-28 02:04:54", "status": "success", "entries_created": 2}
+{"index": 203, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/annotations-and-labels", "timestamp": "2025-02-28 02:05:08", "status": "success", "entries_created": 1}
+{"index": 204, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/app_deletion", "timestamp": "2025-02-28 02:05:23", "status": "success", "entries_created": 3}
+{"index": 205, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/application-set", "timestamp": "2025-02-28 02:05:33", "status": "success", "entries_created": 3}
+{"index": 206, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/application-specification", "timestamp": "2025-02-28 02:07:19", "status": "success", "entries_created": 3}
+{"index": 207, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/application_sources", "timestamp": "2025-02-28 02:08:26", "status": "success", "entries_created": 3}
+{"index": 208, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/auto_sync", "timestamp": "2025-02-28 02:08:40", "status": "success", "entries_created": 3}
+{"index": 209, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/best_practices", "timestamp": "2025-02-28 02:08:50", "status": "success", "entries_created": 3}
+{"index": 210, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/build-environment", "timestamp": "2025-02-28 02:08:56", "status": "success", "entries_created": 3}
+{"index": 211, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/ci_automation", "timestamp": "2025-02-28 02:09:09", "status": "success", "entries_created": 3}
+{"index": 212, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/compare-options", "timestamp": "2025-02-28 02:09:25", "status": "success", "entries_created": 3}
+{"index": 213, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/config-management-plugins", "timestamp": "2025-02-28 02:09:53", "status": "success", "entries_created": 1}
+{"index": 214, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/diff-strategies", "timestamp": "2025-02-28 02:10:49", "status": "success", "entries_created": 3}
+{"index": 215, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/diffing", "timestamp": "2025-02-28 02:11:23", "status": "success", "entries_created": 3}
+{"index": 216, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/directory", "timestamp": "2025-02-28 02:12:07", "status": "success", "entries_created": 3}
+{"index": 217, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/environment-variables", "timestamp": "2025-02-28 02:12:14", "status": "success", "entries_created": 1}
+{"index": 218, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/external-url", "timestamp": "2025-02-28 02:12:18", "status": "success", "entries_created": 3}
+{"index": 219, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/extra_info", "timestamp": "2025-02-28 02:12:24", "status": "success", "entries_created": 3}
+{"index": 220, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/gpg-verification", "timestamp": "2025-02-28 02:13:13", "status": "success", "entries_created": 3}
+{"index": 221, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm", "timestamp": "2025-02-28 02:16:18", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 222, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/import", "timestamp": "2025-02-28 02:17:03", "status": "success", "entries_created": 2}
+{"index": 223, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/jsonnet", "timestamp": "2025-02-28 02:17:25", "status": "success", "entries_created": 2}
+{"index": 224, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/kustomize", "timestamp": "2025-02-28 02:20:31", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 225, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/multiple_sources", "timestamp": "2025-02-28 02:21:21", "status": "success", "entries_created": 3}
+{"index": 226, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/orphaned-resources", "timestamp": "2025-02-28 02:21:42", "status": "success", "entries_created": 3}
+{"index": 227, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/parameters", "timestamp": "2025-02-28 02:22:12", "status": "success", "entries_created": 3}
+{"index": 228, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/private-repositories", "timestamp": "2025-02-28 02:22:56", "status": "success", "entries_created": 3}
+{"index": 229, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/projects", "timestamp": "2025-02-28 02:24:45", "status": "success", "entries_created": 3}
+{"index": 230, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/resource_hooks", "timestamp": "2025-02-28 02:25:16", "status": "success", "entries_created": 3}
+{"index": 231, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/resource_tracking", "timestamp": "2025-02-28 02:26:09", "status": "success", "entries_created": 3}
+{"index": 232, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/selective_sync", "timestamp": "2025-02-28 02:29:14", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 233, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/skip_reconcile", "timestamp": "2025-02-28 02:29:49", "status": "success", "entries_created": 3}
+{"index": 234, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/source-hydrator", "timestamp": "2025-02-28 02:32:55", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 235, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/status-badge", "timestamp": "2025-02-28 02:33:37", "status": "success", "entries_created": 3}
+{"index": 236, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/subscriptions", "timestamp": "2025-02-28 02:34:01", "status": "success", "entries_created": 3}
+{"index": 237, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/sync-kubectl", "timestamp": "2025-02-28 02:35:26", "status": "success", "entries_created": 3}
+{"index": 238, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/sync-options", "timestamp": "2025-02-28 02:38:32", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 239, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/sync-waves", "timestamp": "2025-02-28 02:39:00", "status": "success", "entries_created": 3}
+{"index": 240, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/sync_windows", "timestamp": "2025-02-28 02:39:31", "status": "success", "entries_created": 3}
+{"index": 241, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/tool_detection", "timestamp": "2025-02-28 02:39:52", "status": "success", "entries_created": 3}
+{"index": 242, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/tracking_strategies", "timestamp": "2025-02-28 02:42:57", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 243, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd", "timestamp": "2025-02-28 02:43:45", "status": "success", "entries_created": 2}
+{"index": 244, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_account", "timestamp": "2025-02-28 02:44:40", "status": "success", "entries_created": 3}
+{"index": 245, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_account_bcrypt", "timestamp": "2025-02-28 02:46:02", "status": "success", "entries_created": 2}
+{"index": 246, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_account_can-i", "timestamp": "2025-02-28 02:47:33", "status": "success", "entries_created": 2}
+{"index": 247, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_account_delete-token", "timestamp": "2025-02-28 02:47:58", "status": "success", "entries_created": 2}
+{"index": 248, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_account_generate-token", "timestamp": "2025-02-28 02:48:09", "status": "success", "entries_created": 3}
+{"index": 249, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_account_get-user-info", "timestamp": "2025-02-28 02:50:31", "status": "success", "entries_created": 3}
+{"index": 250, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_account_get", "timestamp": "2025-02-28 02:51:13", "status": "success", "entries_created": 2}
+{"index": 251, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_account_list", "timestamp": "2025-02-28 02:51:51", "status": "success", "entries_created": 2}
+{"index": 252, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_account_update-password", "timestamp": "2025-02-28 02:52:19", "status": "success", "entries_created": 2}
+{"index": 253, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin", "timestamp": "2025-02-28 02:52:26", "status": "success", "entries_created": 3}
+{"index": 254, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_app", "timestamp": "2025-02-28 02:52:47", "status": "success", "entries_created": 3}
+{"index": 255, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_app_diff-reconcile-results", "timestamp": "2025-02-28 02:53:20", "status": "success", "entries_created": 2}
+{"index": 256, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_app_generate-spec", "timestamp": "2025-02-28 02:53:55", "status": "success", "entries_created": 2}
+{"index": 257, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_app_get-reconcile-results", "timestamp": "2025-02-28 02:55:04", "status": "success", "entries_created": 3}
+{"index": 258, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_cluster", "timestamp": "2025-02-28 02:55:14", "status": "success", "entries_created": 3}
+{"index": 259, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_cluster_generate-spec", "timestamp": "2025-02-28 02:55:35", "status": "success", "entries_created": 3}
+{"index": 260, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_cluster_kubeconfig", "timestamp": "2025-02-28 02:56:05", "status": "success", "entries_created": 3}
+{"index": 261, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_cluster_namespaces", "timestamp": "2025-02-28 02:56:39", "status": "success", "entries_created": 3}
+{"index": 262, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_cluster_namespaces_disable-namespaced-mode", "timestamp": "2025-02-28 02:57:03", "status": "success", "entries_created": 3}
+{"index": 263, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_cluster_namespaces_enable-namespaced-mode", "timestamp": "2025-02-28 02:57:18", "status": "success", "entries_created": 3}
+{"index": 264, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_cluster_shards", "timestamp": "2025-02-28 02:57:25", "status": "success", "entries_created": 3}
+{"index": 265, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_cluster_stats", "timestamp": "2025-02-28 02:58:09", "status": "success", "entries_created": 2}
+{"index": 266, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_dashboard", "timestamp": "2025-02-28 02:58:22", "status": "success", "entries_created": 3}
+{"index": 267, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_export", "timestamp": "2025-02-28 02:58:58", "status": "success", "entries_created": 3}
+{"index": 268, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_import", "timestamp": "2025-02-28 02:59:22", "status": "success", "entries_created": 2}
+{"index": 269, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_initial-password", "timestamp": "2025-02-28 02:59:40", "status": "success", "entries_created": 3}
+{"index": 270, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_notifications", "timestamp": "2025-02-28 03:00:27", "status": "success", "entries_created": 2}
+{"index": 271, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_notifications_template", "timestamp": "2025-02-28 03:00:55", "status": "success", "entries_created": 3}
+{"index": 272, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_notifications_template_get", "timestamp": "2025-02-28 03:01:18", "status": "success", "entries_created": 3}
+{"index": 273, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_notifications_template_notify", "timestamp": "2025-02-28 03:02:08", "status": "success", "entries_created": 3}
+{"index": 274, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_notifications_trigger", "timestamp": "2025-02-28 03:02:19", "status": "success", "entries_created": 3}
+{"index": 275, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_notifications_trigger_get", "timestamp": "2025-02-28 03:02:53", "status": "success", "entries_created": 3}
+{"index": 276, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_notifications_trigger_run", "timestamp": "2025-02-28 03:03:30", "status": "success", "entries_created": 3}
+{"index": 277, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_proj", "timestamp": "2025-02-28 03:04:01", "status": "success", "entries_created": 2}
+{"index": 278, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_proj_generate-allow-list", "timestamp": "2025-02-28 03:04:36", "status": "success", "entries_created": 2}
+{"index": 279, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_proj_generate-spec", "timestamp": "2025-02-28 03:04:56", "status": "success", "entries_created": 3}
+{"index": 280, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_proj_update-role-policy", "timestamp": "2025-02-28 03:05:08", "status": "success", "entries_created": 3}
+{"index": 281, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_redis-initial-password", "timestamp": "2025-02-28 03:05:27", "status": "success", "entries_created": 3}
+{"index": 282, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_repo", "timestamp": "2025-02-28 03:05:39", "status": "success", "entries_created": 3}
+{"index": 283, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_repo_generate-spec", "timestamp": "2025-02-28 03:05:56", "status": "success", "entries_created": 3}
+{"index": 284, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings", "timestamp": "2025-02-28 03:06:13", "status": "success", "entries_created": 2}
+{"index": 285, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings_rbac", "timestamp": "2025-02-28 03:06:27", "status": "success", "entries_created": 3}
+{"index": 286, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings_rbac_can", "timestamp": "2025-02-28 03:07:11", "status": "success", "entries_created": 2}
+{"index": 287, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings_rbac_validate", "timestamp": "2025-02-28 03:08:00", "status": "success", "entries_created": 3}
+{"index": 288, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings_resource-overrides", "timestamp": "2025-02-28 03:11:05", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 289, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings_resource-overrides_health", "timestamp": "2025-02-28 03:13:03", "status": "success", "entries_created": 3}
+{"index": 290, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings_resource-overrides_ignore-differences", "timestamp": "2025-02-28 03:15:42", "status": "success", "entries_created": 2}
+{"index": 291, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings_resource-overrides_ignore-resource-updates", "timestamp": "2025-02-28 03:18:49", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 292, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings_resource-overrides_list-actions", "timestamp": "2025-02-28 03:19:15", "status": "success", "entries_created": 2}
+{"index": 293, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings_resource-overrides_run-action", "timestamp": "2025-02-28 03:20:09", "status": "success", "entries_created": 2}
+{"index": 294, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings_validate", "timestamp": "2025-02-28 03:20:44", "status": "success", "entries_created": 3}
+{"index": 295, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app", "timestamp": "2025-02-28 03:21:09", "status": "success", "entries_created": 2}
+{"index": 296, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_actions", "timestamp": "2025-02-28 03:21:33", "status": "success", "entries_created": 3}
+{"index": 297, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_actions_list", "timestamp": "2025-02-28 03:21:47", "status": "success", "entries_created": 3}
+{"index": 298, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_actions_run", "timestamp": "2025-02-28 03:22:12", "status": "success", "entries_created": 3}
+{"index": 299, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_add-source", "timestamp": "2025-02-28 03:22:39", "status": "success", "entries_created": 3}
+{"index": 300, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_confirm-deletion", "timestamp": "2025-02-28 03:22:43", "status": "success", "entries_created": 3}
+{"index": 301, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_create", "timestamp": "2025-02-28 03:22:51", "status": "success", "entries_created": 2}
+{"index": 302, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_delete-resource", "timestamp": "2025-02-28 03:22:58", "status": "success", "entries_created": 3}
+{"index": 303, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_delete", "timestamp": "2025-02-28 03:23:17", "status": "success", "entries_created": 2}
+{"index": 304, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_diff", "timestamp": "2025-02-28 03:23:41", "status": "success", "entries_created": 3}
+{"index": 305, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_edit", "timestamp": "2025-02-28 03:23:54", "status": "success", "entries_created": 2}
+{"index": 306, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_get", "timestamp": "2025-02-28 03:24:02", "status": "success", "entries_created": 3}
+{"index": 307, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_history", "timestamp": "2025-02-28 03:24:05", "status": "success", "entries_created": 3}
+{"index": 308, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_list", "timestamp": "2025-02-28 03:24:11", "status": "success", "entries_created": 3}
+{"index": 309, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_logs", "timestamp": "2025-02-28 03:24:19", "status": "success", "entries_created": 3}
+{"index": 310, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_manifests", "timestamp": "2025-02-28 03:24:26", "status": "success", "entries_created": 3}
+{"index": 311, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_patch-resource", "timestamp": "2025-02-28 03:24:31", "status": "success", "entries_created": 3}
+{"index": 312, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_patch", "timestamp": "2025-02-28 03:24:36", "status": "success", "entries_created": 3}
+{"index": 313, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_remove-source", "timestamp": "2025-02-28 03:24:40", "status": "success", "entries_created": 3}
+{"index": 314, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_resources", "timestamp": "2025-02-28 03:24:44", "status": "success", "entries_created": 3}
+{"index": 315, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_rollback", "timestamp": "2025-02-28 03:24:50", "status": "success", "entries_created": 3}
+{"index": 316, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_set", "timestamp": "2025-02-28 03:24:59", "status": "success", "entries_created": 3}
+{"index": 317, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_sync", "timestamp": "2025-02-28 03:25:26", "status": "success", "entries_created": 2}
+{"index": 318, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_terminate-op", "timestamp": "2025-02-28 03:25:39", "status": "success", "entries_created": 2}
+{"index": 319, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_unset", "timestamp": "2025-02-28 03:25:55", "status": "success", "entries_created": 2}
+{"index": 320, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app_wait", "timestamp": "2025-02-28 03:26:07", "status": "success", "entries_created": 3}
+{"index": 321, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_appset", "timestamp": "2025-02-28 03:26:16", "status": "success", "entries_created": 3}
+{"index": 322, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_appset_create", "timestamp": "2025-02-28 03:26:32", "status": "success", "entries_created": 3}
+{"index": 323, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_appset_delete", "timestamp": "2025-02-28 03:26:40", "status": "success", "entries_created": 3}
+{"index": 324, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_appset_generate", "timestamp": "2025-02-28 03:26:55", "status": "success", "entries_created": 2}
+{"index": 325, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_appset_get", "timestamp": "2025-02-28 03:26:59", "status": "success", "entries_created": 3}
+{"index": 326, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_appset_list", "timestamp": "2025-02-28 03:27:05", "status": "success", "entries_created": 3}
+{"index": 327, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_appset_update", "timestamp": "2025-02-28 03:27:14", "status": "success", "entries_created": 2}
+{"index": 328, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cert", "timestamp": "2025-02-28 03:27:24", "status": "success", "entries_created": 3}
+{"index": 329, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cert_add-ssh", "timestamp": "2025-02-28 03:27:28", "status": "success", "entries_created": 3}
+{"index": 330, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cert_add-tls", "timestamp": "2025-02-28 03:27:32", "status": "success", "entries_created": 3}
+{"index": 331, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cert_list", "timestamp": "2025-02-28 03:27:47", "status": "success", "entries_created": 2}
+{"index": 332, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cert_rm", "timestamp": "2025-02-28 03:27:52", "status": "success", "entries_created": 3}
+{"index": 333, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cli", "timestamp": "2025-02-28 03:27:55", "status": "success", "entries_created": 1}
+{"index": 334, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cluster", "timestamp": "2025-02-28 03:28:02", "status": "success", "entries_created": 2}
+{"index": 335, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cluster_add", "timestamp": "2025-02-28 03:28:07", "status": "success", "entries_created": 3}
+{"index": 336, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cluster_get", "timestamp": "2025-02-28 03:28:20", "status": "success", "entries_created": 2}
+{"index": 337, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cluster_list", "timestamp": "2025-02-28 03:28:55", "status": "success", "entries_created": 3}
+{"index": 338, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cluster_rm", "timestamp": "2025-02-28 03:29:09", "status": "success", "entries_created": 2}
+{"index": 339, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cluster_rotate-auth", "timestamp": "2025-02-28 03:29:26", "status": "success", "entries_created": 3}
+{"index": 340, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_cluster_set", "timestamp": "2025-02-28 03:29:41", "status": "success", "entries_created": 2}
+{"index": 341, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_completion", "timestamp": "2025-02-28 03:29:51", "status": "success", "entries_created": 3}
+{"index": 342, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_configure", "timestamp": "2025-02-28 03:29:55", "status": "success", "entries_created": 2}
+{"index": 343, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_context", "timestamp": "2025-02-28 03:29:59", "status": "success", "entries_created": 3}
+{"index": 344, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_gpg", "timestamp": "2025-02-28 03:30:16", "status": "success", "entries_created": 3}
+{"index": 345, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_gpg_add", "timestamp": "2025-02-28 03:30:20", "status": "success", "entries_created": 3}
+{"index": 346, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_gpg_get", "timestamp": "2025-02-28 03:30:35", "status": "success", "entries_created": 3}
+{"index": 347, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_gpg_list", "timestamp": "2025-02-28 03:30:51", "status": "success", "entries_created": 2}
+{"index": 348, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_gpg_rm", "timestamp": "2025-02-28 03:31:04", "status": "success", "entries_created": 2}
+{"index": 349, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_login", "timestamp": "2025-02-28 03:31:24", "status": "success", "entries_created": 2}
+{"index": 350, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_logout", "timestamp": "2025-02-28 03:31:39", "status": "success", "entries_created": 3}
+{"index": 351, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj", "timestamp": "2025-02-28 03:31:43", "status": "success", "entries_created": 3}
+{"index": 352, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_add-destination-service-account", "timestamp": "2025-02-28 03:31:53", "status": "success", "entries_created": 3}
+{"index": 353, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_add-destination", "timestamp": "2025-02-28 03:32:28", "status": "success", "entries_created": 3}
+{"index": 354, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_add-orphaned-ignore", "timestamp": "2025-02-28 03:32:43", "status": "success", "entries_created": 2}
+{"index": 355, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_add-signature-key", "timestamp": "2025-02-28 03:32:52", "status": "success", "entries_created": 3}
+{"index": 356, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_add-source-namespace", "timestamp": "2025-02-28 03:32:59", "status": "success", "entries_created": 3}
+{"index": 357, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_add-source", "timestamp": "2025-02-28 03:33:05", "status": "success", "entries_created": 3}
+{"index": 358, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_allow-cluster-resource", "timestamp": "2025-02-28 03:33:09", "status": "success", "entries_created": 3}
+{"index": 359, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_allow-namespace-resource", "timestamp": "2025-02-28 03:33:15", "status": "success", "entries_created": 3}
+{"index": 360, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_create", "timestamp": "2025-02-28 03:33:19", "status": "success", "entries_created": 2}
+{"index": 361, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_delete", "timestamp": "2025-02-28 03:33:25", "status": "success", "entries_created": 3}
+{"index": 362, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_deny-cluster-resource", "timestamp": "2025-02-28 03:33:30", "status": "success", "entries_created": 3}
+{"index": 363, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_deny-namespace-resource", "timestamp": "2025-02-28 03:33:36", "status": "success", "entries_created": 3}
+{"index": 364, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_edit", "timestamp": "2025-02-28 03:33:40", "status": "success", "entries_created": 3}
+{"index": 365, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_get", "timestamp": "2025-02-28 03:33:53", "status": "success", "entries_created": 2}
+{"index": 366, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_list", "timestamp": "2025-02-28 03:33:57", "status": "success", "entries_created": 3}
+{"index": 367, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_remove-destination-service-account", "timestamp": "2025-02-28 03:34:03", "status": "success", "entries_created": 3}
+{"index": 368, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_remove-destination", "timestamp": "2025-02-28 03:34:07", "status": "success", "entries_created": 3}
+{"index": 369, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_remove-orphaned-ignore", "timestamp": "2025-02-28 03:34:20", "status": "success", "entries_created": 2}
+{"index": 370, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_remove-signature-key", "timestamp": "2025-02-28 03:34:25", "status": "success", "entries_created": 3}
+{"index": 371, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_remove-source-namespace", "timestamp": "2025-02-28 03:34:29", "status": "success", "entries_created": 3}
+{"index": 372, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_remove-source", "timestamp": "2025-02-28 03:34:32", "status": "success", "entries_created": 3}
+{"index": 373, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_role", "timestamp": "2025-02-28 03:34:45", "status": "success", "entries_created": 2}
+{"index": 374, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_role_add-group", "timestamp": "2025-02-28 03:34:51", "status": "success", "entries_created": 3}
+{"index": 375, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_role_add-policy", "timestamp": "2025-02-28 03:34:59", "status": "success", "entries_created": 3}
+{"index": 376, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_role_create-token", "timestamp": "2025-02-28 03:35:05", "status": "success", "entries_created": 3}
+{"index": 377, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_role_create", "timestamp": "2025-02-28 03:35:11", "status": "success", "entries_created": 3}
+{"index": 378, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_role_delete-token", "timestamp": "2025-02-28 03:35:48", "status": "success", "entries_created": 3}
+{"index": 379, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_role_delete", "timestamp": "2025-02-28 03:35:52", "status": "success", "entries_created": 3}
+{"index": 380, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_role_get", "timestamp": "2025-02-28 03:36:08", "status": "success", "entries_created": 2}
+{"index": 381, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_role_list-tokens", "timestamp": "2025-02-28 03:36:42", "status": "success", "entries_created": 2}
+{"index": 382, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_role_list", "timestamp": "2025-02-28 03:36:47", "status": "success", "entries_created": 3}
+{"index": 383, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_role_remove-group", "timestamp": "2025-02-28 03:36:52", "status": "success", "entries_created": 3}
+{"index": 384, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_role_remove-policy", "timestamp": "2025-02-28 03:37:01", "status": "success", "entries_created": 3}
+{"index": 385, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_set", "timestamp": "2025-02-28 03:37:06", "status": "success", "entries_created": 3}
+{"index": 386, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_windows", "timestamp": "2025-02-28 03:37:12", "status": "success", "entries_created": 3}
+{"index": 387, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_windows_add", "timestamp": "2025-02-28 03:37:18", "status": "success", "entries_created": 3}
+{"index": 388, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_windows_delete", "timestamp": "2025-02-28 03:37:31", "status": "success", "entries_created": 2}
+{"index": 389, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_windows_disable-manual-sync", "timestamp": "2025-02-28 03:37:45", "status": "success", "entries_created": 2}
+{"index": 390, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_windows_enable-manual-sync", "timestamp": "2025-02-28 03:38:05", "status": "success", "entries_created": 2}
+{"index": 391, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_windows_list", "timestamp": "2025-02-28 03:38:10", "status": "success", "entries_created": 3}
+{"index": 392, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_proj_windows_update", "timestamp": "2025-02-28 03:38:26", "status": "success", "entries_created": 2}
+{"index": 393, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_relogin", "timestamp": "2025-02-28 03:38:44", "status": "success", "entries_created": 3}
+{"index": 394, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_repo", "timestamp": "2025-02-28 03:38:48", "status": "success", "entries_created": 3}
+{"index": 395, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_repo_add", "timestamp": "2025-02-28 03:39:02", "status": "success", "entries_created": 3}
+{"index": 396, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_repo_get", "timestamp": "2025-02-28 03:39:18", "status": "success", "entries_created": 2}
+{"index": 397, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_repo_list", "timestamp": "2025-02-28 03:39:23", "status": "success", "entries_created": 3}
+{"index": 398, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_repo_rm", "timestamp": "2025-02-28 03:39:38", "status": "success", "entries_created": 2}
+{"index": 399, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_repocreds", "timestamp": "2025-02-28 03:39:43", "status": "success", "entries_created": 3}
+{"index": 400, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_repocreds_add", "timestamp": "2025-02-28 03:39:50", "status": "success", "entries_created": 3}
+{"index": 401, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_repocreds_list", "timestamp": "2025-02-28 03:39:56", "status": "success", "entries_created": 3}
+{"index": 402, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_repocreds_rm", "timestamp": "2025-02-28 03:40:00", "status": "success", "entries_created": 3}
+{"index": 403, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_version", "timestamp": "2025-02-28 03:40:35", "status": "success", "entries_created": 3}
+{"index": 404, "url": "https://argo-cd.readthedocs.io/en/stable/snyk/master/quay.io_argoproj_argocd_latest.html", "timestamp": "2025-02-28 03:41:20", "status": "success", "entries_created": 1}
+{"index": 405, "url": "https://argo-cd.readthedocs.io/en/stable/snyk/master/argocd-test.html", "timestamp": "2025-02-28 03:42:14", "status": "success", "entries_created": 3}
+{"index": 406, "url": "https://argo-cd.readthedocs.io/en/stable/snyk/master/ghcr.io_dexidp_dex_v2.41.1.html", "timestamp": "2025-02-28 03:42:33", "status": "success", "entries_created": 3}
+{"index": 407, "url": "https://argo-cd.readthedocs.io/en/stable/snyk/v2.12.3/ghcr.io_dexidp_dex_v2.38.0.html", "timestamp": "2025-02-28 03:42:38", "status": "success", "entries_created": 2}
+{"index": 408, "url": "https://argo-cd.readthedocs.io/en/stable/snyk/v2.11.7/redis_7.0.15-alpine.html", "timestamp": "2025-02-28 03:42:43", "status": "success", "entries_created": 2}
+{"index": 409, "url": "https://argo-cd.readthedocs.io/en/stable/snyk/master/public.ecr.aws_docker_library_redis_7.0.15-alpine.html", "timestamp": "2025-02-28 03:42:57", "status": "success", "entries_created": 2}
+{"index": 410, "url": "https://argo-cd.readthedocs.io/en/stable/snyk/v2.12.3/public.ecr.aws_docker_library_redis_7.0.15-alpine.html", "timestamp": "2025-02-28 03:43:03", "status": "success", "entries_created": 2}
+{"index": 411, "url": "https://argo-cd.readthedocs.io/en/stable/snyk/master/argocd-iac-install.html", "timestamp": "2025-02-28 03:43:19", "status": "success", "entries_created": 2}
+{"index": 412, "url": "https://argo-cd.readthedocs.io/en/stable/snyk/master/argocd-iac-namespace-install.html", "timestamp": "2025-02-28 03:43:41", "status": "success", "entries_created": 2}
+{"index": 413, "url": "https://argo-cd.readthedocs.io/en/stable/snyk/v2.11.7/argocd-iac-install.html", "timestamp": "2025-02-28 03:43:46", "status": "success", "entries_created": 2}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 03:46:52", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 03:49:57", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 44, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-ssh-known-hosts-cm-yaml", "timestamp": "2025-02-28 03:53:03", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 45, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-tls-certs-cm-yaml", "timestamp": "2025-02-28 03:53:50", "status": "success", "entries_created": 2}
+{"index": 52, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup", "timestamp": "2025-02-28 03:56:55", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 58, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/high_availability", "timestamp": "2025-02-28 04:00:01", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 59, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/ingress", "timestamp": "2025-02-28 04:01:36", "status": "success", "entries_created": 3}
+{"index": 63, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/rbac", "timestamp": "2025-02-28 04:02:27", "status": "success", "entries_created": 3}
+{"index": 65, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/resource_actions", "timestamp": "2025-02-28 04:05:33", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 86, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Matrix", "timestamp": "2025-02-28 04:08:38", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 90, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Pull-Request", "timestamp": "2025-02-28 04:11:44", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 91, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-SCM-Provider", "timestamp": "2025-02-28 04:14:49", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 04:17:55", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 128, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/services/webhook", "timestamp": "2025-02-28 04:18:29", "status": "success", "entries_created": 3}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 04:21:35", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 221, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm", "timestamp": "2025-02-28 04:24:40", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 224, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/kustomize", "timestamp": "2025-02-28 04:25:38", "status": "success", "entries_created": 3}
+{"index": 232, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/selective_sync", "timestamp": "2025-02-28 04:25:42", "status": "success", "entries_created": 2}
+{"index": 234, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/source-hydrator", "timestamp": "2025-02-28 04:26:14", "status": "success", "entries_created": 3}
+{"index": 238, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/sync-options", "timestamp": "2025-02-28 04:28:51", "status": "success", "entries_created": 3}
+{"index": 242, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/tracking_strategies", "timestamp": "2025-02-28 04:29:11", "status": "success", "entries_created": 2}
+{"index": 288, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings_resource-overrides", "timestamp": "2025-02-28 04:29:30", "status": "success", "entries_created": 2}
+{"index": 291, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_admin_settings_resource-overrides_ignore-resource-updates", "timestamp": "2025-02-28 04:29:53", "status": "success", "entries_created": 3}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 04:33:03", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 04:36:09", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 44, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-ssh-known-hosts-cm-yaml", "timestamp": "2025-02-28 04:39:14", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 52, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup", "timestamp": "2025-02-28 04:42:22", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 58, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/high_availability", "timestamp": "2025-02-28 04:45:27", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 65, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/resource_actions", "timestamp": "2025-02-28 04:46:25", "status": "success", "entries_created": 3}
+{"index": 86, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Matrix", "timestamp": "2025-02-28 04:49:33", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 90, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Pull-Request", "timestamp": "2025-02-28 04:50:16", "status": "success", "entries_created": 3}
+{"index": 91, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-SCM-Provider", "timestamp": "2025-02-28 04:53:21", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 04:56:26", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 04:59:32", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 221, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm", "timestamp": "2025-02-28 05:02:37", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 05:05:48", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 05:08:53", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 44, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-ssh-known-hosts-cm-yaml", "timestamp": "2025-02-28 05:11:59", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 52, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup", "timestamp": "2025-02-28 05:15:04", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 58, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/high_availability", "timestamp": "2025-02-28 05:18:09", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 86, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Matrix", "timestamp": "2025-02-28 05:21:15", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 91, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-SCM-Provider", "timestamp": "2025-02-28 05:22:26", "status": "success", "entries_created": 3}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 05:25:32", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 05:28:37", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 221, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm", "timestamp": "2025-02-28 05:31:43", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 05:43:53", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 05:46:58", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 44, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-ssh-known-hosts-cm-yaml", "timestamp": "2025-02-28 05:50:04", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 52, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup", "timestamp": "2025-02-28 05:53:09", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 58, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/high_availability", "timestamp": "2025-02-28 05:56:15", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 86, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Matrix", "timestamp": "2025-02-28 05:59:20", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 06:02:25", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 06:05:31", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 221, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm", "timestamp": "2025-02-28 06:08:36", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 06:11:47", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 06:14:52", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 44, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-ssh-known-hosts-cm-yaml", "timestamp": "2025-02-28 06:17:58", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 52, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup", "timestamp": "2025-02-28 06:18:30", "status": "success", "entries_created": 3}
+{"index": 58, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/high_availability", "timestamp": "2025-02-28 06:21:45", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 86, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Matrix", "timestamp": "2025-02-28 06:24:50", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 06:27:56", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 06:31:01", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 221, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm", "timestamp": "2025-02-28 06:34:07", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 06:37:17", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 06:40:22", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 44, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-ssh-known-hosts-cm-yaml", "timestamp": "2025-02-28 06:41:21", "status": "success", "entries_created": 2}
+{"index": 58, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/high_availability", "timestamp": "2025-02-28 06:44:27", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 86, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Matrix", "timestamp": "2025-02-28 06:45:23", "status": "success", "entries_created": 3}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 06:48:30", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 06:51:36", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 221, "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/helm", "timestamp": "2025-02-28 06:54:37", "status": "success", "entries_created": 3}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 06:57:52", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 07:00:58", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 58, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/high_availability", "timestamp": "2025-02-28 07:04:04", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 07:07:10", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 07:10:15", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 07:13:25", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 07:16:31", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 58, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/high_availability", "timestamp": "2025-02-28 07:19:21", "status": "success", "entries_created": 3}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 07:22:26", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 07:34:31", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 07:37:42", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 07:40:47", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 07:43:53", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 07:46:58", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 07:50:09", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 07:53:14", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 07:56:32", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 07:59:37", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 08:02:48", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 08:05:53", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 08:09:00", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 08:12:06", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 08:15:16", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 08:18:22", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 08:21:27", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 08:24:37", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 08:27:47", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 08:30:53", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 08:33:58", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 08:37:04", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 08:40:14", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 08:43:20", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 08:46:25", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 08:49:31", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 08:52:41", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 08:55:47", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 08:58:52", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 09:01:58", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 09:05:08", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 09:08:14", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 09:11:19", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 09:14:25", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 09:17:35", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 09:20:40", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 09:23:52", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 180, "url": "https://argo-cd.readthedocs.io/en/stable/proposals/decouple-application-sync-user-using-impersonation", "timestamp": "2025-02-28 09:25:26", "status": "success", "entries_created": 3}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 09:28:36", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 09:31:42", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 09:35:12", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 09:38:23", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 09:41:29", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 09:53:34", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 09:56:20", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 09:59:16", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 10:02:21", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 10:05:32", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 10:08:37", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 10:11:51", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 10:15:01", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 10:18:11", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 10:21:17", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 10:24:27", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 10:27:33", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 101, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/catalog", "timestamp": "2025-02-28 10:30:12", "status": "success", "entries_created": 3}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 10:33:22", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 10:36:28", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 38, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cm-yaml", "timestamp": "2025-02-28 10:39:38", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 39, "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/argocd-cmd-params-cm-yaml", "timestamp": "2025-02-28 10:42:43", "status": "failure", "error": "No usable data returned on retry 25"}

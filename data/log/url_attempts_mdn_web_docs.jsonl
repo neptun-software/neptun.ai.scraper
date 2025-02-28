@@ -1,0 +1,511 @@
+{"index": 0, "url": "https://developer.mozilla.org/en-US", "timestamp": "2025-02-27 23:00:28", "status": "success", "entries_created": 1}
+{"index": 1, "url": "https://developer.mozilla.org/en-US/community", "timestamp": "2025-02-27 23:02:15", "status": "success", "entries_created": 3}
+{"index": 2, "url": "https://developer.mozilla.org/en-US/curriculum", "timestamp": "2025-02-27 23:05:20", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 3, "url": "https://developer.mozilla.org/en-US/advertising", "timestamp": "2025-02-27 23:08:28", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 4, "url": "https://developer.mozilla.org/en-US/docs/MDN", "timestamp": "2025-02-27 23:11:33", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 5, "url": "https://developer.mozilla.org/en-US/docs/Glossary", "timestamp": "2025-02-27 23:13:50", "status": "success", "entries_created": 2}
+{"index": 6, "url": "https://developer.mozilla.org/en-US/docs/Games", "timestamp": "2025-02-27 23:14:11", "status": "success", "entries_created": 2}
+{"index": 7, "url": "https://developer.mozilla.org/en-US/docs/WebAssembly", "timestamp": "2025-02-27 23:17:16", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 8, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Main_Axis", "timestamp": "2025-02-27 23:20:22", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 9, "url": "https://developer.mozilla.org/en-US/docs/Glossary/HPKP", "timestamp": "2025-02-27 23:20:31", "status": "success", "entries_created": 1}
+{"index": 10, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Garbage_collection", "timestamp": "2025-02-27 23:20:40", "status": "success", "entries_created": 1}
+{"index": 11, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Parent_object", "timestamp": "2025-02-27 23:20:50", "status": "success", "entries_created": 1}
+{"index": 12, "url": "https://developer.mozilla.org/en-US/docs/Glossary/SEO", "timestamp": "2025-02-27 23:21:12", "status": "success", "entries_created": 2}
+{"index": 13, "url": "https://developer.mozilla.org/en-US/docs/Glossary/State_machine", "timestamp": "2025-02-27 23:21:28", "status": "success", "entries_created": 1}
+{"index": 14, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Callback_function", "timestamp": "2025-02-27 23:21:47", "status": "success", "entries_created": 3}
+{"index": 15, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Expando", "timestamp": "2025-02-27 23:22:19", "status": "success", "entries_created": 3}
+{"index": 16, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Internationalization", "timestamp": "2025-02-27 23:22:29", "status": "success", "entries_created": 1}
+{"index": 17, "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP", "timestamp": "2025-02-27 23:23:44", "status": "success", "entries_created": 2}
+{"index": 18, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Long_task", "timestamp": "2025-02-27 23:23:49", "status": "success", "entries_created": 1}
+{"index": 19, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Continuous_Media", "timestamp": "2025-02-27 23:23:54", "status": "success", "entries_created": 1}
+{"index": 20, "url": "https://developer.mozilla.org/en-US/docs/Web/Performance", "timestamp": "2025-02-27 23:24:36", "status": "success", "entries_created": 2}
+{"index": 21, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Brotli_compression", "timestamp": "2025-02-27 23:24:49", "status": "success", "entries_created": 2}
+{"index": 22, "url": "https://developer.mozilla.org/en-US/docs/Glossary/LTR", "timestamp": "2025-02-27 23:24:57", "status": "success", "entries_created": 2}
+{"index": 23, "url": "https://developer.mozilla.org/en-US/docs/WebAssembly/Reference", "timestamp": "2025-02-27 23:26:06", "status": "success", "entries_created": 1}
+{"index": 24, "url": "https://developer.mozilla.org/en-US/docs/Glossary/RTSP", "timestamp": "2025-02-27 23:26:20", "status": "success", "entries_created": 1}
+{"index": 25, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Bezier_curve", "timestamp": "2025-02-27 23:26:28", "status": "success", "entries_created": 2}
+{"index": 26, "url": "https://developer.mozilla.org/en-US/docs/Glossary/SRI", "timestamp": "2025-02-27 23:26:39", "status": "success", "entries_created": 1}
+{"index": 27, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Gecko", "timestamp": "2025-02-27 23:27:16", "status": "success", "entries_created": 1}
+{"index": 28, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Binding", "timestamp": "2025-02-27 23:27:30", "status": "success", "entries_created": 1}
+{"index": 29, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Main_thread", "timestamp": "2025-02-27 23:29:19", "status": "success", "entries_created": 2}
+{"index": 30, "url": "https://developer.mozilla.org/en-US/docs/Glossary/OOP", "timestamp": "2025-02-27 23:30:29", "status": "success", "entries_created": 2}
+{"index": 31, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Python", "timestamp": "2025-02-27 23:30:44", "status": "success", "entries_created": 1}
+{"index": 32, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Web_standards", "timestamp": "2025-02-27 23:31:35", "status": "success", "entries_created": 1}
+{"index": 33, "url": "https://developer.mozilla.org/en-US/docs/Glossary/User_agent", "timestamp": "2025-02-27 23:31:54", "status": "success", "entries_created": 3}
+{"index": 34, "url": "https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor", "timestamp": "2025-02-27 23:32:01", "status": "success", "entries_created": 1}
+{"index": 35, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Exception", "timestamp": "2025-02-27 23:34:30", "status": "success", "entries_created": 1}
+{"index": 36, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Locale", "timestamp": "2025-02-27 23:34:38", "status": "success", "entries_created": 2}
+{"index": 37, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Payload_body", "timestamp": "2025-02-27 23:34:49", "status": "success", "entries_created": 1}
+{"index": 38, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Response_header", "timestamp": "2025-02-27 23:34:58", "status": "success", "entries_created": 3}
+{"index": 39, "url": "https://developer.mozilla.org/en-US/plus/docs/faq", "timestamp": "2025-02-27 23:35:30", "status": "success", "entries_created": 1}
+{"index": 40, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Domain", "timestamp": "2025-02-27 23:36:57", "status": "success", "entries_created": 1}
+{"index": 41, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Character_set", "timestamp": "2025-02-27 23:37:14", "status": "success", "entries_created": 2}
+{"index": 42, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Forbidden_header_name", "timestamp": "2025-02-27 23:38:28", "status": "success", "entries_created": 3}
+{"index": 43, "url": "https://developer.mozilla.org/en-US/docs/Glossary/WebIDL", "timestamp": "2025-02-27 23:38:47", "status": "success", "entries_created": 1}
+{"index": 44, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Accent", "timestamp": "2025-02-27 23:39:06", "status": "success", "entries_created": 2}
+{"index": 45, "url": "https://developer.mozilla.org/en-US/docs/Web/Events", "timestamp": "2025-02-27 23:39:17", "status": "success", "entries_created": 2}
+{"index": 46, "url": "https://developer.mozilla.org/en-US/observatory/docs/tests_and_scoring", "timestamp": "2025-02-27 23:39:26", "status": "success", "entries_created": 3}
+{"index": 47, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Nullish", "timestamp": "2025-02-27 23:39:56", "status": "success", "entries_created": 1}
+{"index": 48, "url": "https://developer.mozilla.org/en-US/docs/Glossary/CSS_Descriptor", "timestamp": "2025-02-27 23:40:05", "status": "success", "entries_created": 1}
+{"index": 49, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Entity", "timestamp": "2025-02-27 23:42:31", "status": "success", "entries_created": 1}
+{"index": 50, "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility", "timestamp": "2025-02-27 23:42:56", "status": "success", "entries_created": 2}
+{"index": 51, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Delta", "timestamp": "2025-02-27 23:43:07", "status": "success", "entries_created": 3}
+{"index": 52, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS", "timestamp": "2025-02-27 23:43:24", "status": "success", "entries_created": 2}
+{"index": 53, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Favicon", "timestamp": "2025-02-27 23:43:43", "status": "success", "entries_created": 2}
+{"index": 54, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Unicode", "timestamp": "2025-02-27 23:44:37", "status": "success", "entries_created": 2}
+{"index": 55, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Attribute", "timestamp": "2025-02-27 23:44:57", "status": "success", "entries_created": 3}
+{"index": 56, "url": "https://developer.mozilla.org/en-US/docs/MDN/Guides", "timestamp": "2025-02-27 23:45:25", "status": "success", "entries_created": 1}
+{"index": 57, "url": "https://developer.mozilla.org/en-US/docs/Glossary/SDP", "timestamp": "2025-02-27 23:45:41", "status": "success", "entries_created": 3}
+{"index": 58, "url": "https://developer.mozilla.org/en-US/docs/Glossary/World_Wide_Web", "timestamp": "2025-02-27 23:46:03", "status": "success", "entries_created": 1}
+{"index": 59, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Canonical_order", "timestamp": "2025-02-27 23:46:23", "status": "success", "entries_created": 2}
+{"index": 60, "url": "https://developer.mozilla.org/en-US/docs/Glossary/IIFE", "timestamp": "2025-02-27 23:47:39", "status": "success", "entries_created": 3}
+{"index": 61, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Void_element", "timestamp": "2025-02-27 23:48:02", "status": "success", "entries_created": 3}
+{"index": 62, "url": "https://developer.mozilla.org/en-US/docs/Glossary/XMLHttpRequest", "timestamp": "2025-02-27 23:48:39", "status": "success", "entries_created": 1}
+{"index": 63, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Lazy_load", "timestamp": "2025-02-27 23:48:46", "status": "success", "entries_created": 1}
+{"index": 64, "url": "https://developer.mozilla.org/en-US/docs/Glossary/HTML", "timestamp": "2025-02-27 23:48:58", "status": "success", "entries_created": 1}
+{"index": 65, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Input_method_editor", "timestamp": "2025-02-27 23:49:24", "status": "success", "entries_created": 2}
+{"index": 66, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Compile", "timestamp": "2025-02-27 23:49:37", "status": "success", "entries_created": 2}
+{"index": 67, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Reflow", "timestamp": "2025-02-27 23:50:03", "status": "success", "entries_created": 1}
+{"index": 68, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Serialization", "timestamp": "2025-02-27 23:50:44", "status": "success", "entries_created": 3}
+{"index": 69, "url": "https://developer.mozilla.org/en-US/docs/Glossary/AJAX", "timestamp": "2025-02-27 23:50:56", "status": "success", "entries_created": 2}
+{"index": 70, "url": "https://developer.mozilla.org/en-US/docs/Web/API", "timestamp": "2025-02-27 23:54:01", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 71, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Inheritance", "timestamp": "2025-02-27 23:55:11", "status": "success", "entries_created": 1}
+{"index": 72, "url": "https://developer.mozilla.org/en-US/docs/Glossary/RTP", "timestamp": "2025-02-27 23:55:32", "status": "success", "entries_created": 1}
+{"index": 73, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Domain_sharding", "timestamp": "2025-02-27 23:56:40", "status": "success", "entries_created": 2}
+{"index": 74, "url": "https://developer.mozilla.org/en-US/docs/Glossary/STUN", "timestamp": "2025-02-27 23:58:02", "status": "success", "entries_created": 1}
+{"index": 75, "url": "https://developer.mozilla.org/en-US/docs/Glossary/RNG", "timestamp": "2025-02-27 23:58:16", "status": "success", "entries_created": 1}
+{"index": 76, "url": "https://developer.mozilla.org/en-US/docs/Glossary/HTTP", "timestamp": "2025-02-28 00:00:11", "status": "success", "entries_created": 1}
+{"index": 77, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Kebab_case", "timestamp": "2025-02-28 00:00:54", "status": "success", "entries_created": 2}
+{"index": 78, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Character_encoding", "timestamp": "2025-02-28 00:01:09", "status": "success", "entries_created": 3}
+{"index": 79, "url": "https://developer.mozilla.org/en-US/docs/Glossary/RTF", "timestamp": "2025-02-28 00:01:18", "status": "success", "entries_created": 2}
+{"index": 80, "url": "https://developer.mozilla.org/en-US/docs/Glossary/RTCP", "timestamp": "2025-02-28 00:01:35", "status": "success", "entries_created": 1}
+{"index": 81, "url": "https://developer.mozilla.org/en-US/blog/technical-writing", "timestamp": "2025-02-28 00:04:45", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 82, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Wrapper", "timestamp": "2025-02-28 00:06:16", "status": "success", "entries_created": 1}
+{"index": 83, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Flex_Item", "timestamp": "2025-02-28 00:06:31", "status": "success", "entries_created": 1}
+{"index": 84, "url": "https://developer.mozilla.org/en-US/docs/Glossary/CRUD", "timestamp": "2025-02-28 00:06:55", "status": "success", "entries_created": 1}
+{"index": 85, "url": "https://developer.mozilla.org/en-US/docs/Glossary/TOFU", "timestamp": "2025-02-28 00:09:31", "status": "success", "entries_created": 2}
+{"index": 86, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Browser", "timestamp": "2025-02-28 00:09:42", "status": "success", "entries_created": 1}
+{"index": 87, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Promise", "timestamp": "2025-02-28 00:09:53", "status": "success", "entries_created": 1}
+{"index": 88, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Plugin", "timestamp": "2025-02-28 00:10:31", "status": "success", "entries_created": 1}
+{"index": 89, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Control_flow", "timestamp": "2025-02-28 00:10:56", "status": "success", "entries_created": 3}
+{"index": 90, "url": "https://developer.mozilla.org/en-US/docs/Glossary/TLD", "timestamp": "2025-02-28 00:11:31", "status": "success", "entries_created": 1}
+{"index": 91, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Forbidden_request_header", "timestamp": "2025-02-28 00:11:53", "status": "success", "entries_created": 3}
+{"index": 92, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Polyfill", "timestamp": "2025-02-28 00:13:11", "status": "success", "entries_created": 1}
+{"index": 93, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Method", "timestamp": "2025-02-28 00:14:37", "status": "success", "entries_created": 1}
+{"index": 94, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Semantics", "timestamp": "2025-02-28 00:15:03", "status": "success", "entries_created": 3}
+{"index": 95, "url": "https://developer.mozilla.org/en-US/docs/Glossary/CSS_pixel", "timestamp": "2025-02-28 00:15:15", "status": "success", "entries_created": 1}
+{"index": 96, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Truthy", "timestamp": "2025-02-28 00:15:44", "status": "success", "entries_created": 3}
+{"index": 97, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Replay_attack", "timestamp": "2025-02-28 00:16:04", "status": "success", "entries_created": 2}
+{"index": 98, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Doctype", "timestamp": "2025-02-28 00:16:50", "status": "success", "entries_created": 1}
+{"index": 99, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Gutters", "timestamp": "2025-02-28 00:17:13", "status": "success", "entries_created": 2}
+{"index": 100, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Stylesheet", "timestamp": "2025-02-28 00:17:28", "status": "success", "entries_created": 2}
+{"index": 101, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Localization", "timestamp": "2025-02-28 00:17:37", "status": "success", "entries_created": 2}
+{"index": 102, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Buffer", "timestamp": "2025-02-28 00:18:12", "status": "success", "entries_created": 1}
+{"index": 103, "url": "https://developer.mozilla.org/en-US/Add-ons/Listing", "timestamp": "2025-02-28 00:18:18", "status": "success", "entries_created": 3}
+{"index": 104, "url": "https://developer.mozilla.org/en-US/docs/MDN/Tutorials", "timestamp": "2025-02-28 00:18:46", "status": "success", "entries_created": 2}
+{"index": 105, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Constructor", "timestamp": "2025-02-28 00:19:28", "status": "success", "entries_created": 3}
+{"index": 106, "url": "https://developer.mozilla.org/en-US/docs/Glossary/SDK", "timestamp": "2025-02-28 00:20:20", "status": "success", "entries_created": 2}
+{"index": 107, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Fetch_metadata_request_header", "timestamp": "2025-02-28 00:20:48", "status": "success", "entries_created": 2}
+{"index": 108, "url": "https://developer.mozilla.org/en-US/docs/Glossary/CRLF", "timestamp": "2025-02-28 00:22:10", "status": "success", "entries_created": 1}
+{"index": 109, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Closure", "timestamp": "2025-02-28 00:22:15", "status": "success", "entries_created": 1}
+{"index": 110, "url": "https://developer.mozilla.org/en-US/docs/Glossary/gzip_compression", "timestamp": "2025-02-28 00:22:22", "status": "success", "entries_created": 1}
+{"index": 111, "url": "https://developer.mozilla.org/en-US/Add-ons/Third_Party_Library_Usage", "timestamp": "2025-02-28 00:22:31", "status": "success", "entries_created": 3}
+{"index": 112, "url": "https://developer.mozilla.org/en-US/docs/Glossary/UI", "timestamp": "2025-02-28 00:22:36", "status": "success", "entries_created": 2}
+{"index": 113, "url": "https://developer.mozilla.org/en-US/docs/Glossary/WebP", "timestamp": "2025-02-28 00:22:39", "status": "success", "entries_created": 1}
+{"index": 114, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Property", "timestamp": "2025-02-28 00:22:44", "status": "success", "entries_created": 1}
+{"index": 115, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML", "timestamp": "2025-02-28 00:23:02", "status": "success", "entries_created": 2}
+{"index": 116, "url": "https://developer.mozilla.org/en-US/docs/Glossary/HTTPS_RR", "timestamp": "2025-02-28 00:23:06", "status": "success", "entries_created": 2}
+{"index": 117, "url": "https://developer.mozilla.org/en-US/docs/Glossary/First_paint", "timestamp": "2025-02-28 00:23:13", "status": "success", "entries_created": 1}
+{"index": 118, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Submit_button", "timestamp": "2025-02-28 00:23:23", "status": "success", "entries_created": 1}
+{"index": 119, "url": "https://developer.mozilla.org/en-US/docs/Glossary/GIF", "timestamp": "2025-02-28 00:23:28", "status": "success", "entries_created": 1}
+{"index": 120, "url": "https://developer.mozilla.org/en-US/docs/Glossary/SQL", "timestamp": "2025-02-28 00:23:35", "status": "success", "entries_created": 1}
+{"index": 121, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Request_header", "timestamp": "2025-02-28 00:23:41", "status": "success", "entries_created": 3}
+{"index": 122, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Operand", "timestamp": "2025-02-28 00:23:45", "status": "success", "entries_created": 1}
+{"index": 123, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Markup", "timestamp": "2025-02-28 00:23:51", "status": "success", "entries_created": 1}
+{"index": 124, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Scope", "timestamp": "2025-02-28 00:24:07", "status": "success", "entries_created": 3}
+{"index": 125, "url": "https://developer.mozilla.org/en-US/docs/Glossary/WindowProxy", "timestamp": "2025-02-28 00:24:12", "status": "success", "entries_created": 1}
+{"index": 126, "url": "https://developer.mozilla.org/en-US/docs/Glossary/URI", "timestamp": "2025-02-28 00:24:17", "status": "success", "entries_created": 1}
+{"index": 127, "url": "https://developer.mozilla.org/en-US/docs/Glossary/eTLD", "timestamp": "2025-02-28 00:24:28", "status": "success", "entries_created": 3}
+{"index": 128, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Hotlink", "timestamp": "2025-02-28 00:24:40", "status": "success", "entries_created": 2}
+{"index": 129, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Grid_Column", "timestamp": "2025-02-28 00:24:48", "status": "success", "entries_created": 1}
+{"index": 130, "url": "https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette", "timestamp": "2025-02-28 00:25:19", "status": "success", "entries_created": 2}
+{"index": 131, "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA", "timestamp": "2025-02-28 00:25:40", "status": "success", "entries_created": 3}
+{"index": 132, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Range", "timestamp": "2025-02-28 00:26:07", "status": "success", "entries_created": 1}
+{"index": 133, "url": "https://developer.mozilla.org/en-US/docs/Web/API/VideoPlaybackQuality", "timestamp": "2025-02-28 00:26:15", "status": "success", "entries_created": 1}
+{"index": 134, "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/MIME_types", "timestamp": "2025-02-28 00:26:39", "status": "success", "entries_created": 3}
+{"index": 135, "url": "https://developer.mozilla.org/en-US/docs/Web/API/USBDevice", "timestamp": "2025-02-28 00:27:01", "status": "success", "entries_created": 2}
+{"index": 136, "url": "https://developer.mozilla.org/en-US/docs/Web/Performance/Fundamentals", "timestamp": "2025-02-28 00:27:54", "status": "success", "entries_created": 2}
+{"index": 137, "url": "https://developer.mozilla.org/en-US/docs/Web/Security/User_activation", "timestamp": "2025-02-28 00:28:10", "status": "success", "entries_created": 3}
+{"index": 138, "url": "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Manifest", "timestamp": "2025-02-28 00:28:31", "status": "success", "entries_created": 3}
+{"index": 139, "url": "https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisEvent", "timestamp": "2025-02-28 00:28:40", "status": "success", "entries_created": 2}
+{"index": 140, "url": "https://developer.mozilla.org/en-US/docs/Web/API/EXT_color_buffer_half_float", "timestamp": "2025-02-28 00:28:48", "status": "success", "entries_created": 2}
+{"index": 141, "url": "https://developer.mozilla.org/en-US/docs/Web/API/DOMPoint", "timestamp": "2025-02-28 00:29:05", "status": "success", "entries_created": 3}
+{"index": 142, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/resize", "timestamp": "2025-02-28 00:29:21", "status": "success", "entries_created": 3}
+{"index": 143, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/image", "timestamp": "2025-02-28 00:29:43", "status": "success", "entries_created": 3}
+{"index": 144, "url": "https://developer.mozilla.org/en-US/Add-ons/Distribution/Resources_for_publishers", "timestamp": "2025-02-28 00:29:48", "status": "success", "entries_created": 3}
+{"index": 145, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Child_combinator", "timestamp": "2025-02-28 00:29:59", "status": "success", "entries_created": 3}
+{"index": 146, "url": "https://developer.mozilla.org/en-US/docs/Web/API/TrustedTypePolicyFactory", "timestamp": "2025-02-28 00:30:08", "status": "success", "entries_created": 3}
+{"index": 147, "url": "https://developer.mozilla.org/en-US/docs/Web/API/PerformanceEntry", "timestamp": "2025-02-28 00:30:19", "status": "success", "entries_created": 3}
+{"index": 148, "url": "https://developer.mozilla.org/en-US/docs/Web/Security/Practical_implementation_guides", "timestamp": "2025-02-28 00:30:39", "status": "success", "entries_created": 2}
+{"index": 149, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/url_function", "timestamp": "2025-02-28 00:30:51", "status": "success", "entries_created": 3}
+{"index": 150, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Permissions_API", "timestamp": "2025-02-28 00:31:10", "status": "success", "entries_created": 3}
+{"index": 151, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/display", "timestamp": "2025-02-28 00:31:18", "status": "success", "entries_created": 3}
+{"index": 152, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/abs", "timestamp": "2025-02-28 00:31:38", "status": "success", "entries_created": 3}
+{"index": 153, "url": "https://developer.mozilla.org/en-US/docs/Web/Security/Weak_Signature_Algorithm", "timestamp": "2025-02-28 00:31:43", "status": "success", "entries_created": 2}
+{"index": 154, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Mozilla_Extensions", "timestamp": "2025-02-28 00:34:49", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 155, "url": "https://developer.mozilla.org/en-US/docs/Web/API/MimeType", "timestamp": "2025-02-28 00:34:58", "status": "success", "entries_created": 2}
+{"index": 156, "url": "https://developer.mozilla.org/en-US/docs/Web/WebDriver/Timeouts", "timestamp": "2025-02-28 00:35:14", "status": "success", "entries_created": 3}
+{"index": 157, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Robots.txt", "timestamp": "2025-02-28 00:35:27", "status": "success", "entries_created": 2}
+{"index": 158, "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics", "timestamp": "2025-02-28 00:35:59", "status": "success", "entries_created": 2}
+{"index": 159, "url": "https://developer.mozilla.org/en-US/docs/Web/API/GPUQuerySet", "timestamp": "2025-02-28 00:36:39", "status": "success", "entries_created": 3}
+{"index": 160, "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Protocol_upgrade_mechanism", "timestamp": "2025-02-28 00:37:12", "status": "success", "entries_created": 3}
+{"index": 161, "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Testing", "timestamp": "2025-02-28 00:38:30", "status": "success", "entries_created": 2}
+{"index": 162, "url": "https://developer.mozilla.org/en-US/docs/Web/API/FederatedCredential", "timestamp": "2025-02-28 00:38:45", "status": "success", "entries_created": 3}
+{"index": 163, "url": "https://developer.mozilla.org/en-US/docs/Games/Publishing_games/Game_distribution", "timestamp": "2025-02-28 00:39:17", "status": "success", "entries_created": 2}
+{"index": 164, "url": "https://developer.mozilla.org/en-US/docs/Web/Security/Secure_Contexts", "timestamp": "2025-02-28 00:39:35", "status": "success", "entries_created": 3}
+{"index": 165, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_counter_styles", "timestamp": "2025-02-28 00:40:08", "status": "success", "entries_created": 1}
+{"index": 166, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform", "timestamp": "2025-02-28 00:40:33", "status": "success", "entries_created": 3}
+{"index": 167, "url": "https://developer.mozilla.org/en-US/docs/Web/API/GPUDevice", "timestamp": "2025-02-28 00:41:09", "status": "success", "entries_created": 3}
+{"index": 168, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window", "timestamp": "2025-02-28 00:41:51", "status": "success", "entries_created": 1}
+{"index": 169, "url": "https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Attrib_copyright_license", "timestamp": "2025-02-28 00:42:12", "status": "success", "entries_created": 2}
+{"index": 170, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Content_categories", "timestamp": "2025-02-28 00:42:37", "status": "success", "entries_created": 3}
+{"index": 171, "url": "https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognitionErrorEvent", "timestamp": "2025-02-28 00:42:44", "status": "success", "entries_created": 2}
+{"index": 172, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding", "timestamp": "2025-02-28 00:43:05", "status": "success", "entries_created": 3}
+{"index": 173, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout", "timestamp": "2025-02-28 00:43:24", "status": "success", "entries_created": 3}
+{"index": 174, "url": "https://developer.mozilla.org/en-US/docs/Web/API/DOMStringMap", "timestamp": "2025-02-28 00:43:38", "status": "success", "entries_created": 1}
+{"index": 175, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Push_API", "timestamp": "2025-02-28 00:44:12", "status": "success", "entries_created": 2}
+{"index": 176, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain", "timestamp": "2025-02-28 00:44:37", "status": "success", "entries_created": 3}
+{"index": 177, "url": "https://developer.mozilla.org/en-US/docs/Web/API/DOMPointReadOnly", "timestamp": "2025-02-28 00:44:50", "status": "success", "entries_created": 3}
+{"index": 178, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Credential", "timestamp": "2025-02-28 00:44:57", "status": "success", "entries_created": 3}
+{"index": 179, "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content", "timestamp": "2025-02-28 00:45:09", "status": "success", "entries_created": 2}
+{"index": 180, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API", "timestamp": "2025-02-28 00:48:15", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 181, "url": "https://developer.mozilla.org/en-US/docs/Web/URI/Authority", "timestamp": "2025-02-28 00:48:25", "status": "success", "entries_created": 3}
+{"index": 182, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/clear", "timestamp": "2025-02-28 00:48:39", "status": "success", "entries_created": 3}
+{"index": 183, "url": "https://developer.mozilla.org/en-US/docs/Web/API/WEBGL_debug_shaders", "timestamp": "2025-02-28 00:48:48", "status": "success", "entries_created": 3}
+{"index": 184, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API", "timestamp": "2025-02-28 00:49:15", "status": "success", "entries_created": 2}
+{"index": 185, "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods", "timestamp": "2025-02-28 00:49:47", "status": "success", "entries_created": 2}
+{"index": 186, "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS", "timestamp": "2025-02-28 00:50:00", "status": "success", "entries_created": 3}
+{"index": 187, "url": "https://developer.mozilla.org/en-US/docs/Web/API/XRInputSource", "timestamp": "2025-02-28 00:50:16", "status": "success", "entries_created": 1}
+{"index": 188, "url": "https://developer.mozilla.org/en-US/docs/Web/API/StylePropertyMapReadOnly", "timestamp": "2025-02-28 00:50:31", "status": "success", "entries_created": 2}
+{"index": 189, "url": "https://developer.mozilla.org/en-US/docs/Web/API/DOMHighResTimeStamp", "timestamp": "2025-02-28 00:50:39", "status": "success", "entries_created": 3}
+{"index": 190, "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting", "timestamp": "2025-02-28 00:50:44", "status": "success", "entries_created": 2}
+{"index": 191, "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API", "timestamp": "2025-02-28 00:51:11", "status": "success", "entries_created": 2}
+{"index": 192, "url": "https://developer.mozilla.org/en-US/docs/Web/API/XRWebGLDepthInformation", "timestamp": "2025-02-28 00:51:19", "status": "success", "entries_created": 2}
+{"index": 193, "url": "https://developer.mozilla.org/en-US/docs/Games/Techniques/Audio_for_Web_Games", "timestamp": "2025-02-28 00:51:55", "status": "success", "entries_created": 3}
+{"index": 194, "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLHeadingElement", "timestamp": "2025-02-28 00:51:59", "status": "success", "entries_created": 1}
+{"index": 195, "url": "https://developer.mozilla.org/en-US/docs/Web/API/SVGLineElement", "timestamp": "2025-02-28 00:52:06", "status": "success", "entries_created": 1}
+{"index": 196, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Response", "timestamp": "2025-02-28 00:52:31", "status": "success", "entries_created": 3}
+{"index": 197, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/opacity", "timestamp": "2025-02-28 00:53:25", "status": "success", "entries_created": 3}
+{"index": 198, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Block-level_content", "timestamp": "2025-02-28 00:53:54", "status": "success", "entries_created": 3}
+{"index": 199, "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLTimeElement", "timestamp": "2025-02-28 00:54:16", "status": "success", "entries_created": 1}
+{"index": 200, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document", "timestamp": "2025-02-28 00:55:02", "status": "success", "entries_created": 1}
+{"index": 201, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/width", "timestamp": "2025-02-28 00:55:13", "status": "success", "entries_created": 3}
+{"index": 202, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Date_and_time_formats", "timestamp": "2025-02-28 00:56:10", "status": "success", "entries_created": 3}
+{"index": 203, "url": "https://developer.mozilla.org/en-US/docs/Web/API/AudioDecoder", "timestamp": "2025-02-28 00:58:04", "status": "success", "entries_created": 2}
+{"index": 204, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Media_Capabilities_API", "timestamp": "2025-02-28 00:58:22", "status": "success", "entries_created": 3}
+{"index": 205, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Request", "timestamp": "2025-02-28 00:58:49", "status": "success", "entries_created": 3}
+{"index": 206, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Event", "timestamp": "2025-02-28 00:59:11", "status": "success", "entries_created": 2}
+{"index": 207, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/cursor", "timestamp": "2025-02-28 00:59:27", "status": "success", "entries_created": 3}
+{"index": 208, "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLProgressElement", "timestamp": "2025-02-28 00:59:37", "status": "success", "entries_created": 1}
+{"index": 209, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/asin", "timestamp": "2025-02-28 00:59:58", "status": "success", "entries_created": 2}
+{"index": 210, "url": "https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading", "timestamp": "2025-02-28 01:00:16", "status": "success", "entries_created": 3}
+{"index": 211, "url": "https://developer.mozilla.org/en-US/docs/Web/API/IdleDetector", "timestamp": "2025-02-28 01:00:38", "status": "success", "entries_created": 3}
+{"index": 212, "url": "https://developer.mozilla.org/en-US/docs/Web/API/GPUBuffer", "timestamp": "2025-02-28 01:01:28", "status": "success", "entries_created": 3}
+{"index": 213, "url": "https://developer.mozilla.org/en-US/docs/Web/API/PermissionStatus", "timestamp": "2025-02-28 01:01:51", "status": "success", "entries_created": 3}
+{"index": 214, "url": "https://developer.mozilla.org/en-US/docs/Web/API/BlobEvent", "timestamp": "2025-02-28 01:04:30", "status": "success", "entries_created": 2}
+{"index": 215, "url": "https://developer.mozilla.org/en-US/docs/Web/API/OES_texture_float_linear", "timestamp": "2025-02-28 01:04:55", "status": "success", "entries_created": 2}
+{"index": 216, "url": "https://developer.mozilla.org/en-US/docs/Web/API/NDEFRecord", "timestamp": "2025-02-28 01:05:11", "status": "success", "entries_created": 2}
+{"index": 217, "url": "https://developer.mozilla.org/en-US/docs/Web/API/SVGLength", "timestamp": "2025-02-28 01:05:43", "status": "success", "entries_created": 2}
+{"index": 218, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Non-normative", "timestamp": "2025-02-28 01:06:03", "status": "success", "entries_created": 2}
+{"index": 219, "url": "https://developer.mozilla.org/en-US/docs/Web/API/BluetoothCharacteristicProperties", "timestamp": "2025-02-28 01:06:23", "status": "success", "entries_created": 3}
+{"index": 220, "url": "https://developer.mozilla.org/en-US/docs/Web/Performance/Animation_performance_and_frame_rate", "timestamp": "2025-02-28 01:06:50", "status": "success", "entries_created": 2}
+{"index": 221, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference", "timestamp": "2025-02-28 01:08:33", "status": "success", "entries_created": 1}
+{"index": 222, "url": "https://developer.mozilla.org/en-US/docs/Web/API/RTCAudioSourceStats", "timestamp": "2025-02-28 01:09:01", "status": "success", "entries_created": 3}
+{"index": 223, "url": "https://developer.mozilla.org/en-US/docs/Web/XML/XPath", "timestamp": "2025-02-28 01:10:17", "status": "success", "entries_created": 1}
+{"index": 224, "url": "https://developer.mozilla.org/en-US/docs/Web/API/SyncManager", "timestamp": "2025-02-28 01:10:50", "status": "success", "entries_created": 3}
+{"index": 225, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position", "timestamp": "2025-02-28 01:11:10", "status": "success", "entries_created": 3}
+{"index": 226, "url": "https://developer.mozilla.org/en-US/docs/Web/MathML/Attribute", "timestamp": "2025-02-28 01:11:19", "status": "success", "entries_created": 3}
+{"index": 227, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Attribution_Reporting_API", "timestamp": "2025-02-28 01:11:42", "status": "success", "entries_created": 2}
+{"index": 228, "url": "https://developer.mozilla.org/en-US/docs/Web/API/XRSystem", "timestamp": "2025-02-28 01:12:14", "status": "success", "entries_created": 3}
+{"index": 229, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/microformats", "timestamp": "2025-02-28 01:14:11", "status": "success", "entries_created": 3}
+{"index": 230, "url": "https://developer.mozilla.org/en-US/docs/Games/Techniques/WebRTC_data_channels", "timestamp": "2025-02-28 01:14:17", "status": "success", "entries_created": 1}
+{"index": 231, "url": "https://developer.mozilla.org/en-US/docs/Web/API/PresentationRequest", "timestamp": "2025-02-28 01:14:25", "status": "success", "entries_created": 3}
+{"index": 232, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_mode", "timestamp": "2025-02-28 01:14:32", "status": "success", "entries_created": 2}
+{"index": 233, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Property/CSS", "timestamp": "2025-02-28 01:14:41", "status": "success", "entries_created": 3}
+{"index": 234, "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview", "timestamp": "2025-02-28 01:14:48", "status": "success", "entries_created": 3}
+{"index": 235, "url": "https://developer.mozilla.org/en-US/docs/WebAssembly/Reference/JavaScript_interface", "timestamp": "2025-02-28 01:15:01", "status": "success", "entries_created": 2}
+{"index": 236, "url": "https://developer.mozilla.org/en-US/docs/Web/API/EXT_shader_texture_lod", "timestamp": "2025-02-28 01:15:20", "status": "success", "entries_created": 3}
+{"index": 237, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Constraint_validation", "timestamp": "2025-02-28 01:15:54", "status": "success", "entries_created": 3}
+{"index": 238, "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebGLBuffer", "timestamp": "2025-02-28 01:19:00", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 239, "url": "https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide", "timestamp": "2025-02-28 01:19:18", "status": "success", "entries_created": 2}
+{"index": 240, "url": "https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder", "timestamp": "2025-02-28 01:20:04", "status": "success", "entries_created": 3}
+{"index": 241, "url": "https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API", "timestamp": "2025-02-28 01:22:00", "status": "success", "entries_created": 1}
+{"index": 242, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/sign", "timestamp": "2025-02-28 01:22:23", "status": "success", "entries_created": 3}
+{"index": 243, "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormControlsCollection", "timestamp": "2025-02-28 01:22:45", "status": "success", "entries_created": 2}
+{"index": 244, "url": "https://developer.mozilla.org/en-US/docs/Web/API/XRWebGLBinding", "timestamp": "2025-02-28 01:22:55", "status": "success", "entries_created": 2}
+{"index": 245, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_components", "timestamp": "2025-02-28 01:23:51", "status": "success", "entries_created": 2}
+{"index": 246, "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Solve_CSS_problems", "timestamp": "2025-02-28 01:24:36", "status": "success", "entries_created": 1}
+{"index": 247, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element", "timestamp": "2025-02-28 01:27:43", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 248, "url": "https://developer.mozilla.org/en-US/docs/Web/API/FragmentDirective", "timestamp": "2025-02-28 01:27:59", "status": "success", "entries_created": 3}
+{"index": 249, "url": "https://developer.mozilla.org/en-US/docs/Web/API/SVGTransform", "timestamp": "2025-02-28 01:28:23", "status": "success", "entries_created": 1}
+{"index": 250, "url": "https://developer.mozilla.org/en-US/docs/Web/API/FormData", "timestamp": "2025-02-28 01:29:12", "status": "success", "entries_created": 3}
+{"index": 251, "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Range_requests", "timestamp": "2025-02-28 01:29:35", "status": "success", "entries_created": 3}
+{"index": 252, "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLTrackElement", "timestamp": "2025-02-28 01:30:24", "status": "success", "entries_created": 2}
+{"index": 253, "url": "https://developer.mozilla.org/en-US/docs/Web/API/NDEFMessage", "timestamp": "2025-02-28 01:30:36", "status": "success", "entries_created": 2}
+{"index": 254, "url": "https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Exported_functions", "timestamp": "2025-02-28 01:31:58", "status": "success", "entries_created": 3}
+{"index": 255, "url": "https://developer.mozilla.org/en-US/docs/Web/API/AudioData", "timestamp": "2025-02-28 01:32:17", "status": "success", "entries_created": 2}
+{"index": 256, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API", "timestamp": "2025-02-28 01:32:57", "status": "success", "entries_created": 3}
+{"index": 257, "url": "https://developer.mozilla.org/en-US/docs/Web/API/SVGElement", "timestamp": "2025-02-28 01:33:16", "status": "success", "entries_created": 1}
+{"index": 258, "url": "https://developer.mozilla.org/en-US/docs/Web/API/RTCSessionDescription", "timestamp": "2025-02-28 01:33:35", "status": "success", "entries_created": 3}
+{"index": 259, "url": "https://developer.mozilla.org/en-US/docs/Web/Security/Insecure_passwords", "timestamp": "2025-02-28 01:36:12", "status": "success", "entries_created": 2}
+{"index": 260, "url": "https://developer.mozilla.org/en-US/docs/Web/API/InputDeviceCapabilities_API", "timestamp": "2025-02-28 01:36:32", "status": "success", "entries_created": 3}
+{"index": 261, "url": "https://developer.mozilla.org/en-US/docs/Glossary/High-level_programming_language", "timestamp": "2025-02-28 01:36:40", "status": "success", "entries_created": 1}
+{"index": 262, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Signature/Security", "timestamp": "2025-02-28 01:36:59", "status": "success", "entries_created": 2}
+{"index": 263, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API", "timestamp": "2025-02-28 01:37:11", "status": "success", "entries_created": 2}
+{"index": 264, "url": "https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work", "timestamp": "2025-02-28 01:37:39", "status": "success", "entries_created": 3}
+{"index": 265, "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API", "timestamp": "2025-02-28 01:38:07", "status": "success", "entries_created": 2}
+{"index": 266, "url": "https://developer.mozilla.org/en-US/docs/Web/Security/Firefox_Security_Guidelines", "timestamp": "2025-02-28 01:38:30", "status": "success", "entries_created": 2}
+{"index": 267, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_box_alignment", "timestamp": "2025-02-28 01:38:51", "status": "success", "entries_created": 1}
+{"index": 268, "url": "https://developer.mozilla.org/en-US/docs/Web/Privacy/Storage_Access_Policy", "timestamp": "2025-02-28 01:39:31", "status": "success", "entries_created": 3}
+{"index": 269, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/shape", "timestamp": "2025-02-28 01:39:39", "status": "success", "entries_created": 3}
+{"index": 270, "url": "https://developer.mozilla.org/en-US/docs/Web/API/CSPViolationReportBody", "timestamp": "2025-02-28 01:40:19", "status": "success", "entries_created": 3}
+{"index": 271, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes", "timestamp": "2025-02-28 01:40:39", "status": "success", "entries_created": 3}
+{"index": 272, "url": "https://developer.mozilla.org/en-US/docs/Web/API/IDBKeyRange", "timestamp": "2025-02-28 01:41:00", "status": "success", "entries_created": 3}
+{"index": 273, "url": "https://developer.mozilla.org/en-US/docs/Web/API/CSSTransition", "timestamp": "2025-02-28 01:41:18", "status": "success", "entries_created": 3}
+{"index": 274, "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement", "timestamp": "2025-02-28 01:41:43", "status": "success", "entries_created": 3}
+{"index": 275, "url": "https://developer.mozilla.org/en-US/docs/Web/API/EcdhKeyDeriveParams", "timestamp": "2025-02-28 01:41:49", "status": "success", "entries_created": 1}
+{"index": 276, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model", "timestamp": "2025-02-28 01:42:13", "status": "success", "entries_created": 1}
+{"index": 277, "url": "https://developer.mozilla.org/en-US/docs/Web/API/GPURenderPipeline", "timestamp": "2025-02-28 01:42:23", "status": "success", "entries_created": 3}
+{"index": 278, "url": "https://developer.mozilla.org/en-US/docs/Web/API/ContactsManager", "timestamp": "2025-02-28 01:42:49", "status": "success", "entries_created": 3}
+{"index": 279, "url": "https://developer.mozilla.org/en-US/docs/Web/Security/Certificate_Transparency", "timestamp": "2025-02-28 01:43:00", "status": "success", "entries_created": 1}
+{"index": 280, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Inline-level_content", "timestamp": "2025-02-28 01:43:06", "status": "success", "entries_created": 3}
+{"index": 281, "url": "https://developer.mozilla.org/en-US/docs/Web/API/FileSystemDirectoryEntry", "timestamp": "2025-02-28 01:43:21", "status": "success", "entries_created": 2}
+{"index": 282, "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms", "timestamp": "2025-02-28 01:43:43", "status": "success", "entries_created": 2}
+{"index": 283, "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status", "timestamp": "2025-02-28 01:44:08", "status": "success", "entries_created": 1}
+{"index": 284, "url": "https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security", "timestamp": "2025-02-28 01:44:35", "status": "success", "entries_created": 2}
+{"index": 285, "url": "https://developer.mozilla.org/en-US/docs/Web/API/WEBGL_debug_renderer_info", "timestamp": "2025-02-28 01:44:45", "status": "success", "entries_created": 3}
+{"index": 286, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/inset", "timestamp": "2025-02-28 01:45:08", "status": "success", "entries_created": 3}
+{"index": 287, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Storage_API", "timestamp": "2025-02-28 01:45:26", "status": "success", "entries_created": 3}
+{"index": 288, "url": "https://developer.mozilla.org/en-US/curriculum/core/semantic-html", "timestamp": "2025-02-28 01:46:20", "status": "success", "entries_created": 2}
+{"index": 289, "url": "https://developer.mozilla.org/en-US/docs/Web/API/PictureInPictureWindow", "timestamp": "2025-02-28 01:46:28", "status": "success", "entries_created": 2}
+{"index": 290, "url": "https://developer.mozilla.org/en-US/docs/MDN/Community/Roles_teams", "timestamp": "2025-02-28 01:46:51", "status": "success", "entries_created": 2}
+{"index": 291, "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website", "timestamp": "2025-02-28 01:47:01", "status": "success", "entries_created": 1}
+{"index": 292, "url": "https://developer.mozilla.org/en-US/docs/Web/API/RTCCodecStats", "timestamp": "2025-02-28 01:47:10", "status": "success", "entries_created": 3}
+{"index": 293, "url": "https://developer.mozilla.org/en-US/docs/Web/API/SVGPoint", "timestamp": "2025-02-28 01:47:19", "status": "success", "entries_created": 3}
+{"index": 294, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/outline", "timestamp": "2025-02-28 01:48:04", "status": "success", "entries_created": 3}
+{"index": 295, "url": "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Tutorials", "timestamp": "2025-02-28 01:48:09", "status": "success", "entries_created": 1}
+{"index": 296, "url": "https://developer.mozilla.org/en-US/docs/Web/API/AuthenticatorResponse", "timestamp": "2025-02-28 01:48:37", "status": "success", "entries_created": 2}
+{"index": 297, "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement", "timestamp": "2025-02-28 01:49:06", "status": "success", "entries_created": 1}
+{"index": 298, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/height", "timestamp": "2025-02-28 01:49:12", "status": "success", "entries_created": 3}
+{"index": 299, "url": "https://developer.mozilla.org/en-US/Add-ons/Themes/Theme_concepts", "timestamp": "2025-02-28 01:49:21", "status": "success", "entries_created": 3}
+{"index": 300, "url": "https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver", "timestamp": "2025-02-28 01:49:50", "status": "success", "entries_created": 3}
+{"index": 301, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/float", "timestamp": "2025-02-28 01:49:57", "status": "success", "entries_created": 3}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 01:53:03", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 303, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Responsive_images", "timestamp": "2025-02-28 01:56:08", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 304, "url": "https://developer.mozilla.org/en-US/docs/Web/API/GPURenderBundle", "timestamp": "2025-02-28 01:56:34", "status": "success", "entries_created": 3}
+{"index": 305, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Compute_Pressure_API", "timestamp": "2025-02-28 01:57:00", "status": "success", "entries_created": 3}
+{"index": 306, "url": "https://developer.mozilla.org/en-US/docs/Web/API/FencedFrameConfig", "timestamp": "2025-02-28 01:57:18", "status": "success", "entries_created": 3}
+{"index": 307, "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebTransportDatagramDuplexStream", "timestamp": "2025-02-28 01:57:33", "status": "success", "entries_created": 3}
+{"index": 308, "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Async_JS", "timestamp": "2025-02-28 01:57:40", "status": "success", "entries_created": 2}
+{"index": 309, "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLFontElement", "timestamp": "2025-02-28 01:58:14", "status": "success", "entries_created": 2}
+{"index": 310, "url": "https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent", "timestamp": "2025-02-28 01:58:41", "status": "success", "entries_created": 3}
+{"index": 311, "url": "https://developer.mozilla.org/en-US/docs/Web/XML/EXSLT", "timestamp": "2025-02-28 01:58:51", "status": "success", "entries_created": 3}
+{"index": 312, "url": "https://developer.mozilla.org/en-US/docs/Web/API/AudioWorkletGlobalScope", "timestamp": "2025-02-28 01:59:07", "status": "success", "entries_created": 3}
+{"index": 313, "url": "https://developer.mozilla.org/en-US/docs/Web/Performance/Understanding_latency", "timestamp": "2025-02-28 01:59:19", "status": "success", "entries_created": 2}
+{"index": 314, "url": "https://developer.mozilla.org/en-US/docs/Web/MathML/Examples", "timestamp": "2025-02-28 01:59:30", "status": "success", "entries_created": 1}
+{"index": 315, "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSocket", "timestamp": "2025-02-28 01:59:40", "status": "success", "entries_created": 3}
+{"index": 316, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Blob", "timestamp": "2025-02-28 02:00:00", "status": "success", "entries_created": 3}
+{"index": 317, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media", "timestamp": "2025-02-28 02:00:27", "status": "success", "entries_created": 3}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 02:03:32", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 319, "url": "https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key", "timestamp": "2025-02-28 02:04:11", "status": "success", "entries_created": 2}
+{"index": 320, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture", "timestamp": "2025-02-28 02:04:39", "status": "success", "entries_created": 3}
+{"index": 321, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild", "timestamp": "2025-02-28 02:05:16", "status": "success", "entries_created": 3}
+{"index": 322, "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles", "timestamp": "2025-02-28 02:05:39", "status": "success", "entries_created": 2}
+{"index": 323, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API", "timestamp": "2025-02-28 02:08:44", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 324, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage", "timestamp": "2025-02-28 02:09:03", "status": "success", "entries_created": 3}
+{"index": 325, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Next-sibling_combinator", "timestamp": "2025-02-28 02:09:17", "status": "success", "entries_created": 3}
+{"index": 326, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog", "timestamp": "2025-02-28 02:09:55", "status": "success", "entries_created": 3}
+{"index": 327, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseover_event", "timestamp": "2025-02-28 02:10:30", "status": "success", "entries_created": 3}
+{"index": 328, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/object-position", "timestamp": "2025-02-28 02:11:07", "status": "success", "entries_created": 3}
+{"index": 329, "url": "https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest_API/Using_FormData_Objects", "timestamp": "2025-02-28 02:11:51", "status": "success", "entries_created": 3}
+{"index": 330, "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Math", "timestamp": "2025-02-28 02:12:20", "status": "success", "entries_created": 3}
+{"index": 331, "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model", "timestamp": "2025-02-28 02:13:00", "status": "success", "entries_created": 3}
+{"index": 332, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById", "timestamp": "2025-02-28 02:13:23", "status": "success", "entries_created": 3}
+{"index": 333, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table", "timestamp": "2025-02-28 02:13:38", "status": "success", "entries_created": 3}
+{"index": 334, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event", "timestamp": "2025-02-28 02:14:02", "status": "success", "entries_created": 3}
+{"index": 335, "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/focus", "timestamp": "2025-02-28 02:14:30", "status": "success", "entries_created": 3}
+{"index": 336, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements", "timestamp": "2025-02-28 02:15:14", "status": "success", "entries_created": 3}
+{"index": 337, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage", "timestamp": "2025-02-28 02:15:42", "status": "success", "entries_created": 3}
+{"index": 338, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView", "timestamp": "2025-02-28 02:16:13", "status": "success", "entries_created": 3}
+{"index": 339, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage", "timestamp": "2025-02-28 02:16:39", "status": "success", "entries_created": 3}
+{"index": 340, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/classList", "timestamp": "2025-02-28 02:17:21", "status": "success", "entries_created": 3}
+{"index": 341, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video", "timestamp": "2025-02-28 02:20:27", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 342, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-color", "timestamp": "2025-02-28 02:20:58", "status": "success", "entries_created": 3}
+{"index": 343, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/:not", "timestamp": "2025-02-28 02:21:34", "status": "success", "entries_created": 3}
+{"index": 344, "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event", "timestamp": "2025-02-28 02:21:55", "status": "success", "entries_created": 3}
+{"index": 345, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/beforeunload_event", "timestamp": "2025-02-28 02:22:30", "status": "success", "entries_created": 3}
+{"index": 346, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event", "timestamp": "2025-02-28 02:23:14", "status": "success", "entries_created": 3}
+{"index": 347, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions", "timestamp": "2025-02-28 02:24:43", "status": "success", "entries_created": 3}
+{"index": 348, "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418", "timestamp": "2025-02-28 02:24:52", "status": "success", "entries_created": 3}
+{"index": 349, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator", "timestamp": "2025-02-28 02:25:46", "status": "success", "entries_created": 3}
+{"index": 350, "url": "https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Schemes/data", "timestamp": "2025-02-28 02:26:08", "status": "success", "entries_created": 3}
+{"index": 351, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters", "timestamp": "2025-02-28 02:27:54", "status": "success", "entries_created": 3}
+{"index": 352, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate", "timestamp": "2025-02-28 02:28:34", "status": "success", "entries_created": 3}
+{"index": 353, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/email", "timestamp": "2025-02-28 02:29:11", "status": "success", "entries_created": 3}
+{"index": 354, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw", "timestamp": "2025-02-28 02:29:38", "status": "success", "entries_created": 3}
+{"index": 355, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error", "timestamp": "2025-02-28 02:30:29", "status": "success", "entries_created": 3}
+{"index": 356, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas", "timestamp": "2025-02-28 02:31:21", "status": "success", "entries_created": 3}
+{"index": 357, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent", "timestamp": "2025-02-28 02:34:26", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 358, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/search", "timestamp": "2025-02-28 02:36:02", "status": "success", "entries_created": 3}
+{"index": 359, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval", "timestamp": "2025-02-28 02:36:32", "status": "success", "entries_created": 3}
+{"index": 360, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import", "timestamp": "2025-02-28 02:37:19", "status": "success", "entries_created": 3}
+{"index": 361, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_syntax/At-rule", "timestamp": "2025-02-28 02:37:40", "status": "success", "entries_created": 3}
+{"index": 362, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function", "timestamp": "2025-02-28 02:38:21", "status": "success", "entries_created": 3}
+{"index": 363, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array", "timestamp": "2025-02-28 02:41:27", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 364, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String", "timestamp": "2025-02-28 02:44:32", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 365, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date", "timestamp": "2025-02-28 02:45:29", "status": "success", "entries_created": 3}
+{"index": 366, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map", "timestamp": "2025-02-28 02:46:00", "status": "success", "entries_created": 3}
+{"index": 367, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart", "timestamp": "2025-02-28 02:47:47", "status": "success", "entries_created": 3}
+{"index": 368, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split", "timestamp": "2025-02-28 02:48:30", "status": "success", "entries_created": 3}
+{"index": 369, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare", "timestamp": "2025-02-28 02:49:21", "status": "success", "entries_created": 3}
+{"index": 370, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random", "timestamp": "2025-02-28 02:49:55", "status": "success", "entries_created": 3}
+{"index": 371, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/fromEntries", "timestamp": "2025-02-28 02:50:24", "status": "success", "entries_created": 3}
+{"index": 372, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray", "timestamp": "2025-02-28 02:50:59", "status": "success", "entries_created": 3}
+{"index": 373, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop", "timestamp": "2025-02-28 02:51:38", "status": "success", "entries_created": 3}
+{"index": 374, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString", "timestamp": "2025-02-28 02:52:08", "status": "success", "entries_created": 3}
+{"index": 375, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length", "timestamp": "2025-02-28 02:52:36", "status": "success", "entries_created": 3}
+{"index": 376, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty", "timestamp": "2025-02-28 02:53:07", "status": "success", "entries_created": 3}
+{"index": 377, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys", "timestamp": "2025-02-28 02:53:39", "status": "success", "entries_created": 3}
+{"index": 378, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/at", "timestamp": "2025-02-28 02:54:15", "status": "success", "entries_created": 3}
+{"index": 379, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries", "timestamp": "2025-02-28 02:55:00", "status": "success", "entries_created": 3}
+{"index": 380, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString", "timestamp": "2025-02-28 02:55:31", "status": "success", "entries_created": 3}
+{"index": 381, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr", "timestamp": "2025-02-28 02:56:00", "status": "success", "entries_created": 3}
+{"index": 382, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze", "timestamp": "2025-02-28 02:56:29", "status": "success", "entries_created": 3}
+{"index": 383, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/now", "timestamp": "2025-02-28 02:56:59", "status": "success", "entries_created": 3}
+{"index": 384, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round", "timestamp": "2025-02-28 02:57:21", "status": "success", "entries_created": 3}
+{"index": 385, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/groupBy", "timestamp": "2025-02-28 02:57:44", "status": "success", "entries_created": 3}
+{"index": 386, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce", "timestamp": "2025-02-28 02:58:16", "status": "success", "entries_created": 3}
+{"index": 387, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor", "timestamp": "2025-02-28 02:58:54", "status": "success", "entries_created": 3}
+{"index": 388, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trim", "timestamp": "2025-02-28 02:59:08", "status": "success", "entries_created": 3}
+{"index": 389, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Array", "timestamp": "2025-02-28 02:59:34", "status": "success", "entries_created": 3}
+{"index": 390, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString", "timestamp": "2025-02-28 03:00:19", "status": "success", "entries_created": 3}
+{"index": 391, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat", "timestamp": "2025-02-28 03:00:51", "status": "success", "entries_created": 3}
+{"index": 392, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join", "timestamp": "2025-02-28 03:01:15", "status": "success", "entries_created": 3}
+{"index": 393, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all", "timestamp": "2025-02-28 03:02:03", "status": "success", "entries_created": 3}
+{"index": 394, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat", "timestamp": "2025-02-28 03:02:48", "status": "success", "entries_created": 3}
+{"index": 395, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme", "timestamp": "2025-02-28 03:03:25", "status": "success", "entries_created": 3}
+{"index": 396, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in", "timestamp": "2025-02-28 03:03:47", "status": "success", "entries_created": 3}
+{"index": 397, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch", "timestamp": "2025-02-28 03:04:15", "status": "success", "entries_created": 3}
+{"index": 398, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for-await...of", "timestamp": "2025-02-28 03:04:49", "status": "success", "entries_created": 3}
+{"index": 399, "url": "https://developer.mozilla.org/en-US/play?state=ZZJNahwxEIWvUvS63Z0JIYv2YMgPSRYJBByyGgjPUs20BknVLknGP%2FgwXmbhhfER%2BmJB07az8FZV9em9V3XTmJSaoRlz8HSziURbifkouWseaPVmujzexNtN3MRx9ar8tnuvHJ4bptfj3bulTmTEiw6kbI9fmrYIzl8N9I39BWdn0NIHdfAtJcR0lFjddoE37UFfMzTrcXXyS0K4Iva0Q5Z1P65O6vfr6eRj4SgteSFlU1itkJEglBxtCytohGEqEfXZWXRdt%2B6n5%2Bmq67PbC73wvyILBccxKxIpZxXDdr4HTVCQd2FyUDIF%2Frw4VgrIrA7El1kxP6AizwvTVKxb%2Fj9jTUyBs7NCHCkVmsSySgLtoDvEjI5%2BzHeJ7CJVkUEG3vOe9UDcidoDqyrhaKTqs1JZobBm%2Fq85OMUZaOv2CBwzV1cGF6xRkpDB%2FDA%2Fxsq0TJwyyIVJOTmJqN1hvjsvLoICq1iGFUVHv1ktLOsTsooMUFw471FB%2FqAyIheF52u0Fc1keVK2lUFFzxBleN7hU%2BKZY3UUihmRaHQpizqkmuByQjFDO%2FrJKlTTXNJRkBgkNz%2FGZdvz32qEI3kcwvdS9z7fo9vEZd1N2%2BzrzTdtk9Q0Q9Nz6q2Y1H9naOw%2FnZ72p%2FnKu7j7k%2Fky919KtAe38Km5%2FQc%3D&code=ddac27a0-2dd2-44fd-bcc6-98640faaa353", "timestamp": "2025-02-28 03:05:04", "status": "success", "entries_created": 3}
+{"index": 400, "url": "https://developer.mozilla.org/en-US/play?state=lVVNaxtJEP0rxZwnIzunxdEKgnMxOMFgdk%2BCpdRdlmrp6W7Xx6xD8H9femYkx2QvexCCQfXeq3rvjX50QbW76Q4lfocf%2Bwww4suHfzja6QZ%2Bu7qqL5%2BWh3LkfANXgG7l0z6%2F7vM%2BD6FkQ84ky2goycd8nv64Tr%2Fuc9d3JxtTd9NtI08QEqr%2Bvu8u4%2Ftu1%2Ba3p%2BvdV0%2FGHxYkSPi9uG03p%2Btd4wPY1t0DCh4F6wmuh%2B2m7n55%2FHF9vN1Enua5%2F0d6%2Fx%2Bk7QvgvgiNwFV9hFhSEVA2wJGsh1CyUjAyF8DIlTVwPgIltgG%2BeUoIyYO5LlCY%2BNlxhemBHBIGzoyQZpKaMJCgweSpuqHRAF%2BcFZ4osUKRwP2CVD1NnFGAI4xkruDWg7iJjyvl%2FPMBbgUVahEztiLAYyWJTAbZc%2BgBbQH0ZMKBScEoJVdIWITILssO8EgR0ENDCS7qCiOqIqDN%2BDjAXTY6kiyIiY%2BecDlcDyasxs9OF8BZH0yUeph4IhEEOpIa6jo6wK0LHth8RZzoxKFhrhIzPTv1gAGKZBQCeoERE6ljRGiS7zJMbEjNqAlTO2LC4DosgJ9XP5abl%2BRWsS3qWilHVqUG%2FnYyc6msA3ymTJjhiTMfzt5qSYkDm0fOQFIU6gmFTLCRH%2F1s5Vnquir60QncVtNWYQ9SOMMhYY5sMGvMFBbtMKGwK4QyjiUWIAMEl4wD%2FGEtDyvDnJk1LnQkgyeSkbL5CIqVKc9cS2veBf4bjm8BhMgrudFYi8CBD5SjjwN8KbOmJWzLHjPPxYKfk0U6wMMJdXFuOSSQWg%2B1qJP8lIuItZ11TvQTBk6srKAU1120dQvHtqpwi%2BFzuytmI1BqXr2r5SzpXLy5ZgP8yROOZ%2BPektlqe%2B6mUoQqZOzjWjB1DVzZWmQH%2BIourG%2B1WTNP8zHacCqHIta6u6Tkwtpq3%2BxalE0z6dqncw%2FaQufIq%2FHBUzOtKT8n1jgHjp5tQakursAZOBvJ7M5tGymBWSGjlWen9c1BGW2%2B72zVMbNCZIWKYi5M2WAs2Uh7yKhhvqFwbMVrjV8j%2Bv5l2%2FXd3%2B3%2FpOs7ldDddBvxTSxBN%2FeEkje3j4%2Ft89fyZt%2FcZZMSPRiX3L3%2BCw%3D%3D", "timestamp": "2025-02-28 03:05:19", "status": "success", "entries_created": 3}
+{"index": 2, "url": "https://developer.mozilla.org/en-US/curriculum", "timestamp": "2025-02-28 03:05:45", "status": "success", "entries_created": 2}
+{"index": 3, "url": "https://developer.mozilla.org/en-US/advertising", "timestamp": "2025-02-28 03:06:04", "status": "success", "entries_created": 2}
+{"index": 4, "url": "https://developer.mozilla.org/en-US/docs/MDN", "timestamp": "2025-02-28 03:06:24", "status": "success", "entries_created": 2}
+{"index": 7, "url": "https://developer.mozilla.org/en-US/docs/WebAssembly", "timestamp": "2025-02-28 03:08:57", "status": "success", "entries_created": 1}
+{"index": 8, "url": "https://developer.mozilla.org/en-US/docs/Glossary/Main_Axis", "timestamp": "2025-02-28 03:09:45", "status": "success", "entries_created": 2}
+{"index": 70, "url": "https://developer.mozilla.org/en-US/docs/Web/API", "timestamp": "2025-02-28 03:12:44", "status": "success", "entries_created": 1}
+{"index": 81, "url": "https://developer.mozilla.org/en-US/blog/technical-writing", "timestamp": "2025-02-28 03:13:29", "status": "success", "entries_created": 2}
+{"index": 154, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Mozilla_Extensions", "timestamp": "2025-02-28 03:16:35", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 180, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API", "timestamp": "2025-02-28 03:19:40", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 238, "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebGLBuffer", "timestamp": "2025-02-28 03:20:14", "status": "success", "entries_created": 3}
+{"index": 247, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element", "timestamp": "2025-02-28 03:32:20", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 03:35:25", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 303, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Responsive_images", "timestamp": "2025-02-28 03:38:30", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 03:41:36", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 323, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API", "timestamp": "2025-02-28 03:44:41", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 341, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video", "timestamp": "2025-02-28 03:45:29", "status": "success", "entries_created": 3}
+{"index": 357, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent", "timestamp": "2025-02-28 03:45:53", "status": "success", "entries_created": 3}
+{"index": 363, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array", "timestamp": "2025-02-28 03:49:00", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 364, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String", "timestamp": "2025-02-28 03:52:05", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 154, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Mozilla_Extensions", "timestamp": "2025-02-28 03:55:16", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 180, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API", "timestamp": "2025-02-28 03:58:21", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 247, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element", "timestamp": "2025-02-28 04:01:26", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 04:04:32", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 303, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Responsive_images", "timestamp": "2025-02-28 04:07:37", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 04:10:43", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 323, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API", "timestamp": "2025-02-28 04:13:48", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 363, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array", "timestamp": "2025-02-28 04:16:53", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 364, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String", "timestamp": "2025-02-28 04:19:59", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 154, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Mozilla_Extensions", "timestamp": "2025-02-28 04:23:09", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 180, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API", "timestamp": "2025-02-28 04:25:33", "status": "success", "entries_created": 2}
+{"index": 247, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element", "timestamp": "2025-02-28 04:28:39", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 04:31:44", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 303, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Responsive_images", "timestamp": "2025-02-28 04:34:47", "status": "success", "entries_created": 3}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 04:37:52", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 323, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API", "timestamp": "2025-02-28 04:40:58", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 363, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array", "timestamp": "2025-02-28 04:44:03", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 364, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String", "timestamp": "2025-02-28 04:47:15", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 154, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Mozilla_Extensions", "timestamp": "2025-02-28 04:50:31", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 247, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element", "timestamp": "2025-02-28 04:53:36", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 04:56:42", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 04:59:47", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 323, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API", "timestamp": "2025-02-28 05:02:53", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 363, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array", "timestamp": "2025-02-28 05:06:01", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 364, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String", "timestamp": "2025-02-28 05:09:06", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 154, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Mozilla_Extensions", "timestamp": "2025-02-28 05:12:18", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 247, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element", "timestamp": "2025-02-28 05:15:24", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 05:18:29", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 05:21:35", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 323, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API", "timestamp": "2025-02-28 05:24:40", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 363, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array", "timestamp": "2025-02-28 05:27:46", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 364, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String", "timestamp": "2025-02-28 05:30:51", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 154, "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Mozilla_Extensions", "timestamp": "2025-02-28 05:31:46", "status": "success", "entries_created": 2}
+{"index": 247, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element", "timestamp": "2025-02-28 05:34:51", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 05:37:57", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 05:41:04", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 323, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API", "timestamp": "2025-02-28 05:44:09", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 363, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array", "timestamp": "2025-02-28 05:47:14", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 364, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String", "timestamp": "2025-02-28 05:50:24", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 247, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element", "timestamp": "2025-02-28 05:53:45", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 05:56:51", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 05:59:56", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 323, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API", "timestamp": "2025-02-28 06:03:02", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 363, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array", "timestamp": "2025-02-28 06:06:07", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 364, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String", "timestamp": "2025-02-28 06:09:12", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 247, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element", "timestamp": "2025-02-28 06:09:42", "status": "success", "entries_created": 3}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 06:12:48", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 06:15:53", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 323, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API", "timestamp": "2025-02-28 06:18:58", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 363, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array", "timestamp": "2025-02-28 06:22:04", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 364, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String", "timestamp": "2025-02-28 06:25:09", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 06:28:20", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 06:31:25", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 323, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API", "timestamp": "2025-02-28 06:34:31", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 363, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array", "timestamp": "2025-02-28 06:37:36", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 364, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String", "timestamp": "2025-02-28 06:40:16", "status": "success", "entries_created": 3}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 06:43:26", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 06:46:31", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 323, "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API", "timestamp": "2025-02-28 06:49:33", "status": "success", "entries_created": 3}
+{"index": 363, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array", "timestamp": "2025-02-28 06:52:38", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 06:55:59", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 06:59:04", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 363, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array", "timestamp": "2025-02-28 06:59:37", "status": "success", "entries_created": 3}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 07:02:47", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 07:05:52", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 07:09:03", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 07:12:09", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 07:15:19", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 07:18:24", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 07:21:35", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 07:24:40", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 07:27:56", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 07:31:01", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 07:34:12", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 07:37:17", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 07:40:27", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 07:43:33", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 07:46:43", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 07:49:49", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 07:52:59", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 07:56:05", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 07:59:15", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 08:02:21", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 08:05:31", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 08:08:37", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 08:11:47", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 08:14:53", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 08:18:03", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 08:21:09", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 302, "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element", "timestamp": "2025-02-28 08:24:19", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 318, "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules", "timestamp": "2025-02-28 08:27:24", "status": "failure", "error": "No usable data returned on retry 25"}

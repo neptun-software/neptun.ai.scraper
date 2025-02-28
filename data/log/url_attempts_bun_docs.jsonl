@@ -1,0 +1,99 @@
+{"index": 0, "url": "https://bun.sh/docs", "timestamp": "2025-02-27 22:48:34", "status": "success", "entries_created": 3}
+{"index": 1, "url": "https://bun.sh/docs/typescript", "timestamp": "2025-02-27 22:48:49", "status": "success", "entries_created": 3}
+{"index": 2, "url": "https://bun.sh/docs/quickstart", "timestamp": "2025-02-27 22:49:27", "status": "success", "entries_created": 3}
+{"index": 3, "url": "https://bun.sh/docs/installation", "timestamp": "2025-02-27 22:50:02", "status": "success", "entries_created": 3}
+{"index": 4, "url": "https://bun.sh/docs/bundler", "timestamp": "2025-02-27 22:50:21", "status": "success", "entries_created": 3}
+{"index": 5, "url": "https://bun.sh/docs/api/semver", "timestamp": "2025-02-27 22:50:48", "status": "success", "entries_created": 3}
+{"index": 6, "url": "https://bun.sh/docs/runtime/autoimport", "timestamp": "2025-02-27 22:51:02", "status": "success", "entries_created": 3}
+{"index": 7, "url": "https://bun.sh/docs/api/hashing", "timestamp": "2025-02-27 22:51:22", "status": "success", "entries_created": 3}
+{"index": 8, "url": "https://bun.sh/docs/install/lifecycle", "timestamp": "2025-02-27 22:51:54", "status": "success", "entries_created": 3}
+{"index": 9, "url": "https://bun.sh/docs/project/benchmarking", "timestamp": "2025-02-27 22:52:25", "status": "success", "entries_created": 3}
+{"index": 10, "url": "https://bun.sh/docs/api/tcp", "timestamp": "2025-02-27 22:52:43", "status": "success", "entries_created": 3}
+{"index": 11, "url": "https://bun.sh/docs/api/websockets", "timestamp": "2025-02-27 22:53:36", "status": "success", "entries_created": 3}
+{"index": 12, "url": "https://bun.sh/docs/runtime/bunfig", "timestamp": "2025-02-27 22:54:02", "status": "success", "entries_created": 3}
+{"index": 13, "url": "https://bun.sh/docs/api/color", "timestamp": "2025-02-27 22:54:35", "status": "success", "entries_created": 3}
+{"index": 14, "url": "https://bun.sh/docs/cli/test", "timestamp": "2025-02-27 22:55:29", "status": "success", "entries_created": 3}
+{"index": 15, "url": "https://bun.sh/docs/cli/filter", "timestamp": "2025-02-27 22:58:35", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 16, "url": "https://bun.sh/docs/cli/install", "timestamp": "2025-02-27 23:01:13", "status": "success", "entries_created": 3}
+{"index": 17, "url": "https://bun.sh/docs/test/snapshots", "timestamp": "2025-02-27 23:03:53", "status": "success", "entries_created": 3}
+{"index": 18, "url": "https://bun.sh/docs/runtime/jsx", "timestamp": "2025-02-27 23:04:09", "status": "success", "entries_created": 3}
+{"index": 19, "url": "https://bun.sh/docs/api/spawn", "timestamp": "2025-02-27 23:07:14", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 20, "url": "https://bun.sh/docs/api/globals", "timestamp": "2025-02-27 23:08:58", "status": "success", "entries_created": 3}
+{"index": 21, "url": "https://bun.sh/docs/install/overrides", "timestamp": "2025-02-27 23:10:12", "status": "success", "entries_created": 3}
+{"index": 22, "url": "https://bun.sh/docs/runtime/debugger", "timestamp": "2025-02-27 23:10:55", "status": "success", "entries_created": 3}
+{"index": 23, "url": "https://bun.sh/docs/bundler/html", "timestamp": "2025-02-27 23:14:01", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 24, "url": "https://bun.sh/docs/api/sql", "timestamp": "2025-02-27 23:17:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 25, "url": "https://bun.sh/docs/test/time", "timestamp": "2025-02-27 23:18:25", "status": "success", "entries_created": 3}
+{"index": 26, "url": "https://bun.sh/docs/install/registries", "timestamp": "2025-02-27 23:20:11", "status": "success", "entries_created": 3}
+{"index": 27, "url": "https://bun.sh/docs/api/sqlite", "timestamp": "2025-02-27 23:20:28", "status": "success", "entries_created": 3}
+{"index": 28, "url": "https://bun.sh/docs/runtime/env", "timestamp": "2025-02-27 23:20:47", "status": "success", "entries_created": 3}
+{"index": 29, "url": "https://bun.sh/docs/api/dns", "timestamp": "2025-02-27 23:21:02", "status": "success", "entries_created": 3}
+{"index": 30, "url": "https://bun.sh/docs/api/glob", "timestamp": "2025-02-27 23:21:18", "status": "success", "entries_created": 3}
+{"index": 31, "url": "https://bun.sh/docs/api/s3", "timestamp": "2025-02-27 23:22:15", "status": "success", "entries_created": 3}
+{"index": 32, "url": "https://bun.sh/docs/bundler/executables", "timestamp": "2025-02-27 23:22:44", "status": "success", "entries_created": 3}
+{"index": 33, "url": "https://bun.sh/docs/install/cache", "timestamp": "2025-02-27 23:23:06", "status": "success", "entries_created": 3}
+{"index": 34, "url": "https://bun.sh/docs/api/transpiler", "timestamp": "2025-02-27 23:23:36", "status": "success", "entries_created": 3}
+{"index": 35, "url": "https://bun.sh/docs/cli/link", "timestamp": "2025-02-27 23:23:50", "status": "success", "entries_created": 3}
+{"index": 36, "url": "https://bun.sh/docs/api/cc", "timestamp": "2025-02-27 23:27:03", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 37, "url": "https://bun.sh/docs/install/patch", "timestamp": "2025-02-27 23:27:36", "status": "success", "entries_created": 3}
+{"index": 38, "url": "https://bun.sh/docs/cli/publish", "timestamp": "2025-02-27 23:29:51", "status": "success", "entries_created": 3}
+{"index": 39, "url": "https://bun.sh/docs/runtime/plugins", "timestamp": "2025-02-27 23:31:21", "status": "success", "entries_created": 3}
+{"index": 40, "url": "https://bun.sh/docs/test/dom", "timestamp": "2025-02-27 23:31:48", "status": "success", "entries_created": 3}
+{"index": 41, "url": "https://bun.sh/docs/test/writing", "timestamp": "2025-02-27 23:32:07", "status": "success", "entries_created": 3}
+{"index": 42, "url": "https://bun.sh/docs/install/lockfile", "timestamp": "2025-02-27 23:33:35", "status": "success", "entries_created": 3}
+{"index": 43, "url": "https://bun.sh/docs/runtime/loaders", "timestamp": "2025-02-27 23:33:53", "status": "success", "entries_created": 3}
+{"index": 44, "url": "https://bun.sh/docs/project/licensing", "timestamp": "2025-02-27 23:34:34", "status": "success", "entries_created": 3}
+{"index": 45, "url": "https://bun.sh/docs/test/hot", "timestamp": "2025-02-27 23:34:43", "status": "success", "entries_created": 3}
+{"index": 46, "url": "https://bun.sh/docs/bundler/plugins", "timestamp": "2025-02-27 23:35:16", "status": "success", "entries_created": 3}
+{"index": 47, "url": "https://bun.sh/docs/api/http", "timestamp": "2025-02-27 23:35:37", "status": "success", "entries_created": 3}
+{"index": 48, "url": "https://bun.sh/docs/project/roadmap", "timestamp": "2025-02-27 23:35:56", "status": "success", "entries_created": 2}
+{"index": 49, "url": "https://bun.sh/docs/bundler/loaders", "timestamp": "2025-02-27 23:36:29", "status": "success", "entries_created": 3}
+{"index": 50, "url": "https://bun.sh/docs/cli/add", "timestamp": "2025-02-27 23:36:52", "status": "success", "entries_created": 3}
+{"index": 51, "url": "https://bun.sh/docs/runtime/typescript", "timestamp": "2025-02-27 23:37:30", "status": "success", "entries_created": 3}
+{"index": 52, "url": "https://bun.sh/docs/api/streams", "timestamp": "2025-02-27 23:37:42", "status": "success", "entries_created": 3}
+{"index": 53, "url": "https://bun.sh/docs/project/contributing", "timestamp": "2025-02-27 23:38:06", "status": "success", "entries_created": 3}
+{"index": 54, "url": "https://bun.sh/docs/cli/init", "timestamp": "2025-02-27 23:38:17", "status": "success", "entries_created": 3}
+{"index": 55, "url": "https://bun.sh/docs/test/mocks", "timestamp": "2025-02-27 23:38:45", "status": "success", "entries_created": 3}
+{"index": 56, "url": "https://bun.sh/docs/runtime/shell", "timestamp": "2025-02-27 23:39:22", "status": "success", "entries_created": 3}
+{"index": 57, "url": "https://bun.sh/docs/cli/run", "timestamp": "2025-02-27 23:39:34", "status": "success", "entries_created": 3}
+{"index": 58, "url": "https://bun.sh/docs/test/lifecycle", "timestamp": "2025-02-27 23:40:01", "status": "success", "entries_created": 3}
+{"index": 59, "url": "https://bun.sh/docs/cli/bunx", "timestamp": "2025-02-27 23:40:15", "status": "success", "entries_created": 3}
+{"index": 60, "url": "https://bun.sh/docs/api/console", "timestamp": "2025-02-27 23:40:25", "status": "success", "entries_created": 3}
+{"index": 61, "url": "https://bun.sh/docs/bundler/macros", "timestamp": "2025-02-27 23:41:04", "status": "success", "entries_created": 3}
+{"index": 62, "url": "https://bun.sh/docs/api/ffi", "timestamp": "2025-02-27 23:41:38", "status": "success", "entries_created": 3}
+{"index": 63, "url": "https://bun.sh/docs/bundler/fullstack", "timestamp": "2025-02-27 23:42:27", "status": "success", "entries_created": 3}
+{"index": 64, "url": "https://bun.sh/docs/api/test", "timestamp": "2025-02-27 23:43:00", "status": "success", "entries_created": 3}
+{"index": 65, "url": "https://bun.sh/docs/cli/remove", "timestamp": "2025-02-27 23:43:11", "status": "success", "entries_created": 3}
+{"index": 66, "url": "https://bun.sh/docs/runtime/hot", "timestamp": "2025-02-27 23:43:46", "status": "success", "entries_created": 3}
+{"index": 67, "url": "https://bun.sh/docs/install/workspaces", "timestamp": "2025-02-27 23:44:14", "status": "success", "entries_created": 3}
+{"index": 68, "url": "https://bun.sh/docs/api/workers", "timestamp": "2025-02-27 23:45:51", "status": "success", "entries_created": 3}
+{"index": 69, "url": "https://bun.sh/docs/cli/pm", "timestamp": "2025-02-27 23:46:17", "status": "success", "entries_created": 3}
+{"index": 70, "url": "https://bun.sh/docs/install/npmrc", "timestamp": "2025-02-27 23:46:43", "status": "success", "entries_created": 3}
+{"index": 71, "url": "https://bun.sh/docs/test/coverage", "timestamp": "2025-02-27 23:47:31", "status": "success", "entries_created": 3}
+{"index": 72, "url": "https://bun.sh/docs/runtime/modules", "timestamp": "2025-02-27 23:47:59", "status": "success", "entries_created": 3}
+{"index": 73, "url": "https://bun.sh/docs/api/fetch", "timestamp": "2025-02-27 23:48:26", "status": "success", "entries_created": 3}
+{"index": 74, "url": "https://bun.sh/docs/api/udp", "timestamp": "2025-02-27 23:48:48", "status": "success", "entries_created": 3}
+{"index": 75, "url": "https://bun.sh/docs/api/utils", "timestamp": "2025-02-27 23:49:20", "status": "success", "entries_created": 3}
+{"index": 76, "url": "https://bun.sh/docs/runtime/nodejs-apis", "timestamp": "2025-02-27 23:50:03", "status": "success", "entries_created": 2}
+{"index": 77, "url": "https://bun.sh/docs/api/import-meta", "timestamp": "2025-02-27 23:51:51", "status": "success", "entries_created": 3}
+{"index": 78, "url": "https://bun.sh/docs/bundler/vs-esbuild", "timestamp": "2025-02-27 23:52:03", "status": "success", "entries_created": 3}
+{"index": 79, "url": "https://bun.sh/docs/api/node-api", "timestamp": "2025-02-27 23:52:15", "status": "success", "entries_created": 3}
+{"index": 80, "url": "https://bun.sh/docs/cli/bun-create", "timestamp": "2025-02-27 23:52:28", "status": "success", "entries_created": 3}
+{"index": 81, "url": "https://bun.sh/docs/api/html-rewriter", "timestamp": "2025-02-27 23:55:34", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 82, "url": "https://bun.sh/docs/api/file-io", "timestamp": "2025-02-27 23:57:21", "status": "success", "entries_created": 3}
+{"index": 83, "url": "https://bun.sh/docs/runtime/web-apis", "timestamp": "2025-02-28 00:00:10", "status": "success", "entries_created": 2}
+{"index": 84, "url": "https://bun.sh/docs/project/building-windows", "timestamp": "2025-02-28 00:01:04", "status": "success", "entries_created": 3}
+{"index": 85, "url": "https://bun.sh/docs/api/binary-data", "timestamp": "2025-02-28 00:01:29", "status": "success", "entries_created": 3}
+{"index": 86, "url": "https://bun.sh/docs/runtime/bun-apis", "timestamp": "2025-02-28 00:02:03", "status": "success", "entries_created": 3}
+{"index": 87, "url": "https://bun.sh/docs/api/file-system-router", "timestamp": "2025-02-28 00:02:36", "status": "success", "entries_created": 3}
+{"index": 88, "url": "https://bun.sh/docs/cli/update", "timestamp": "2025-02-28 00:02:45", "status": "success", "entries_created": 3}
+{"index": 89, "url": "https://bun.sh/docs/project/bindgen", "timestamp": "2025-02-28 00:03:35", "status": "success", "entries_created": 3}
+{"index": 90, "url": "https://bun.sh/docs/cli/outdated", "timestamp": "2025-02-28 00:05:51", "status": "success", "entries_created": 3}
+{"index": 15, "url": "https://bun.sh/docs/cli/filter", "timestamp": "2025-02-28 00:06:12", "status": "success", "entries_created": 3}
+{"index": 19, "url": "https://bun.sh/docs/api/spawn", "timestamp": "2025-02-28 00:08:47", "status": "success", "entries_created": 3}
+{"index": 23, "url": "https://bun.sh/docs/bundler/html", "timestamp": "2025-02-28 00:09:26", "status": "success", "entries_created": 3}
+{"index": 24, "url": "https://bun.sh/docs/api/sql", "timestamp": "2025-02-28 00:10:27", "status": "success", "entries_created": 3}
+{"index": 36, "url": "https://bun.sh/docs/api/cc", "timestamp": "2025-02-28 00:10:45", "status": "success", "entries_created": 3}
+{"index": 81, "url": "https://bun.sh/docs/api/html-rewriter", "timestamp": "2025-02-28 00:13:50", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 81, "url": "https://bun.sh/docs/api/html-rewriter", "timestamp": "2025-02-28 00:17:01", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 81, "url": "https://bun.sh/docs/api/html-rewriter", "timestamp": "2025-02-28 00:20:11", "status": "failure", "error": "No usable data returned on retry 3"}

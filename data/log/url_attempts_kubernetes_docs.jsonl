@@ -1,0 +1,472 @@
+{"index": 0, "url": "https://kubernetes.io/docs", "timestamp": "2025-02-27 23:11:53", "status": "success", "entries_created": 1}
+{"index": 1, "url": "https://kubernetes.io/docs/test", "timestamp": "2025-02-27 23:13:36", "status": "success", "entries_created": 3}
+{"index": 2, "url": "https://kubernetes.io/docs/tutorials", "timestamp": "2025-02-27 23:13:54", "status": "success", "entries_created": 1}
+{"index": 3, "url": "https://kubernetes.io/docs/reference", "timestamp": "2025-02-27 23:16:07", "status": "success", "entries_created": 1}
+{"index": 4, "url": "https://kubernetes.io/docs/roadmap", "timestamp": "2025-02-27 23:16:37", "status": "success", "entries_created": 2}
+{"index": 5, "url": "https://kubernetes.io/docs/contribute", "timestamp": "2025-02-27 23:16:48", "status": "success", "entries_created": 2}
+{"index": 6, "url": "https://kubernetes.io/docs/tasks", "timestamp": "2025-02-27 23:17:03", "status": "success", "entries_created": 2}
+{"index": 7, "url": "https://kubernetes.io/docs/setup", "timestamp": "2025-02-27 23:18:26", "status": "success", "entries_created": 2}
+{"index": 8, "url": "https://kubernetes.io/docs/concepts", "timestamp": "2025-02-27 23:18:35", "status": "success", "entries_created": 1}
+{"index": 9, "url": "https://kubernetes.io/docs/home", "timestamp": "2025-02-27 23:18:56", "status": "success", "entries_created": 1}
+{"index": 11, "url": "https://kubernetes.io/docs/reference/networking", "timestamp": "2025-02-27 23:19:05", "status": "success", "entries_created": 2}
+{"index": 12, "url": "https://kubernetes.io/docs/concepts/policy", "timestamp": "2025-02-27 23:19:15", "status": "success", "entries_created": 3}
+{"index": 14, "url": "https://kubernetes.io/docs/tasks/tls", "timestamp": "2025-02-27 23:19:32", "status": "success", "entries_created": 1}
+{"index": 15, "url": "https://kubernetes.io/docs/concepts/storage", "timestamp": "2025-02-27 23:19:42", "status": "success", "entries_created": 2}
+{"index": 16, "url": "https://kubernetes.io/docs/contribute/localization", "timestamp": "2025-02-27 23:22:48", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 17, "url": "https://kubernetes.io/docs/contribute/docs", "timestamp": "2025-02-27 23:23:15", "status": "success", "entries_created": 2}
+{"index": 18, "url": "https://kubernetes.io/docs/concepts/workloads", "timestamp": "2025-02-27 23:23:35", "status": "success", "entries_created": 2}
+{"index": 19, "url": "https://kubernetes.io/docs/concepts/security", "timestamp": "2025-02-27 23:24:07", "status": "success", "entries_created": 2}
+{"index": 20, "url": "https://kubernetes.io/docs/reference/tools", "timestamp": "2025-02-27 23:24:30", "status": "success", "entries_created": 2}
+{"index": 21, "url": "https://kubernetes.io/docs/tasks/tools", "timestamp": "2025-02-27 23:24:45", "status": "success", "entries_created": 3}
+{"index": 22, "url": "https://kubernetes.io/docs/tasks/debug", "timestamp": "2025-02-27 23:24:57", "status": "success", "entries_created": 3}
+{"index": 23, "url": "https://kubernetes.io/docs/reference/node", "timestamp": "2025-02-27 23:25:06", "status": "success", "entries_created": 2}
+{"index": 24, "url": "https://kubernetes.io/docs/contribute/analytics", "timestamp": "2025-02-27 23:25:21", "status": "success", "entries_created": 2}
+{"index": 25, "url": "https://kubernetes.io/docs/contribute/advanced", "timestamp": "2025-02-27 23:26:23", "status": "success", "entries_created": 3}
+{"index": 26, "url": "https://kubernetes.io/docs/tasks/network", "timestamp": "2025-02-27 23:26:30", "status": "success", "entries_created": 2}
+{"index": 27, "url": "https://kubernetes.io/docs/tutorials/security", "timestamp": "2025-02-27 23:26:33", "status": "success", "entries_created": 1}
+{"index": 28, "url": "https://kubernetes.io/docs/concepts/architecture", "timestamp": "2025-02-27 23:27:04", "status": "success", "entries_created": 1}
+{"index": 29, "url": "https://kubernetes.io/docs/tutorials/services", "timestamp": "2025-02-27 23:27:10", "status": "success", "entries_created": 1}
+{"index": 30, "url": "https://kubernetes.io/docs/concepts/overview", "timestamp": "2025-02-27 23:27:36", "status": "success", "entries_created": 1}
+{"index": 31, "url": "https://kubernetes.io/docs/concepts/configuration", "timestamp": "2025-02-27 23:27:42", "status": "success", "entries_created": 2}
+{"index": 32, "url": "https://kubernetes.io/docs/contribute/review", "timestamp": "2025-02-27 23:27:48", "status": "success", "entries_created": 1}
+{"index": 33, "url": "https://kubernetes.io/docs/contribute/participate", "timestamp": "2025-02-27 23:27:58", "status": "success", "entries_created": 2}
+{"index": 34, "url": "https://kubernetes.io/docs/reference/kubectl", "timestamp": "2025-02-27 23:30:05", "status": "success", "entries_created": 3}
+{"index": 35, "url": "https://kubernetes.io/docs/tasks/job", "timestamp": "2025-02-27 23:30:15", "status": "success", "entries_created": 1}
+{"index": 36, "url": "https://kubernetes.io/docs/concepts/containers", "timestamp": "2025-02-27 23:30:24", "status": "success", "entries_created": 2}
+{"index": 37, "url": "https://kubernetes.io/docs/concepts/windows", "timestamp": "2025-02-27 23:30:32", "status": "success", "entries_created": 2}
+{"index": 38, "url": "https://kubernetes.io/docs/contribute/style", "timestamp": "2025-02-27 23:30:35", "status": "success", "entries_created": 1}
+{"index": 39, "url": "https://kubernetes.io/docs/reference/instrumentation", "timestamp": "2025-02-27 23:30:38", "status": "success", "entries_created": 2}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-27 23:33:44", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 41, "url": "https://kubernetes.io/docs/reference/kubectl/conventions", "timestamp": "2025-02-27 23:34:18", "status": "success", "entries_created": 2}
+{"index": 42, "url": "https://kubernetes.io/docs/concepts/windows/intro", "timestamp": "2025-02-27 23:35:01", "status": "success", "entries_created": 2}
+{"index": 43, "url": "https://kubernetes.io/docs/tutorials/stateless-application", "timestamp": "2025-02-27 23:35:11", "status": "success", "entries_created": 1}
+{"index": 44, "url": "https://kubernetes.io/docs/concepts/cluster-administration", "timestamp": "2025-02-27 23:35:30", "status": "success", "entries_created": 2}
+{"index": 45, "url": "https://kubernetes.io/docs/reference/scheduling/config", "timestamp": "2025-02-27 23:35:59", "status": "success", "entries_created": 3}
+{"index": 46, "url": "https://kubernetes.io/docs/reference/using-api", "timestamp": "2025-02-27 23:36:17", "status": "success", "entries_created": 3}
+{"index": 47, "url": "https://kubernetes.io/docs/reference/scheduling/policies", "timestamp": "2025-02-27 23:36:23", "status": "success", "entries_created": 3}
+{"index": 48, "url": "https://kubernetes.io/docs/reference/kubectl/introduction", "timestamp": "2025-02-27 23:36:33", "status": "success", "entries_created": 2}
+{"index": 49, "url": "https://kubernetes.io/docs/tutorials/security/apparmor", "timestamp": "2025-02-27 23:37:20", "status": "success", "entries_created": 3}
+{"index": 50, "url": "https://kubernetes.io/docs/tutorials/hello-minikube", "timestamp": "2025-02-27 23:38:11", "status": "success", "entries_created": 3}
+{"index": 51, "url": "https://kubernetes.io/docs/concepts/configuration/configmap", "timestamp": "2025-02-27 23:39:09", "status": "success", "entries_created": 3}
+{"index": 52, "url": "https://kubernetes.io/docs/concepts/workloads/controllers", "timestamp": "2025-02-27 23:39:21", "status": "success", "entries_created": 2}
+{"index": 53, "url": "https://kubernetes.io/docs/reference/kubectl/jsonpath", "timestamp": "2025-02-27 23:39:46", "status": "success", "entries_created": 3}
+{"index": 54, "url": "https://kubernetes.io/docs/reference/kubectl/kubectl", "timestamp": "2025-02-27 23:40:17", "status": "success", "entries_created": 3}
+{"index": 55, "url": "https://kubernetes.io/docs/contribute/suggesting-improvements", "timestamp": "2025-02-27 23:40:26", "status": "success", "entries_created": 2}
+{"index": 56, "url": "https://kubernetes.io/docs/concepts/workloads/pods", "timestamp": "2025-02-27 23:40:53", "status": "success", "entries_created": 3}
+{"index": 57, "url": "https://kubernetes.io/docs/reference/setup-tools", "timestamp": "2025-02-27 23:40:57", "status": "success", "entries_created": 2}
+{"index": 58, "url": "https://kubernetes.io/docs/setup/production-environment", "timestamp": "2025-02-27 23:41:53", "status": "success", "entries_created": 2}
+{"index": 59, "url": "https://kubernetes.io/docs/concepts/extend-kubernetes", "timestamp": "2025-02-27 23:42:05", "status": "success", "entries_created": 2}
+{"index": 60, "url": "https://kubernetes.io/docs/tasks/administer-cluster", "timestamp": "2025-02-27 23:42:30", "status": "success", "entries_created": 1}
+{"index": 61, "url": "https://kubernetes.io/docs/reference/instrumentation/metrics", "timestamp": "2025-02-27 23:45:35", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 62, "url": "https://kubernetes.io/docs/reference/issues-security", "timestamp": "2025-02-27 23:45:41", "status": "success", "entries_created": 1}
+{"index": 63, "url": "https://kubernetes.io/docs/concepts/configuration/secret", "timestamp": "2025-02-27 23:48:40", "status": "success", "entries_created": 3}
+{"index": 64, "url": "https://kubernetes.io/docs/concepts/storage/volumes", "timestamp": "2025-02-27 23:49:17", "status": "success", "entries_created": 3}
+{"index": 65, "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics", "timestamp": "2025-02-27 23:49:27", "status": "success", "entries_created": 2}
+{"index": 66, "url": "https://kubernetes.io/docs/tasks/extend-kubernetes", "timestamp": "2025-02-27 23:49:56", "status": "success", "entries_created": 2}
+{"index": 67, "url": "https://kubernetes.io/docs/concepts/architecture/cri", "timestamp": "2025-02-27 23:50:39", "status": "success", "entries_created": 2}
+{"index": 68, "url": "https://kubernetes.io/docs/reference/debug-cluster", "timestamp": "2025-02-27 23:51:01", "status": "success", "entries_created": 1}
+{"index": 69, "url": "https://kubernetes.io/docs/concepts/workloads/management", "timestamp": "2025-02-27 23:54:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 70, "url": "https://kubernetes.io/docs/contribute/new-content", "timestamp": "2025-02-27 23:54:40", "status": "success", "entries_created": 2}
+{"index": 71, "url": "https://kubernetes.io/docs/reference/external-api", "timestamp": "2025-02-27 23:55:03", "status": "success", "entries_created": 1}
+{"index": 72, "url": "https://kubernetes.io/docs/reference/instrumentation/zpages", "timestamp": "2025-02-27 23:55:15", "status": "success", "entries_created": 3}
+{"index": 73, "url": "https://kubernetes.io/docs/reference/kubectl/generated", "timestamp": "2025-02-27 23:55:32", "status": "success", "entries_created": 0}
+{"index": 74, "url": "https://kubernetes.io/docs/setup/best-practices", "timestamp": "2025-02-27 23:56:16", "status": "success", "entries_created": 0}
+{"index": 75, "url": "https://kubernetes.io/docs/tutorials/stateful-application", "timestamp": "2025-02-27 23:56:26", "status": "success", "entries_created": 1}
+{"index": 76, "url": "https://kubernetes.io/docs/concepts/scheduling-eviction", "timestamp": "2025-02-27 23:56:36", "status": "success", "entries_created": 2}
+{"index": 77, "url": "https://kubernetes.io/docs/reference/config-api", "timestamp": "2025-02-27 23:56:58", "status": "success", "entries_created": 1}
+{"index": 78, "url": "https://kubernetes.io/docs/concepts/workloads/autoscaling", "timestamp": "2025-02-27 23:57:05", "status": "success", "entries_created": 3}
+{"index": 79, "url": "https://kubernetes.io/docs/concepts/architecture/cgroups", "timestamp": "2025-02-27 23:57:38", "status": "success", "entries_created": 3}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 00:00:44", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 81, "url": "https://kubernetes.io/docs/concepts/overview/components", "timestamp": "2025-02-28 00:01:03", "status": "success", "entries_created": 2}
+{"index": 82, "url": "https://kubernetes.io/docs/tasks/run-application", "timestamp": "2025-02-28 00:01:12", "status": "success", "entries_created": 1}
+{"index": 83, "url": "https://kubernetes.io/docs/concepts/configuration/overview", "timestamp": "2025-02-28 00:01:53", "status": "success", "entries_created": 3}
+{"index": 84, "url": "https://kubernetes.io/docs/reference/node/seccomp", "timestamp": "2025-02-28 00:02:30", "status": "success", "entries_created": 3}
+{"index": 85, "url": "https://kubernetes.io/docs/concepts/architecture/controller", "timestamp": "2025-02-28 00:02:44", "status": "success", "entries_created": 2}
+{"index": 86, "url": "https://kubernetes.io/docs/tutorials/security/seccomp", "timestamp": "2025-02-28 00:03:42", "status": "success", "entries_created": 3}
+{"index": 87, "url": "https://kubernetes.io/docs/tasks/configmap-secret", "timestamp": "2025-02-28 00:03:47", "status": "success", "entries_created": 1}
+{"index": 88, "url": "https://kubernetes.io/docs/concepts/architecture/nodes", "timestamp": "2025-02-28 00:04:31", "status": "success", "entries_created": 3}
+{"index": 89, "url": "https://kubernetes.io/docs/concepts/architecture/leases", "timestamp": "2025-02-28 00:04:47", "status": "success", "entries_created": 3}
+{"index": 90, "url": "https://kubernetes.io/docs/concepts/services-networking", "timestamp": "2025-02-28 00:05:05", "status": "success", "entries_created": 2}
+{"index": 91, "url": "https://kubernetes.io/docs/tutorials/cluster-management", "timestamp": "2025-02-28 00:05:10", "status": "success", "entries_created": 2}
+{"index": 92, "url": "https://kubernetes.io/docs/reference/instrumentation/slis", "timestamp": "2025-02-28 00:06:32", "status": "success", "entries_created": 3}
+{"index": 93, "url": "https://kubernetes.io/docs/tasks/manage-daemon", "timestamp": "2025-02-28 00:06:46", "status": "success", "entries_created": 1}
+{"index": 94, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_run", "timestamp": "2025-02-28 00:07:39", "status": "success", "entries_created": 3}
+{"index": 95, "url": "https://kubernetes.io/docs/concepts/policy/pid-limiting", "timestamp": "2025-02-28 00:07:58", "status": "success", "entries_created": 3}
+{"index": 96, "url": "https://kubernetes.io/docs/contribute/generate-ref-docs", "timestamp": "2025-02-28 00:08:04", "status": "success", "entries_created": 2}
+{"index": 97, "url": "https://kubernetes.io/docs/tasks/tls/certificate-rotation", "timestamp": "2025-02-28 00:08:14", "status": "success", "entries_created": 3}
+{"index": 98, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_attach", "timestamp": "2025-02-28 00:08:44", "status": "success", "entries_created": 3}
+{"index": 99, "url": "https://kubernetes.io/docs/concepts/architecture/cloud-controller", "timestamp": "2025-02-28 00:09:05", "status": "success", "entries_created": 3}
+{"index": 100, "url": "https://kubernetes.io/docs/contribute/style/content-guide", "timestamp": "2025-02-28 00:09:15", "status": "success", "entries_created": 2}
+{"index": 101, "url": "https://kubernetes.io/docs/contribute/style/style-guide", "timestamp": "2025-02-28 00:09:36", "status": "success", "entries_created": 3}
+{"index": 102, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_patch", "timestamp": "2025-02-28 00:10:27", "status": "success", "entries_created": 3}
+{"index": 103, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_get", "timestamp": "2025-02-28 00:11:13", "status": "success", "entries_created": 3}
+{"index": 104, "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/explore", "timestamp": "2025-02-28 00:11:18", "status": "success", "entries_created": 2}
+{"index": 105, "url": "https://kubernetes.io/docs/tutorials/stateful-application/cassandra", "timestamp": "2025-02-28 00:12:57", "status": "success", "entries_created": 3}
+{"index": 106, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_options", "timestamp": "2025-02-28 00:13:13", "status": "success", "entries_created": 3}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 00:16:20", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 108, "url": "https://kubernetes.io/docs/reference/node/node-status", "timestamp": "2025-02-28 00:16:45", "status": "success", "entries_created": 3}
+{"index": 109, "url": "https://kubernetes.io/docs/concepts/security/service-accounts", "timestamp": "2025-02-28 00:18:54", "status": "success", "entries_created": 3}
+{"index": 110, "url": "https://kubernetes.io/docs/concepts/architecture/garbage-collection", "timestamp": "2025-02-28 00:19:22", "status": "success", "entries_created": 3}
+{"index": 111, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_explain", "timestamp": "2025-02-28 00:19:46", "status": "success", "entries_created": 3}
+{"index": 112, "url": "https://kubernetes.io/docs/concepts/services-networking/gateway", "timestamp": "2025-02-28 00:20:16", "status": "success", "entries_created": 3}
+{"index": 113, "url": "https://kubernetes.io/docs/tasks/debug/debug-cluster", "timestamp": "2025-02-28 00:20:27", "status": "success", "entries_created": 3}
+{"index": 114, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/daemonset", "timestamp": "2025-02-28 00:23:18", "status": "success", "entries_created": 3}
+{"index": 115, "url": "https://kubernetes.io/docs/tasks/administer-cluster/namespaces", "timestamp": "2025-02-28 00:23:55", "status": "success", "entries_created": 3}
+{"index": 116, "url": "https://kubernetes.io/docs/contribute/participate/issue-wrangler", "timestamp": "2025-02-28 00:24:10", "status": "success", "entries_created": 3}
+{"index": 117, "url": "https://kubernetes.io/docs/contribute/style/diagram-guide", "timestamp": "2025-02-28 00:24:26", "status": "success", "entries_created": 3}
+{"index": 118, "url": "https://kubernetes.io/docs/concepts/storage/storage-capacity", "timestamp": "2025-02-28 00:24:45", "status": "success", "entries_created": 2}
+{"index": 119, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_completion", "timestamp": "2025-02-28 00:25:05", "status": "success", "entries_created": 3}
+{"index": 120, "url": "https://kubernetes.io/docs/tasks/administer-cluster/kubeadm", "timestamp": "2025-02-28 00:25:13", "status": "success", "entries_created": 2}
+{"index": 121, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_logs", "timestamp": "2025-02-28 00:25:54", "status": "success", "entries_created": 3}
+{"index": 122, "url": "https://kubernetes.io/docs/concepts/policy/resource-quotas", "timestamp": "2025-02-28 00:26:09", "status": "success", "entries_created": 3}
+{"index": 123, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_events", "timestamp": "2025-02-28 00:27:39", "status": "success", "entries_created": 3}
+{"index": 124, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_exec", "timestamp": "2025-02-28 00:28:12", "status": "success", "entries_created": 3}
+{"index": 125, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/ttlafterfinished", "timestamp": "2025-02-28 00:28:32", "status": "success", "entries_created": 3}
+{"index": 126, "url": "https://kubernetes.io/docs/concepts/containers/runtime-class", "timestamp": "2025-02-28 00:29:01", "status": "success", "entries_created": 3}
+{"index": 127, "url": "https://kubernetes.io/docs/reference/issues-security/security", "timestamp": "2025-02-28 00:29:19", "status": "success", "entries_created": 2}
+{"index": 128, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_debug", "timestamp": "2025-02-28 00:29:53", "status": "success", "entries_created": 3}
+{"index": 129, "url": "https://kubernetes.io/docs/reference/setup-tools/kubeadm", "timestamp": "2025-02-28 00:30:04", "status": "success", "entries_created": 1}
+{"index": 130, "url": "https://kubernetes.io/docs/tutorials/stateful-application/zookeeper", "timestamp": "2025-02-28 00:31:50", "status": "success", "entries_created": 3}
+{"index": 131, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/replicaset", "timestamp": "2025-02-28 00:32:04", "status": "success", "entries_created": 3}
+{"index": 132, "url": "https://kubernetes.io/docs/contribute/style/hugo-shortcodes", "timestamp": "2025-02-28 00:33:02", "status": "success", "entries_created": 3}
+{"index": 133, "url": "https://kubernetes.io/docs/tasks/administer-cluster/coredns", "timestamp": "2025-02-28 00:33:14", "status": "success", "entries_created": 3}
+{"index": 134, "url": "https://kubernetes.io/docs/reference/using-api/cel", "timestamp": "2025-02-28 00:33:29", "status": "success", "entries_created": 3}
+{"index": 135, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/job", "timestamp": "2025-02-28 00:34:25", "status": "success", "entries_created": 3}
+{"index": 136, "url": "https://kubernetes.io/docs/reference/networking/virtual-ips", "timestamp": "2025-02-28 00:35:10", "status": "success", "entries_created": 3}
+{"index": 137, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_kustomize", "timestamp": "2025-02-28 00:35:52", "status": "success", "entries_created": 3}
+{"index": 138, "url": "https://kubernetes.io/docs/reference/node/kubelet-files", "timestamp": "2025-02-28 00:36:07", "status": "success", "entries_created": 3}
+{"index": 139, "url": "https://kubernetes.io/docs/tutorials/stateless-application/guestbook", "timestamp": "2025-02-28 00:39:13", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 00:42:19", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 141, "url": "https://kubernetes.io/docs/reference/node/systemd-watchdog", "timestamp": "2025-02-28 00:42:49", "status": "success", "entries_created": 3}
+{"index": 142, "url": "https://kubernetes.io/docs/concepts/cluster-administration/logging", "timestamp": "2025-02-28 00:43:35", "status": "success", "entries_created": 3}
+{"index": 143, "url": "https://kubernetes.io/docs/concepts/storage/storage-classes", "timestamp": "2025-02-28 00:44:34", "status": "success", "entries_created": 3}
+{"index": 144, "url": "https://kubernetes.io/docs/concepts/security/multi-tenancy", "timestamp": "2025-02-28 00:47:15", "status": "success", "entries_created": 3}
+{"index": 145, "url": "https://kubernetes.io/docs/reference/instrumentation/node-metrics", "timestamp": "2025-02-28 00:47:26", "status": "success", "entries_created": 3}
+{"index": 146, "url": "https://kubernetes.io/docs/reference/node/node-labels", "timestamp": "2025-02-28 00:47:40", "status": "success", "entries_created": 2}
+{"index": 147, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_top", "timestamp": "2025-02-28 00:47:59", "status": "success", "entries_created": 3}
+{"index": 148, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_expose", "timestamp": "2025-02-28 00:48:20", "status": "success", "entries_created": 3}
+{"index": 149, "url": "https://kubernetes.io/docs/reference/issues-security/issues", "timestamp": "2025-02-28 00:48:32", "status": "success", "entries_created": 2}
+{"index": 150, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_apply", "timestamp": "2025-02-28 00:49:01", "status": "success", "entries_created": 3}
+{"index": 151, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_replace", "timestamp": "2025-02-28 00:49:34", "status": "success", "entries_created": 3}
+{"index": 152, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_cordon", "timestamp": "2025-02-28 00:49:54", "status": "success", "entries_created": 3}
+{"index": 153, "url": "https://kubernetes.io/docs/contribute/style/content-organization", "timestamp": "2025-02-28 00:50:10", "status": "success", "entries_created": 3}
+{"index": 154, "url": "https://kubernetes.io/docs/concepts/policy/limit-range", "timestamp": "2025-02-28 00:50:33", "status": "success", "entries_created": 3}
+{"index": 155, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_proxy", "timestamp": "2025-02-28 00:51:12", "status": "success", "entries_created": 3}
+{"index": 156, "url": "https://kubernetes.io/docs/concepts/workloads/pods/disruptions", "timestamp": "2025-02-28 00:51:59", "status": "success", "entries_created": 3}
+{"index": 157, "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/scale", "timestamp": "2025-02-28 00:52:11", "status": "success", "entries_created": 2}
+{"index": 158, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_delete", "timestamp": "2025-02-28 00:54:03", "status": "success", "entries_created": 3}
+{"index": 159, "url": "https://kubernetes.io/docs/concepts/cluster-administration/certificates", "timestamp": "2025-02-28 00:54:17", "status": "success", "entries_created": 2}
+{"index": 160, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_uncordon", "timestamp": "2025-02-28 00:54:50", "status": "success", "entries_created": 3}
+{"index": 161, "url": "https://kubernetes.io/docs/concepts/storage/storage-limits", "timestamp": "2025-02-28 00:55:36", "status": "success", "entries_created": 3}
+{"index": 162, "url": "https://kubernetes.io/docs/reference/networking/service-protocols", "timestamp": "2025-02-28 00:56:02", "status": "success", "entries_created": 3}
+{"index": 163, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create", "timestamp": "2025-02-28 00:56:41", "status": "success", "entries_created": 3}
+{"index": 164, "url": "https://kubernetes.io/docs/concepts/storage/windows-storage", "timestamp": "2025-02-28 00:56:59", "status": "success", "entries_created": 2}
+{"index": 165, "url": "https://kubernetes.io/docs/concepts/security/windows-security", "timestamp": "2025-02-28 00:57:10", "status": "success", "entries_created": 2}
+{"index": 166, "url": "https://kubernetes.io/docs/concepts/containers/container-environment", "timestamp": "2025-02-28 00:57:21", "status": "success", "entries_created": 3}
+{"index": 167, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_set", "timestamp": "2025-02-28 00:57:37", "status": "success", "entries_created": 3}
+{"index": 168, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_label", "timestamp": "2025-02-28 00:58:12", "status": "success", "entries_created": 3}
+{"index": 169, "url": "https://kubernetes.io/docs/tasks/manage-kubernetes-objects", "timestamp": "2025-02-28 00:58:19", "status": "success", "entries_created": 2}
+{"index": 170, "url": "https://kubernetes.io/docs/tasks/administer-cluster/certificates", "timestamp": "2025-02-28 00:58:51", "status": "success", "entries_created": 3}
+{"index": 171, "url": "https://kubernetes.io/docs/concepts/storage/dynamic-provisioning", "timestamp": "2025-02-28 00:59:01", "status": "success", "entries_created": 3}
+{"index": 172, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_certificate", "timestamp": "2025-02-28 00:59:18", "status": "success", "entries_created": 3}
+{"index": 173, "url": "https://kubernetes.io/docs/contribute/review/reviewing-prs", "timestamp": "2025-02-28 01:00:56", "status": "success", "entries_created": 2}
+{"index": 174, "url": "https://kubernetes.io/docs/tasks/debug/debug-application", "timestamp": "2025-02-28 01:01:04", "status": "success", "entries_created": 2}
+{"index": 175, "url": "https://kubernetes.io/docs/concepts/security/controlling-access", "timestamp": "2025-02-28 01:01:28", "status": "success", "entries_created": 3}
+{"index": 176, "url": "https://kubernetes.io/docs/contribute/review/for-approvers", "timestamp": "2025-02-28 01:01:51", "status": "success", "entries_created": 3}
+{"index": 177, "url": "https://kubernetes.io/docs/concepts/security/security-checklist", "timestamp": "2025-02-28 01:02:50", "status": "success", "entries_created": 2}
+{"index": 178, "url": "https://kubernetes.io/docs/tasks/inject-data-application", "timestamp": "2025-02-28 01:03:08", "status": "success", "entries_created": 2}
+{"index": 179, "url": "https://kubernetes.io/docs/concepts/windows/user-guide", "timestamp": "2025-02-28 01:03:55", "status": "success", "entries_created": 3}
+{"index": 180, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_rollout", "timestamp": "2025-02-28 01:04:12", "status": "success", "entries_created": 2}
+{"index": 181, "url": "https://kubernetes.io/docs/concepts/services-networking/ingress", "timestamp": "2025-02-28 01:04:48", "status": "success", "entries_created": 3}
+{"index": 182, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_wait", "timestamp": "2025-02-28 01:05:23", "status": "success", "entries_created": 3}
+{"index": 183, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller", "timestamp": "2025-02-28 01:05:59", "status": "success", "entries_created": 3}
+{"index": 184, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_auth", "timestamp": "2025-02-28 01:06:14", "status": "success", "entries_created": 3}
+{"index": 185, "url": "https://kubernetes.io/docs/concepts/overview/kubernetes-api", "timestamp": "2025-02-28 01:06:26", "status": "success", "entries_created": 3}
+{"index": 186, "url": "https://kubernetes.io/docs/reference/access-authn-authz", "timestamp": "2025-02-28 01:06:35", "status": "success", "entries_created": 2}
+{"index": 187, "url": "https://kubernetes.io/docs/tasks/tools/install-minikube", "timestamp": "2025-02-28 01:09:40", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 188, "url": "https://kubernetes.io/docs/tutorials/services/source-ip", "timestamp": "2025-02-28 01:10:23", "status": "success", "entries_created": 3}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 01:13:29", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 190, "url": "https://kubernetes.io/docs/concepts/services-networking/service", "timestamp": "2025-02-28 01:14:07", "status": "success", "entries_created": 3}
+{"index": 191, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_config", "timestamp": "2025-02-28 01:14:34", "status": "success", "entries_created": 3}
+{"index": 192, "url": "https://kubernetes.io/docs/tasks/administer-cluster/nodelocaldns", "timestamp": "2025-02-28 01:15:15", "status": "success", "entries_created": 3}
+{"index": 193, "url": "https://kubernetes.io/docs/concepts/storage/projected-volumes", "timestamp": "2025-02-28 01:15:33", "status": "success", "entries_created": 3}
+{"index": 194, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/statefulset", "timestamp": "2025-02-28 01:18:37", "status": "success", "entries_created": 3}
+{"index": 195, "url": "https://kubernetes.io/docs/concepts/storage/volume-snapshots", "timestamp": "2025-02-28 01:19:09", "status": "success", "entries_created": 3}
+{"index": 196, "url": "https://kubernetes.io/docs/setup/production-environment/tools", "timestamp": "2025-02-28 01:19:15", "status": "success", "entries_created": 2}
+{"index": 197, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_edit", "timestamp": "2025-02-28 01:19:48", "status": "success", "entries_created": 3}
+{"index": 198, "url": "https://kubernetes.io/docs/concepts/extend-kubernetes/operator", "timestamp": "2025-02-28 01:20:04", "status": "success", "entries_created": 3}
+{"index": 199, "url": "https://kubernetes.io/docs/concepts/cluster-administration/networking", "timestamp": "2025-02-28 01:20:14", "status": "success", "entries_created": 2}
+{"index": 200, "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/expose", "timestamp": "2025-02-28 01:20:17", "status": "success", "entries_created": 1}
+{"index": 201, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_describe", "timestamp": "2025-02-28 01:20:36", "status": "success", "entries_created": 3}
+{"index": 202, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl", "timestamp": "2025-02-28 01:20:53", "status": "success", "entries_created": 3}
+{"index": 203, "url": "https://kubernetes.io/docs/home/supported-doc-versions", "timestamp": "2025-02-28 01:20:58", "status": "success", "entries_created": 2}
+{"index": 204, "url": "https://kubernetes.io/docs/tasks/access-application-cluster", "timestamp": "2025-02-28 01:21:06", "status": "success", "entries_created": 1}
+{"index": 205, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_diff", "timestamp": "2025-02-28 01:21:15", "status": "success", "entries_created": 3}
+{"index": 206, "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/update", "timestamp": "2025-02-28 01:21:19", "status": "success", "entries_created": 2}
+{"index": 207, "url": "https://kubernetes.io/docs/contribute/participate/pr-wranglers", "timestamp": "2025-02-28 01:21:56", "status": "success", "entries_created": 3}
+{"index": 208, "url": "https://kubernetes.io/docs/setup/best-practices/certificates", "timestamp": "2025-02-28 01:22:34", "status": "success", "entries_created": 3}
+{"index": 209, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_taint", "timestamp": "2025-02-28 01:22:48", "status": "success", "entries_created": 3}
+{"index": 210, "url": "https://kubernetes.io/docs/concepts/storage/persistent-volumes", "timestamp": "2025-02-28 01:25:54", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 211, "url": "https://kubernetes.io/docs/concepts/cluster-administration/proxies", "timestamp": "2025-02-28 01:26:05", "status": "success", "entries_created": 2}
+{"index": 212, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_version", "timestamp": "2025-02-28 01:26:18", "status": "success", "entries_created": 3}
+{"index": 213, "url": "https://kubernetes.io/docs/tasks/configure-pod-container", "timestamp": "2025-02-28 01:26:21", "status": "success", "entries_created": 1}
+{"index": 214, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_cp", "timestamp": "2025-02-28 01:26:34", "status": "success", "entries_created": 3}
+{"index": 215, "url": "https://kubernetes.io/docs/concepts/storage/ephemeral-volumes", "timestamp": "2025-02-28 01:26:52", "status": "success", "entries_created": 3}
+{"index": 216, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_annotate", "timestamp": "2025-02-28 01:27:18", "status": "success", "entries_created": 3}
+{"index": 217, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_autoscale", "timestamp": "2025-02-28 01:28:17", "status": "success", "entries_created": 2}
+{"index": 218, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_plugin", "timestamp": "2025-02-28 01:28:34", "status": "success", "entries_created": 3}
+{"index": 219, "url": "https://kubernetes.io/docs/concepts/cluster-administration/addons", "timestamp": "2025-02-28 01:28:55", "status": "success", "entries_created": 2}
+{"index": 220, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_drain", "timestamp": "2025-02-28 01:29:04", "status": "success", "entries_created": 3}
+{"index": 221, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_scale", "timestamp": "2025-02-28 01:29:31", "status": "success", "entries_created": 3}
+{"index": 222, "url": "https://kubernetes.io/docs/concepts/cluster-administration/system-logs", "timestamp": "2025-02-28 01:30:18", "status": "success", "entries_created": 3}
+{"index": 223, "url": "https://kubernetes.io/docs/tasks/administer-cluster/kms-provider", "timestamp": "2025-02-28 01:32:20", "status": "success", "entries_created": 3}
+{"index": 224, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_secret", "timestamp": "2025-02-28 01:32:37", "status": "success", "entries_created": 3}
+{"index": 225, "url": "https://kubernetes.io/docs/setup/best-practices/multiple-zones", "timestamp": "2025-02-28 01:33:04", "status": "success", "entries_created": 2}
+{"index": 226, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_service_loadbalancer", "timestamp": "2025-02-28 01:33:38", "status": "success", "entries_created": 3}
+{"index": 227, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_poddisruptionbudget", "timestamp": "2025-02-28 01:34:27", "status": "success", "entries_created": 2}
+{"index": 228, "url": "https://kubernetes.io/docs/contribute/participate/roles-and-responsibilities", "timestamp": "2025-02-28 01:35:09", "status": "success", "entries_created": 3}
+{"index": 229, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_token", "timestamp": "2025-02-28 01:35:36", "status": "success", "entries_created": 2}
+{"index": 230, "url": "https://kubernetes.io/docs/tasks/network/validate-dual-stack", "timestamp": "2025-02-28 01:36:14", "status": "success", "entries_created": 3}
+{"index": 231, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_service", "timestamp": "2025-02-28 01:36:30", "status": "success", "entries_created": 3}
+{"index": 232, "url": "https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization", "timestamp": "2025-02-28 01:39:36", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 233, "url": "https://kubernetes.io/docs/tasks/administer-cluster/cluster-upgrade", "timestamp": "2025-02-28 01:39:47", "status": "success", "entries_created": 3}
+{"index": 234, "url": "https://kubernetes.io/docs/tasks/tools/install-kubectl-macos", "timestamp": "2025-02-28 01:42:53", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 235, "url": "https://kubernetes.io/docs/concepts/services-networking/endpoint-slices", "timestamp": "2025-02-28 01:43:08", "status": "success", "entries_created": 3}
+{"index": 236, "url": "https://kubernetes.io/docs/concepts/workloads/pods/downward-api", "timestamp": "2025-02-28 01:43:26", "status": "success", "entries_created": 3}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 01:46:31", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 238, "url": "https://kubernetes.io/docs/reference/access-authn-authz/webhook", "timestamp": "2025-02-28 01:46:51", "status": "success", "entries_created": 3}
+{"index": 239, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_config/kubectl_config_set", "timestamp": "2025-02-28 01:46:58", "status": "success", "entries_created": 3}
+{"index": 240, "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app", "timestamp": "2025-02-28 01:47:04", "status": "success", "entries_created": 2}
+{"index": 241, "url": "https://kubernetes.io/docs/reference/using-api/health-checks", "timestamp": "2025-02-28 01:47:24", "status": "success", "entries_created": 3}
+{"index": 242, "url": "https://kubernetes.io/docs/concepts/storage/volume-health-monitoring", "timestamp": "2025-02-28 01:47:37", "status": "success", "entries_created": 3}
+{"index": 243, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_role", "timestamp": "2025-02-28 01:48:07", "status": "success", "entries_created": 2}
+{"index": 244, "url": "https://kubernetes.io/docs/reference/node/kernel-version-requirements", "timestamp": "2025-02-28 01:48:22", "status": "success", "entries_created": 2}
+{"index": 245, "url": "https://kubernetes.io/docs/tutorials/configuration/pod-sidecar-containers", "timestamp": "2025-02-28 01:48:53", "status": "success", "entries_created": 3}
+{"index": 246, "url": "https://kubernetes.io/docs/setup/production-environment/tools/kubeadm", "timestamp": "2025-02-28 01:49:32", "status": "success", "entries_created": 1}
+{"index": 247, "url": "https://kubernetes.io/docs/tutorials/security/cluster-level-pss", "timestamp": "2025-02-28 01:50:21", "status": "success", "entries_created": 3}
+{"index": 248, "url": "https://kubernetes.io/docs/setup/production-environment/container-runtimes", "timestamp": "2025-02-28 01:51:12", "status": "success", "entries_created": 3}
+{"index": 249, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_quota", "timestamp": "2025-02-28 01:51:38", "status": "success", "entries_created": 3}
+{"index": 250, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_cluster-info", "timestamp": "2025-02-28 01:51:55", "status": "success", "entries_created": 3}
+{"index": 251, "url": "https://kubernetes.io/docs/tasks/tools/install-kubectl-windows", "timestamp": "2025-02-28 01:52:36", "status": "success", "entries_created": 3}
+{"index": 252, "url": "https://kubernetes.io/docs/concepts/cluster-administration/system-metrics", "timestamp": "2025-02-28 01:54:19", "status": "success", "entries_created": 3}
+{"index": 253, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_port-forward", "timestamp": "2025-02-28 01:54:41", "status": "success", "entries_created": 3}
+{"index": 254, "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster", "timestamp": "2025-02-28 01:54:46", "status": "success", "entries_created": 2}
+{"index": 255, "url": "https://kubernetes.io/docs/contribute/style/page-content-types", "timestamp": "2025-02-28 01:55:13", "status": "success", "entries_created": 3}
+{"index": 256, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_rollout/kubectl_rollout_status", "timestamp": "2025-02-28 01:55:29", "status": "success", "entries_created": 3}
+{"index": 257, "url": "https://kubernetes.io/docs/tutorials/security/ns-level-pss", "timestamp": "2025-02-28 01:55:37", "status": "success", "entries_created": 3}
+{"index": 258, "url": "https://kubernetes.io/docs/reference/access-authn-authz/rbac", "timestamp": "2025-02-28 01:56:09", "status": "success", "entries_created": 3}
+{"index": 259, "url": "https://kubernetes.io/docs/concepts/configuration/windows-resource-management", "timestamp": "2025-02-28 01:56:20", "status": "success", "entries_created": 3}
+{"index": 260, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_set/kubectl_set_image", "timestamp": "2025-02-28 01:56:42", "status": "success", "entries_created": 3}
+{"index": 261, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_service_externalname", "timestamp": "2025-02-28 01:57:04", "status": "success", "entries_created": 2}
+{"index": 262, "url": "https://kubernetes.io/docs/concepts/containers/container-lifecycle-hooks", "timestamp": "2025-02-28 01:57:40", "status": "success", "entries_created": 3}
+{"index": 263, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_configmap", "timestamp": "2025-02-28 01:58:11", "status": "success", "entries_created": 3}
+{"index": 264, "url": "https://kubernetes.io/docs/reference/node/kubelet-checkpoint-api", "timestamp": "2025-02-28 01:58:20", "status": "success", "entries_created": 3}
+{"index": 265, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_rollout/kubectl_rollout_resume", "timestamp": "2025-02-28 01:58:48", "status": "success", "entries_created": 3}
+{"index": 266, "url": "https://kubernetes.io/docs/setup/best-practices/cluster-large", "timestamp": "2025-02-28 01:59:07", "status": "success", "entries_created": 3}
+{"index": 267, "url": "https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources", "timestamp": "2025-02-28 01:59:38", "status": "success", "entries_created": 3}
+{"index": 268, "url": "https://kubernetes.io/docs/tasks/administer-cluster/manage-resources", "timestamp": "2025-02-28 01:59:45", "status": "success", "entries_created": 2}
+{"index": 269, "url": "https://kubernetes.io/docs/concepts/security/pod-security-policy", "timestamp": "2025-02-28 01:59:49", "status": "success", "entries_created": 2}
+{"index": 270, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_namespace", "timestamp": "2025-02-28 02:00:15", "status": "success", "entries_created": 3}
+{"index": 271, "url": "https://kubernetes.io/docs/concepts/cluster-administration/system-traces", "timestamp": "2025-02-28 02:00:44", "status": "success", "entries_created": 3}
+{"index": 272, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs", "timestamp": "2025-02-28 02:02:41", "status": "success", "entries_created": 3}
+{"index": 273, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_secret_tls", "timestamp": "2025-02-28 02:03:12", "status": "success", "entries_created": 3}
+{"index": 274, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_service_nodeport", "timestamp": "2025-02-28 02:03:44", "status": "success", "entries_created": 2}
+{"index": 275, "url": "https://kubernetes.io/docs/concepts/security/pod-security-standards", "timestamp": "2025-02-28 02:05:36", "status": "success", "entries_created": 3}
+{"index": 276, "url": "https://kubernetes.io/docs/contribute/style/write-new-topic", "timestamp": "2025-02-28 02:06:08", "status": "success", "entries_created": 3}
+{"index": 277, "url": "https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle", "timestamp": "2025-02-28 02:06:35", "status": "success", "entries_created": 3}
+{"index": 278, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_config/kubectl_config_unset", "timestamp": "2025-02-28 02:06:49", "status": "success", "entries_created": 3}
+{"index": 279, "url": "https://kubernetes.io/docs/reference/config-api/imagepolicy.v1alpha1", "timestamp": "2025-02-28 02:07:04", "status": "success", "entries_created": 2}
+{"index": 280, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_top/kubectl_top_node", "timestamp": "2025-02-28 02:07:22", "status": "success", "entries_created": 3}
+{"index": 281, "url": "https://kubernetes.io/docs/concepts/services-networking/network-policies", "timestamp": "2025-02-28 02:07:49", "status": "success", "entries_created": 3}
+{"index": 282, "url": "https://kubernetes.io/docs/reference/access-authn-authz/abac", "timestamp": "2025-02-28 02:09:22", "status": "success", "entries_created": 3}
+{"index": 283, "url": "https://kubernetes.io/docs/tasks/debug/debug-cluster/crictl", "timestamp": "2025-02-28 02:09:33", "status": "success", "entries_created": 3}
+{"index": 284, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_api-resources", "timestamp": "2025-02-28 02:09:54", "status": "success", "entries_created": 3}
+{"index": 285, "url": "https://kubernetes.io/docs/tutorials/cluster-management/kubelet-standalone", "timestamp": "2025-02-28 02:11:51", "status": "success", "entries_created": 3}
+{"index": 286, "url": "https://kubernetes.io/docs/tasks/run-application/configure-pdb", "timestamp": "2025-02-28 02:12:34", "status": "success", "entries_created": 3}
+{"index": 287, "url": "https://kubernetes.io/docs/tasks/administer-cluster/memory-manager", "timestamp": "2025-02-28 02:12:52", "status": "success", "entries_created": 3}
+{"index": 288, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_rollout/kubectl_rollout_history", "timestamp": "2025-02-28 02:13:13", "status": "success", "entries_created": 3}
+{"index": 289, "url": "https://kubernetes.io/docs/tasks/manage-hugepages/scheduling-hugepages", "timestamp": "2025-02-28 02:13:34", "status": "success", "entries_created": 3}
+{"index": 290, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_rollout/kubectl_rollout_pause", "timestamp": "2025-02-28 02:13:45", "status": "success", "entries_created": 3}
+{"index": 291, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_rolebinding", "timestamp": "2025-02-28 02:24:12", "status": "success", "entries_created": 2}
+{"index": 292, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_set/kubectl_set_selector", "timestamp": "2025-02-28 02:24:33", "status": "success", "entries_created": 3}
+{"index": 293, "url": "https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data", "timestamp": "2025-02-28 02:27:38", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 294, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_create/kubectl_create_cronjob", "timestamp": "2025-02-28 02:28:25", "status": "success", "entries_created": 3}
+{"index": 295, "url": "https://kubernetes.io/docs/tasks/debug/debug-cluster/windows", "timestamp": "2025-02-28 02:28:56", "status": "success", "entries_created": 3}
+{"index": 296, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_plugin/kubectl_plugin_list", "timestamp": "2025-02-28 02:29:10", "status": "success", "entries_created": 3}
+{"index": 297, "url": "https://kubernetes.io/docs/concepts/cluster-administration/compatibility-version", "timestamp": "2025-02-28 02:29:20", "status": "success", "entries_created": 2}
+{"index": 298, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_certificate/kubectl_certificate_deny", "timestamp": "2025-02-28 02:29:43", "status": "success", "entries_created": 3}
+{"index": 299, "url": "https://kubernetes.io/docs/contribute/new-content/new-features", "timestamp": "2025-02-28 02:30:25", "status": "success", "entries_created": 3}
+{"index": 300, "url": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_set/kubectl_set_serviceaccount", "timestamp": "2025-02-28 02:31:00", "status": "success", "entries_created": 3}
+{"index": 301, "url": "https://kubernetes.io/docs/concepts/configuration/manage-resources-containers", "timestamp": "2025-02-28 02:34:01", "status": "success", "entries_created": 3}
+{"index": 302, "url": "https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.31", "timestamp": "2025-02-28 02:34:53", "status": "success", "entries_created": 3}
+{"index": 303, "url": "https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces", "timestamp": "2025-02-28 02:35:11", "status": "success", "entries_created": 3}
+{"index": 16, "url": "https://kubernetes.io/docs/contribute/localization", "timestamp": "2025-02-28 02:36:09", "status": "success", "entries_created": 3}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 02:39:14", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 61, "url": "https://kubernetes.io/docs/reference/instrumentation/metrics", "timestamp": "2025-02-28 02:42:20", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 69, "url": "https://kubernetes.io/docs/concepts/workloads/management", "timestamp": "2025-02-28 02:45:25", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 02:48:31", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 02:51:36", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 139, "url": "https://kubernetes.io/docs/tutorials/stateless-application/guestbook", "timestamp": "2025-02-28 02:52:00", "status": "success", "entries_created": 1}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 02:55:05", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 187, "url": "https://kubernetes.io/docs/tasks/tools/install-minikube", "timestamp": "2025-02-28 02:58:04", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 03:01:10", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 210, "url": "https://kubernetes.io/docs/concepts/storage/persistent-volumes", "timestamp": "2025-02-28 03:04:15", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 232, "url": "https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization", "timestamp": "2025-02-28 03:07:21", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 234, "url": "https://kubernetes.io/docs/tasks/tools/install-kubectl-macos", "timestamp": "2025-02-28 03:09:21", "status": "success", "entries_created": 3}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 03:12:27", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 293, "url": "https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data", "timestamp": "2025-02-28 03:13:06", "status": "success", "entries_created": 3}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 03:16:18", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 61, "url": "https://kubernetes.io/docs/reference/instrumentation/metrics", "timestamp": "2025-02-28 03:19:23", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 69, "url": "https://kubernetes.io/docs/concepts/workloads/management", "timestamp": "2025-02-28 03:22:26", "status": "success", "entries_created": 3}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 03:25:32", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 03:28:37", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 03:31:43", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 187, "url": "https://kubernetes.io/docs/tasks/tools/install-minikube", "timestamp": "2025-02-28 03:34:48", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 03:37:54", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 210, "url": "https://kubernetes.io/docs/concepts/storage/persistent-volumes", "timestamp": "2025-02-28 03:38:23", "status": "success", "entries_created": 3}
+{"index": 232, "url": "https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization", "timestamp": "2025-02-28 03:41:29", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 03:44:34", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 03:47:44", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 61, "url": "https://kubernetes.io/docs/reference/instrumentation/metrics", "timestamp": "2025-02-28 03:50:50", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 03:53:55", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 03:57:01", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 04:00:06", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 187, "url": "https://kubernetes.io/docs/tasks/tools/install-minikube", "timestamp": "2025-02-28 04:03:11", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 04:06:18", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 232, "url": "https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization", "timestamp": "2025-02-28 04:09:23", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 04:12:29", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 04:24:39", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 61, "url": "https://kubernetes.io/docs/reference/instrumentation/metrics", "timestamp": "2025-02-28 04:27:44", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 04:30:50", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 04:33:55", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 04:37:01", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 187, "url": "https://kubernetes.io/docs/tasks/tools/install-minikube", "timestamp": "2025-02-28 04:40:06", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 04:42:54", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 232, "url": "https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization", "timestamp": "2025-02-28 04:43:25", "status": "success", "entries_created": 3}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 04:46:30", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 04:49:43", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 61, "url": "https://kubernetes.io/docs/reference/instrumentation/metrics", "timestamp": "2025-02-28 04:52:49", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 04:55:54", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 04:59:00", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 05:02:05", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 187, "url": "https://kubernetes.io/docs/tasks/tools/install-minikube", "timestamp": "2025-02-28 05:05:11", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 05:08:16", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 05:11:22", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 05:14:32", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 61, "url": "https://kubernetes.io/docs/reference/instrumentation/metrics", "timestamp": "2025-02-28 05:17:38", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 05:20:43", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 05:23:48", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 05:26:54", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 187, "url": "https://kubernetes.io/docs/tasks/tools/install-minikube", "timestamp": "2025-02-28 05:30:00", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 05:33:09", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 05:36:15", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 05:39:25", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 61, "url": "https://kubernetes.io/docs/reference/instrumentation/metrics", "timestamp": "2025-02-28 05:42:31", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 05:45:36", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 05:48:41", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 05:51:47", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 187, "url": "https://kubernetes.io/docs/tasks/tools/install-minikube", "timestamp": "2025-02-28 05:54:52", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 05:57:57", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 06:01:10", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 06:04:20", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 61, "url": "https://kubernetes.io/docs/reference/instrumentation/metrics", "timestamp": "2025-02-28 06:07:26", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 06:10:31", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 06:13:38", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 06:16:43", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 187, "url": "https://kubernetes.io/docs/tasks/tools/install-minikube", "timestamp": "2025-02-28 06:19:49", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 06:22:54", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 06:26:00", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 06:29:10", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 61, "url": "https://kubernetes.io/docs/reference/instrumentation/metrics", "timestamp": "2025-02-28 06:30:44", "status": "success", "entries_created": 1}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 06:33:50", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 06:36:55", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 06:40:00", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 187, "url": "https://kubernetes.io/docs/tasks/tools/install-minikube", "timestamp": "2025-02-28 06:42:00", "status": "success", "entries_created": 3}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 06:45:06", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 06:48:28", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 06:51:39", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 06:54:44", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 06:57:50", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 07:00:55", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 07:04:01", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 07:07:06", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 07:10:17", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 07:13:22", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 07:16:28", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 07:19:33", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 07:22:38", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 07:25:44", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 07:28:58", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 07:32:04", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 07:35:09", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 07:38:15", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 07:41:20", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 07:44:26", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 07:47:36", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 07:50:42", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 07:53:47", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 07:56:52", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 07:59:58", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 08:03:04", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 08:06:14", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 08:09:19", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 08:12:25", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 08:15:30", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 08:18:36", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 08:21:45", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 08:24:55", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 80, "url": "https://kubernetes.io/docs/concepts/containers/images", "timestamp": "2025-02-28 08:25:58", "status": "success", "entries_created": 3}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 08:29:03", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 08:32:09", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 08:35:15", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 08:38:24", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 08:41:35", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 08:44:41", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 08:47:46", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 08:50:52", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 08:53:57", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 08:57:08", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 09:00:13", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 09:03:19", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 09:06:25", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 09:09:30", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 09:12:45", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 09:15:55", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 09:19:01", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 09:22:07", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 09:25:12", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 09:28:23", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 09:31:28", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 09:34:34", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 09:37:39", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 09:40:45", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 09:43:56", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 09:47:01", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 09:50:11", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 09:53:16", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 09:56:31", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 09:59:16", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 10:02:21", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 10:05:27", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 10:08:33", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 10:11:43", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 10:14:54", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 10:17:59", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 10:21:07", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 10:24:12", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 10:27:17", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 10:30:28", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 10:33:34", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 10:36:39", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 10:39:45", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 10:42:50", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 10:46:00", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 10:49:06", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 10:52:11", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 10:55:21", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 10:58:27", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 40, "url": "https://kubernetes.io/docs/reference/glossary", "timestamp": "2025-02-28 11:01:37", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 107, "url": "https://kubernetes.io/docs/reference/kubectl/quick-reference", "timestamp": "2025-02-28 11:04:43", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 140, "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment", "timestamp": "2025-02-28 11:07:48", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 189, "url": "https://kubernetes.io/docs/reference/labels-annotations-taints", "timestamp": "2025-02-28 11:10:54", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 237, "url": "https://kubernetes.io/docs/reference/access-authn-authz/authentication", "timestamp": "2025-02-28 11:13:59", "status": "failure", "error": "No usable data returned on retry 25"}

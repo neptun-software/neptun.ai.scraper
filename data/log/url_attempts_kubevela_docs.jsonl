@@ -1,0 +1,345 @@
+{"index": 0, "url": "https://kubevela.io/docs", "timestamp": "2025-02-28 14:37:22", "status": "success", "entries_created": 2}
+{"index": 1, "url": "https://kubevela.io/docs/install", "timestamp": "2025-02-28 14:37:28", "status": "success", "entries_created": 2}
+{"index": 2, "url": "https://kubevela.io/docs/roadmap", "timestamp": "2025-02-28 14:37:38", "status": "success", "entries_created": 2}
+{"index": 3, "url": "https://kubevela.io/docs/cli/vela_kube_apply", "timestamp": "2025-02-28 14:37:56", "status": "success", "entries_created": 3}
+{"index": 4, "url": "https://kubevela.io/docs/quick-start", "timestamp": "2025-02-28 14:38:28", "status": "success", "entries_created": 2}
+{"index": 5, "url": "https://kubevela.io/docs/cli/vela_def_show", "timestamp": "2025-02-28 14:39:01", "status": "success", "entries_created": 3}
+{"index": 6, "url": "https://kubevela.io/docs/tutorials/webservice", "timestamp": "2025-02-28 14:39:16", "status": "success", "entries_created": 3}
+{"index": 7, "url": "https://kubevela.io/docs/cli/vela_addon_push", "timestamp": "2025-02-28 14:39:34", "status": "failure", "error": "string indices must be integers, not 'str'"}
+{"index": 8, "url": "https://kubevela.io/docs/cli/vela_show", "timestamp": "2025-02-28 14:39:48", "status": "success", "entries_created": 3}
+{"index": 9, "url": "https://kubevela.io/docs/cli/vela_init", "timestamp": "2025-02-28 14:39:53", "status": "success", "entries_created": 3}
+{"index": 10, "url": "https://kubevela.io/docs/contributor/overview", "timestamp": "2025-02-28 14:40:11", "status": "success", "entries_created": 2}
+{"index": 11, "url": "https://kubevela.io/docs/cli/vela_adopt", "timestamp": "2025-02-28 14:40:38", "status": "success", "entries_created": 3}
+{"index": 12, "url": "https://kubevela.io/docs/cli/vela_workflow_rollback", "timestamp": "2025-02-28 14:40:45", "status": "success", "entries_created": 2}
+{"index": 13, "url": "https://kubevela.io/docs/cli/vela_ql", "timestamp": "2025-02-28 14:40:58", "status": "success", "entries_created": 3}
+{"index": 14, "url": "https://kubevela.io/docs/tutorials/helm", "timestamp": "2025-02-28 14:41:08", "status": "success", "entries_created": 3}
+{"index": 15, "url": "https://kubevela.io/docs/cli/vela_completion", "timestamp": "2025-02-28 14:41:14", "status": "success", "entries_created": 3}
+{"index": 16, "url": "https://kubevela.io/docs/cli/vela_uninstall", "timestamp": "2025-02-28 14:41:22", "status": "success", "entries_created": 3}
+{"index": 17, "url": "https://kubevela.io/docs/cli/vela_status", "timestamp": "2025-02-28 14:41:39", "status": "success", "entries_created": 3}
+{"index": 18, "url": "https://kubevela.io/docs/tutorials/scaler", "timestamp": "2025-02-28 14:41:49", "status": "success", "entries_created": 3}
+{"index": 19, "url": "https://kubevela.io/docs/cli/vela_version", "timestamp": "2025-02-28 14:42:07", "status": "success", "entries_created": 3}
+{"index": 20, "url": "https://kubevela.io/docs/cli/vela_install", "timestamp": "2025-02-28 14:42:15", "status": "success", "entries_created": 3}
+{"index": 21, "url": "https://kubevela.io/docs/cli/vela_ql_apply", "timestamp": "2025-02-28 14:42:34", "status": "success", "entries_created": 3}
+{"index": 22, "url": "https://kubevela.io/docs/cli/vela_env", "timestamp": "2025-02-28 14:42:41", "status": "success", "entries_created": 3}
+{"index": 23, "url": "https://kubevela.io/docs/cli/vela_cluster_labels_add", "timestamp": "2025-02-28 14:42:48", "status": "success", "entries_created": 3}
+{"index": 24, "url": "https://kubevela.io/docs/cli/vela_kube", "timestamp": "2025-02-28 14:43:04", "status": "success", "entries_created": 3}
+{"index": 25, "url": "https://kubevela.io/docs/cli/vela_top", "timestamp": "2025-02-28 14:43:10", "status": "success", "entries_created": 3}
+{"index": 26, "url": "https://kubevela.io/docs/cli/vela_exec", "timestamp": "2025-02-28 14:43:20", "status": "success", "entries_created": 3}
+{"index": 27, "url": "https://kubevela.io/docs/cli/vela_env_init", "timestamp": "2025-02-28 14:43:36", "status": "success", "entries_created": 3}
+{"index": 28, "url": "https://kubevela.io/docs/cli/vela_uischema", "timestamp": "2025-02-28 14:43:42", "status": "success", "entries_created": 3}
+{"index": 29, "url": "https://kubevela.io/docs/tutorials/workflows", "timestamp": "2025-02-28 14:43:47", "status": "success", "entries_created": 2}
+{"index": 30, "url": "https://kubevela.io/docs/tutorials/vela-top", "timestamp": "2025-02-28 14:44:19", "status": "success", "entries_created": 3}
+{"index": 31, "url": "https://kubevela.io/docs/developers/learn-appfile", "timestamp": "2025-02-28 14:44:37", "status": "success", "entries_created": 3}
+{"index": 32, "url": "https://kubevela.io/docs/getting-started/architecture", "timestamp": "2025-02-28 14:44:54", "status": "success", "entries_created": 2}
+{"index": 33, "url": "https://kubevela.io/docs/reference/addons/ai", "timestamp": "2025-02-28 14:45:21", "status": "success", "entries_created": 3}
+{"index": 34, "url": "https://kubevela.io/docs/reference/addons/overview", "timestamp": "2025-02-28 14:45:44", "status": "success", "entries_created": 2}
+{"index": 35, "url": "https://kubevela.io/docs/case-studies/gitops", "timestamp": "2025-02-28 14:45:54", "status": "success", "entries_created": 2}
+{"index": 36, "url": "https://kubevela.io/docs/platform-engineers/keda", "timestamp": "2025-02-28 14:46:12", "status": "success", "entries_created": 3}
+{"index": 37, "url": "https://kubevela.io/docs/developers/cap-center", "timestamp": "2025-02-28 14:46:36", "status": "success", "entries_created": 3}
+{"index": 38, "url": "https://kubevela.io/docs/tutorials/cloud-shell", "timestamp": "2025-02-28 14:46:47", "status": "success", "entries_created": 3}
+{"index": 39, "url": "https://kubevela.io/docs/developers/config-app", "timestamp": "2025-02-28 14:46:58", "status": "success", "entries_created": 3}
+{"index": 40, "url": "https://kubevela.io/docs/reference/addons/velaux", "timestamp": "2025-02-28 14:47:19", "status": "success", "entries_created": 3}
+{"index": 41, "url": "https://kubevela.io/docs/contributor/code-contribute", "timestamp": "2025-02-28 14:50:25", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 42, "url": "https://kubevela.io/docs/reference/topology-rule", "timestamp": "2025-02-28 14:50:52", "status": "success", "entries_created": 3}
+{"index": 43, "url": "https://kubevela.io/docs/reference/ui-schema", "timestamp": "2025-02-28 14:51:14", "status": "success", "entries_created": 3}
+{"index": 44, "url": "https://kubevela.io/docs/cli/vela_auth_list-privileges", "timestamp": "2025-02-28 14:51:27", "status": "success", "entries_created": 3}
+{"index": 45, "url": "https://kubevela.io/docs/reference/addons/fluxcd", "timestamp": "2025-02-28 14:52:00", "status": "success", "entries_created": 3}
+{"index": 46, "url": "https://kubevela.io/docs/reference/addons/rollout", "timestamp": "2025-02-28 14:55:05", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 47, "url": "https://kubevela.io/docs/cli/vela_def_gen-api", "timestamp": "2025-02-28 14:55:20", "status": "success", "entries_created": 3}
+{"index": 48, "url": "https://kubevela.io/docs/v1.8/roadmap", "timestamp": "2025-02-28 14:55:31", "status": "success", "entries_created": 2}
+{"index": 49, "url": "https://kubevela.io/docs/v1.8/install", "timestamp": "2025-02-28 14:55:42", "status": "success", "entries_created": 2}
+{"index": 50, "url": "https://kubevela.io/docs/tutorials/multi-env", "timestamp": "2025-02-28 14:55:54", "status": "success", "entries_created": 3}
+{"index": 51, "url": "https://kubevela.io/docs/reference/addons/traefik", "timestamp": "2025-02-28 14:56:13", "status": "success", "entries_created": 3}
+{"index": 52, "url": "https://kubevela.io/docs/cli/vela_def_gen-cue", "timestamp": "2025-02-28 14:56:20", "status": "success", "entries_created": 3}
+{"index": 53, "url": "https://kubevela.io/docs/tutorials/k8s-object", "timestamp": "2025-02-28 14:56:51", "status": "success", "entries_created": 3}
+{"index": 54, "url": "https://kubevela.io/docs/cli/vela_dry-run", "timestamp": "2025-02-28 14:57:08", "status": "success", "entries_created": 3}
+{"index": 55, "url": "https://kubevela.io/docs/developers/config-enviroments", "timestamp": "2025-02-28 14:57:22", "status": "success", "entries_created": 3}
+{"index": 56, "url": "https://kubevela.io/docs/reference/addons/terraform", "timestamp": "2025-02-28 14:57:31", "status": "success", "entries_created": 3}
+{"index": 57, "url": "https://kubevela.io/docs/contributor/release-process", "timestamp": "2025-02-28 14:57:46", "status": "success", "entries_created": 2}
+{"index": 58, "url": "https://kubevela.io/docs/developers/port-forward", "timestamp": "2025-02-28 14:57:52", "status": "success", "entries_created": 3}
+{"index": 59, "url": "https://kubevela.io/docs/tutorials/dry-run", "timestamp": "2025-02-28 15:01:02", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 60, "url": "https://kubevela.io/docs/tutorials/access-application", "timestamp": "2025-02-28 15:01:34", "status": "success", "entries_created": 3}
+{"index": 61, "url": "https://kubevela.io/docs/reference/addons/pyroscope", "timestamp": "2025-02-28 15:03:16", "status": "success", "entries_created": 3}
+{"index": 62, "url": "https://kubevela.io/docs/reference/addons/chartmuseum", "timestamp": "2025-02-28 15:04:54", "status": "success", "entries_created": 3}
+{"index": 63, "url": "https://kubevela.io/docs/contributor/code-conventions", "timestamp": "2025-02-28 15:05:26", "status": "success", "entries_created": 3}
+{"index": 64, "url": "https://kubevela.io/docs/cli/vela_cluster_export-config", "timestamp": "2025-02-28 15:05:38", "status": "success", "entries_created": 3}
+{"index": 65, "url": "https://kubevela.io/docs/cli/vela_port-forward", "timestamp": "2025-02-28 15:05:48", "status": "success", "entries_created": 3}
+{"index": 66, "url": "https://kubevela.io/docs/reference/addons/netlify", "timestamp": "2025-02-28 15:06:02", "status": "success", "entries_created": 3}
+{"index": 67, "url": "https://kubevela.io/docs/getting-started/definition", "timestamp": "2025-02-28 15:06:40", "status": "success", "entries_created": 3}
+{"index": 68, "url": "https://kubevela.io/docs/reference/addons/dex", "timestamp": "2025-02-28 15:06:49", "status": "success", "entries_created": 3}
+{"index": 69, "url": "https://kubevela.io/docs/cli/vela_def_gen-doc", "timestamp": "2025-02-28 15:06:57", "status": "success", "entries_created": 3}
+{"index": 70, "url": "https://kubevela.io/docs/cli/vela_def_doc-gen", "timestamp": "2025-02-28 15:07:09", "status": "success", "entries_created": 3}
+{"index": 71, "url": "https://kubevela.io/docs/cli/vela_config-template", "timestamp": "2025-02-28 15:07:17", "status": "success", "entries_created": 3}
+{"index": 72, "url": "https://kubevela.io/docs/developers/check-logs", "timestamp": "2025-02-28 15:07:20", "status": "success", "entries_created": 3}
+{"index": 73, "url": "https://kubevela.io/docs/end-user/traits/sidecar", "timestamp": "2025-02-28 15:07:33", "status": "success", "entries_created": 3}
+{"index": 74, "url": "https://kubevela.io/docs/how-to/dashboard/user", "timestamp": "2025-02-28 15:07:51", "status": "success", "entries_created": 2}
+{"index": 75, "url": "https://kubevela.io/docs/end-user/pipeline/workflowrun", "timestamp": "2025-02-28 15:09:42", "status": "success", "entries_created": 3}
+{"index": 76, "url": "https://kubevela.io/docs/contributor/non-code-contribute", "timestamp": "2025-02-28 15:09:53", "status": "success", "entries_created": 2}
+{"index": 77, "url": "https://kubevela.io/docs/platform-engineers/debug/debug", "timestamp": "2025-02-28 15:10:06", "status": "success", "entries_created": 3}
+{"index": 78, "url": "https://kubevela.io/docs/platform-engineers/addon/intro", "timestamp": "2025-02-28 15:10:24", "status": "success", "entries_created": 3}
+{"index": 79, "url": "https://kubevela.io/docs/platform-engineers/auth/advance", "timestamp": "2025-02-28 15:10:56", "status": "success", "entries_created": 3}
+{"index": 80, "url": "https://kubevela.io/docs/platform-engineers/operations/observability", "timestamp": "2025-02-28 15:11:11", "status": "success", "entries_created": 2}
+{"index": 81, "url": "https://kubevela.io/docs/end-user/workflow/suspend", "timestamp": "2025-02-28 15:11:37", "status": "success", "entries_created": 3}
+{"index": 82, "url": "https://kubevela.io/docs/end-user/policies/gc", "timestamp": "2025-02-28 15:12:07", "status": "success", "entries_created": 2}
+{"index": 83, "url": "https://kubevela.io/docs/v1.9/cli/vela_addon_push", "timestamp": "2025-02-28 15:12:21", "status": "success", "entries_created": 3}
+{"index": 84, "url": "https://kubevela.io/docs/end-user/policies/health", "timestamp": "2025-02-28 15:12:34", "status": "success", "entries_created": 3}
+{"index": 85, "url": "https://kubevela.io/docs/platform-engineers/auth/integration", "timestamp": "2025-02-28 15:12:55", "status": "success", "entries_created": 3}
+{"index": 86, "url": "https://kubevela.io/docs/platform-engineers/openapi/overview", "timestamp": "2025-02-28 15:13:31", "status": "success", "entries_created": 3}
+{"index": 87, "url": "https://kubevela.io/docs/end-user/policies/envbinding", "timestamp": "2025-02-28 15:13:54", "status": "success", "entries_created": 3}
+{"index": 88, "url": "https://kubevela.io/docs/end-user/traits/ingress", "timestamp": "2025-02-28 15:14:04", "status": "success", "entries_created": 3}
+{"index": 89, "url": "https://kubevela.io/docs/end-user/workflow/overview", "timestamp": "2025-02-28 15:14:29", "status": "success", "entries_created": 3}
+{"index": 90, "url": "https://kubevela.io/docs/v1.8/tutorials/webservice", "timestamp": "2025-02-28 15:14:44", "status": "success", "entries_created": 3}
+{"index": 91, "url": "https://kubevela.io/docs/platform-engineers/kube/trait", "timestamp": "2025-02-28 15:14:48", "status": "success", "entries_created": 1}
+{"index": 92, "url": "https://kubevela.io/docs/platform-engineers/cue/basic", "timestamp": "2025-02-28 15:15:20", "status": "success", "entries_created": 3}
+{"index": 93, "url": "https://kubevela.io/docs/platform-engineers/addon/terraform", "timestamp": "2025-02-28 15:15:39", "status": "success", "entries_created": 3}
+{"index": 94, "url": "https://kubevela.io/docs/end-user/traits/rollout", "timestamp": "2025-02-28 15:16:24", "status": "success", "entries_created": 3}
+{"index": 95, "url": "https://kubevela.io/docs/case-studies/jenkins-cicd", "timestamp": "2025-02-28 15:17:01", "status": "success", "entries_created": 3}
+{"index": 96, "url": "https://kubevela.io/docs/end-user/gitops/fluxcd", "timestamp": "2025-02-28 15:17:18", "status": "success", "entries_created": 3}
+{"index": 97, "url": "https://kubevela.io/docs/end-user/traits/references", "timestamp": "2025-02-28 15:17:42", "status": "success", "entries_created": 3}
+{"index": 98, "url": "https://kubevela.io/docs/v1.9/cli/vela_show", "timestamp": "2025-02-28 15:18:03", "status": "success", "entries_created": 3}
+{"index": 99, "url": "https://kubevela.io/docs/end-user/components/more", "timestamp": "2025-02-28 15:18:10", "status": "success", "entries_created": 3}
+{"index": 100, "url": "https://kubevela.io/docs/case-studies/multi-cluster", "timestamp": "2025-02-28 15:18:39", "status": "success", "entries_created": 3}
+{"index": 101, "url": "https://kubevela.io/docs/platform-engineers/kube/component", "timestamp": "2025-02-28 15:18:43", "status": "success", "entries_created": 1}
+{"index": 102, "url": "https://kubevela.io/docs/platform-engineers/workflow/workflow", "timestamp": "2025-02-28 15:19:13", "status": "success", "entries_created": 3}
+{"index": 103, "url": "https://kubevela.io/docs/reference/addons/cert-manager", "timestamp": "2025-02-28 15:19:18", "status": "success", "entries_created": 3}
+{"index": 104, "url": "https://kubevela.io/docs/end-user/policies/references", "timestamp": "2025-02-28 15:20:46", "status": "success", "entries_created": 3}
+{"index": 105, "url": "https://kubevela.io/docs/case-studies/initialize-env", "timestamp": "2025-02-28 15:21:23", "status": "success", "entries_created": 3}
+{"index": 106, "url": "https://kubevela.io/docs/v1.9/cli/vela_env_init", "timestamp": "2025-02-28 15:21:30", "status": "success", "entries_created": 3}
+{"index": 107, "url": "https://kubevela.io/docs/v1.9/tutorials/scaler", "timestamp": "2025-02-28 15:21:43", "status": "success", "entries_created": 2}
+{"index": 108, "url": "https://kubevela.io/docs/reference/addons/kruise-rollout", "timestamp": "2025-02-28 15:22:15", "status": "success", "entries_created": 3}
+{"index": 109, "url": "https://kubevela.io/docs/tutorials/consume-cloud-services", "timestamp": "2025-02-28 15:22:25", "status": "success", "entries_created": 3}
+{"index": 110, "url": "https://kubevela.io/docs/roadmap/2022-03-roadmap", "timestamp": "2025-02-28 15:22:35", "status": "success", "entries_created": 2}
+{"index": 111, "url": "https://kubevela.io/docs/getting-started/core-concept", "timestamp": "2025-02-28 15:23:52", "status": "success", "entries_created": 3}
+{"index": 112, "url": "https://kubevela.io/docs/v1.8/tutorials/helm", "timestamp": "2025-02-28 15:24:11", "status": "success", "entries_created": 3}
+{"index": 113, "url": "https://kubevela.io/docs/reference/user-improvement-plan", "timestamp": "2025-02-28 15:24:16", "status": "success", "entries_created": 2}
+{"index": 114, "url": "https://kubevela.io/docs/end-user/workflow/operations", "timestamp": "2025-02-28 15:24:23", "status": "success", "entries_created": 3}
+{"index": 115, "url": "https://kubevela.io/docs/end-user/workflow/timeout", "timestamp": "2025-02-28 15:24:45", "status": "success", "entries_created": 3}
+{"index": 116, "url": "https://kubevela.io/docs/reference/addons/kubevela-io", "timestamp": "2025-02-28 15:24:57", "status": "success", "entries_created": 3}
+{"index": 117, "url": "https://kubevela.io/docs/tutorials/custom-image-delivery", "timestamp": "2025-02-28 15:25:34", "status": "success", "entries_created": 3}
+{"index": 118, "url": "https://kubevela.io/docs/end-user/components/references", "timestamp": "2025-02-28 15:27:37", "status": "success", "entries_created": 2}
+{"index": 119, "url": "https://kubevela.io/docs/v1.8/cli/vela_uninstall", "timestamp": "2025-02-28 15:27:46", "status": "success", "entries_created": 3}
+{"index": 120, "url": "https://kubevela.io/docs/v1.8/cli/vela_def_show", "timestamp": "2025-02-28 15:28:01", "status": "success", "entries_created": 3}
+{"index": 121, "url": "https://kubevela.io/docs/v1.8/cli/vela_kube_apply", "timestamp": "2025-02-28 15:28:22", "status": "success", "entries_created": 3}
+{"index": 122, "url": "https://kubevela.io/docs/v1.9/cli/vela_status", "timestamp": "2025-02-28 15:28:33", "status": "success", "entries_created": 3}
+{"index": 123, "url": "https://kubevela.io/docs/platform-engineers/auth/basic", "timestamp": "2025-02-28 15:29:18", "status": "success", "entries_created": 3}
+{"index": 124, "url": "https://kubevela.io/docs/roadmap/2022-12-roadmap", "timestamp": "2025-02-28 15:29:32", "status": "success", "entries_created": 2}
+{"index": 125, "url": "https://kubevela.io/docs/v1.8/quick-start", "timestamp": "2025-02-28 15:31:20", "status": "success", "entries_created": 3}
+{"index": 126, "url": "https://kubevela.io/docs/end-user/workflow/dependency", "timestamp": "2025-02-28 15:31:35", "status": "success", "entries_created": 3}
+{"index": 127, "url": "https://kubevela.io/docs/roadmap/2020-12-roadmap", "timestamp": "2025-02-28 15:31:41", "status": "success", "entries_created": 1}
+{"index": 128, "url": "https://kubevela.io/docs/reference/addons/mysql-exporter", "timestamp": "2025-02-28 15:31:59", "status": "success", "entries_created": 3}
+{"index": 129, "url": "https://kubevela.io/docs/developers/check-ref-doc", "timestamp": "2025-02-28 15:32:20", "status": "success", "entries_created": 3}
+{"index": 130, "url": "https://kubevela.io/docs/roadmap/2021-03-roadmap", "timestamp": "2025-02-28 15:32:27", "status": "success", "entries_created": 1}
+{"index": 131, "url": "https://kubevela.io/docs/v1.9/contributor/overview", "timestamp": "2025-02-28 15:33:48", "status": "success", "entries_created": 2}
+{"index": 132, "url": "https://kubevela.io/docs/v1.9/tutorials/webservice", "timestamp": "2025-02-28 15:34:03", "status": "success", "entries_created": 3}
+{"index": 133, "url": "https://kubevela.io/docs/contributor/cli-ref-doc", "timestamp": "2025-02-28 15:34:32", "status": "success", "entries_created": 3}
+{"index": 134, "url": "https://kubevela.io/docs/roadmap/2022-09-roadmap", "timestamp": "2025-02-28 15:34:40", "status": "success", "entries_created": 2}
+{"index": 135, "url": "https://kubevela.io/docs/v1.9/cli/vela_uischema", "timestamp": "2025-02-28 15:34:46", "status": "success", "entries_created": 3}
+{"index": 136, "url": "https://kubevela.io/docs/reference/addons/trivy-operator", "timestamp": "2025-02-28 15:35:03", "status": "success", "entries_created": 3}
+{"index": 137, "url": "https://kubevela.io/docs/roadmap/2021-12-roadmap", "timestamp": "2025-02-28 15:36:11", "status": "success", "entries_created": 1}
+{"index": 138, "url": "https://kubevela.io/docs/v1.9/cli/vela_cluster_labels_add", "timestamp": "2025-02-28 15:36:19", "status": "success", "entries_created": 3}
+{"index": 139, "url": "https://kubevela.io/docs/roadmap/2021-09-roadmap", "timestamp": "2025-02-28 15:36:25", "status": "success", "entries_created": 1}
+{"index": 140, "url": "https://kubevela.io/docs/v1.9/cli/vela_cluster_labels_del", "timestamp": "2025-02-28 15:36:37", "status": "success", "entries_created": 3}
+{"index": 141, "url": "https://kubevela.io/docs/roadmap/2023-03-roadmap", "timestamp": "2025-02-28 15:36:43", "status": "success", "entries_created": 2}
+{"index": 142, "url": "https://kubevela.io/docs/roadmap/2021-06-roadmap", "timestamp": "2025-02-28 15:36:50", "status": "success", "entries_created": 1}
+{"index": 143, "url": "https://kubevela.io/docs/v1.9/cli/vela_system_info", "timestamp": "2025-02-28 15:36:59", "status": "success", "entries_created": 3}
+{"index": 144, "url": "https://kubevela.io/docs/tutorials/helm-multi-cluster", "timestamp": "2025-02-28 15:37:16", "status": "success", "entries_created": 3}
+{"index": 145, "url": "https://kubevela.io/docs/v1.9/cli/vela_completion", "timestamp": "2025-02-28 15:37:23", "status": "success", "entries_created": 3}
+{"index": 146, "url": "https://kubevela.io/docs/v1.9/tutorials/workflows", "timestamp": "2025-02-28 15:37:29", "status": "success", "entries_created": 2}
+{"index": 147, "url": "https://kubevela.io/docs/v1.9/cli/vela_env", "timestamp": "2025-02-28 15:37:57", "status": "success", "entries_created": 3}
+{"index": 148, "url": "https://kubevela.io/docs/v1.9/cli/vela_version", "timestamp": "2025-02-28 15:39:06", "status": "success", "entries_created": 3}
+{"index": 149, "url": "https://kubevela.io/docs/platform-engineers/traits/status", "timestamp": "2025-02-28 15:39:11", "status": "success", "entries_created": 2}
+{"index": 150, "url": "https://kubevela.io/docs/platform-engineers/cue/advanced", "timestamp": "2025-02-28 15:39:15", "status": "success", "entries_created": 2}
+{"index": 151, "url": "https://kubevela.io/docs/end-user/traits/more", "timestamp": "2025-02-28 15:39:25", "status": "success", "entries_created": 2}
+{"index": 152, "url": "https://kubevela.io/docs/getting-started/velaux-concept", "timestamp": "2025-02-28 15:39:32", "status": "success", "entries_created": 2}
+{"index": 153, "url": "https://kubevela.io/docs/roadmap/2023-06-roadmap", "timestamp": "2025-02-28 15:39:36", "status": "success", "entries_created": 1}
+{"index": 154, "url": "https://kubevela.io/docs/installation/kubernetes", "timestamp": "2025-02-28 15:41:04", "status": "success", "entries_created": 3}
+{"index": 155, "url": "https://kubevela.io/docs/cli/vela_delete", "timestamp": "2025-02-28 15:41:45", "status": "success", "entries_created": 3}
+{"index": 156, "url": "https://kubevela.io/docs/cli/vela_def_init", "timestamp": "2025-02-28 15:42:36", "status": "success", "entries_created": 3}
+{"index": 157, "url": "https://kubevela.io/docs/cli/vela_addon_upgrade", "timestamp": "2025-02-28 15:42:46", "status": "success", "entries_created": 3}
+{"index": 158, "url": "https://kubevela.io/docs/cli/vela_cluster_join", "timestamp": "2025-02-28 15:42:58", "status": "success", "entries_created": 3}
+{"index": 159, "url": "https://kubevela.io/docs/cli/vela_def_render", "timestamp": "2025-02-28 15:43:15", "status": "success", "entries_created": 3}
+{"index": 160, "url": "https://kubevela.io/docs/cli/vela_kube_delete", "timestamp": "2025-02-28 15:43:23", "status": "success", "entries_created": 3}
+{"index": 161, "url": "https://kubevela.io/docs/cli/vela_addon_enable", "timestamp": "2025-02-28 15:43:51", "status": "success", "entries_created": 3}
+{"index": 162, "url": "https://kubevela.io/docs/cli/vela_env_set", "timestamp": "2025-02-28 15:43:58", "status": "success", "entries_created": 3}
+{"index": 163, "url": "https://kubevela.io/docs/cli/vela_def", "timestamp": "2025-02-28 15:44:07", "status": "success", "entries_created": 3}
+{"index": 164, "url": "https://kubevela.io/docs/cli/vela_def_list", "timestamp": "2025-02-28 15:44:16", "status": "success", "entries_created": 2}
+{"index": 165, "url": "https://kubevela.io/docs/cli/vela_workflow_terminate", "timestamp": "2025-02-28 15:44:26", "status": "success", "entries_created": 3}
+{"index": 166, "url": "https://kubevela.io/docs/tutorials/sso", "timestamp": "2025-02-28 15:44:57", "status": "success", "entries_created": 2}
+{"index": 167, "url": "https://kubevela.io/docs/cli/vela_workflow_restart", "timestamp": "2025-02-28 15:45:07", "status": "success", "entries_created": 2}
+{"index": 168, "url": "https://kubevela.io/docs/cli/vela_up", "timestamp": "2025-02-28 15:45:19", "status": "success", "entries_created": 3}
+{"index": 169, "url": "https://kubevela.io/docs/cli/vela_config_list", "timestamp": "2025-02-28 15:45:41", "status": "success", "entries_created": 3}
+{"index": 170, "url": "https://kubevela.io/docs/installation/standalone", "timestamp": "2025-02-28 15:46:45", "status": "success", "entries_created": 3}
+{"index": 171, "url": "https://kubevela.io/docs/cli/vela_logs", "timestamp": "2025-02-28 15:46:52", "status": "success", "entries_created": 3}
+{"index": 172, "url": "https://kubevela.io/docs/cli/vela_trait", "timestamp": "2025-02-28 15:47:06", "status": "success", "entries_created": 3}
+{"index": 173, "url": "https://kubevela.io/docs/cli/vela_cluster_detach", "timestamp": "2025-02-28 15:47:53", "status": "success", "entries_created": 3}
+{"index": 174, "url": "https://kubevela.io/docs/v1.8", "timestamp": "2025-02-28 15:48:12", "status": "success", "entries_created": 2}
+{"index": 175, "url": "https://kubevela.io/docs/cli/vela_addon_registry_add", "timestamp": "2025-02-28 15:48:28", "status": "success", "entries_created": 2}
+{"index": 176, "url": "https://kubevela.io/docs/cli/vela_ls", "timestamp": "2025-02-28 15:48:54", "status": "success", "entries_created": 3}
+{"index": 177, "url": "https://kubevela.io/docs/cli/vela_config", "timestamp": "2025-02-28 15:49:02", "status": "success", "entries_created": 3}
+{"index": 178, "url": "https://kubevela.io/docs/cli/vela_workflow_debug", "timestamp": "2025-02-28 15:49:14", "status": "success", "entries_created": 3}
+{"index": 179, "url": "https://kubevela.io/docs/tutorials/jenkins", "timestamp": "2025-02-28 15:49:26", "status": "success", "entries_created": 3}
+{"index": 180, "url": "https://kubevela.io/docs/tutorials/trigger", "timestamp": "2025-02-28 15:49:44", "status": "success", "entries_created": 3}
+{"index": 181, "url": "https://kubevela.io/docs/cli/vela_workflow_logs", "timestamp": "2025-02-28 15:49:54", "status": "success", "entries_created": 3}
+{"index": 182, "url": "https://kubevela.io/docs/cli/vela_registry_ls", "timestamp": "2025-02-28 15:50:00", "status": "success", "entries_created": 3}
+{"index": 183, "url": "https://kubevela.io/docs/cli/vela_config_delete", "timestamp": "2025-02-28 15:50:23", "status": "success", "entries_created": 3}
+{"index": 184, "url": "https://kubevela.io/docs/cli/vela_workflow_suspend", "timestamp": "2025-02-28 15:50:36", "status": "success", "entries_created": 3}
+{"index": 185, "url": "https://kubevela.io/docs/cli/vela_addon_init", "timestamp": "2025-02-28 15:50:45", "status": "success", "entries_created": 3}
+{"index": 186, "url": "https://kubevela.io/docs/cli/vela_completion_bash", "timestamp": "2025-02-28 15:50:52", "status": "success", "entries_created": 3}
+{"index": 187, "url": "https://kubevela.io/docs/cli/vela_def_apply", "timestamp": "2025-02-28 15:51:02", "status": "success", "entries_created": 3}
+{"index": 188, "url": "https://kubevela.io/docs/tutorials/s2i", "timestamp": "2025-02-28 15:51:20", "status": "success", "entries_created": 3}
+{"index": 189, "url": "https://kubevela.io/docs/cli/vela_version_list", "timestamp": "2025-02-28 15:51:27", "status": "success", "entries_created": 3}
+{"index": 190, "url": "https://kubevela.io/docs/cli/vela_registry_remove", "timestamp": "2025-02-28 15:51:40", "status": "success", "entries_created": 3}
+{"index": 191, "url": "https://kubevela.io/docs/cli/vela_revision_get", "timestamp": "2025-02-28 15:51:47", "status": "success", "entries_created": 3}
+{"index": 192, "url": "https://kubevela.io/docs/cli/vela", "timestamp": "2025-02-28 15:52:18", "status": "success", "entries_created": 3}
+{"index": 193, "url": "https://kubevela.io/docs/cli/vela_addon_list", "timestamp": "2025-02-28 15:52:38", "status": "success", "entries_created": 2}
+{"index": 194, "url": "https://kubevela.io/docs/v1.9", "timestamp": "2025-02-28 15:52:54", "status": "success", "entries_created": 2}
+{"index": 195, "url": "https://kubevela.io/docs/cli/vela_config_create", "timestamp": "2025-02-28 15:53:05", "status": "success", "entries_created": 3}
+{"index": 196, "url": "https://kubevela.io/docs/cli/vela_addon_registry_list", "timestamp": "2025-02-28 15:53:12", "status": "success", "entries_created": 3}
+{"index": 197, "url": "https://kubevela.io/docs/cli/vela_def_vet", "timestamp": "2025-02-28 15:53:36", "status": "success", "entries_created": 3}
+{"index": 198, "url": "https://kubevela.io/docs/cli/vela_addon_status", "timestamp": "2025-02-28 15:53:43", "status": "success", "entries_created": 3}
+{"index": 199, "url": "https://kubevela.io/docs/cli/vela_def_del", "timestamp": "2025-02-28 15:53:52", "status": "success", "entries_created": 3}
+{"index": 200, "url": "https://kubevela.io/docs/cli/vela_workflow", "timestamp": "2025-02-28 15:54:00", "status": "success", "entries_created": 3}
+{"index": 201, "url": "https://kubevela.io/docs/cli/vela_addon_registry", "timestamp": "2025-02-28 15:54:07", "status": "success", "entries_created": 3}
+{"index": 202, "url": "https://kubevela.io/docs/cli/vela_def_get", "timestamp": "2025-02-28 15:54:14", "status": "success", "entries_created": 3}
+{"index": 203, "url": "https://kubevela.io/docs/cli/vela_revision", "timestamp": "2025-02-28 15:54:20", "status": "success", "entries_created": 3}
+{"index": 204, "url": "https://kubevela.io/docs/cli/vela_provider", "timestamp": "2025-02-28 15:54:30", "status": "success", "entries_created": 2}
+{"index": 205, "url": "https://kubevela.io/docs/cli/vela_addon_disable", "timestamp": "2025-02-28 15:54:39", "status": "success", "entries_created": 3}
+{"index": 206, "url": "https://kubevela.io/docs/cli/vela_config_distribute", "timestamp": "2025-02-28 15:54:51", "status": "success", "entries_created": 3}
+{"index": 207, "url": "https://kubevela.io/docs/cli/vela_addon_package", "timestamp": "2025-02-28 15:54:56", "status": "success", "entries_created": 3}
+{"index": 208, "url": "https://kubevela.io/docs/cli/vela_revision_list", "timestamp": "2025-02-28 15:55:06", "status": "success", "entries_created": 3}
+{"index": 209, "url": "https://kubevela.io/docs/cli/vela_cluster", "timestamp": "2025-02-28 15:55:15", "status": "success", "entries_created": 3}
+{"index": 210, "url": "https://kubevela.io/docs/cli/vela_addon_registry_update", "timestamp": "2025-02-28 16:05:27", "status": "success", "entries_created": 3}
+{"index": 211, "url": "https://kubevela.io/docs/cli/vela_component", "timestamp": "2025-02-28 16:05:34", "status": "success", "entries_created": 3}
+{"index": 212, "url": "https://kubevela.io/docs/cli/vela_system", "timestamp": "2025-02-28 16:05:56", "status": "success", "entries_created": 2}
+{"index": 213, "url": "https://kubevela.io/docs/cli/vela_registry", "timestamp": "2025-02-28 16:06:03", "status": "success", "entries_created": 3}
+{"index": 214, "url": "https://kubevela.io/docs/cli/vela_addon_registry_delete", "timestamp": "2025-02-28 16:06:13", "status": "success", "entries_created": 2}
+{"index": 215, "url": "https://kubevela.io/docs/cli/vela_env_delete", "timestamp": "2025-02-28 16:06:19", "status": "success", "entries_created": 3}
+{"index": 216, "url": "https://kubevela.io/docs/how-to/dashboard/trigger/overview", "timestamp": "2025-02-28 16:06:45", "status": "success", "entries_created": 3}
+{"index": 217, "url": "https://kubevela.io/docs/cli/vela_addon", "timestamp": "2025-02-28 16:06:52", "status": "success", "entries_created": 2}
+{"index": 218, "url": "https://kubevela.io/docs/cli/vela_cluster_list", "timestamp": "2025-02-28 16:06:57", "status": "success", "entries_created": 3}
+{"index": 219, "url": "https://kubevela.io/docs/cli/vela_export", "timestamp": "2025-02-28 16:07:04", "status": "success", "entries_created": 3}
+{"index": 220, "url": "https://kubevela.io/docs/cli/vela_component_get", "timestamp": "2025-02-28 16:07:11", "status": "success", "entries_created": 3}
+{"index": 221, "url": "https://kubevela.io/docs/end-user/workflow/if-condition", "timestamp": "2025-02-28 16:08:02", "status": "success", "entries_created": 3}
+{"index": 222, "url": "https://kubevela.io/docs/end-user/policies/apply-once", "timestamp": "2025-02-28 16:09:06", "status": "success", "entries_created": 3}
+{"index": 223, "url": "https://kubevela.io/docs/platform-engineers/oam/x-definition", "timestamp": "2025-02-28 16:09:43", "status": "success", "entries_created": 3}
+{"index": 224, "url": "https://kubevela.io/docs/cli/vela_cluster_rename", "timestamp": "2025-02-28 16:09:48", "status": "success", "entries_created": 2}
+{"index": 225, "url": "https://kubevela.io/docs/cli/vela_uischema_apply", "timestamp": "2025-02-28 16:09:54", "status": "success", "entries_created": 3}
+{"index": 226, "url": "https://kubevela.io/docs/cli/vela_cluster_alias", "timestamp": "2025-02-28 16:09:59", "status": "success", "entries_created": 3}
+{"index": 227, "url": "https://kubevela.io/docs/cli/vela_workflow_resume", "timestamp": "2025-02-28 16:10:07", "status": "success", "entries_created": 3}
+{"index": 228, "url": "https://kubevela.io/docs/how-to/dashboard/config/nacos", "timestamp": "2025-02-28 16:10:30", "status": "success", "entries_created": 3}
+{"index": 229, "url": "https://kubevela.io/docs/cli/vela_trait_get", "timestamp": "2025-02-28 16:10:36", "status": "success", "entries_created": 2}
+{"index": 230, "url": "https://kubevela.io/docs/end-user/components/cue/webservice", "timestamp": "2025-02-28 16:10:58", "status": "success", "entries_created": 3}
+{"index": 231, "url": "https://kubevela.io/docs/v1.9/reference/addons/pyroscope", "timestamp": "2025-02-28 16:13:59", "status": "success", "entries_created": 3}
+{"index": 232, "url": "https://kubevela.io/docs/end-user/workflow/step-group", "timestamp": "2025-02-28 16:14:15", "status": "success", "entries_created": 3}
+{"index": 233, "url": "https://kubevela.io/docs/how-to/dashboard/user/project", "timestamp": "2025-02-28 16:14:21", "status": "success", "entries_created": 2}
+{"index": 234, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/installation", "timestamp": "2025-02-28 16:14:34", "status": "success", "entries_created": 3}
+{"index": 235, "url": "https://kubevela.io/docs/platform-engineers/traits/patch-trait", "timestamp": "2025-02-28 16:15:14", "status": "success", "entries_created": 3}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 16:16:56", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 237, "url": "https://kubevela.io/docs/v1.8/reference/ui-schema", "timestamp": "2025-02-28 16:17:17", "status": "success", "entries_created": 3}
+{"index": 238, "url": "https://kubevela.io/docs/v1.9/tutorials/debug-app", "timestamp": "2025-02-28 16:17:47", "status": "success", "entries_created": 3}
+{"index": 239, "url": "https://kubevela.io/docs/v1.8/reference/addons/traefik", "timestamp": "2025-02-28 16:18:16", "status": "success", "entries_created": 3}
+{"index": 240, "url": "https://kubevela.io/docs/v1.8/tutorials/auto-scaler", "timestamp": "2025-02-28 16:18:53", "status": "success", "entries_created": 3}
+{"index": 241, "url": "https://kubevela.io/docs/how-to/dashboard/user/rbac", "timestamp": "2025-02-28 16:19:09", "status": "success", "entries_created": 3}
+{"index": 242, "url": "https://kubevela.io/docs/how-to/dashboard/target/overview", "timestamp": "2025-02-28 16:19:52", "status": "success", "entries_created": 2}
+{"index": 243, "url": "https://kubevela.io/docs/v1.8/reference/addons/fluxcd", "timestamp": "2025-02-28 16:20:34", "status": "success", "entries_created": 3}
+{"index": 244, "url": "https://kubevela.io/docs/v1.9/reference/addons/rollout", "timestamp": "2025-02-28 16:23:40", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 245, "url": "https://kubevela.io/docs/v1.8/reference/addons/terraform", "timestamp": "2025-02-28 16:24:04", "status": "success", "entries_created": 3}
+{"index": 246, "url": "https://kubevela.io/docs/v1.9/reference/addons/ai", "timestamp": "2025-02-28 16:24:28", "status": "success", "entries_created": 3}
+{"index": 247, "url": "https://kubevela.io/docs/v1.9/reference/addons/velaux", "timestamp": "2025-02-28 16:24:55", "status": "success", "entries_created": 3}
+{"index": 248, "url": "https://kubevela.io/docs/getting-started/separate-of-concern", "timestamp": "2025-02-28 16:25:13", "status": "success", "entries_created": 2}
+{"index": 249, "url": "https://kubevela.io/docs/v1.9/developers/config-app", "timestamp": "2025-02-28 16:25:22", "status": "success", "entries_created": 3}
+{"index": 250, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/logging", "timestamp": "2025-02-28 16:25:53", "status": "success", "entries_created": 3}
+{"index": 251, "url": "https://kubevela.io/docs/platform-engineers/components/custom-component", "timestamp": "2025-02-28 16:26:08", "status": "success", "entries_created": 3}
+{"index": 252, "url": "https://kubevela.io/docs/reference/addons/flink-kubernetes-operator", "timestamp": "2025-02-28 16:26:43", "status": "success", "entries_created": 3}
+{"index": 253, "url": "https://kubevela.io/docs/end-user/components/ref-objects", "timestamp": "2025-02-28 16:27:17", "status": "success", "entries_created": 3}
+{"index": 254, "url": "https://kubevela.io/docs/v1.9/platform-engineers/keda", "timestamp": "2025-02-28 16:27:29", "status": "success", "entries_created": 3}
+{"index": 255, "url": "https://kubevela.io/docs/v1.9/reference/topology-rule", "timestamp": "2025-02-28 16:28:02", "status": "success", "entries_created": 3}
+{"index": 256, "url": "https://kubevela.io/docs/v1.9/tutorials/multi-env", "timestamp": "2025-02-28 16:28:11", "status": "success", "entries_created": 3}
+{"index": 257, "url": "https://kubevela.io/docs/platform-engineers/workflow/cue-actions", "timestamp": "2025-02-28 16:31:21", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 258, "url": "https://kubevela.io/docs/v1.8/tutorials/vela-top", "timestamp": "2025-02-28 16:31:35", "status": "success", "entries_created": 3}
+{"index": 259, "url": "https://kubevela.io/docs/platform-engineers/debug/dry-run", "timestamp": "2025-02-28 16:31:39", "status": "success", "entries_created": 2}
+{"index": 260, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/integration", "timestamp": "2025-02-28 16:32:11", "status": "success", "entries_created": 3}
+{"index": 261, "url": "https://kubevela.io/docs/platform-engineers/addon/addon-cue", "timestamp": "2025-02-28 16:35:21", "status": "success", "entries_created": 3}
+{"index": 262, "url": "https://kubevela.io/docs/v1.9/cli/vela_auth_grant-privileges", "timestamp": "2025-02-28 16:35:35", "status": "success", "entries_created": 3}
+{"index": 263, "url": "https://kubevela.io/docs/v1.9/cli/vela_cluster_export-config", "timestamp": "2025-02-28 16:35:42", "status": "success", "entries_created": 3}
+{"index": 264, "url": "https://kubevela.io/docs/end-user/policies/resource-adoption", "timestamp": "2025-02-28 16:37:15", "status": "success", "entries_created": 3}
+{"index": 265, "url": "https://kubevela.io/docs/cli/vela_cluster_probe", "timestamp": "2025-02-28 16:38:03", "status": "success", "entries_created": 2}
+{"index": 266, "url": "https://kubevela.io/docs/platform-engineers/addon/addon-yaml", "timestamp": "2025-02-28 16:38:18", "status": "success", "entries_created": 3}
+{"index": 267, "url": "https://kubevela.io/docs/platform-engineers/addon/addon-registry", "timestamp": "2025-02-28 16:38:59", "status": "success", "entries_created": 3}
+{"index": 268, "url": "https://kubevela.io/docs/platform-engineers/x-def-version", "timestamp": "2025-02-28 16:39:14", "status": "success", "entries_created": 3}
+{"index": 269, "url": "https://kubevela.io/docs/v1.9/developers/config-enviroments", "timestamp": "2025-02-28 16:39:47", "status": "success", "entries_created": 3}
+{"index": 270, "url": "https://kubevela.io/docs/v1.8/reference/addons/overview", "timestamp": "2025-02-28 16:40:18", "status": "success", "entries_created": 2}
+{"index": 271, "url": "https://kubevela.io/docs/v1.8/reference/addons/pyroscope", "timestamp": "2025-02-28 16:40:56", "status": "success", "entries_created": 3}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 16:44:05", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 273, "url": "https://kubevela.io/docs/v1.8/tutorials/dry-run", "timestamp": "2025-02-28 16:44:56", "status": "success", "entries_created": 3}
+{"index": 274, "url": "https://kubevela.io/docs/v1.9/contributor/code-conventions", "timestamp": "2025-02-28 16:45:29", "status": "success", "entries_created": 3}
+{"index": 275, "url": "https://kubevela.io/docs/platform-engineers/policy/custom-policy", "timestamp": "2025-02-28 16:45:47", "status": "success", "entries_created": 3}
+{"index": 276, "url": "https://kubevela.io/docs/v1.9/cli/vela_config-template", "timestamp": "2025-02-28 16:45:53", "status": "success", "entries_created": 3}
+{"index": 277, "url": "https://kubevela.io/docs/platform-engineers/cue/patch-strategy", "timestamp": "2025-02-28 16:46:38", "status": "success", "entries_created": 3}
+{"index": 278, "url": "https://kubevela.io/docs/reference/addons/nginx-ingress-controller", "timestamp": "2025-02-28 16:46:52", "status": "success", "entries_created": 3}
+{"index": 279, "url": "https://kubevela.io/docs/v1.8/cli/vela_dry-run", "timestamp": "2025-02-28 16:47:01", "status": "success", "entries_created": 3}
+{"index": 280, "url": "https://kubevela.io/docs/end-user/workflow/inputs-outputs", "timestamp": "2025-02-28 16:47:29", "status": "success", "entries_created": 3}
+{"index": 281, "url": "https://kubevela.io/docs/v1.7/tutorials/auto-scaler", "timestamp": "2025-02-28 16:47:56", "status": "success", "entries_created": 3}
+{"index": 282, "url": "https://kubevela.io/docs/end-user/quick-start-cli", "timestamp": "2025-02-28 16:48:09", "status": "success", "entries_created": 3}
+{"index": 283, "url": "https://kubevela.io/docs/end-user/traits/service-binding", "timestamp": "2025-02-28 16:48:27", "status": "success", "entries_created": 3}
+{"index": 284, "url": "https://kubevela.io/docs/platform-engineers/components/component-terraform", "timestamp": "2025-02-28 16:48:57", "status": "success", "entries_created": 3}
+{"index": 285, "url": "https://kubevela.io/docs/platform-engineers/workflow/working-mechanism", "timestamp": "2025-02-28 16:49:11", "status": "success", "entries_created": 2}
+{"index": 286, "url": "https://kubevela.io/docs/v1.8/reference/addons/velaux", "timestamp": "2025-02-28 16:49:36", "status": "success", "entries_created": 3}
+{"index": 287, "url": "https://kubevela.io/docs/platform-engineers/cue/definition-edit", "timestamp": "2025-02-28 16:51:25", "status": "success", "entries_created": 3}
+{"index": 288, "url": "https://kubevela.io/docs/v1.8/tutorials/debug-app", "timestamp": "2025-02-28 16:52:03", "status": "success", "entries_created": 3}
+{"index": 289, "url": "https://kubevela.io/docs/v1.8/case-studies/gitops", "timestamp": "2025-02-28 16:52:18", "status": "success", "entries_created": 2}
+{"index": 290, "url": "https://kubevela.io/docs/v1.9/developers/port-forward", "timestamp": "2025-02-28 16:52:25", "status": "success", "entries_created": 3}
+{"index": 291, "url": "https://kubevela.io/docs/v1.8/cli/vela_config-template", "timestamp": "2025-02-28 16:52:32", "status": "success", "entries_created": 3}
+{"index": 292, "url": "https://kubevela.io/docs/platform-engineers/definition-and-templates", "timestamp": "2025-02-28 16:52:36", "status": "success", "entries_created": 2}
+{"index": 293, "url": "https://kubevela.io/docs/end-user/workflow/webhook-notification", "timestamp": "2025-02-28 16:52:43", "status": "success", "entries_created": 3}
+{"index": 294, "url": "https://kubevela.io/docs/platform-engineers/oam/oam-model", "timestamp": "2025-02-28 16:52:47", "status": "success", "entries_created": 2}
+{"index": 295, "url": "https://kubevela.io/docs/v1.9/developers/check-logs", "timestamp": "2025-02-28 16:53:01", "status": "success", "entries_created": 3}
+{"index": 296, "url": "https://kubevela.io/docs/v1.8/reference/addons/dex", "timestamp": "2025-02-28 16:53:17", "status": "success", "entries_created": 3}
+{"index": 297, "url": "https://kubevela.io/docs/v1.8/reference/user-improvement-plan", "timestamp": "2025-02-28 16:53:46", "status": "success", "entries_created": 2}
+{"index": 298, "url": "https://kubevela.io/docs/end-user/components/cloud-services/terraform/gcp-network-peering", "timestamp": "2025-02-28 16:53:53", "status": "success", "entries_created": 1}
+{"index": 7, "url": "https://kubevela.io/docs/cli/vela_addon_push", "timestamp": "2025-02-28 16:54:09", "status": "success", "entries_created": 3}
+{"index": 41, "url": "https://kubevela.io/docs/contributor/code-contribute", "timestamp": "2025-02-28 16:56:40", "status": "success", "entries_created": 3}
+{"index": 46, "url": "https://kubevela.io/docs/reference/addons/rollout", "timestamp": "2025-02-28 16:57:09", "status": "success", "entries_created": 3}
+{"index": 59, "url": "https://kubevela.io/docs/tutorials/dry-run", "timestamp": "2025-02-28 17:00:15", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 17:03:37", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 244, "url": "https://kubevela.io/docs/v1.9/reference/addons/rollout", "timestamp": "2025-02-28 17:06:43", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 257, "url": "https://kubevela.io/docs/platform-engineers/workflow/cue-actions", "timestamp": "2025-02-28 17:09:53", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 17:12:05", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 59, "url": "https://kubevela.io/docs/tutorials/dry-run", "timestamp": "2025-02-28 17:15:16", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 17:18:07", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 244, "url": "https://kubevela.io/docs/v1.9/reference/addons/rollout", "timestamp": "2025-02-28 17:21:24", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 257, "url": "https://kubevela.io/docs/platform-engineers/workflow/cue-actions", "timestamp": "2025-02-28 17:24:34", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 17:28:02", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 59, "url": "https://kubevela.io/docs/tutorials/dry-run", "timestamp": "2025-02-28 17:29:07", "status": "success", "entries_created": 3}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 17:32:13", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 244, "url": "https://kubevela.io/docs/v1.9/reference/addons/rollout", "timestamp": "2025-02-28 17:35:07", "status": "success", "entries_created": 3}
+{"index": 257, "url": "https://kubevela.io/docs/platform-engineers/workflow/cue-actions", "timestamp": "2025-02-28 17:36:04", "status": "success", "entries_created": 3}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 17:39:10", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 17:51:20", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 17:54:28", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 17:57:39", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 18:00:44", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 18:03:55", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 18:07:01", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 18:10:11", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 18:13:17", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 18:16:28", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 18:19:34", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 18:21:57", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 18:25:03", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 18:28:13", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 18:31:26", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 18:34:37", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 18:37:42", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 18:40:53", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 18:44:05", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 18:47:19", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 18:50:25", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 18:53:36", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 18:56:50", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 236, "url": "https://kubevela.io/docs/platform-engineers/traits/customize-trait", "timestamp": "2025-02-28 19:00:00", "status": "success", "entries_created": 3}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 19:03:05", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 19:06:21", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 19:09:31", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 19:12:42", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 272, "url": "https://kubevela.io/docs/platform-engineers/operations/o11y/dashboard", "timestamp": "2025-02-28 19:15:53", "status": "failure", "error": "No usable data returned on retry 19"}

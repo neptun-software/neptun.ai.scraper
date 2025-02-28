@@ -198,7 +198,7 @@ def create_conversation(product, content, url, page_metadata=None):
 
 def log_url_attempt(index, url, output_file, status, entries_created=None, error=None):
     """Log every URL processing attempt to a file."""
-    log_file = f"data/url_attempts_{os.path.basename(output_file)}"
+    log_file = f"data/log/url_attempts_{os.path.basename(output_file)}"
     os.makedirs(os.path.dirname(log_file), exist_ok=True)
     entry = {
         "index": index,
