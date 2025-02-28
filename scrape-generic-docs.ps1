@@ -1,8 +1,18 @@
 $configArray = @(
     @{
+        product = "radix-ui-primitives"
+        base_url = "https://www.radix-ui.com/primitives/docs"
+        output_file = "data/radix-ui-primitives.jsonl"
+    },
+    @{
         product = "radix-ui-themes"
         base_url = "https://www.radix-ui.com/themes/docs"
         output_file = "data/radix-ui-themes.jsonl"
+    },
+    @{
+        product = "shadcn-ui"
+        base_url = "https://ui.shadcn.com/docs"
+        output_file = "data/shadcn-ui.jsonl"
     },
     @{
         product = "shadcn-vue"
@@ -13,11 +23,6 @@ $configArray = @(
         product = "shadcn-svelte"
         base_url = "https://www.shadcn-svelte.com/docs"
         output_file = "data/shadcn-svelte.jsonl"
-    },
-    @{
-        product = "shadcn-ui"
-        base_url = "https://ui.shadcn.com/docs"
-        output_file = "data/shadcn-ui.jsonl"
     },
     @{
         product = "iconify"
@@ -49,30 +54,6 @@ $configArray = @(
         base_url = "https://postcss.org/docs"
         output_file = "data/postcss.jsonl"
     }
-)
-
-# Start building a single wt command with all processes as tabs
-$command = ""
-
-foreach ($config in $configArray) {
-    # For the first item, we don't need the "new-tab" prefix
-    if ($command -eq "") {
-        $command += "-d . python scrape.generic.docs.py --product $($config.product) --base_url $($config.base_url) --output_file $($config.output_file)"
-    } else {
-        # Use Windows Terminal's syntax for new tabs
-        $command += "; new-tab -d . python scrape.generic.docs.py --product $($config.product) --base_url $($config.base_url) --output_file $($config.output_file)"
-    }
-}
-
-# Execute the command directly with wt.exe
-& wt $command.Split(";")
-
-# Loop through each configuration and open a new tab in Windows Terminal
-# foreach ($config in $configArray) {
-#     wt new-tab -d . -- python scrape.generic.docs.py --product $config.product --base_url $config.base_url --output_file $config.output_file
-# }
-
-<#
     @{
         product = "biomejs-guides"
         base_url = "https://biomejs.dev/guides"
@@ -117,7 +98,35 @@ foreach ($config in $configArray) {
         product = "vite-config"
         base_url = "https://vite.dev/config"
         output_file = "data/vite-config.jsonl"
-    },
+    }
+)
+
+$commands = @()
+
+foreach ($config in $configArray) {
+    $cmd = "python scrape.generic.docs.py --product $($config.product) --base_url $($config.base_url) --output_file $($config.output_file)"
+    $commands += $cmd
+}
+
+$wtArgs = @()
+$wtArgs += "-d ."
+$wtArgs += $commands[0]
+
+for ($i = 1; $i -lt $commands.Count; $i++) {
+    $wtArgs += "; new-tab"
+    $wtArgs += "-d ."
+    $wtArgs += $commands[$i]
+}
+
+$wtArgsString = $wtArgs -join " "
+Start-Process wt -ArgumentList $wtArgsString
+
+# Loop through each configuration and open a new tab in Windows Terminal
+# foreach ($config in $configArray) {
+#     wt new-tab -d . -- python scrape.generic.docs.py --product $config.product --base_url $config.base_url --output_file $config.output_file
+# }
+
+<#
     @{
         product = "vite-guide"
         base_url = "https://vite.dev/guide"
@@ -352,9 +361,5 @@ foreach ($config in $configArray) {
 
 <#
 DONE
-    @{
-        product = "radix-ui-primitives"
-        base_url = "https://www.radix-ui.com/primitives/docs"
-        output_file = "data/radix-ui-primitives.jsonl"
-    },
+xxx
 #>
