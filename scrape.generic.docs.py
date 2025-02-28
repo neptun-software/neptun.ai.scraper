@@ -88,8 +88,8 @@ def scrape_url(url, key_manager, max_retries=3):
                     2. All content sections with their titles and detailed content
                     3. Any code examples or logs with their context
                     4. Tips and best practices mentioned
-                    Be thorough and preserve all technical details."""
-                }
+                    Be thorough and PRESERVE ALL TECHNICAL DETAILS!"""
+                } # For each of the following four items, ensure that the output for each one individually is UNDER 3.5k TOKENS, if it doesn't work out well, try to be under 4k!
             })
             if data and isinstance(data, dict):
                 json_data = data.get("json")
@@ -153,29 +153,44 @@ def create_conversation(product, content, url, page_metadata=None):
         return None
     
     qa_pairs = []
+    
+    # Overview with context
     if content.get("title") and content.get("description"):
-        question = f"What is \"{content['title']}\"?"
-        answer = content["description"]
+        question = f"Can you explain what {content['title']} is in {product}?"
+        answer = f"Sure, I'd be happy to explain {content['title']} in {product}.\n\n# {content['title']}\n\n{content['description']}"
         if content.get("sections"):
-            answer += "\n\nHere's a detailed explanation:\n\n"
+            answer += "Here's a quick rundown of what this is about:\n\n"
             for section in content["sections"]:
-                answer += f"\n## {section['title']}\n{section['content']}\n"
+                answer += f"## {section['title']}\n\n{section['content']}\n\n"
+            answer += "This should give you a solid starting point!"
         qa_pairs.append(("overview", question, answer))
     
+    # Section-specific questions
+    if content.get("sections"):
+        for section in content["sections"]:
+            question = f"How do I {section['title'].lower()} in {product}?"
+            answer = f"To {section['title'].lower()} in {product}, here's what you do:\n{section['content']}.\nPretty straightforward, right?"
+            qa_pairs.append(("section_detail", question, answer))
+    
+    # Code examples with explanation
     if content.get("codeExamples"):
-        question = f"Can you show me some code examples for \"{content['title']}\"?"
-        answer = "Here are some code examples:\n\n"
+        question = f"Can you give me some code examples for {content['title']} in {product}?"
+        answer = "Absolutely! Here are some practical examples to help you out:\n\n"
         for example in content["codeExamples"]:
-            answer += f"### {example['title']}\n```yaml\n{example['snippet']}\n```\n\n"
+            answer += f"**{example['title']}**:\n\n```yaml\n{example['snippet']}\n```\n\n"
+            answer += f"This snippet shows you how to {example['title'].lower()}, which is an important aspect of {content['title'].lower()}.\n\n"
         qa_pairs.append(("code_examples", question, answer))
     
+    # Best practices with insight
     if content.get("tipsAndBestPractices"):
-        question = f"What are the best practices for \"{content['title']}\"?"
-        answer = "Here are the recommended best practices:\n\n"
+        question = f"What are some tips for using {content['title']} in {product} effectively?"
+        answer = "Great question! Here are some tips to keep in mind:\n\n"
         for tip in content["tipsAndBestPractices"]:
-            answer += f"• {tip}\n"
+            answer += f"{tip}\n\n"
+        answer += "Stick to these, and you'll avoid a lot of headaches!"
         qa_pairs.append(("best_practices", question, answer))
     
+    # Format JSONL entries
     jsonl_entries = []
     for qa_type, question, answer in qa_pairs:
         entry = {
