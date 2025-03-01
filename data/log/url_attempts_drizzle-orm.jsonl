@@ -1,0 +1,333 @@
+{"index": 0, "url": "https://orm.drizzle.team/docs", "timestamp": "2025-02-28 22:01:35", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 1, "url": "https://orm.drizzle.team/docs/joins", "timestamp": "2025-02-28 22:04:40", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 2, "url": "https://orm.drizzle.team/docs/operators", "timestamp": "2025-02-28 22:07:20", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 3, "url": "https://orm.drizzle.team/docs/guides", "timestamp": "2025-02-28 22:09:59", "status": "success", "entries_created": 4}
+{"index": 4, "url": "https://orm.drizzle.team/docs/sql", "timestamp": "2025-02-28 22:13:09", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 5, "url": "https://orm.drizzle.team/docs/update", "timestamp": "2025-02-28 22:14:43", "status": "success", "entries_created": 11}
+{"index": 6, "url": "https://orm.drizzle.team/docs/rls", "timestamp": "2025-02-28 22:15:42", "status": "success", "entries_created": 11}
+{"index": 7, "url": "https://orm.drizzle.team/docs/transactions", "timestamp": "2025-02-28 22:18:40", "status": "success", "entries_created": 10}
+{"index": 8, "url": "https://orm.drizzle.team/docs/schemas", "timestamp": "2025-02-28 22:20:09", "status": "success", "entries_created": 11}
+{"index": 9, "url": "https://orm.drizzle.team/docs/graphql", "timestamp": "2025-02-28 22:23:14", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 10, "url": "https://orm.drizzle.team/docs/relations", "timestamp": "2025-02-28 22:24:49", "status": "success", "entries_created": 4}
+{"index": 11, "url": "https://orm.drizzle.team/docs/delete", "timestamp": "2025-02-28 22:25:16", "status": "success", "entries_created": 9}
+{"index": 12, "url": "https://orm.drizzle.team/docs/gotchas", "timestamp": "2025-02-28 22:27:02", "status": "success", "entries_created": 4}
+{"index": 13, "url": "https://orm.drizzle.team/docs/select", "timestamp": "2025-02-28 22:30:08", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 14, "url": "https://orm.drizzle.team/docs/views", "timestamp": "2025-02-28 22:31:04", "status": "success", "entries_created": 10}
+{"index": 15, "url": "https://orm.drizzle.team/docs/tutorials", "timestamp": "2025-02-28 22:31:27", "status": "success", "entries_created": 6}
+{"index": 16, "url": "https://orm.drizzle.team/docs/insert", "timestamp": "2025-02-28 22:34:33", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 17, "url": "https://orm.drizzle.team/docs/prisma", "timestamp": "2025-02-28 22:35:09", "status": "success", "entries_created": 4}
+{"index": 18, "url": "https://orm.drizzle.team/docs/zod", "timestamp": "2025-02-28 22:38:14", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 19, "url": "https://orm.drizzle.team/docs/rqb", "timestamp": "2025-02-28 22:39:05", "status": "success", "entries_created": 7}
+{"index": 20, "url": "https://orm.drizzle.team/docs/overview", "timestamp": "2025-02-28 22:39:31", "status": "success", "entries_created": 8}
+{"index": 21, "url": "https://orm.drizzle.team/docs/sequences", "timestamp": "2025-02-28 22:39:47", "status": "success", "entries_created": 8}
+{"index": 22, "url": "https://orm.drizzle.team/docs/valibot", "timestamp": "2025-02-28 22:40:25", "status": "success", "entries_created": 9}
+{"index": 23, "url": "https://orm.drizzle.team/docs/typebox", "timestamp": "2025-02-28 22:43:31", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 24, "url": "https://orm.drizzle.team/docs/migrations", "timestamp": "2025-02-28 22:44:54", "status": "success", "entries_created": 11}
+{"index": 25, "url": "https://orm.drizzle.team/docs/goodies", "timestamp": "2025-02-28 22:48:00", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 26, "url": "https://orm.drizzle.team/docs/seed-overview", "timestamp": "2025-02-28 22:49:36", "status": "success", "entries_created": 17}
+{"index": 27, "url": "https://orm.drizzle.team/docs/connect-supabase", "timestamp": "2025-02-28 22:50:00", "status": "success", "entries_created": 6}
+{"index": 28, "url": "https://orm.drizzle.team/docs/connect-tidb", "timestamp": "2025-02-28 22:50:30", "status": "success", "entries_created": 6}
+{"index": 29, "url": "https://orm.drizzle.team/docs/set-operations", "timestamp": "2025-02-28 22:50:53", "status": "success", "entries_created": 4}
+{"index": 30, "url": "https://orm.drizzle.team/docs/connect-pglite", "timestamp": "2025-02-28 22:51:31", "status": "success", "entries_created": 6}
+{"index": 31, "url": "https://orm.drizzle.team/docs/perf-queries", "timestamp": "2025-02-28 22:52:03", "status": "success", "entries_created": 6}
+{"index": 32, "url": "https://orm.drizzle.team/docs/latest-releases", "timestamp": "2025-02-28 22:52:45", "status": "success", "entries_created": 2}
+{"index": 33, "url": "https://orm.drizzle.team/docs/extensions/mysql", "timestamp": "2025-02-28 22:52:50", "status": "success", "entries_created": 2}
+{"index": 34, "url": "https://orm.drizzle.team/docs/query-utils", "timestamp": "2025-02-28 22:53:02", "status": "success", "entries_created": 4}
+{"index": 35, "url": "https://orm.drizzle.team/docs/custom-types", "timestamp": "2025-02-28 22:53:42", "status": "success", "entries_created": 19}
+{"index": 36, "url": "https://orm.drizzle.team/docs/read-replicas", "timestamp": "2025-02-28 22:54:29", "status": "success", "entries_created": 6}
+{"index": 37, "url": "https://orm.drizzle.team/docs/get-started", "timestamp": "2025-02-28 22:55:09", "status": "success", "entries_created": 3}
+{"index": 38, "url": "https://orm.drizzle.team/docs/extensions/sqlite", "timestamp": "2025-02-28 22:55:20", "status": "success", "entries_created": 2}
+{"index": 39, "url": "https://orm.drizzle.team/docs/generated-columns", "timestamp": "2025-02-28 22:55:49", "status": "success", "entries_created": 12}
+{"index": 40, "url": "https://orm.drizzle.team/docs/indexes-constraints", "timestamp": "2025-02-28 22:56:29", "status": "success", "entries_created": 12}
+{"index": 41, "url": "https://orm.drizzle.team/docs/connect-turso", "timestamp": "2025-02-28 22:57:21", "status": "success", "entries_created": 8}
+{"index": 42, "url": "https://orm.drizzle.team/docs/connect-neon", "timestamp": "2025-02-28 22:57:37", "status": "success", "entries_created": 15}
+{"index": 43, "url": "https://orm.drizzle.team/docs/data-querying", "timestamp": "2025-02-28 22:59:27", "status": "success", "entries_created": 14}
+{"index": 44, "url": "https://orm.drizzle.team/docs/connect-planetscale", "timestamp": "2025-02-28 22:59:44", "status": "success", "entries_created": 7}
+{"index": 45, "url": "https://orm.drizzle.team/docs/extensions/singlestore", "timestamp": "2025-02-28 22:59:49", "status": "success", "entries_created": 2}
+{"index": 46, "url": "https://orm.drizzle.team/docs/eslint-plugin", "timestamp": "2025-02-28 23:00:14", "status": "success", "entries_created": 6}
+{"index": 47, "url": "https://orm.drizzle.team/docs/connect-xata", "timestamp": "2025-02-28 23:00:37", "status": "success", "entries_created": 8}
+{"index": 48, "url": "https://orm.drizzle.team/docs/connect-overview", "timestamp": "2025-02-28 23:01:08", "status": "success", "entries_created": 5}
+{"index": 49, "url": "https://orm.drizzle.team/docs/kit-overview", "timestamp": "2025-02-28 23:02:00", "status": "success", "entries_created": 11}
+{"index": 50, "url": "https://orm.drizzle.team/docs/perf-serverless", "timestamp": "2025-02-28 23:05:08", "status": "success", "entries_created": 5}
+{"index": 51, "url": "https://orm.drizzle.team/docs/seed-versioning", "timestamp": "2025-02-28 23:07:01", "status": "success", "entries_created": 8}
+{"index": 52, "url": "https://orm.drizzle.team/docs/connect-nile", "timestamp": "2025-02-28 23:08:56", "status": "success", "entries_created": 9}
+{"index": 53, "url": "https://orm.drizzle.team/docs/guides/upsert", "timestamp": "2025-02-28 23:10:50", "status": "success", "entries_created": 4}
+{"index": 54, "url": "https://orm.drizzle.team/docs/migrate/components", "timestamp": "2025-02-28 23:11:30", "status": "success", "entries_created": 13}
+{"index": 55, "url": "https://orm.drizzle.team/docs/batch-api", "timestamp": "2025-02-28 23:12:16", "status": "success", "entries_created": 8}
+{"index": 56, "url": "https://orm.drizzle.team/docs/extensions/pg", "timestamp": "2025-02-28 23:14:13", "status": "success", "entries_created": 4}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-02-28 23:17:18", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 58, "url": "https://orm.drizzle.team/docs/connect-cloudflare-do", "timestamp": "2025-02-28 23:19:07", "status": "success", "entries_created": 7}
+{"index": 59, "url": "https://orm.drizzle.team/docs/drizzle-config-file", "timestamp": "2025-02-28 23:19:56", "status": "success", "entries_created": 15}
+{"index": 60, "url": "https://orm.drizzle.team/docs/drizzle-kit-check", "timestamp": "2025-02-28 23:21:16", "status": "success", "entries_created": 4}
+{"index": 61, "url": "https://orm.drizzle.team/docs/drizzle-kit-studio", "timestamp": "2025-02-28 23:22:04", "status": "success", "entries_created": 4}
+{"index": 62, "url": "https://orm.drizzle.team/docs/drizzle-kit-generate", "timestamp": "2025-02-28 23:24:46", "status": "success", "entries_created": 16}
+{"index": 63, "url": "https://orm.drizzle.team/docs/column-types/pg", "timestamp": "2025-02-28 23:27:00", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 64, "url": "https://orm.drizzle.team/docs/get-started-singlestore", "timestamp": "2025-02-28 23:27:24", "status": "success", "entries_created": 8}
+{"index": 65, "url": "https://orm.drizzle.team/docs/connect-bun-sql", "timestamp": "2025-02-28 23:27:55", "status": "success", "entries_created": 8}
+{"index": 66, "url": "https://orm.drizzle.team/docs/drizzle-kit-migrate", "timestamp": "2025-02-28 23:28:37", "status": "success", "entries_created": 8}
+{"index": 67, "url": "https://orm.drizzle.team/docs/connect-bun-sqlite", "timestamp": "2025-02-28 23:29:13", "status": "success", "entries_created": 6}
+{"index": 68, "url": "https://orm.drizzle.team/docs/column-types/mysql", "timestamp": "2025-02-28 23:32:19", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 69, "url": "https://orm.drizzle.team/docs/get-started-gel", "timestamp": "2025-02-28 23:33:47", "status": "success", "entries_created": 6}
+{"index": 70, "url": "https://orm.drizzle.team/docs/get-started-postgresql", "timestamp": "2025-02-28 23:34:16", "status": "success", "entries_created": 6}
+{"index": 71, "url": "https://orm.drizzle.team/docs/get-started-sqlite", "timestamp": "2025-02-28 23:37:06", "status": "success", "entries_created": 5}
+{"index": 72, "url": "https://orm.drizzle.team/docs/drizzle-kit-up", "timestamp": "2025-02-28 23:38:55", "status": "success", "entries_created": 4}
+{"index": 73, "url": "https://orm.drizzle.team/docs/connect-op-sqlite", "timestamp": "2025-02-28 23:39:31", "status": "success", "entries_created": 11}
+{"index": 74, "url": "https://orm.drizzle.team/docs/connect-vercel-postgres", "timestamp": "2025-02-28 23:40:12", "status": "success", "entries_created": 8}
+{"index": 75, "url": "https://orm.drizzle.team/docs/kit-custom-migrations", "timestamp": "2025-02-28 23:41:32", "status": "success", "entries_created": 4}
+{"index": 76, "url": "https://orm.drizzle.team/docs/connect-expo-sqlite", "timestamp": "2025-02-28 23:44:10", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 77, "url": "https://orm.drizzle.team/docs/sql-schema-declaration", "timestamp": "2025-02-28 23:47:15", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 78, "url": "https://orm.drizzle.team/docs/guides/count-rows", "timestamp": "2025-02-28 23:48:49", "status": "success", "entries_created": 11}
+{"index": 79, "url": "https://orm.drizzle.team/docs/connect-drizzle-proxy", "timestamp": "2025-02-28 23:49:46", "status": "success", "entries_created": 10}
+{"index": 80, "url": "https://orm.drizzle.team/docs/dynamic-query-building", "timestamp": "2025-02-28 23:50:08", "status": "success", "entries_created": 5}
+{"index": 81, "url": "https://orm.drizzle.team/docs/column-types/sqlite", "timestamp": "2025-02-28 23:50:52", "status": "success", "entries_created": 16}
+{"index": 82, "url": "https://orm.drizzle.team/docs/drizzle-kit-export", "timestamp": "2025-02-28 23:51:08", "status": "success", "entries_created": 13}
+{"index": 83, "url": "https://orm.drizzle.team/docs/connect-cloudflare-d1", "timestamp": "2025-02-28 23:51:22", "status": "success", "entries_created": 4}
+{"index": 84, "url": "https://orm.drizzle.team/docs/drizzle-kit-push", "timestamp": "2025-02-28 23:52:04", "status": "success", "entries_created": 15}
+{"index": 85, "url": "https://orm.drizzle.team/docs/kit-web-mobile", "timestamp": "2025-02-28 23:52:09", "status": "success", "entries_created": 3}
+{"index": 86, "url": "https://orm.drizzle.team/docs/get-started-mysql", "timestamp": "2025-02-28 23:52:30", "status": "success", "entries_created": 7}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-02-28 23:55:35", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 88, "url": "https://orm.drizzle.team/docs/drizzle-kit-pull", "timestamp": "2025-02-28 23:55:46", "status": "success", "entries_created": 11}
+{"index": 89, "url": "https://orm.drizzle.team/docs/get-started/gel-existing", "timestamp": "2025-02-28 23:56:10", "status": "success", "entries_created": 13}
+{"index": 90, "url": "https://orm.drizzle.team/docs/get-started/mysql-existing", "timestamp": "2025-02-28 23:56:43", "status": "success", "entries_created": 12}
+{"index": 91, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-typeorm", "timestamp": "2025-02-28 23:59:46", "status": "success", "entries_created": 14}
+{"index": 92, "url": "https://orm.drizzle.team/docs/get-started/tidb-new", "timestamp": "2025-03-01 00:00:09", "status": "success", "entries_created": 4}
+{"index": 93, "url": "https://orm.drizzle.team/docs/guides/postgresql-local-setup", "timestamp": "2025-03-01 00:00:21", "status": "success", "entries_created": 7}
+{"index": 94, "url": "https://orm.drizzle.team/docs/guides/limit-offset-pagination", "timestamp": "2025-03-01 00:00:43", "status": "success", "entries_created": 4}
+{"index": 95, "url": "https://orm.drizzle.team/docs/guides/cursor-based-pagination", "timestamp": "2025-03-01 00:01:03", "status": "success", "entries_created": 4}
+{"index": 96, "url": "https://orm.drizzle.team/docs/get-started/singlestore-new", "timestamp": "2025-03-01 00:01:18", "status": "success", "entries_created": 4}
+{"index": 97, "url": "https://orm.drizzle.team/docs/get-started/postgresql-new", "timestamp": "2025-03-01 00:01:43", "status": "success", "entries_created": 12}
+{"index": 98, "url": "https://orm.drizzle.team/docs/get-started/gel-new", "timestamp": "2025-03-01 00:02:22", "status": "success", "entries_created": 14}
+{"index": 99, "url": "https://orm.drizzle.team/docs/guides/postgis-geometry-point", "timestamp": "2025-03-01 00:02:42", "status": "success", "entries_created": 9}
+{"index": 100, "url": "https://orm.drizzle.team/docs/get-started/neon-existing", "timestamp": "2025-03-01 00:03:01", "status": "success", "entries_created": 4}
+{"index": 101, "url": "https://orm.drizzle.team/docs/get-started/pglite-new", "timestamp": "2025-03-01 00:03:18", "status": "success", "entries_created": 4}
+{"index": 102, "url": "https://orm.drizzle.team/docs/guides/point-datatype-psql", "timestamp": "2025-03-01 00:03:46", "status": "success", "entries_created": 4}
+{"index": 103, "url": "https://orm.drizzle.team/docs/tutorials/drizzle-with-neon", "timestamp": "2025-03-01 00:04:17", "status": "success", "entries_created": 6}
+{"index": 104, "url": "https://orm.drizzle.team/docs/get-started/vercel-new", "timestamp": "2025-03-01 00:04:48", "status": "success", "entries_created": 13}
+{"index": 105, "url": "https://orm.drizzle.team/docs/tutorials/drizzle-with-vercel", "timestamp": "2025-03-01 00:05:22", "status": "success", "entries_created": 6}
+{"index": 106, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-prisma", "timestamp": "2025-03-01 00:05:42", "status": "success", "entries_created": 15}
+{"index": 107, "url": "https://orm.drizzle.team/docs/get-started/vercel-existing", "timestamp": "2025-03-01 00:06:22", "status": "success", "entries_created": 16}
+{"index": 108, "url": "https://orm.drizzle.team/docs/guides/decrementing-a-value", "timestamp": "2025-03-01 00:06:28", "status": "success", "entries_created": 4}
+{"index": 109, "url": "https://orm.drizzle.team/docs/get-started/planetscale-new", "timestamp": "2025-03-01 00:06:45", "status": "success", "entries_created": 4}
+{"index": 110, "url": "https://orm.drizzle.team/docs/get-started/singlestore-existing", "timestamp": "2025-03-01 00:07:13", "status": "success", "entries_created": 4}
+{"index": 111, "url": "https://orm.drizzle.team/docs/tutorials/drizzle-with-turso", "timestamp": "2025-03-01 00:08:02", "status": "success", "entries_created": 6}
+{"index": 112, "url": "https://orm.drizzle.team/docs/get-started/pglite-existing", "timestamp": "2025-03-01 00:08:30", "status": "success", "entries_created": 4}
+{"index": 113, "url": "https://orm.drizzle.team/docs/get-started/expo-new", "timestamp": "2025-03-01 00:11:40", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 114, "url": "https://orm.drizzle.team/docs/guides/vector-similarity-search", "timestamp": "2025-03-01 00:12:02", "status": "success", "entries_created": 11}
+{"index": 115, "url": "https://orm.drizzle.team/docs/get-started/xata-new", "timestamp": "2025-03-01 00:12:39", "status": "success", "entries_created": 7}
+{"index": 116, "url": "https://orm.drizzle.team/docs/get-started/planetscale-existing", "timestamp": "2025-03-01 00:13:15", "status": "success", "entries_created": 4}
+{"index": 117, "url": "https://orm.drizzle.team/docs/guides/incrementing-a-value", "timestamp": "2025-03-01 00:13:26", "status": "success", "entries_created": 4}
+{"index": 118, "url": "https://orm.drizzle.team/docs/connect-react-native-sqlite", "timestamp": "2025-03-01 00:13:31", "status": "success", "entries_created": 4}
+{"index": 119, "url": "https://orm.drizzle.team/docs/get-started/supabase-existing", "timestamp": "2025-03-01 00:15:20", "status": "success", "entries_created": 15}
+{"index": 120, "url": "https://orm.drizzle.team/docs/get-started/nile-existing", "timestamp": "2025-03-01 00:16:12", "status": "failure", "error": "'snippet'"}
+{"index": 121, "url": "https://orm.drizzle.team/docs/get-started/mysql-new", "timestamp": "2025-03-01 00:16:47", "status": "success", "entries_created": 13}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 00:19:53", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 123, "url": "https://orm.drizzle.team/docs/kit-migrations-for-teams", "timestamp": "2025-03-01 00:20:02", "status": "success", "entries_created": 3}
+{"index": 124, "url": "https://orm.drizzle.team/docs/get-started/xata-existing", "timestamp": "2025-03-01 00:20:57", "status": "success", "entries_created": 15}
+{"index": 125, "url": "https://orm.drizzle.team/docs/get-started/turso-existing", "timestamp": "2025-03-01 00:22:41", "status": "success", "entries_created": 4}
+{"index": 126, "url": "https://orm.drizzle.team/docs/get-started/do-new", "timestamp": "2025-03-01 00:23:11", "status": "success", "entries_created": 4}
+{"index": 127, "url": "https://orm.drizzle.team/docs/get-started/expo-existing", "timestamp": "2025-03-01 00:23:17", "status": "success", "entries_created": 5}
+{"index": 128, "url": "https://orm.drizzle.team/docs/get-started/sqlite-new", "timestamp": "2025-03-01 00:23:51", "status": "success", "entries_created": 13}
+{"index": 129, "url": "https://orm.drizzle.team/docs/tutorials/drizzle-nextjs-neon", "timestamp": "2025-03-01 00:24:45", "status": "success", "entries_created": 14}
+{"index": 130, "url": "https://orm.drizzle.team/docs/get-started/postgresql-existing", "timestamp": "2025-03-01 00:25:24", "status": "success", "entries_created": 15}
+{"index": 131, "url": "https://orm.drizzle.team/docs/get-started/supabase-new", "timestamp": "2025-03-01 00:26:15", "status": "success", "entries_created": 12}
+{"index": 132, "url": "https://orm.drizzle.team/docs/guides/timestamp-default-value", "timestamp": "2025-03-01 00:27:06", "status": "success", "entries_created": 4}
+{"index": 133, "url": "https://orm.drizzle.team/docs/get-started/neon-new", "timestamp": "2025-03-01 00:27:46", "status": "success", "entries_created": 13}
+{"index": 134, "url": "https://orm.drizzle.team/docs/tutorials/drizzle-with-nile", "timestamp": "2025-03-01 00:30:52", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 135, "url": "https://orm.drizzle.team/docs/get-started/do-existing", "timestamp": "2025-03-01 00:31:03", "status": "success", "entries_created": 4}
+{"index": 136, "url": "https://orm.drizzle.team/docs/get-started/d1-new", "timestamp": "2025-03-01 00:31:25", "status": "success", "entries_created": 4}
+{"index": 137, "url": "https://orm.drizzle.team/docs/get-started/nile-new", "timestamp": "2025-03-01 00:34:21", "status": "success", "entries_created": 14}
+{"index": 138, "url": "https://orm.drizzle.team/docs/tutorials/drizzle-with-supabase", "timestamp": "2025-03-01 00:35:21", "status": "success", "entries_created": 11}
+{"index": 139, "url": "https://orm.drizzle.team/docs/get-started/sqlite-existing", "timestamp": "2025-03-01 00:36:02", "status": "success", "entries_created": 12}
+{"index": 140, "url": "https://orm.drizzle.team/docs/get-started/turso-new", "timestamp": "2025-03-01 00:36:25", "status": "success", "entries_created": 4}
+{"index": 141, "url": "https://orm.drizzle.team/docs/guides/mysql-local-setup", "timestamp": "2025-03-01 00:37:01", "status": "success", "entries_created": 6}
+{"index": 142, "url": "https://orm.drizzle.team/docs/get-started/tidb-existing", "timestamp": "2025-03-01 00:37:32", "status": "success", "entries_created": 12}
+{"index": 143, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0301", "timestamp": "2025-03-01 00:38:01", "status": "success", "entries_created": 5}
+{"index": 144, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0292", "timestamp": "2025-03-01 00:38:36", "status": "success", "entries_created": 6}
+{"index": 145, "url": "https://orm.drizzle.team/docs/guides/postgresql-full-text-search", "timestamp": "2025-03-01 00:41:42", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 146, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0303", "timestamp": "2025-03-01 00:43:33", "status": "success", "entries_created": 3}
+{"index": 147, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0284", "timestamp": "2025-03-01 00:44:33", "status": "success", "entries_created": 4}
+{"index": 148, "url": "https://orm.drizzle.team/docs/guides/conditional-filters-in-query", "timestamp": "2025-03-01 00:45:21", "status": "success", "entries_created": 9}
+{"index": 149, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0281", "timestamp": "2025-03-01 00:45:28", "status": "success", "entries_created": 2}
+{"index": 150, "url": "https://orm.drizzle.team/docs/get-started/op-sqlite-existing", "timestamp": "2025-03-01 00:45:44", "status": "success", "entries_created": 5}
+{"index": 151, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0313", "timestamp": "2025-03-01 00:45:53", "status": "success", "entries_created": 7}
+{"index": 152, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0302", "timestamp": "2025-03-01 00:46:00", "status": "success", "entries_created": 4}
+{"index": 153, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0291", "timestamp": "2025-03-01 00:46:33", "status": "success", "entries_created": 6}
+{"index": 154, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0286", "timestamp": "2025-03-01 00:47:12", "status": "success", "entries_created": 6}
+{"index": 155, "url": "https://orm.drizzle.team/docs/guides/unique-case-insensitive-email", "timestamp": "2025-03-01 00:48:00", "status": "success", "entries_created": 5}
+{"index": 156, "url": "https://orm.drizzle.team/docs/get-started/op-sqlite-new", "timestamp": "2025-03-01 00:48:30", "status": "success", "entries_created": 4}
+{"index": 157, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0110", "timestamp": "2025-03-01 00:49:00", "status": "success", "entries_created": 4}
+{"index": 158, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0309", "timestamp": "2025-03-01 00:49:24", "status": "success", "entries_created": 5}
+{"index": 159, "url": "https://orm.drizzle.team/docs/guides/empty-array-default-value", "timestamp": "2025-03-01 00:49:57", "status": "success", "entries_created": 6}
+{"index": 160, "url": "https://orm.drizzle.team/docs/get-started/bun-sqlite-existing", "timestamp": "2025-03-01 00:51:46", "status": "success", "entries_created": 15}
+{"index": 161, "url": "https://orm.drizzle.team/docs/get-started/bun-sql-existing", "timestamp": "2025-03-01 00:54:52", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 162, "url": "https://orm.drizzle.team/docs/guides/toggling-a-boolean-field", "timestamp": "2025-03-01 00:55:52", "status": "success", "entries_created": 5}
+{"index": 163, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0306", "timestamp": "2025-03-01 00:56:02", "status": "success", "entries_created": 4}
+{"index": 164, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0321", "timestamp": "2025-03-01 00:56:22", "status": "success", "entries_created": 5}
+{"index": 165, "url": "https://orm.drizzle.team/docs/get-started/bun-sqlite-new", "timestamp": "2025-03-01 00:57:01", "status": "success", "entries_created": 12}
+{"index": 166, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0283", "timestamp": "2025-03-01 00:58:20", "status": "success", "entries_created": 6}
+{"index": 167, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0308", "timestamp": "2025-03-01 00:58:56", "status": "success", "entries_created": 5}
+{"index": 168, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0322", "timestamp": "2025-03-01 00:59:24", "status": "success", "entries_created": 7}
+{"index": 169, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0285", "timestamp": "2025-03-01 00:59:33", "status": "success", "entries_created": 3}
+{"index": 170, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0311", "timestamp": "2025-03-01 00:59:54", "status": "success", "entries_created": 6}
+{"index": 171, "url": "https://orm.drizzle.team/docs/guides/include-or-exclude-columns", "timestamp": "2025-03-01 01:03:04", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 172, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0314", "timestamp": "2025-03-01 01:03:23", "status": "success", "entries_created": 6}
+{"index": 173, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0293", "timestamp": "2025-03-01 01:03:37", "status": "success", "entries_created": 3}
+{"index": 174, "url": "https://orm.drizzle.team/docs/guides/seeding-using-with-option", "timestamp": "2025-03-01 01:04:34", "status": "success", "entries_created": 4}
+{"index": 175, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0295", "timestamp": "2025-03-01 01:04:50", "status": "success", "entries_created": 4}
+{"index": 176, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0162", "timestamp": "2025-03-01 01:07:55", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 177, "url": "https://orm.drizzle.team/docs/connect-aws-data-api-pg", "timestamp": "2025-03-01 01:08:53", "status": "success", "entries_created": 6}
+{"index": 178, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0282", "timestamp": "2025-03-01 01:11:05", "status": "success", "entries_created": 6}
+{"index": 179, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0300", "timestamp": "2025-03-01 01:11:37", "status": "success", "entries_created": 6}
+{"index": 180, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0310", "timestamp": "2025-03-01 01:12:02", "status": "success", "entries_created": 14}
+{"index": 181, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0294", "timestamp": "2025-03-01 01:12:30", "status": "success", "entries_created": 5}
+{"index": 182, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0320", "timestamp": "2025-03-01 01:14:33", "status": "success", "entries_created": 5}
+{"index": 183, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0290", "timestamp": "2025-03-01 01:17:38", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 184, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0307", "timestamp": "2025-03-01 01:17:55", "status": "success", "entries_created": 4}
+{"index": 185, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0305", "timestamp": "2025-03-01 01:19:54", "status": "success", "entries_created": 5}
+{"index": 186, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-kit-v0232", "timestamp": "2025-03-01 01:20:03", "status": "success", "entries_created": 6}
+{"index": 187, "url": "https://orm.drizzle.team/docs/get-started/bun-sql-new", "timestamp": "2025-03-01 01:21:43", "status": "success", "entries_created": 13}
+{"index": 188, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0312", "timestamp": "2025-03-01 01:21:56", "status": "success", "entries_created": 7}
+{"index": 189, "url": "https://orm.drizzle.team/docs/connect-aws-data-api-mysql", "timestamp": "2025-03-01 01:22:39", "status": "success", "entries_created": 6}
+{"index": 190, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0280", "timestamp": "2025-03-01 01:25:22", "status": "success", "entries_created": 9}
+{"index": 191, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v03010", "timestamp": "2025-03-01 01:25:30", "status": "success", "entries_created": 5}
+{"index": 192, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0272", "timestamp": "2025-03-01 01:25:45", "status": "success", "entries_created": 4}
+{"index": 193, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0304", "timestamp": "2025-03-01 01:26:13", "status": "success", "entries_created": 7}
+{"index": 194, "url": "https://orm.drizzle.team/docs/guides/update-many-with-different-value", "timestamp": "2025-03-01 01:27:49", "status": "success", "entries_created": 4}
+{"index": 195, "url": "https://orm.drizzle.team/docs/guides/d1-http-with-drizzle-kit", "timestamp": "2025-03-01 01:29:12", "status": "success", "entries_created": 7}
+{"index": 196, "url": "https://orm.drizzle.team/docs/guides/seeding-with-partially-exposed-tables", "timestamp": "2025-03-01 01:29:28", "status": "success", "entries_created": 4}
+{"index": 197, "url": "https://orm.drizzle.team/docs/tutorials/drizzle-with-vercel-edge-functions", "timestamp": "2025-03-01 01:32:19", "status": "success", "entries_created": 15}
+{"index": 198, "url": "https://orm.drizzle.team/docs/tutorials/drizzle-with-supabase-edge-functions", "timestamp": "2025-03-01 01:34:00", "status": "success", "entries_created": 18}
+{"index": 199, "url": "https://orm.drizzle.team/docs/tutorials/drizzle-with-netlify-edge-functions-supabase", "timestamp": "2025-03-01 01:35:34", "status": "success", "entries_created": 18}
+{"index": 200, "url": "https://orm.drizzle.team/docs/tutorials/drizzle-with-netlify-edge-functions-neon", "timestamp": "2025-03-01 01:36:04", "status": "success", "entries_created": 18}
+{"index": 201, "url": "https://orm.drizzle.team/docs/guides/full-text-search-with-generated-columns", "timestamp": "2025-03-01 01:36:55", "status": "success", "entries_created": 4}
+{"index": 202, "url": "https://orm.drizzle.team/docs/guides/select-parent-rows-with-at-least-one-related-child-row", "timestamp": "2025-03-01 01:37:23", "status": "success", "entries_created": 7}
+{"index": 0, "url": "https://orm.drizzle.team/docs", "timestamp": "2025-03-01 01:37:41", "status": "success", "entries_created": 8}
+{"index": 1, "url": "https://orm.drizzle.team/docs/joins", "timestamp": "2025-03-01 01:38:25", "status": "success", "entries_created": 14}
+{"index": 2, "url": "https://orm.drizzle.team/docs/operators", "timestamp": "2025-03-01 01:41:30", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 4, "url": "https://orm.drizzle.team/docs/sql", "timestamp": "2025-03-01 01:44:36", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 9, "url": "https://orm.drizzle.team/docs/graphql", "timestamp": "2025-03-01 01:47:46", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 13, "url": "https://orm.drizzle.team/docs/select", "timestamp": "2025-03-01 01:50:51", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 16, "url": "https://orm.drizzle.team/docs/insert", "timestamp": "2025-03-01 01:53:57", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 18, "url": "https://orm.drizzle.team/docs/zod", "timestamp": "2025-03-01 01:55:37", "status": "success", "entries_created": 7}
+{"index": 23, "url": "https://orm.drizzle.team/docs/typebox", "timestamp": "2025-03-01 01:56:27", "status": "success", "entries_created": 5}
+{"index": 25, "url": "https://orm.drizzle.team/docs/goodies", "timestamp": "2025-03-01 01:59:33", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 02:02:38", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 63, "url": "https://orm.drizzle.team/docs/column-types/pg", "timestamp": "2025-03-01 02:05:44", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 68, "url": "https://orm.drizzle.team/docs/column-types/mysql", "timestamp": "2025-03-01 02:08:50", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 76, "url": "https://orm.drizzle.team/docs/connect-expo-sqlite", "timestamp": "2025-03-01 02:11:43", "status": "success", "entries_created": 14}
+{"index": 77, "url": "https://orm.drizzle.team/docs/sql-schema-declaration", "timestamp": "2025-03-01 02:14:49", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 02:17:54", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 113, "url": "https://orm.drizzle.team/docs/get-started/expo-new", "timestamp": "2025-03-01 02:21:00", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 120, "url": "https://orm.drizzle.team/docs/get-started/nile-existing", "timestamp": "2025-03-01 02:24:06", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 02:27:11", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 134, "url": "https://orm.drizzle.team/docs/tutorials/drizzle-with-nile", "timestamp": "2025-03-01 02:30:17", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 145, "url": "https://orm.drizzle.team/docs/guides/postgresql-full-text-search", "timestamp": "2025-03-01 02:33:22", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 161, "url": "https://orm.drizzle.team/docs/get-started/bun-sql-existing", "timestamp": "2025-03-01 02:34:00", "status": "success", "entries_created": 4}
+{"index": 171, "url": "https://orm.drizzle.team/docs/guides/include-or-exclude-columns", "timestamp": "2025-03-01 02:35:30", "status": "success", "entries_created": 11}
+{"index": 176, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0162", "timestamp": "2025-03-01 02:38:40", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 183, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0290", "timestamp": "2025-03-01 02:41:46", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 2, "url": "https://orm.drizzle.team/docs/operators", "timestamp": "2025-03-01 02:53:56", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 4, "url": "https://orm.drizzle.team/docs/sql", "timestamp": "2025-03-01 02:57:08", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 9, "url": "https://orm.drizzle.team/docs/graphql", "timestamp": "2025-03-01 02:57:56", "status": "success", "entries_created": 7}
+{"index": 13, "url": "https://orm.drizzle.team/docs/select", "timestamp": "2025-03-01 03:00:50", "status": "success", "entries_created": 14}
+{"index": 16, "url": "https://orm.drizzle.team/docs/insert", "timestamp": "2025-03-01 03:02:22", "status": "success", "entries_created": 10}
+{"index": 25, "url": "https://orm.drizzle.team/docs/goodies", "timestamp": "2025-03-01 03:05:32", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 03:07:46", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 63, "url": "https://orm.drizzle.team/docs/column-types/pg", "timestamp": "2025-03-01 03:10:52", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 68, "url": "https://orm.drizzle.team/docs/column-types/mysql", "timestamp": "2025-03-01 03:13:58", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 77, "url": "https://orm.drizzle.team/docs/sql-schema-declaration", "timestamp": "2025-03-01 03:17:00", "status": "success", "entries_created": 6}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 03:20:09", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 113, "url": "https://orm.drizzle.team/docs/get-started/expo-new", "timestamp": "2025-03-01 03:32:15", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 120, "url": "https://orm.drizzle.team/docs/get-started/nile-existing", "timestamp": "2025-03-01 03:34:14", "status": "success", "entries_created": 16}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 03:37:24", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 134, "url": "https://orm.drizzle.team/docs/tutorials/drizzle-with-nile", "timestamp": "2025-03-01 03:40:27", "status": "success", "entries_created": 14}
+{"index": 145, "url": "https://orm.drizzle.team/docs/guides/postgresql-full-text-search", "timestamp": "2025-03-01 03:43:37", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 176, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0162", "timestamp": "2025-03-01 03:44:27", "status": "success", "entries_created": 8}
+{"index": 183, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0290", "timestamp": "2025-03-01 03:47:38", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 2, "url": "https://orm.drizzle.team/docs/operators", "timestamp": "2025-03-01 03:50:48", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 4, "url": "https://orm.drizzle.team/docs/sql", "timestamp": "2025-03-01 03:53:54", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 25, "url": "https://orm.drizzle.team/docs/goodies", "timestamp": "2025-03-01 03:54:36", "status": "success", "entries_created": 13}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 03:57:42", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 63, "url": "https://orm.drizzle.team/docs/column-types/pg", "timestamp": "2025-03-01 04:00:47", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 68, "url": "https://orm.drizzle.team/docs/column-types/mysql", "timestamp": "2025-03-01 04:03:53", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 04:06:58", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 113, "url": "https://orm.drizzle.team/docs/get-started/expo-new", "timestamp": "2025-03-01 04:10:03", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 04:13:09", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 145, "url": "https://orm.drizzle.team/docs/guides/postgresql-full-text-search", "timestamp": "2025-03-01 04:16:15", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 183, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0290", "timestamp": "2025-03-01 04:19:20", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 2, "url": "https://orm.drizzle.team/docs/operators", "timestamp": "2025-03-01 04:22:31", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 4, "url": "https://orm.drizzle.team/docs/sql", "timestamp": "2025-03-01 04:24:14", "status": "success", "entries_created": 13}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 04:27:19", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 63, "url": "https://orm.drizzle.team/docs/column-types/pg", "timestamp": "2025-03-01 04:30:19", "status": "success", "entries_created": 4}
+{"index": 68, "url": "https://orm.drizzle.team/docs/column-types/mysql", "timestamp": "2025-03-01 04:33:10", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 04:36:16", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 113, "url": "https://orm.drizzle.team/docs/get-started/expo-new", "timestamp": "2025-03-01 04:39:21", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 04:42:32", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 145, "url": "https://orm.drizzle.team/docs/guides/postgresql-full-text-search", "timestamp": "2025-03-01 04:44:35", "status": "success", "entries_created": 16}
+{"index": 183, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0290", "timestamp": "2025-03-01 04:47:45", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 2, "url": "https://orm.drizzle.team/docs/operators", "timestamp": "2025-03-01 04:50:55", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 04:54:09", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 68, "url": "https://orm.drizzle.team/docs/column-types/mysql", "timestamp": "2025-03-01 04:55:52", "status": "success", "entries_created": 4}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 04:58:58", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 113, "url": "https://orm.drizzle.team/docs/get-started/expo-new", "timestamp": "2025-03-01 05:02:08", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 05:05:13", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 183, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0290", "timestamp": "2025-03-01 05:08:19", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 2, "url": "https://orm.drizzle.team/docs/operators", "timestamp": "2025-03-01 05:11:34", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 05:14:39", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 05:17:45", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 113, "url": "https://orm.drizzle.team/docs/get-started/expo-new", "timestamp": "2025-03-01 05:19:32", "status": "success", "entries_created": 4}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 05:22:38", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 183, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0290", "timestamp": "2025-03-01 05:25:37", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 2, "url": "https://orm.drizzle.team/docs/operators", "timestamp": "2025-03-01 05:28:47", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 05:31:53", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 05:34:58", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 05:37:36", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 183, "url": "https://orm.drizzle.team/docs/latest-releases/drizzle-orm-v0290", "timestamp": "2025-03-01 05:39:37", "status": "success", "entries_created": 4}
+{"index": 2, "url": "https://orm.drizzle.team/docs/operators", "timestamp": "2025-03-01 05:42:47", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 05:45:52", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 05:48:58", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 05:52:03", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 2, "url": "https://orm.drizzle.team/docs/operators", "timestamp": "2025-03-01 05:55:14", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 05:58:19", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 06:01:25", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 06:04:35", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 2, "url": "https://orm.drizzle.team/docs/operators", "timestamp": "2025-03-01 06:07:45", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 06:10:51", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 06:14:00", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 06:17:06", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 2, "url": "https://orm.drizzle.team/docs/operators", "timestamp": "2025-03-01 06:20:15", "status": "success", "entries_created": 27}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 06:23:20", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 06:26:30", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 06:29:36", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 06:32:46", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 06:35:52", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 06:38:57", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 06:42:08", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 06:45:18", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 06:48:26", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 06:51:37", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 06:54:42", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 06:57:47", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 07:00:58", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 07:04:03", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 122, "url": "https://orm.drizzle.team/docs/migrate/migrate-from-sequelize", "timestamp": "2025-03-01 07:04:23", "status": "success", "entries_created": 6}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 07:07:33", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 07:10:46", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 07:13:57", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 07:17:07", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 07:20:17", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 07:23:22", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 07:26:33", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 07:29:39", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 07:32:50", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 07:35:56", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 07:39:06", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 07:42:12", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 07:45:22", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 07:48:27", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 07:51:38", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 07:54:43", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 07:57:54", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 08:00:59", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 57, "url": "https://orm.drizzle.team/docs/seed-functions", "timestamp": "2025-03-01 08:04:10", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 87, "url": "https://orm.drizzle.team/docs/column-types/singlestore", "timestamp": "2025-03-01 08:07:16", "status": "failure", "error": "No usable data returned on retry 25"}

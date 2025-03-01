@@ -1,0 +1,162 @@
+{"index": 0, "url": "https://vuejs.org/guide", "timestamp": "2025-03-01 00:56:10", "status": "success", "entries_created": 9}
+{"index": 1, "url": "https://vuejs.org/guide/best-practices/accessibility.html", "timestamp": "2025-03-01 00:57:44", "status": "success", "entries_created": 6}
+{"index": 2, "url": "https://vuejs.org/guide/best-practices/performance.html", "timestamp": "2025-03-01 00:58:21", "status": "success", "entries_created": 7}
+{"index": 3, "url": "https://vuejs.org/guide/best-practices/production-deployment.html", "timestamp": "2025-03-01 00:58:35", "status": "success", "entries_created": 7}
+{"index": 4, "url": "https://vuejs.org/guide/best-practices/security.html", "timestamp": "2025-03-01 00:59:11", "status": "success", "entries_created": 13}
+{"index": 5, "url": "https://vuejs.org/guide/built-ins/keep-alive.html", "timestamp": "2025-03-01 00:59:50", "status": "success", "entries_created": 7}
+{"index": 6, "url": "https://vuejs.org/guide/built-ins/suspense.html", "timestamp": "2025-03-01 01:02:28", "status": "success", "entries_created": 11}
+{"index": 7, "url": "https://vuejs.org/guide/built-ins/teleport.html", "timestamp": "2025-03-01 01:04:10", "status": "success", "entries_created": 8}
+{"index": 8, "url": "https://vuejs.org/guide/built-ins/transition-group.html", "timestamp": "2025-03-01 01:04:36", "status": "success", "entries_created": 8}
+{"index": 9, "url": "https://vuejs.org/guide/built-ins/transition.html", "timestamp": "2025-03-01 01:07:42", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 10, "url": "https://vuejs.org/guide/components/async.html", "timestamp": "2025-03-01 01:09:21", "status": "success", "entries_created": 7}
+{"index": 11, "url": "https://vuejs.org/guide/components/attrs.html", "timestamp": "2025-03-01 01:11:00", "status": "success", "entries_created": 10}
+{"index": 12, "url": "https://vuejs.org/guide/components/events.html", "timestamp": "2025-03-01 01:12:53", "status": "success", "entries_created": 7}
+{"index": 13, "url": "https://vuejs.org/guide/components/props.html", "timestamp": "2025-03-01 01:13:38", "status": "success", "entries_created": 9}
+{"index": 14, "url": "https://vuejs.org/guide/components/provide-inject.html", "timestamp": "2025-03-01 01:14:35", "status": "success", "entries_created": 11}
+{"index": 15, "url": "https://vuejs.org/guide/components/registration.html", "timestamp": "2025-03-01 01:15:16", "status": "success", "entries_created": 6}
+{"index": 16, "url": "https://vuejs.org/guide/components/slots.html", "timestamp": "2025-03-01 01:15:59", "status": "success", "entries_created": 10}
+{"index": 17, "url": "https://vuejs.org/guide/components/v-model.html", "timestamp": "2025-03-01 01:16:46", "status": "success", "entries_created": 9}
+{"index": 18, "url": "https://vuejs.org/guide/essentials/application.html", "timestamp": "2025-03-01 01:17:23", "status": "success", "entries_created": 9}
+{"index": 19, "url": "https://vuejs.org/guide/essentials/class-and-style.html", "timestamp": "2025-03-01 01:20:29", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 20, "url": "https://vuejs.org/guide/essentials/component-basics.html", "timestamp": "2025-03-01 01:23:34", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 21, "url": "https://vuejs.org/guide/essentials/computed.html", "timestamp": "2025-03-01 01:26:40", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 22, "url": "https://vuejs.org/guide/essentials/conditional.html", "timestamp": "2025-03-01 01:27:20", "status": "success", "entries_created": 10}
+{"index": 23, "url": "https://vuejs.org/guide/essentials/event-handling.html", "timestamp": "2025-03-01 01:30:09", "status": "success", "entries_created": 15}
+{"index": 24, "url": "https://vuejs.org/guide/essentials/forms.html", "timestamp": "2025-03-01 01:33:07", "status": "success", "entries_created": 5}
+{"index": 25, "url": "https://vuejs.org/guide/essentials/lifecycle.html", "timestamp": "2025-03-01 01:33:34", "status": "success", "entries_created": 5}
+{"index": 26, "url": "https://vuejs.org/guide/essentials/list.html", "timestamp": "2025-03-01 01:35:21", "status": "success", "entries_created": 12}
+{"index": 27, "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals.html", "timestamp": "2025-03-01 01:38:26", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 28, "url": "https://vuejs.org/guide/essentials/template-refs.html", "timestamp": "2025-03-01 01:41:32", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 29, "url": "https://vuejs.org/guide/essentials/template-syntax.html", "timestamp": "2025-03-01 01:44:06", "status": "success", "entries_created": 11}
+{"index": 30, "url": "https://vuejs.org/guide/essentials/watchers.html", "timestamp": "2025-03-01 01:47:12", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 31, "url": "https://vuejs.org/guide/extras/animation.html", "timestamp": "2025-03-01 01:48:44", "status": "success", "entries_created": 6}
+{"index": 32, "url": "https://vuejs.org/guide/extras/composition-api-faq.html", "timestamp": "2025-03-01 01:51:50", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 33, "url": "https://vuejs.org/guide/extras/reactivity-in-depth.html", "timestamp": "2025-03-01 01:52:36", "status": "success", "entries_created": 7}
+{"index": 34, "url": "https://vuejs.org/guide/extras/reactivity-transform.html", "timestamp": "2025-03-01 01:55:41", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 35, "url": "https://vuejs.org/guide/extras/render-function.html", "timestamp": "2025-03-01 01:58:47", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 36, "url": "https://vuejs.org/guide/extras/rendering-mechanism.html", "timestamp": "2025-03-01 01:59:19", "status": "success", "entries_created": 11}
+{"index": 37, "url": "https://vuejs.org/guide/extras/ways-of-using-vue.html", "timestamp": "2025-03-01 02:02:23", "status": "success", "entries_created": 7}
+{"index": 38, "url": "https://vuejs.org/guide/extras/web-components.html", "timestamp": "2025-03-01 02:04:12", "status": "success", "entries_created": 22}
+{"index": 39, "url": "https://vuejs.org/guide/introduction.html", "timestamp": "2025-03-01 02:06:58", "status": "success", "entries_created": 9}
+{"index": 40, "url": "https://vuejs.org/guide/quick-start.html", "timestamp": "2025-03-01 02:07:33", "status": "success", "entries_created": 10}
+{"index": 41, "url": "https://vuejs.org/guide/reusability/composables.html", "timestamp": "2025-03-01 02:10:39", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 42, "url": "https://vuejs.org/guide/reusability/custom-directives.html", "timestamp": "2025-03-01 02:12:36", "status": "success", "entries_created": 10}
+{"index": 43, "url": "https://vuejs.org/guide/reusability/plugins.html", "timestamp": "2025-03-01 02:13:02", "status": "success", "entries_created": 7}
+{"index": 44, "url": "https://vuejs.org/guide/scaling-up/routing.html", "timestamp": "2025-03-01 02:14:27", "status": "success", "entries_created": 6}
+{"index": 45, "url": "https://vuejs.org/guide/scaling-up/sfc.html", "timestamp": "2025-03-01 02:14:55", "status": "success", "entries_created": 7}
+{"index": 46, "url": "https://vuejs.org/guide/scaling-up/ssr.html", "timestamp": "2025-03-01 02:18:00", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 47, "url": "https://vuejs.org/guide/scaling-up/state-management.html", "timestamp": "2025-03-01 02:19:31", "status": "success", "entries_created": 7}
+{"index": 48, "url": "https://vuejs.org/guide/scaling-up/testing.html", "timestamp": "2025-03-01 02:20:11", "status": "success", "entries_created": 18}
+{"index": 49, "url": "https://vuejs.org/guide/scaling-up/tooling.html", "timestamp": "2025-03-01 02:21:38", "status": "success", "entries_created": 5}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 02:24:44", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 51, "url": "https://vuejs.org/guide/typescript/options-api.html", "timestamp": "2025-03-01 02:25:32", "status": "success", "entries_created": 8}
+{"index": 52, "url": "https://vuejs.org/guide/typescript/overview.html", "timestamp": "2025-03-01 02:26:03", "status": "success", "entries_created": 10}
+{"index": 53, "url": "https://vuejs.org/guide/introduction", "timestamp": "2025-03-01 02:26:58", "status": "success", "entries_created": 9}
+{"index": 54, "url": "https://vuejs.org/guide/typescript/overview", "timestamp": "2025-03-01 02:27:38", "status": "success", "entries_created": 10}
+{"index": 55, "url": "https://vuejs.org/guide/quick-start", "timestamp": "2025-03-01 02:28:22", "status": "success", "entries_created": 11}
+{"index": 56, "url": "https://vuejs.org/guide/essentials/forms", "timestamp": "2025-03-01 02:29:10", "status": "success", "entries_created": 5}
+{"index": 57, "url": "https://vuejs.org/guide/essentials/lifecycle", "timestamp": "2025-03-01 02:29:32", "status": "success", "entries_created": 5}
+{"index": 58, "url": "https://vuejs.org/guide/components/registration", "timestamp": "2025-03-01 02:29:56", "status": "success", "entries_created": 6}
+{"index": 59, "url": "https://vuejs.org/guide/essentials/computed", "timestamp": "2025-03-01 02:31:31", "status": "success", "entries_created": 7}
+{"index": 60, "url": "https://vuejs.org/guide/essentials/application", "timestamp": "2025-03-01 02:32:01", "status": "success", "entries_created": 9}
+{"index": 61, "url": "https://vuejs.org/guide/essentials/list", "timestamp": "2025-03-01 02:34:01", "status": "success", "entries_created": 12}
+{"index": 62, "url": "https://vuejs.org/guide/reusability/composables", "timestamp": "2025-03-01 02:46:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 63, "url": "https://vuejs.org/guide/reusability/plugins", "timestamp": "2025-03-01 02:47:37", "status": "success", "entries_created": 7}
+{"index": 64, "url": "https://vuejs.org/guide/components/async", "timestamp": "2025-03-01 02:48:18", "status": "success", "entries_created": 12}
+{"index": 65, "url": "https://vuejs.org/guide/extras/animation", "timestamp": "2025-03-01 02:48:34", "status": "success", "entries_created": 4}
+{"index": 66, "url": "https://vuejs.org/guide/components/attrs", "timestamp": "2025-03-01 02:49:07", "status": "success", "entries_created": 10}
+{"index": 67, "url": "https://vuejs.org/guide/components/props", "timestamp": "2025-03-01 02:49:46", "status": "success", "entries_created": 9}
+{"index": 68, "url": "https://vuejs.org/guide/extras/rendering-mechanism", "timestamp": "2025-03-01 02:50:11", "status": "success", "entries_created": 11}
+{"index": 69, "url": "https://vuejs.org/guide/best-practices/security", "timestamp": "2025-03-01 02:50:49", "status": "success", "entries_created": 13}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 02:53:55", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 71, "url": "https://vuejs.org/guide/scaling-up/testing", "timestamp": "2025-03-01 02:57:12", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 72, "url": "https://vuejs.org/guide/extras/render-function", "timestamp": "2025-03-01 02:59:06", "status": "success", "entries_created": 8}
+{"index": 73, "url": "https://vuejs.org/guide/scaling-up/sfc", "timestamp": "2025-03-01 03:00:01", "status": "success", "entries_created": 7}
+{"index": 74, "url": "https://vuejs.org/guide/typescript/options-api", "timestamp": "2025-03-01 03:00:44", "status": "success", "entries_created": 11}
+{"index": 75, "url": "https://vuejs.org/guide/scaling-up/routing", "timestamp": "2025-03-01 03:03:30", "status": "success", "entries_created": 6}
+{"index": 76, "url": "https://vuejs.org/guide/extras/web-components", "timestamp": "2025-03-01 03:07:40", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 77, "url": "https://vuejs.org/guide/best-practices/performance", "timestamp": "2025-03-01 03:10:25", "status": "success", "entries_created": 7}
+{"index": 78, "url": "https://vuejs.org/guide/essentials/template-refs", "timestamp": "2025-03-01 03:11:04", "status": "success", "entries_created": 8}
+{"index": 79, "url": "https://vuejs.org/guide/best-practices/accessibility", "timestamp": "2025-03-01 03:12:27", "status": "success", "entries_created": 6}
+{"index": 80, "url": "https://vuejs.org/guide/scaling-up/tooling", "timestamp": "2025-03-01 03:12:46", "status": "success", "entries_created": 5}
+{"index": 81, "url": "https://vuejs.org/guide/essentials/component-basics", "timestamp": "2025-03-01 03:15:54", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 82, "url": "https://vuejs.org/guide/reusability/custom-directives", "timestamp": "2025-03-01 03:16:48", "status": "success", "entries_created": 10}
+{"index": 83, "url": "https://vuejs.org/guide/essentials/event-handling", "timestamp": "2025-03-01 03:18:36", "status": "success", "entries_created": 15}
+{"index": 84, "url": "https://vuejs.org/guide/components/provide-inject", "timestamp": "2025-03-01 03:19:10", "status": "success", "entries_created": 11}
+{"index": 85, "url": "https://vuejs.org/guide/built-ins/transition", "timestamp": "2025-03-01 03:21:49", "status": "success", "entries_created": 6}
+{"index": 86, "url": "https://vuejs.org/guide/essentials/template-syntax", "timestamp": "2025-03-01 03:23:49", "status": "success", "entries_created": 11}
+{"index": 87, "url": "https://vuejs.org/guide/essentials/class-and-style", "timestamp": "2025-03-01 03:25:36", "status": "success", "entries_created": 10}
+{"index": 9, "url": "https://vuejs.org/guide/built-ins/transition.html", "timestamp": "2025-03-01 03:26:17", "status": "success", "entries_created": 6}
+{"index": 19, "url": "https://vuejs.org/guide/essentials/class-and-style.html", "timestamp": "2025-03-01 03:36:53", "status": "success", "entries_created": 7}
+{"index": 20, "url": "https://vuejs.org/guide/essentials/component-basics.html", "timestamp": "2025-03-01 03:38:45", "status": "success", "entries_created": 7}
+{"index": 21, "url": "https://vuejs.org/guide/essentials/computed.html", "timestamp": "2025-03-01 03:39:11", "status": "success", "entries_created": 7}
+{"index": 27, "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals.html", "timestamp": "2025-03-01 03:41:02", "status": "success", "entries_created": 14}
+{"index": 28, "url": "https://vuejs.org/guide/essentials/template-refs.html", "timestamp": "2025-03-01 03:41:40", "status": "success", "entries_created": 9}
+{"index": 30, "url": "https://vuejs.org/guide/essentials/watchers.html", "timestamp": "2025-03-01 03:44:43", "status": "success", "entries_created": 15}
+{"index": 32, "url": "https://vuejs.org/guide/extras/composition-api-faq.html", "timestamp": "2025-03-01 03:46:00", "status": "success", "entries_created": 8}
+{"index": 34, "url": "https://vuejs.org/guide/extras/reactivity-transform.html", "timestamp": "2025-03-01 03:46:51", "status": "success", "entries_created": 15}
+{"index": 35, "url": "https://vuejs.org/guide/extras/render-function.html", "timestamp": "2025-03-01 03:47:27", "status": "success", "entries_created": 8}
+{"index": 41, "url": "https://vuejs.org/guide/reusability/composables.html", "timestamp": "2025-03-01 03:47:56", "status": "success", "entries_created": 7}
+{"index": 46, "url": "https://vuejs.org/guide/scaling-up/ssr.html", "timestamp": "2025-03-01 03:51:02", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 03:54:07", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 62, "url": "https://vuejs.org/guide/reusability/composables", "timestamp": "2025-03-01 03:56:03", "status": "success", "entries_created": 7}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 03:59:09", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 71, "url": "https://vuejs.org/guide/scaling-up/testing", "timestamp": "2025-03-01 04:02:19", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 76, "url": "https://vuejs.org/guide/extras/web-components", "timestamp": "2025-03-01 04:02:48", "status": "success", "entries_created": 22}
+{"index": 81, "url": "https://vuejs.org/guide/essentials/component-basics", "timestamp": "2025-03-01 04:05:54", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 46, "url": "https://vuejs.org/guide/scaling-up/ssr.html", "timestamp": "2025-03-01 04:09:04", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 04:12:10", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 04:15:15", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 71, "url": "https://vuejs.org/guide/scaling-up/testing", "timestamp": "2025-03-01 04:18:21", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 81, "url": "https://vuejs.org/guide/essentials/component-basics", "timestamp": "2025-03-01 04:21:26", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 46, "url": "https://vuejs.org/guide/scaling-up/ssr.html", "timestamp": "2025-03-01 04:24:41", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 04:27:47", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 04:30:52", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 71, "url": "https://vuejs.org/guide/scaling-up/testing", "timestamp": "2025-03-01 04:33:50", "status": "success", "entries_created": 18}
+{"index": 81, "url": "https://vuejs.org/guide/essentials/component-basics", "timestamp": "2025-03-01 04:35:42", "status": "success", "entries_created": 10}
+{"index": 46, "url": "https://vuejs.org/guide/scaling-up/ssr.html", "timestamp": "2025-03-01 04:38:52", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 04:42:02", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 04:45:08", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 46, "url": "https://vuejs.org/guide/scaling-up/ssr.html", "timestamp": "2025-03-01 04:48:18", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 04:51:24", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 04:54:29", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 46, "url": "https://vuejs.org/guide/scaling-up/ssr.html", "timestamp": "2025-03-01 04:57:40", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 05:00:45", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 05:03:51", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 46, "url": "https://vuejs.org/guide/scaling-up/ssr.html", "timestamp": "2025-03-01 05:07:01", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 05:10:01", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 05:13:07", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 46, "url": "https://vuejs.org/guide/scaling-up/ssr.html", "timestamp": "2025-03-01 05:14:41", "status": "success", "entries_created": 11}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 05:17:47", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 05:20:52", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 05:24:03", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 05:26:40", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 05:29:51", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 05:33:05", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 05:36:20", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 05:39:26", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 05:42:40", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 05:45:46", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 05:48:56", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 05:52:02", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 05:55:12", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 05:58:17", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 06:01:28", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 06:04:33", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 06:07:44", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 06:10:50", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 06:14:00", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 06:17:06", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 06:20:16", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 06:23:22", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 06:26:32", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 06:38:37", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 06:41:48", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 06:44:02", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 06:47:12", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 06:50:30", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 50, "url": "https://vuejs.org/guide/typescript/composition-api.html", "timestamp": "2025-03-01 06:53:37", "status": "success", "entries_created": 12}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 06:56:43", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 06:59:53", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 07:03:03", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 70, "url": "https://vuejs.org/guide/typescript/composition-api", "timestamp": "2025-03-01 07:06:14", "status": "failure", "error": "No usable data returned on retry 25"}

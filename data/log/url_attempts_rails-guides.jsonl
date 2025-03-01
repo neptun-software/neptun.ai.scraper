@@ -1,0 +1,414 @@
+{"index": 0, "url": "https://guides.rubyonrails.org", "timestamp": "2025-03-01 02:53:18", "status": "success", "entries_created": 13}
+{"index": 1, "url": "https://guides.rubyonrails.org/6_0_release_notes.html", "timestamp": "2025-03-01 02:56:24", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 2, "url": "https://guides.rubyonrails.org/contributing_to_ruby_on_rails.html", "timestamp": "2025-03-01 02:56:59", "status": "success", "entries_created": 22}
+{"index": 3, "url": "https://guides.rubyonrails.org/action_cable_overview.html", "timestamp": "2025-03-01 03:00:07", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 4, "url": "https://guides.rubyonrails.org/security.html", "timestamp": "2025-03-01 03:03:13", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 5, "url": "https://guides.rubyonrails.org/5_1_release_notes.html", "timestamp": "2025-03-01 03:06:18", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 6, "url": "https://guides.rubyonrails.org/rails_application_templates.html", "timestamp": "2025-03-01 03:08:20", "status": "success", "entries_created": 6}
+{"index": 7, "url": "https://guides.rubyonrails.org/i18n.html", "timestamp": "2025-03-01 03:11:25", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 8, "url": "https://guides.rubyonrails.org/active_record_composite_primary_keys.html", "timestamp": "2025-03-01 03:14:30", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 9, "url": "https://guides.rubyonrails.org/active_record_validations.html", "timestamp": "2025-03-01 03:17:38", "status": "success", "entries_created": 34}
+{"index": 10, "url": "https://guides.rubyonrails.org/generators.html", "timestamp": "2025-03-01 03:20:39", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 11, "url": "https://guides.rubyonrails.org/7_0_release_notes.html", "timestamp": "2025-03-01 03:22:30", "status": "success", "entries_created": 56}
+{"index": 12, "url": "https://guides.rubyonrails.org/active_support_instrumentation.html", "timestamp": "2025-03-01 03:25:33", "status": "success", "entries_created": 8}
+{"index": 13, "url": "https://guides.rubyonrails.org/4_2_release_notes.html", "timestamp": "2025-03-01 03:28:44", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 14, "url": "https://guides.rubyonrails.org/8_0_release_notes.html", "timestamp": "2025-03-01 03:29:09", "status": "success", "entries_created": 55}
+{"index": 15, "url": "https://guides.rubyonrails.org/6_1_release_notes.html", "timestamp": "2025-03-01 03:32:12", "status": "success", "entries_created": 61}
+{"index": 16, "url": "https://guides.rubyonrails.org/plugins.html", "timestamp": "2025-03-01 03:32:53", "status": "success", "entries_created": 12}
+{"index": 17, "url": "https://guides.rubyonrails.org/active_record_postgresql.html", "timestamp": "2025-03-01 03:35:58", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 18, "url": "https://guides.rubyonrails.org/working_with_javascript_in_rails.html", "timestamp": "2025-03-01 03:36:23", "status": "success", "entries_created": 19}
+{"index": 19, "url": "https://guides.rubyonrails.org/getting_started.html", "timestamp": "2025-03-01 03:38:08", "status": "success", "entries_created": 26}
+{"index": 20, "url": "https://guides.rubyonrails.org/active_model_basics.html", "timestamp": "2025-03-01 03:38:45", "status": "success", "entries_created": 18}
+{"index": 21, "url": "https://guides.rubyonrails.org/4_0_release_notes.html", "timestamp": "2025-03-01 03:41:19", "status": "success", "entries_created": 21}
+{"index": 22, "url": "https://guides.rubyonrails.org/initialization.html", "timestamp": "2025-03-01 03:42:10", "status": "success", "entries_created": 20}
+{"index": 23, "url": "https://guides.rubyonrails.org/getting_started_with_devcontainer.html", "timestamp": "2025-03-01 03:42:24", "status": "success", "entries_created": 9}
+{"index": 24, "url": "https://guides.rubyonrails.org/upgrading_ruby_on_rails.html", "timestamp": "2025-03-01 03:45:30", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 25, "url": "https://guides.rubyonrails.org/autoloading_and_reloading_constants.html", "timestamp": "2025-03-01 03:48:30", "status": "success", "entries_created": 19}
+{"index": 26, "url": "https://guides.rubyonrails.org/asset_pipeline.html", "timestamp": "2025-03-01 03:51:40", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 27, "url": "https://guides.rubyonrails.org/form_helpers.html", "timestamp": "2025-03-01 03:54:45", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 28, "url": "https://guides.rubyonrails.org/7_1_release_notes.html", "timestamp": "2025-03-01 03:55:44", "status": "success", "entries_created": 13}
+{"index": 29, "url": "https://guides.rubyonrails.org/action_mailbox_basics.html", "timestamp": "2025-03-01 03:58:45", "status": "success", "entries_created": 21}
+{"index": 30, "url": "https://guides.rubyonrails.org/active_support_core_extensions.html", "timestamp": "2025-03-01 03:59:12", "status": "success", "entries_created": 24}
+{"index": 31, "url": "https://guides.rubyonrails.org/active_record_basics.html", "timestamp": "2025-03-01 04:01:00", "status": "success", "entries_created": 22}
+{"index": 32, "url": "https://guides.rubyonrails.org/action_text_overview.html", "timestamp": "2025-03-01 04:03:01", "status": "success", "entries_created": 10}
+{"index": 33, "url": "https://guides.rubyonrails.org/5_2_release_notes.html", "timestamp": "2025-03-01 04:06:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 34, "url": "https://guides.rubyonrails.org/layouts_and_rendering.html", "timestamp": "2025-03-01 04:06:39", "status": "success", "entries_created": 6}
+{"index": 35, "url": "https://guides.rubyonrails.org/threading_and_code_execution.html", "timestamp": "2025-03-01 04:09:28", "status": "success", "entries_created": 17}
+{"index": 36, "url": "https://guides.rubyonrails.org/error_reporting.html", "timestamp": "2025-03-01 04:09:58", "status": "success", "entries_created": 14}
+{"index": 37, "url": "https://guides.rubyonrails.org/command_line.html", "timestamp": "2025-03-01 04:10:27", "status": "success", "entries_created": 7}
+{"index": 38, "url": "https://guides.rubyonrails.org/routing.html", "timestamp": "2025-03-01 04:13:32", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 39, "url": "https://guides.rubyonrails.org/2_2_release_notes.html", "timestamp": "2025-03-01 04:16:42", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 40, "url": "https://guides.rubyonrails.org/3_1_release_notes.html", "timestamp": "2025-03-01 04:19:47", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 41, "url": "https://guides.rubyonrails.org/active_record_callbacks.html", "timestamp": "2025-03-01 04:22:53", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 42, "url": "https://guides.rubyonrails.org/engines.html", "timestamp": "2025-03-01 04:25:58", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 43, "url": "https://guides.rubyonrails.org/active_storage_overview.html", "timestamp": "2025-03-01 04:29:04", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 44, "url": "https://guides.rubyonrails.org/install_ruby_on_rails.html", "timestamp": "2025-03-01 04:29:25", "status": "success", "entries_created": 9}
+{"index": 45, "url": "https://guides.rubyonrails.org/testing.html", "timestamp": "2025-03-01 04:32:23", "status": "success", "entries_created": 20}
+{"index": 46, "url": "https://guides.rubyonrails.org/active_record_migrations.html", "timestamp": "2025-03-01 04:35:33", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 47, "url": "https://guides.rubyonrails.org/2_3_release_notes.html", "timestamp": "2025-03-01 04:37:27", "status": "success", "entries_created": 8}
+{"index": 48, "url": "https://guides.rubyonrails.org/active_record_multiple_databases.html", "timestamp": "2025-03-01 04:40:33", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 49, "url": "https://guides.rubyonrails.org/5_0_release_notes.html", "timestamp": "2025-03-01 04:43:43", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 50, "url": "https://guides.rubyonrails.org/caching_with_rails.html", "timestamp": "2025-03-01 04:46:48", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 51, "url": "https://guides.rubyonrails.org/active_record_querying.html", "timestamp": "2025-03-01 04:49:54", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 52, "url": "https://guides.rubyonrails.org/association_basics.html", "timestamp": "2025-03-01 04:53:00", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 53, "url": "https://guides.rubyonrails.org/development_dependencies_install.html", "timestamp": "2025-03-01 04:56:09", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 54, "url": "https://guides.rubyonrails.org/ruby_on_rails_guides_guidelines.html", "timestamp": "2025-03-01 04:58:40", "status": "success", "entries_created": 14}
+{"index": 55, "url": "https://guides.rubyonrails.org/action_controller_overview.html", "timestamp": "2025-03-01 05:00:36", "status": "success", "entries_created": 16}
+{"index": 56, "url": "https://guides.rubyonrails.org/rails_on_rack.html", "timestamp": "2025-03-01 05:03:49", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 57, "url": "https://guides.rubyonrails.org/api_app.html", "timestamp": "2025-03-01 05:06:54", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 58, "url": "https://guides.rubyonrails.org/action_view_overview.html", "timestamp": "2025-03-01 05:10:00", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 59, "url": "https://guides.rubyonrails.org/maintenance_policy.html", "timestamp": "2025-03-01 05:10:41", "status": "success", "entries_created": 9}
+{"index": 60, "url": "https://guides.rubyonrails.org/active_job_basics.html", "timestamp": "2025-03-01 05:13:51", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 61, "url": "https://guides.rubyonrails.org/4_1_release_notes.html", "timestamp": "2025-03-01 05:16:56", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 62, "url": "https://guides.rubyonrails.org/3_0_release_notes.html", "timestamp": "2025-03-01 05:20:02", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 63, "url": "https://guides.rubyonrails.org/debugging_rails_applications.html", "timestamp": "2025-03-01 05:23:07", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 64, "url": "https://guides.rubyonrails.org/3_2_release_notes.html", "timestamp": "2025-03-01 05:25:37", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 65, "url": "https://guides.rubyonrails.org/active_record_encryption.html", "timestamp": "2025-03-01 05:28:42", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 66, "url": "https://guides.rubyonrails.org/action_view_helpers.html", "timestamp": "2025-03-01 05:31:42", "status": "success", "entries_created": 57}
+{"index": 67, "url": "https://guides.rubyonrails.org/action_mailer_basics.html", "timestamp": "2025-03-01 05:34:48", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 68, "url": "https://guides.rubyonrails.org/tuning_performance_for_deployment.html", "timestamp": "2025-03-01 05:35:47", "status": "success", "entries_created": 16}
+{"index": 69, "url": "https://guides.rubyonrails.org/api_documentation_guidelines.html", "timestamp": "2025-03-01 05:38:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 70, "url": "https://guides.rubyonrails.org/action_controller_advanced_topics.html", "timestamp": "2025-03-01 05:41:11", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 71, "url": "https://guides.rubyonrails.org/7_2_release_notes.html", "timestamp": "2025-03-01 05:44:17", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 72, "url": "https://guides.rubyonrails.org/configuring.html", "timestamp": "2025-03-01 05:47:19", "status": "success", "entries_created": 35}
+{"index": 73, "url": "https://guides.rubyonrails.org/v6.0/5_1_release_notes.html", "timestamp": "2025-03-01 05:49:10", "status": "success", "entries_created": 5}
+{"index": 74, "url": "https://guides.rubyonrails.org/v6.1/active_record_basics.html", "timestamp": "2025-03-01 05:52:15", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 75, "url": "https://guides.rubyonrails.org/v7.1/action_mailbox_basics.html", "timestamp": "2025-03-01 05:53:08", "status": "success", "entries_created": 5}
+{"index": 76, "url": "https://guides.rubyonrails.org/v6.1/maintenance_policy.html", "timestamp": "2025-03-01 05:53:28", "status": "success", "entries_created": 9}
+{"index": 77, "url": "https://guides.rubyonrails.org/v7.1/contributing_to_ruby_on_rails.html", "timestamp": "2025-03-01 05:54:07", "status": "success", "entries_created": 4}
+{"index": 78, "url": "https://guides.rubyonrails.org/v7.2/active_storage_overview.html", "timestamp": "2025-03-01 05:56:48", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 79, "url": "https://guides.rubyonrails.org/v7.0/security.html", "timestamp": "2025-03-01 05:58:22", "status": "success", "entries_created": 4}
+{"index": 80, "url": "https://guides.rubyonrails.org/v7.2/getting_started.html", "timestamp": "2025-03-01 06:01:27", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 81, "url": "https://guides.rubyonrails.org/v7.1/configuring.html", "timestamp": "2025-03-01 06:03:07", "status": "success", "entries_created": 13}
+{"index": 82, "url": "https://guides.rubyonrails.org/v7.0/i18n.html", "timestamp": "2025-03-01 06:03:30", "status": "success", "entries_created": 16}
+{"index": 83, "url": "https://guides.rubyonrails.org/v7.0/getting_started.html", "timestamp": "2025-03-01 06:04:52", "status": "success", "entries_created": 4}
+{"index": 84, "url": "https://guides.rubyonrails.org/v6.1/action_text_overview.html", "timestamp": "2025-03-01 06:06:18", "status": "success", "entries_created": 10}
+{"index": 85, "url": "https://guides.rubyonrails.org/v6.0/action_view_overview.html", "timestamp": "2025-03-01 06:06:53", "status": "success", "entries_created": 10}
+{"index": 86, "url": "https://guides.rubyonrails.org/v6.0/rails_on_rack.html", "timestamp": "2025-03-01 06:07:19", "status": "success", "entries_created": 4}
+{"index": 87, "url": "https://guides.rubyonrails.org/v7.1/6_1_release_notes.html", "timestamp": "2025-03-01 06:08:04", "status": "success", "entries_created": 5}
+{"index": 88, "url": "https://guides.rubyonrails.org/v6.1/caching_with_rails.html", "timestamp": "2025-03-01 06:08:44", "status": "success", "entries_created": 5}
+{"index": 89, "url": "https://guides.rubyonrails.org/v7.1/debugging_rails_applications.html", "timestamp": "2025-03-01 06:09:26", "status": "success", "entries_created": 11}
+{"index": 90, "url": "https://guides.rubyonrails.org/v6.0/getting_started.html", "timestamp": "2025-03-01 06:11:17", "status": "success", "entries_created": 4}
+{"index": 91, "url": "https://guides.rubyonrails.org/v6.0/debugging_rails_applications.html", "timestamp": "2025-03-01 06:14:23", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 92, "url": "https://guides.rubyonrails.org/v7.1/7_1_release_notes.html", "timestamp": "2025-03-01 06:16:10", "status": "success", "entries_created": 4}
+{"index": 93, "url": "https://guides.rubyonrails.org/v6.1/active_record_validations.html", "timestamp": "2025-03-01 06:17:37", "status": "success", "entries_created": 5}
+{"index": 94, "url": "https://guides.rubyonrails.org/v7.1/layouts_and_rendering.html", "timestamp": "2025-03-01 06:17:58", "status": "success", "entries_created": 6}
+{"index": 95, "url": "https://guides.rubyonrails.org/v7.0/engines.html", "timestamp": "2025-03-01 06:21:04", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 96, "url": "https://guides.rubyonrails.org/v7.1/action_view_overview.html", "timestamp": "2025-03-01 06:24:09", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 97, "url": "https://guides.rubyonrails.org/v6.1/active_record_postgresql.html", "timestamp": "2025-03-01 06:27:15", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 98, "url": "https://guides.rubyonrails.org/v6.0/active_record_callbacks.html", "timestamp": "2025-03-01 06:27:37", "status": "success", "entries_created": 4}
+{"index": 99, "url": "https://guides.rubyonrails.org/v6.0/autoloading_and_reloading_constants.html", "timestamp": "2025-03-01 06:37:44", "status": "failure", "error": "string indices must be integers, not 'str'"}
+{"index": 100, "url": "https://guides.rubyonrails.org/v7.2/active_record_basics.html", "timestamp": "2025-03-01 06:38:24", "status": "success", "entries_created": 12}
+{"index": 101, "url": "https://guides.rubyonrails.org/v6.1/active_support_core_extensions.html", "timestamp": "2025-03-01 06:38:53", "status": "success", "entries_created": 24}
+{"index": 102, "url": "https://guides.rubyonrails.org/v7.0/active_storage_overview.html", "timestamp": "2025-03-01 06:39:17", "status": "success", "entries_created": 5}
+{"index": 103, "url": "https://guides.rubyonrails.org/v6.0/maintenance_policy.html", "timestamp": "2025-03-01 06:39:33", "status": "success", "entries_created": 9}
+{"index": 104, "url": "https://guides.rubyonrails.org/v7.1/active_record_composite_primary_keys.html", "timestamp": "2025-03-01 06:40:17", "status": "success", "entries_created": 10}
+{"index": 105, "url": "https://guides.rubyonrails.org/v7.1/action_mailer_basics.html", "timestamp": "2025-03-01 06:41:26", "status": "success", "entries_created": 8}
+{"index": 106, "url": "https://guides.rubyonrails.org/v7.0/active_record_querying.html", "timestamp": "2025-03-01 06:42:01", "status": "success", "entries_created": 4}
+{"index": 107, "url": "https://guides.rubyonrails.org/v6.1/active_support_instrumentation.html", "timestamp": "2025-03-01 06:42:22", "status": "success", "entries_created": 5}
+{"index": 108, "url": "https://guides.rubyonrails.org/v7.1/plugins.html", "timestamp": "2025-03-01 06:42:47", "status": "success", "entries_created": 5}
+{"index": 109, "url": "https://guides.rubyonrails.org/v6.0/3_2_release_notes.html", "timestamp": "2025-03-01 06:43:08", "status": "success", "entries_created": 5}
+{"index": 110, "url": "https://guides.rubyonrails.org/v6.0/routing.html", "timestamp": "2025-03-01 06:46:14", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 111, "url": "https://guides.rubyonrails.org/v6.1/6_0_release_notes.html", "timestamp": "2025-03-01 06:46:42", "status": "success", "entries_created": 4}
+{"index": 112, "url": "https://guides.rubyonrails.org/v6.1/plugins.html", "timestamp": "2025-03-01 06:47:00", "status": "success", "entries_created": 5}
+{"index": 113, "url": "https://guides.rubyonrails.org/v6.1/active_record_multiple_databases.html", "timestamp": "2025-03-01 06:47:20", "status": "success", "entries_created": 5}
+{"index": 114, "url": "https://guides.rubyonrails.org/v7.1/active_record_callbacks.html", "timestamp": "2025-03-01 06:47:57", "status": "success", "entries_created": 7}
+{"index": 115, "url": "https://guides.rubyonrails.org/v7.0/active_job_basics.html", "timestamp": "2025-03-01 06:48:13", "status": "success", "entries_created": 5}
+{"index": 116, "url": "https://guides.rubyonrails.org/v7.1/classic_to_zeitwerk_howto.html", "timestamp": "2025-03-01 06:51:19", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 117, "url": "https://guides.rubyonrails.org/v7.1/security.html", "timestamp": "2025-03-01 06:54:24", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 118, "url": "https://guides.rubyonrails.org/v7.1/association_basics.html", "timestamp": "2025-03-01 06:54:55", "status": "success", "entries_created": 9}
+{"index": 119, "url": "https://guides.rubyonrails.org/v7.1/action_view_helpers.html", "timestamp": "2025-03-01 06:55:56", "status": "success", "entries_created": 47}
+{"index": 120, "url": "https://guides.rubyonrails.org/v7.0/configuring.html", "timestamp": "2025-03-01 06:56:19", "status": "success", "entries_created": 4}
+{"index": 121, "url": "https://guides.rubyonrails.org/v6.0/active_storage_overview.html", "timestamp": "2025-03-01 06:59:25", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 122, "url": "https://guides.rubyonrails.org/v6.0/upgrading_ruby_on_rails.html", "timestamp": "2025-03-01 07:02:30", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 123, "url": "https://guides.rubyonrails.org/v7.0/active_record_encryption.html", "timestamp": "2025-03-01 07:04:12", "status": "success", "entries_created": 5}
+{"index": 124, "url": "https://guides.rubyonrails.org/v7.1/getting_started.html", "timestamp": "2025-03-01 07:04:53", "status": "success", "entries_created": 16}
+{"index": 125, "url": "https://guides.rubyonrails.org/v6.1/autoloading_and_reloading_constants.html", "timestamp": "2025-03-01 07:06:33", "status": "success", "entries_created": 19}
+{"index": 126, "url": "https://guides.rubyonrails.org/v7.0/action_controller_overview.html", "timestamp": "2025-03-01 07:07:06", "status": "success", "entries_created": 5}
+{"index": 127, "url": "https://guides.rubyonrails.org/v7.1/active_record_querying.html", "timestamp": "2025-03-01 07:07:42", "status": "success", "entries_created": 3}
+{"index": 128, "url": "https://guides.rubyonrails.org/v6.0/5_0_release_notes.html", "timestamp": "2025-03-01 07:08:05", "status": "success", "entries_created": 5}
+{"index": 129, "url": "https://guides.rubyonrails.org/v7.0/maintenance_policy.html", "timestamp": "2025-03-01 07:08:23", "status": "success", "entries_created": 9}
+{"index": 130, "url": "https://guides.rubyonrails.org/v7.0/action_cable_overview.html", "timestamp": "2025-03-01 07:09:07", "status": "success", "entries_created": 5}
+{"index": 131, "url": "https://guides.rubyonrails.org/v6.1/debugging_rails_applications.html", "timestamp": "2025-03-01 07:10:41", "status": "success", "entries_created": 11}
+{"index": 132, "url": "https://guides.rubyonrails.org/v7.0/active_support_instrumentation.html", "timestamp": "2025-03-01 07:11:00", "status": "success", "entries_created": 5}
+{"index": 133, "url": "https://guides.rubyonrails.org/v7.1/active_record_multiple_databases.html", "timestamp": "2025-03-01 07:11:28", "status": "success", "entries_created": 5}
+{"index": 134, "url": "https://guides.rubyonrails.org/v7.0/asset_pipeline.html", "timestamp": "2025-03-01 07:11:58", "status": "success", "entries_created": 5}
+{"index": 135, "url": "https://guides.rubyonrails.org/v7.0/command_line.html", "timestamp": "2025-03-01 07:12:29", "status": "success", "entries_created": 4}
+{"index": 136, "url": "https://guides.rubyonrails.org/v7.2/form_helpers.html", "timestamp": "2025-03-01 07:15:34", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 137, "url": "https://guides.rubyonrails.org/v6.0/contributing_to_ruby_on_rails.html", "timestamp": "2025-03-01 07:16:03", "status": "success", "entries_created": 5}
+{"index": 138, "url": "https://guides.rubyonrails.org/v7.0/caching_with_rails.html", "timestamp": "2025-03-01 07:16:25", "status": "success", "entries_created": 5}
+{"index": 139, "url": "https://guides.rubyonrails.org/v7.0/initialization.html", "timestamp": "2025-03-01 07:16:55", "status": "success", "entries_created": 5}
+{"index": 140, "url": "https://guides.rubyonrails.org/v6.1/action_view_helpers.html", "timestamp": "2025-03-01 07:17:34", "status": "success", "entries_created": 28}
+{"index": 141, "url": "https://guides.rubyonrails.org/v7.2/active_record_encryption.html", "timestamp": "2025-03-01 07:20:14", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 142, "url": "https://guides.rubyonrails.org/v6.0/3_0_release_notes.html", "timestamp": "2025-03-01 07:21:56", "status": "success", "entries_created": 5}
+{"index": 143, "url": "https://guides.rubyonrails.org/v7.1/ruby_on_rails_guides_guidelines.html", "timestamp": "2025-03-01 07:22:13", "status": "success", "entries_created": 4}
+{"index": 144, "url": "https://guides.rubyonrails.org/v7.1/action_text_overview.html", "timestamp": "2025-03-01 07:22:43", "status": "success", "entries_created": 10}
+{"index": 145, "url": "https://guides.rubyonrails.org/v6.0/initialization.html", "timestamp": "2025-03-01 07:22:57", "status": "success", "entries_created": 4}
+{"index": 146, "url": "https://guides.rubyonrails.org/v7.0/action_view_overview.html", "timestamp": "2025-03-01 07:23:26", "status": "success", "entries_created": 10}
+{"index": 147, "url": "https://guides.rubyonrails.org/v7.0/autoloading_and_reloading_constants.html", "timestamp": "2025-03-01 07:25:25", "status": "success", "entries_created": 21}
+{"index": 148, "url": "https://guides.rubyonrails.org/v7.1/api_app.html", "timestamp": "2025-03-01 07:26:25", "status": "success", "entries_created": 18}
+{"index": 149, "url": "https://guides.rubyonrails.org/v7.1/active_support_core_extensions.html", "timestamp": "2025-03-01 07:26:41", "status": "success", "entries_created": 24}
+{"index": 150, "url": "https://guides.rubyonrails.org/v6.0/asset_pipeline.html", "timestamp": "2025-03-01 07:27:01", "status": "success", "entries_created": 4}
+{"index": 151, "url": "https://guides.rubyonrails.org/v7.1/rails_application_templates.html", "timestamp": "2025-03-01 07:27:45", "status": "success", "entries_created": 6}
+{"index": 152, "url": "https://guides.rubyonrails.org/v7.0/4_1_release_notes.html", "timestamp": "2025-03-01 07:28:05", "status": "success", "entries_created": 5}
+{"index": 153, "url": "https://guides.rubyonrails.org/v7.1/threading_and_code_execution.html", "timestamp": "2025-03-01 07:28:48", "status": "success", "entries_created": 17}
+{"index": 154, "url": "https://guides.rubyonrails.org/v6.0/2_2_release_notes.html", "timestamp": "2025-03-01 07:29:36", "status": "success", "entries_created": 12}
+{"index": 155, "url": "https://guides.rubyonrails.org/v7.0/active_support_core_extensions.html", "timestamp": "2025-03-01 07:29:56", "status": "success", "entries_created": 24}
+{"index": 156, "url": "https://guides.rubyonrails.org/v7.2/getting_started_with_devcontainer.html", "timestamp": "2025-03-01 07:30:12", "status": "success", "entries_created": 9}
+{"index": 157, "url": "https://guides.rubyonrails.org/v7.0/2_3_release_notes.html", "timestamp": "2025-03-01 07:30:46", "status": "success", "entries_created": 4}
+{"index": 158, "url": "https://guides.rubyonrails.org/v6.0/i18n.html", "timestamp": "2025-03-01 07:31:00", "status": "success", "entries_created": 5}
+{"index": 159, "url": "https://guides.rubyonrails.org/v7.1/5_0_release_notes.html", "timestamp": "2025-03-01 07:31:25", "status": "success", "entries_created": 5}
+{"index": 160, "url": "https://guides.rubyonrails.org/v7.0/rails_application_templates.html", "timestamp": "2025-03-01 07:32:01", "status": "success", "entries_created": 6}
+{"index": 161, "url": "https://guides.rubyonrails.org/v6.1/routing.html", "timestamp": "2025-03-01 07:32:29", "status": "success", "entries_created": 4}
+{"index": 162, "url": "https://guides.rubyonrails.org/v7.0/webpacker.html", "timestamp": "2025-03-01 07:32:42", "status": "success", "entries_created": 4}
+{"index": 163, "url": "https://guides.rubyonrails.org/v6.1/5_0_release_notes.html", "timestamp": "2025-03-01 07:33:12", "status": "success", "entries_created": 5}
+{"index": 164, "url": "https://guides.rubyonrails.org/v6.1/command_line.html", "timestamp": "2025-03-01 07:33:32", "status": "success", "entries_created": 4}
+{"index": 165, "url": "https://guides.rubyonrails.org/v7.1/rails_on_rack.html", "timestamp": "2025-03-01 07:34:12", "status": "success", "entries_created": 7}
+{"index": 166, "url": "https://guides.rubyonrails.org/v6.0/form_helpers.html", "timestamp": "2025-03-01 07:34:42", "status": "success", "entries_created": 4}
+{"index": 167, "url": "https://guides.rubyonrails.org/v6.0/active_job_basics.html", "timestamp": "2025-03-01 07:35:19", "status": "success", "entries_created": 13}
+{"index": 168, "url": "https://guides.rubyonrails.org/v6.0/rails_application_templates.html", "timestamp": "2025-03-01 07:38:24", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 169, "url": "https://guides.rubyonrails.org/v6.0/action_mailer_basics.html", "timestamp": "2025-03-01 07:38:49", "status": "success", "entries_created": 4}
+{"index": 170, "url": "https://guides.rubyonrails.org/v6.0/6_0_release_notes.html", "timestamp": "2025-03-01 07:39:16", "status": "success", "entries_created": 4}
+{"index": 171, "url": "https://guides.rubyonrails.org/v7.0/association_basics.html", "timestamp": "2025-03-01 07:39:45", "status": "success", "entries_created": 5}
+{"index": 172, "url": "https://guides.rubyonrails.org/v6.0/working_with_javascript_in_rails.html", "timestamp": "2025-03-01 07:42:50", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 173, "url": "https://guides.rubyonrails.org/v7.0/threading_and_code_execution.html", "timestamp": "2025-03-01 07:43:07", "status": "success", "entries_created": 5}
+{"index": 174, "url": "https://guides.rubyonrails.org/v6.0/action_mailbox_basics.html", "timestamp": "2025-03-01 07:43:29", "status": "success", "entries_created": 4}
+{"index": 175, "url": "https://guides.rubyonrails.org/v7.1/command_line.html", "timestamp": "2025-03-01 07:45:10", "status": "success", "entries_created": 21}
+{"index": 176, "url": "https://guides.rubyonrails.org/v6.1/testing.html", "timestamp": "2025-03-01 07:45:45", "status": "success", "entries_created": 4}
+{"index": 177, "url": "https://guides.rubyonrails.org/v7.0/action_text_overview.html", "timestamp": "2025-03-01 07:46:23", "status": "success", "entries_created": 11}
+{"index": 178, "url": "https://guides.rubyonrails.org/v7.0/active_record_validations.html", "timestamp": "2025-03-01 07:46:55", "status": "success", "entries_created": 5}
+{"index": 179, "url": "https://guides.rubyonrails.org/v7.0/action_mailer_basics.html", "timestamp": "2025-03-01 07:47:29", "status": "success", "entries_created": 4}
+{"index": 180, "url": "https://guides.rubyonrails.org/v6.0/4_2_release_notes.html", "timestamp": "2025-03-01 07:47:57", "status": "success", "entries_created": 5}
+{"index": 181, "url": "https://guides.rubyonrails.org/v6.0/development_dependencies_install.html", "timestamp": "2025-03-01 07:48:54", "status": "success", "entries_created": 19}
+{"index": 182, "url": "https://guides.rubyonrails.org/v7.0/testing.html", "timestamp": "2025-03-01 07:49:30", "status": "success", "entries_created": 4}
+{"index": 183, "url": "https://guides.rubyonrails.org/v6.0/action_text_overview.html", "timestamp": "2025-03-01 07:52:36", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 184, "url": "https://guides.rubyonrails.org/v7.0/working_with_javascript_in_rails.html", "timestamp": "2025-03-01 07:52:54", "status": "success", "entries_created": 4}
+{"index": 185, "url": "https://guides.rubyonrails.org/v7.0/5_0_release_notes.html", "timestamp": "2025-03-01 07:53:20", "status": "success", "entries_created": 5}
+{"index": 186, "url": "https://guides.rubyonrails.org/v6.1/security.html", "timestamp": "2025-03-01 07:53:50", "status": "success", "entries_created": 4}
+{"index": 187, "url": "https://guides.rubyonrails.org/v6.1/4_1_release_notes.html", "timestamp": "2025-03-01 07:54:10", "status": "success", "entries_created": 5}
+{"index": 188, "url": "https://guides.rubyonrails.org/v7.0/development_dependencies_install.html", "timestamp": "2025-03-01 07:54:32", "status": "success", "entries_created": 4}
+{"index": 189, "url": "https://guides.rubyonrails.org/v7.0/active_record_multiple_databases.html", "timestamp": "2025-03-01 07:55:00", "status": "success", "entries_created": 4}
+{"index": 190, "url": "https://guides.rubyonrails.org/v6.0/plugins.html", "timestamp": "2025-03-01 07:55:18", "status": "success", "entries_created": 5}
+{"index": 191, "url": "https://guides.rubyonrails.org/v6.0/api_app.html", "timestamp": "2025-03-01 07:55:33", "status": "success", "entries_created": 4}
+{"index": 192, "url": "https://guides.rubyonrails.org/v6.1/active_model_basics.html", "timestamp": "2025-03-01 07:55:52", "status": "success", "entries_created": 15}
+{"index": 193, "url": "https://guides.rubyonrails.org/v6.0/active_record_querying.html", "timestamp": "2025-03-01 07:56:28", "status": "success", "entries_created": 4}
+{"index": 194, "url": "https://guides.rubyonrails.org/v7.0/form_helpers.html", "timestamp": "2025-03-01 07:57:00", "status": "success", "entries_created": 4}
+{"index": 195, "url": "https://guides.rubyonrails.org/v6.0/active_record_basics.html", "timestamp": "2025-03-01 08:00:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 196, "url": "https://guides.rubyonrails.org/v7.1/active_job_basics.html", "timestamp": "2025-03-01 08:00:45", "status": "success", "entries_created": 12}
+{"index": 197, "url": "https://guides.rubyonrails.org/v6.1/generators.html", "timestamp": "2025-03-01 08:00:58", "status": "success", "entries_created": 4}
+{"index": 198, "url": "https://guides.rubyonrails.org/v7.0/classic_to_zeitwerk_howto.html", "timestamp": "2025-03-01 08:01:25", "status": "success", "entries_created": 5}
+{"index": 199, "url": "https://guides.rubyonrails.org/v7.1/form_helpers.html", "timestamp": "2025-03-01 08:01:58", "status": "success", "entries_created": 4}
+{"index": 200, "url": "https://guides.rubyonrails.org/v7.1/active_storage_overview.html", "timestamp": "2025-03-01 08:02:31", "status": "success", "entries_created": 4}
+{"index": 201, "url": "https://guides.rubyonrails.org/v6.0/action_cable_overview.html", "timestamp": "2025-03-01 08:02:54", "status": "success", "entries_created": 4}
+{"index": 202, "url": "https://guides.rubyonrails.org/v6.0/caching_with_rails.html", "timestamp": "2025-03-01 08:03:15", "status": "success", "entries_created": 5}
+{"index": 203, "url": "https://guides.rubyonrails.org/v6.1/rails_application_templates.html", "timestamp": "2025-03-01 08:04:05", "status": "success", "entries_created": 7}
+{"index": 204, "url": "https://guides.rubyonrails.org/v7.0/active_record_migrations.html", "timestamp": "2025-03-01 08:04:41", "status": "success", "entries_created": 4}
+{"index": 205, "url": "https://guides.rubyonrails.org/v7.1/autoloading_and_reloading_constants.html", "timestamp": "2025-03-01 08:06:42", "status": "success", "entries_created": 19}
+{"index": 206, "url": "https://guides.rubyonrails.org/v6.0/active_record_validations.html", "timestamp": "2025-03-01 08:07:04", "status": "success", "entries_created": 4}
+{"index": 207, "url": "https://guides.rubyonrails.org/v6.0/testing.html", "timestamp": "2025-03-01 08:07:36", "status": "success", "entries_created": 4}
+{"index": 208, "url": "https://guides.rubyonrails.org/v7.1/i18n.html", "timestamp": "2025-03-01 08:07:48", "status": "success", "entries_created": 14}
+{"index": 209, "url": "https://guides.rubyonrails.org/v6.0/active_record_migrations.html", "timestamp": "2025-03-01 08:08:15", "status": "success", "entries_created": 4}
+{"index": 210, "url": "https://guides.rubyonrails.org/v7.1/generators.html", "timestamp": "2025-03-01 08:11:20", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 211, "url": "https://guides.rubyonrails.org/v7.0/upgrading_ruby_on_rails.html", "timestamp": "2025-03-01 08:14:25", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 212, "url": "https://guides.rubyonrails.org/v6.0/engines.html", "timestamp": "2025-03-01 08:15:55", "status": "success", "entries_created": 4}
+{"index": 213, "url": "https://guides.rubyonrails.org/v6.0/action_controller_overview.html", "timestamp": "2025-03-01 08:19:00", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 214, "url": "https://guides.rubyonrails.org/v7.2/active_record_migrations.html", "timestamp": "2025-03-01 08:19:31", "status": "success", "entries_created": 7}
+{"index": 215, "url": "https://guides.rubyonrails.org/v6.0/active_model_basics.html", "timestamp": "2025-03-01 08:22:37", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 216, "url": "https://guides.rubyonrails.org/v6.0/configuring.html", "timestamp": "2025-03-01 08:23:53", "status": "success", "entries_created": 8}
+{"index": 217, "url": "https://guides.rubyonrails.org/v7.1/development_dependencies_install.html", "timestamp": "2025-03-01 08:24:11", "status": "success", "entries_created": 12}
+{"index": 218, "url": "https://guides.rubyonrails.org/v6.0/4_0_release_notes.html", "timestamp": "2025-03-01 08:24:33", "status": "success", "entries_created": 5}
+{"index": 219, "url": "https://guides.rubyonrails.org/v7.2/classic_to_zeitwerk_howto.html", "timestamp": "2025-03-01 08:27:38", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 220, "url": "https://guides.rubyonrails.org/v6.1/layouts_and_rendering.html", "timestamp": "2025-03-01 08:28:08", "status": "success", "entries_created": 7}
+{"index": 221, "url": "https://guides.rubyonrails.org/v7.1/testing.html", "timestamp": "2025-03-01 08:31:14", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 222, "url": "https://guides.rubyonrails.org/v7.2/active_record_validations.html", "timestamp": "2025-03-01 08:32:59", "status": "success", "entries_created": 18}
+{"index": 223, "url": "https://guides.rubyonrails.org/v7.0/active_record_postgresql.html", "timestamp": "2025-03-01 08:33:40", "status": "success", "entries_created": 4}
+{"index": 224, "url": "https://guides.rubyonrails.org/v6.1/i18n.html", "timestamp": "2025-03-01 08:33:59", "status": "success", "entries_created": 5}
+{"index": 225, "url": "https://guides.rubyonrails.org/v6.1/active_record_migrations.html", "timestamp": "2025-03-01 08:34:45", "status": "success", "entries_created": 12}
+{"index": 226, "url": "https://guides.rubyonrails.org/v6.0/association_basics.html", "timestamp": "2025-03-01 08:35:05", "status": "success", "entries_created": 4}
+{"index": 227, "url": "https://guides.rubyonrails.org/v7.0/2_2_release_notes.html", "timestamp": "2025-03-01 08:35:43", "status": "success", "entries_created": 12}
+{"index": 228, "url": "https://guides.rubyonrails.org/v6.1/contributing_to_ruby_on_rails.html", "timestamp": "2025-03-01 08:38:12", "status": "success", "entries_created": 5}
+{"index": 229, "url": "https://guides.rubyonrails.org/v6.1/threading_and_code_execution.html", "timestamp": "2025-03-01 08:38:43", "status": "success", "entries_created": 5}
+{"index": 230, "url": "https://guides.rubyonrails.org/v6.1/active_record_callbacks.html", "timestamp": "2025-03-01 08:39:15", "status": "success", "entries_created": 5}
+{"index": 231, "url": "https://guides.rubyonrails.org/v6.1/3_1_release_notes.html", "timestamp": "2025-03-01 08:40:41", "status": "success", "entries_created": 5}
+{"index": 232, "url": "https://guides.rubyonrails.org/v6.1/6_1_release_notes.html", "timestamp": "2025-03-01 08:41:19", "status": "success", "entries_created": 5}
+{"index": 233, "url": "https://guides.rubyonrails.org/v6.0/generators.html", "timestamp": "2025-03-01 08:41:32", "status": "success", "entries_created": 4}
+{"index": 234, "url": "https://guides.rubyonrails.org/v6.0/active_support_instrumentation.html", "timestamp": "2025-03-01 08:41:42", "status": "success", "entries_created": 17}
+{"index": 235, "url": "https://guides.rubyonrails.org/v6.1/action_mailer_basics.html", "timestamp": "2025-03-01 08:42:18", "status": "success", "entries_created": 4}
+{"index": 236, "url": "https://guides.rubyonrails.org/v6.1/action_controller_overview.html", "timestamp": "2025-03-01 08:42:54", "status": "success", "entries_created": 4}
+{"index": 237, "url": "https://guides.rubyonrails.org/v6.1/2_3_release_notes.html", "timestamp": "2025-03-01 08:43:28", "status": "success", "entries_created": 4}
+{"index": 238, "url": "https://guides.rubyonrails.org/v7.1/active_record_encryption.html", "timestamp": "2025-03-01 08:43:44", "status": "success", "entries_created": 9}
+{"index": 239, "url": "https://guides.rubyonrails.org/v6.1/rails_on_rack.html", "timestamp": "2025-03-01 08:43:56", "status": "success", "entries_created": 5}
+{"index": 240, "url": "https://guides.rubyonrails.org/v7.0/generators.html", "timestamp": "2025-03-01 09:10:45", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 241, "url": "https://guides.rubyonrails.org/v6.1/form_helpers.html", "timestamp": "2025-03-01 09:11:15", "status": "success", "entries_created": 4}
+{"index": 242, "url": "https://guides.rubyonrails.org/v6.1/upgrading_ruby_on_rails.html", "timestamp": "2025-03-01 09:14:20", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 243, "url": "https://guides.rubyonrails.org/v7.1/active_record_validations.html", "timestamp": "2025-03-01 09:14:32", "status": "success", "entries_created": 11}
+{"index": 244, "url": "https://guides.rubyonrails.org/v6.1/engines.html", "timestamp": "2025-03-01 09:16:10", "status": "success", "entries_created": 9}
+{"index": 245, "url": "https://guides.rubyonrails.org/v6.1/api_documentation_guidelines.html", "timestamp": "2025-03-01 09:16:22", "status": "success", "entries_created": 5}
+{"index": 246, "url": "https://guides.rubyonrails.org/v6.0/active_record_postgresql.html", "timestamp": "2025-03-01 09:19:28", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 247, "url": "https://guides.rubyonrails.org/v6.0/5_2_release_notes.html", "timestamp": "2025-03-01 09:19:54", "status": "success", "entries_created": 5}
+{"index": 248, "url": "https://guides.rubyonrails.org/v7.0/4_0_release_notes.html", "timestamp": "2025-03-01 09:20:22", "status": "success", "entries_created": 5}
+{"index": 249, "url": "https://guides.rubyonrails.org/v7.0/active_model_basics.html", "timestamp": "2025-03-01 09:23:28", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 250, "url": "https://guides.rubyonrails.org/v6.1/asset_pipeline.html", "timestamp": "2025-03-01 09:24:00", "status": "success", "entries_created": 5}
+{"index": 251, "url": "https://guides.rubyonrails.org/v6.0/layouts_and_rendering.html", "timestamp": "2025-03-01 09:24:41", "status": "success", "entries_created": 9}
+{"index": 252, "url": "https://guides.rubyonrails.org/v6.1/development_dependencies_install.html", "timestamp": "2025-03-01 09:25:11", "status": "success", "entries_created": 4}
+{"index": 253, "url": "https://guides.rubyonrails.org/v6.0/active_support_core_extensions.html", "timestamp": "2025-03-01 09:26:40", "status": "success", "entries_created": 23}
+{"index": 254, "url": "https://guides.rubyonrails.org/v6.0/active_record_multiple_databases.html", "timestamp": "2025-03-01 09:26:53", "status": "success", "entries_created": 4}
+{"index": 255, "url": "https://guides.rubyonrails.org/v7.2/active_record_callbacks.html", "timestamp": "2025-03-01 09:27:11", "status": "success", "entries_created": 6}
+{"index": 256, "url": "https://guides.rubyonrails.org/v6.1/active_record_querying.html", "timestamp": "2025-03-01 09:28:42", "status": "success", "entries_created": 4}
+{"index": 257, "url": "https://guides.rubyonrails.org/v6.1/5_1_release_notes.html", "timestamp": "2025-03-01 09:28:56", "status": "success", "entries_created": 5}
+{"index": 258, "url": "https://guides.rubyonrails.org/v7.1/action_controller_overview.html", "timestamp": "2025-03-01 09:32:02", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 259, "url": "https://guides.rubyonrails.org/v7.1/maintenance_policy.html", "timestamp": "2025-03-01 09:32:25", "status": "success", "entries_created": 9}
+{"index": 260, "url": "https://guides.rubyonrails.org/v6.1/association_basics.html", "timestamp": "2025-03-01 09:32:46", "status": "success", "entries_created": 5}
+{"index": 261, "url": "https://guides.rubyonrails.org/v7.0/action_view_helpers.html", "timestamp": "2025-03-01 09:33:24", "status": "success", "entries_created": 5}
+{"index": 262, "url": "https://guides.rubyonrails.org/v6.0/security.html", "timestamp": "2025-03-01 09:33:55", "status": "success", "entries_created": 4}
+{"index": 263, "url": "https://guides.rubyonrails.org/v7.0/active_record_basics.html", "timestamp": "2025-03-01 09:34:09", "status": "success", "entries_created": 5}
+{"index": 264, "url": "https://guides.rubyonrails.org/v6.1/active_storage_overview.html", "timestamp": "2025-03-01 09:34:30", "status": "success", "entries_created": 5}
+{"index": 265, "url": "https://guides.rubyonrails.org/v6.1/ruby_on_rails_guides_guidelines.html", "timestamp": "2025-03-01 09:34:41", "status": "success", "entries_created": 4}
+{"index": 266, "url": "https://guides.rubyonrails.org/v6.1/action_cable_overview.html", "timestamp": "2025-03-01 09:35:04", "status": "success", "entries_created": 5}
+{"index": 267, "url": "https://guides.rubyonrails.org/v6.1/3_2_release_notes.html", "timestamp": "2025-03-01 09:35:19", "status": "success", "entries_created": 5}
+{"index": 268, "url": "https://guides.rubyonrails.org/v6.0/threading_and_code_execution.html", "timestamp": "2025-03-01 09:36:03", "status": "success", "entries_created": 17}
+{"index": 269, "url": "https://guides.rubyonrails.org/v7.2/action_text_overview.html", "timestamp": "2025-03-01 09:36:42", "status": "success", "entries_created": 19}
+{"index": 270, "url": "https://guides.rubyonrails.org/v6.1/4_0_release_notes.html", "timestamp": "2025-03-01 09:36:59", "status": "success", "entries_created": 5}
+{"index": 271, "url": "https://guides.rubyonrails.org/v7.1/active_record_postgresql.html", "timestamp": "2025-03-01 09:37:37", "status": "success", "entries_created": 4}
+{"index": 272, "url": "https://guides.rubyonrails.org/v6.1/api_app.html", "timestamp": "2025-03-01 09:38:29", "status": "success", "entries_created": 15}
+{"index": 273, "url": "https://guides.rubyonrails.org/v6.1/autoloading_and_reloading_constants_classic_mode.html", "timestamp": "2025-03-01 09:38:43", "status": "success", "entries_created": 13}
+{"index": 274, "url": "https://guides.rubyonrails.org/v6.1/active_job_basics.html", "timestamp": "2025-03-01 09:38:59", "status": "success", "entries_created": 5}
+{"index": 275, "url": "https://guides.rubyonrails.org/v6.1/working_with_javascript_in_rails.html", "timestamp": "2025-03-01 09:39:46", "status": "success", "entries_created": 26}
+{"index": 276, "url": "https://guides.rubyonrails.org/v7.2/active_record_composite_primary_keys.html", "timestamp": "2025-03-01 09:41:34", "status": "success", "entries_created": 10}
+{"index": 277, "url": "https://guides.rubyonrails.org/v6.0/2_3_release_notes.html", "timestamp": "2025-03-01 09:42:11", "status": "success", "entries_created": 4}
+{"index": 278, "url": "https://guides.rubyonrails.org/v6.1/initialization.html", "timestamp": "2025-03-01 09:42:38", "status": "success", "entries_created": 4}
+{"index": 279, "url": "https://guides.rubyonrails.org/v7.1/routing.html", "timestamp": "2025-03-01 09:45:48", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 280, "url": "https://guides.rubyonrails.org/v6.1/configuring.html", "timestamp": "2025-03-01 09:46:20", "status": "success", "entries_created": 4}
+{"index": 281, "url": "https://guides.rubyonrails.org/v7.2/error_reporting.html", "timestamp": "2025-03-01 09:47:11", "status": "success", "entries_created": 11}
+{"index": 282, "url": "https://guides.rubyonrails.org/v7.1/asset_pipeline.html", "timestamp": "2025-03-01 09:47:42", "status": "success", "entries_created": 4}
+{"index": 283, "url": "https://guides.rubyonrails.org/v6.1/action_view_overview.html", "timestamp": "2025-03-01 09:49:42", "status": "success", "entries_created": 22}
+{"index": 284, "url": "https://guides.rubyonrails.org/v7.1/active_record_basics.html", "timestamp": "2025-03-01 09:50:39", "status": "success", "entries_created": 21}
+{"index": 285, "url": "https://guides.rubyonrails.org/v7.0/5_2_release_notes.html", "timestamp": "2025-03-01 09:51:00", "status": "success", "entries_created": 5}
+{"index": 286, "url": "https://guides.rubyonrails.org/v7.0/ruby_on_rails_guides_guidelines.html", "timestamp": "2025-03-01 09:51:08", "status": "success", "entries_created": 4}
+{"index": 287, "url": "https://guides.rubyonrails.org/v7.1/api_documentation_guidelines.html", "timestamp": "2025-03-01 09:51:57", "status": "success", "entries_created": 22}
+{"index": 288, "url": "https://guides.rubyonrails.org/v6.0/4_1_release_notes.html", "timestamp": "2025-03-01 09:52:16", "status": "success", "entries_created": 5}
+{"index": 289, "url": "https://guides.rubyonrails.org/v7.1/upgrading_ruby_on_rails.html", "timestamp": "2025-03-01 09:53:48", "status": "success", "entries_created": 4}
+{"index": 290, "url": "https://guides.rubyonrails.org/v7.1/working_with_javascript_in_rails.html", "timestamp": "2025-03-01 09:54:01", "status": "success", "entries_created": 9}
+{"index": 291, "url": "https://guides.rubyonrails.org/v7.1/engines.html", "timestamp": "2025-03-01 09:55:29", "status": "success", "entries_created": 10}
+{"index": 292, "url": "https://guides.rubyonrails.org/v6.0/autoloading_and_reloading_constants_classic_mode.html", "timestamp": "2025-03-01 09:58:35", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 293, "url": "https://guides.rubyonrails.org/v7.0/api_documentation_guidelines.html", "timestamp": "2025-03-01 09:59:16", "status": "success", "entries_created": 5}
+{"index": 294, "url": "https://guides.rubyonrails.org/v6.1/action_mailbox_basics.html", "timestamp": "2025-03-01 09:59:34", "status": "success", "entries_created": 5}
+{"index": 295, "url": "https://guides.rubyonrails.org/v6.1/3_0_release_notes.html", "timestamp": "2025-03-01 10:00:07", "status": "success", "entries_created": 5}
+{"index": 296, "url": "https://guides.rubyonrails.org/v7.0/debugging_rails_applications.html", "timestamp": "2025-03-01 10:00:38", "status": "success", "entries_created": 11}
+{"index": 297, "url": "https://guides.rubyonrails.org/v6.0/command_line.html", "timestamp": "2025-03-01 10:01:11", "status": "success", "entries_created": 18}
+{"index": 298, "url": "https://guides.rubyonrails.org/v7.0/routing.html", "timestamp": "2025-03-01 10:01:45", "status": "success", "entries_created": 4}
+{"index": 299, "url": "https://guides.rubyonrails.org/v6.0/api_documentation_guidelines.html", "timestamp": "2025-03-01 10:02:03", "status": "success", "entries_created": 4}
+{"index": 300, "url": "https://guides.rubyonrails.org/v7.1.1/active_record_querying.html", "timestamp": "2025-03-01 10:02:42", "status": "success", "entries_created": 3}
+{"index": 301, "url": "https://guides.rubyonrails.org/v4.2/active_support_instrumentation.html", "timestamp": "2025-03-01 10:02:53", "status": "success", "entries_created": 5}
+{"index": 302, "url": "https://guides.rubyonrails.org/v2.3.10/2_3_release_notes.html", "timestamp": "2025-03-01 10:03:37", "status": "success", "entries_created": 4}
+{"index": 1, "url": "https://guides.rubyonrails.org/6_0_release_notes.html", "timestamp": "2025-03-01 10:06:44", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 3, "url": "https://guides.rubyonrails.org/action_cable_overview.html", "timestamp": "2025-03-01 10:09:49", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 4, "url": "https://guides.rubyonrails.org/security.html", "timestamp": "2025-03-01 10:12:55", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 5, "url": "https://guides.rubyonrails.org/5_1_release_notes.html", "timestamp": "2025-03-01 10:15:31", "status": "success", "entries_created": 13}
+{"index": 7, "url": "https://guides.rubyonrails.org/i18n.html", "timestamp": "2025-03-01 10:18:38", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 8, "url": "https://guides.rubyonrails.org/active_record_composite_primary_keys.html", "timestamp": "2025-03-01 10:19:25", "status": "success", "entries_created": 10}
+{"index": 10, "url": "https://guides.rubyonrails.org/generators.html", "timestamp": "2025-03-01 10:20:24", "status": "success", "entries_created": 13}
+{"index": 13, "url": "https://guides.rubyonrails.org/4_2_release_notes.html", "timestamp": "2025-03-01 10:21:17", "status": "success", "entries_created": 44}
+{"index": 17, "url": "https://guides.rubyonrails.org/active_record_postgresql.html", "timestamp": "2025-03-01 10:24:23", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 24, "url": "https://guides.rubyonrails.org/upgrading_ruby_on_rails.html", "timestamp": "2025-03-01 10:27:18", "status": "success", "entries_created": 20}
+{"index": 26, "url": "https://guides.rubyonrails.org/asset_pipeline.html", "timestamp": "2025-03-01 10:30:23", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 27, "url": "https://guides.rubyonrails.org/form_helpers.html", "timestamp": "2025-03-01 10:31:23", "status": "success", "entries_created": 42}
+{"index": 33, "url": "https://guides.rubyonrails.org/5_2_release_notes.html", "timestamp": "2025-03-01 10:34:29", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 38, "url": "https://guides.rubyonrails.org/routing.html", "timestamp": "2025-03-01 10:37:35", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 39, "url": "https://guides.rubyonrails.org/2_2_release_notes.html", "timestamp": "2025-03-01 10:38:18", "status": "success", "entries_created": 35}
+{"index": 40, "url": "https://guides.rubyonrails.org/3_1_release_notes.html", "timestamp": "2025-03-01 10:39:06", "status": "success", "entries_created": 17}
+{"index": 41, "url": "https://guides.rubyonrails.org/active_record_callbacks.html", "timestamp": "2025-03-01 10:42:12", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 42, "url": "https://guides.rubyonrails.org/engines.html", "timestamp": "2025-03-01 10:45:17", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 43, "url": "https://guides.rubyonrails.org/active_storage_overview.html", "timestamp": "2025-03-01 10:48:34", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 46, "url": "https://guides.rubyonrails.org/active_record_migrations.html", "timestamp": "2025-03-01 10:48:55", "status": "success", "entries_created": 7}
+{"index": 48, "url": "https://guides.rubyonrails.org/active_record_multiple_databases.html", "timestamp": "2025-03-01 10:52:00", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 49, "url": "https://guides.rubyonrails.org/5_0_release_notes.html", "timestamp": "2025-03-01 10:55:19", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 50, "url": "https://guides.rubyonrails.org/caching_with_rails.html", "timestamp": "2025-03-01 10:58:25", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 51, "url": "https://guides.rubyonrails.org/active_record_querying.html", "timestamp": "2025-03-01 11:01:30", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 52, "url": "https://guides.rubyonrails.org/association_basics.html", "timestamp": "2025-03-01 11:02:29", "status": "success", "entries_created": 36}
+{"index": 53, "url": "https://guides.rubyonrails.org/development_dependencies_install.html", "timestamp": "2025-03-01 11:03:10", "status": "success", "entries_created": 18}
+{"index": 56, "url": "https://guides.rubyonrails.org/rails_on_rack.html", "timestamp": "2025-03-01 11:03:56", "status": "success", "entries_created": 19}
+{"index": 57, "url": "https://guides.rubyonrails.org/api_app.html", "timestamp": "2025-03-01 11:04:31", "status": "success", "entries_created": 6}
+{"index": 58, "url": "https://guides.rubyonrails.org/action_view_overview.html", "timestamp": "2025-03-01 11:05:11", "status": "success", "entries_created": 19}
+{"index": 60, "url": "https://guides.rubyonrails.org/active_job_basics.html", "timestamp": "2025-03-01 11:08:17", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 61, "url": "https://guides.rubyonrails.org/4_1_release_notes.html", "timestamp": "2025-03-01 11:10:16", "status": "success", "entries_created": 24}
+{"index": 62, "url": "https://guides.rubyonrails.org/3_0_release_notes.html", "timestamp": "2025-03-01 11:10:43", "status": "success", "entries_created": 6}
+{"index": 63, "url": "https://guides.rubyonrails.org/debugging_rails_applications.html", "timestamp": "2025-03-01 11:11:24", "status": "success", "entries_created": 20}
+{"index": 64, "url": "https://guides.rubyonrails.org/3_2_release_notes.html", "timestamp": "2025-03-01 11:14:30", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 65, "url": "https://guides.rubyonrails.org/active_record_encryption.html", "timestamp": "2025-03-01 11:17:25", "status": "success", "entries_created": 6}
+{"index": 67, "url": "https://guides.rubyonrails.org/action_mailer_basics.html", "timestamp": "2025-03-01 11:18:10", "status": "success", "entries_created": 9}
+{"index": 69, "url": "https://guides.rubyonrails.org/api_documentation_guidelines.html", "timestamp": "2025-03-01 11:21:15", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 70, "url": "https://guides.rubyonrails.org/action_controller_advanced_topics.html", "timestamp": "2025-03-01 11:24:21", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 71, "url": "https://guides.rubyonrails.org/7_2_release_notes.html", "timestamp": "2025-03-01 11:26:35", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 74, "url": "https://guides.rubyonrails.org/v6.1/active_record_basics.html", "timestamp": "2025-03-01 11:27:07", "status": "success", "entries_created": 5}
+{"index": 78, "url": "https://guides.rubyonrails.org/v7.2/active_storage_overview.html", "timestamp": "2025-03-01 11:30:17", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 80, "url": "https://guides.rubyonrails.org/v7.2/getting_started.html", "timestamp": "2025-03-01 11:32:54", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 91, "url": "https://guides.rubyonrails.org/v6.0/debugging_rails_applications.html", "timestamp": "2025-03-01 11:36:00", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 95, "url": "https://guides.rubyonrails.org/v7.0/engines.html", "timestamp": "2025-03-01 11:36:47", "status": "success", "entries_created": 9}
+{"index": 96, "url": "https://guides.rubyonrails.org/v7.1/action_view_overview.html", "timestamp": "2025-03-01 11:38:35", "status": "success", "entries_created": 8}
+{"index": 97, "url": "https://guides.rubyonrails.org/v6.1/active_record_postgresql.html", "timestamp": "2025-03-01 11:39:25", "status": "success", "entries_created": 4}
+{"index": 99, "url": "https://guides.rubyonrails.org/v6.0/autoloading_and_reloading_constants.html", "timestamp": "2025-03-01 11:39:46", "status": "success", "entries_created": 4}
+{"index": 110, "url": "https://guides.rubyonrails.org/v6.0/routing.html", "timestamp": "2025-03-01 11:42:22", "status": "success", "entries_created": 4}
+{"index": 116, "url": "https://guides.rubyonrails.org/v7.1/classic_to_zeitwerk_howto.html", "timestamp": "2025-03-01 11:45:27", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 117, "url": "https://guides.rubyonrails.org/v7.1/security.html", "timestamp": "2025-03-01 11:48:32", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 121, "url": "https://guides.rubyonrails.org/v6.0/active_storage_overview.html", "timestamp": "2025-03-01 11:51:44", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 122, "url": "https://guides.rubyonrails.org/v6.0/upgrading_ruby_on_rails.html", "timestamp": "2025-03-01 11:54:50", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 136, "url": "https://guides.rubyonrails.org/v7.2/form_helpers.html", "timestamp": "2025-03-01 11:57:55", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 141, "url": "https://guides.rubyonrails.org/v7.2/active_record_encryption.html", "timestamp": "2025-03-01 12:01:01", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 168, "url": "https://guides.rubyonrails.org/v6.0/rails_application_templates.html", "timestamp": "2025-03-01 12:04:06", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 172, "url": "https://guides.rubyonrails.org/v6.0/working_with_javascript_in_rails.html", "timestamp": "2025-03-01 12:07:12", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 183, "url": "https://guides.rubyonrails.org/v6.0/action_text_overview.html", "timestamp": "2025-03-01 12:10:05", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 195, "url": "https://guides.rubyonrails.org/v6.0/active_record_basics.html", "timestamp": "2025-03-01 12:13:15", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 210, "url": "https://guides.rubyonrails.org/v7.1/generators.html", "timestamp": "2025-03-01 12:15:13", "status": "success", "entries_created": 13}
+{"index": 211, "url": "https://guides.rubyonrails.org/v7.0/upgrading_ruby_on_rails.html", "timestamp": "2025-03-01 12:18:23", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 213, "url": "https://guides.rubyonrails.org/v6.0/action_controller_overview.html", "timestamp": "2025-03-01 12:19:19", "status": "success", "entries_created": 5}
+{"index": 215, "url": "https://guides.rubyonrails.org/v6.0/active_model_basics.html", "timestamp": "2025-03-01 12:22:25", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 219, "url": "https://guides.rubyonrails.org/v7.2/classic_to_zeitwerk_howto.html", "timestamp": "2025-03-01 12:24:23", "status": "success", "entries_created": 24}
+{"index": 221, "url": "https://guides.rubyonrails.org/v7.1/testing.html", "timestamp": "2025-03-01 12:25:23", "status": "success", "entries_created": 12}
+{"index": 240, "url": "https://guides.rubyonrails.org/v7.0/generators.html", "timestamp": "2025-03-01 12:27:20", "status": "success", "entries_created": 14}
+{"index": 242, "url": "https://guides.rubyonrails.org/v6.1/upgrading_ruby_on_rails.html", "timestamp": "2025-03-01 12:28:17", "status": "success", "entries_created": 4}
+{"index": 246, "url": "https://guides.rubyonrails.org/v6.0/active_record_postgresql.html", "timestamp": "2025-03-01 12:31:26", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 249, "url": "https://guides.rubyonrails.org/v7.0/active_model_basics.html", "timestamp": "2025-03-01 12:31:45", "status": "success", "entries_created": 5}
+{"index": 258, "url": "https://guides.rubyonrails.org/v7.1/action_controller_overview.html", "timestamp": "2025-03-01 12:32:11", "status": "success", "entries_created": 4}
+{"index": 279, "url": "https://guides.rubyonrails.org/v7.1/routing.html", "timestamp": "2025-03-01 12:32:21", "status": "success", "entries_created": 9}
+{"index": 292, "url": "https://guides.rubyonrails.org/v6.0/autoloading_and_reloading_constants_classic_mode.html", "timestamp": "2025-03-01 12:35:26", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 1, "url": "https://guides.rubyonrails.org/6_0_release_notes.html", "timestamp": "2025-03-01 12:38:37", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 3, "url": "https://guides.rubyonrails.org/action_cable_overview.html", "timestamp": "2025-03-01 12:41:43", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 4, "url": "https://guides.rubyonrails.org/security.html", "timestamp": "2025-03-01 12:44:48", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 7, "url": "https://guides.rubyonrails.org/i18n.html", "timestamp": "2025-03-01 12:47:46", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 17, "url": "https://guides.rubyonrails.org/active_record_postgresql.html", "timestamp": "2025-03-01 12:50:56", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 26, "url": "https://guides.rubyonrails.org/asset_pipeline.html", "timestamp": "2025-03-01 12:54:02", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 33, "url": "https://guides.rubyonrails.org/5_2_release_notes.html", "timestamp": "2025-03-01 12:57:12", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 38, "url": "https://guides.rubyonrails.org/routing.html", "timestamp": "2025-03-01 13:00:17", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 41, "url": "https://guides.rubyonrails.org/active_record_callbacks.html", "timestamp": "2025-03-01 13:03:13", "status": "success", "entries_created": 15}
+{"index": 42, "url": "https://guides.rubyonrails.org/engines.html", "timestamp": "2025-03-01 13:06:19", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 43, "url": "https://guides.rubyonrails.org/active_storage_overview.html", "timestamp": "2025-03-01 13:09:30", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 48, "url": "https://guides.rubyonrails.org/active_record_multiple_databases.html", "timestamp": "2025-03-01 13:12:36", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 49, "url": "https://guides.rubyonrails.org/5_0_release_notes.html", "timestamp": "2025-03-01 13:15:41", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 50, "url": "https://guides.rubyonrails.org/caching_with_rails.html", "timestamp": "2025-03-01 13:34:58", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 51, "url": "https://guides.rubyonrails.org/active_record_querying.html", "timestamp": "2025-03-01 13:38:05", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 60, "url": "https://guides.rubyonrails.org/active_job_basics.html", "timestamp": "2025-03-01 13:41:11", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 64, "url": "https://guides.rubyonrails.org/3_2_release_notes.html", "timestamp": "2025-03-01 13:44:16", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 69, "url": "https://guides.rubyonrails.org/api_documentation_guidelines.html", "timestamp": "2025-03-01 13:47:21", "status": "success", "entries_created": 22}
+{"index": 70, "url": "https://guides.rubyonrails.org/action_controller_advanced_topics.html", "timestamp": "2025-03-01 13:50:26", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 71, "url": "https://guides.rubyonrails.org/7_2_release_notes.html", "timestamp": "2025-03-01 13:53:33", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 78, "url": "https://guides.rubyonrails.org/v7.2/active_storage_overview.html", "timestamp": "2025-03-01 13:56:39", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 80, "url": "https://guides.rubyonrails.org/v7.2/getting_started.html", "timestamp": "2025-03-01 13:57:25", "status": "success", "entries_created": 16}
+{"index": 91, "url": "https://guides.rubyonrails.org/v6.0/debugging_rails_applications.html", "timestamp": "2025-03-01 13:57:50", "status": "success", "entries_created": 4}
+{"index": 116, "url": "https://guides.rubyonrails.org/v7.1/classic_to_zeitwerk_howto.html", "timestamp": "2025-03-01 14:00:56", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 117, "url": "https://guides.rubyonrails.org/v7.1/security.html", "timestamp": "2025-03-01 14:02:54", "status": "success", "entries_created": 16}
+{"index": 121, "url": "https://guides.rubyonrails.org/v6.0/active_storage_overview.html", "timestamp": "2025-03-01 14:05:25", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 122, "url": "https://guides.rubyonrails.org/v6.0/upgrading_ruby_on_rails.html", "timestamp": "2025-03-01 14:08:30", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 136, "url": "https://guides.rubyonrails.org/v7.2/form_helpers.html", "timestamp": "2025-03-01 14:11:36", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 141, "url": "https://guides.rubyonrails.org/v7.2/active_record_encryption.html", "timestamp": "2025-03-01 14:14:41", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 168, "url": "https://guides.rubyonrails.org/v6.0/rails_application_templates.html", "timestamp": "2025-03-01 14:17:51", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 172, "url": "https://guides.rubyonrails.org/v6.0/working_with_javascript_in_rails.html", "timestamp": "2025-03-01 14:21:01", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 183, "url": "https://guides.rubyonrails.org/v6.0/action_text_overview.html", "timestamp": "2025-03-01 14:24:11", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 195, "url": "https://guides.rubyonrails.org/v6.0/active_record_basics.html", "timestamp": "2025-03-01 16:51:07", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 211, "url": "https://guides.rubyonrails.org/v7.0/upgrading_ruby_on_rails.html", "timestamp": "2025-03-01 16:54:17", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 215, "url": "https://guides.rubyonrails.org/v6.0/active_model_basics.html", "timestamp": "2025-03-01 16:57:22", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 246, "url": "https://guides.rubyonrails.org/v6.0/active_record_postgresql.html", "timestamp": "2025-03-01 17:00:28", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 292, "url": "https://guides.rubyonrails.org/v6.0/autoloading_and_reloading_constants_classic_mode.html", "timestamp": "2025-03-01 17:03:40", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 1, "url": "https://guides.rubyonrails.org/6_0_release_notes.html", "timestamp": "2025-03-01 17:06:51", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 3, "url": "https://guides.rubyonrails.org/action_cable_overview.html", "timestamp": "2025-03-01 17:09:56", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 4, "url": "https://guides.rubyonrails.org/security.html", "timestamp": "2025-03-01 17:13:02", "status": "failure", "error": "No usable data returned on retry 3"}

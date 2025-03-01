@@ -1,0 +1,36 @@
+{"index": 0, "url": "https://nuxt.com/blog", "timestamp": "2025-03-01 00:55:28", "status": "success", "entries_created": 33}
+{"index": 1, "url": "https://nuxt.com/blog/v3", "timestamp": "2025-03-01 00:55:45", "status": "success", "entries_created": 7}
+{"index": 2, "url": "https://nuxt.com/blog/v3-5", "timestamp": "2025-03-01 00:57:42", "status": "success", "entries_created": 14}
+{"index": 3, "url": "https://nuxt.com/blog/v3-8", "timestamp": "2025-03-01 00:58:38", "status": "success", "entries_created": 16}
+{"index": 4, "url": "https://nuxt.com/blog/v3-3", "timestamp": "2025-03-01 00:59:09", "status": "success", "entries_created": 14}
+{"index": 5, "url": "https://nuxt.com/blog/v3-15", "timestamp": "2025-03-01 00:59:29", "status": "success", "entries_created": 13}
+{"index": 6, "url": "https://nuxt.com/blog/v3-10", "timestamp": "2025-03-01 00:59:46", "status": "success", "entries_created": 13}
+{"index": 7, "url": "https://nuxt.com/blog/v3-7", "timestamp": "2025-03-01 01:01:15", "status": "success", "entries_created": 14}
+{"index": 8, "url": "https://nuxt.com/blog/v3-6", "timestamp": "2025-03-01 01:01:44", "status": "success", "entries_created": 14}
+{"index": 9, "url": "https://nuxt.com/blog/eslint-module", "timestamp": "2025-03-01 01:04:35", "status": "success", "entries_created": 17}
+{"index": 10, "url": "https://nuxt.com/blog/v3-13", "timestamp": "2025-03-01 01:05:14", "status": "success", "entries_created": 12}
+{"index": 11, "url": "https://nuxt.com/blog/v3-12", "timestamp": "2025-03-01 01:06:23", "status": "success", "entries_created": 16}
+{"index": 12, "url": "https://nuxt.com/blog/nuxt2-eol", "timestamp": "2025-03-01 01:06:55", "status": "success", "entries_created": 6}
+{"index": 13, "url": "https://nuxt.com/blog/nuxt3-beta", "timestamp": "2025-03-01 01:07:41", "status": "success", "entries_created": 5}
+{"index": 14, "url": "https://nuxt.com/blog/v3-11", "timestamp": "2025-03-01 01:10:51", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 15, "url": "https://nuxt.com/blog/nuxt-scripts", "timestamp": "2025-03-01 01:11:37", "status": "success", "entries_created": 16}
+{"index": 16, "url": "https://nuxt.com/blog/new-website", "timestamp": "2025-03-01 01:13:01", "status": "success", "entries_created": 10}
+{"index": 17, "url": "https://nuxt.com/blog/nuxt3-rc", "timestamp": "2025-03-01 01:13:20", "status": "success", "entries_created": 5}
+{"index": 18, "url": "https://nuxt.com/blog/v3-14", "timestamp": "2025-03-01 01:13:45", "status": "success", "entries_created": 12}
+{"index": 19, "url": "https://nuxt.com/blog/v3-9", "timestamp": "2025-03-01 01:14:22", "status": "success", "entries_created": 12}
+{"index": 20, "url": "https://nuxt.com/blog/vision-2023", "timestamp": "2025-03-01 01:14:48", "status": "success", "entries_created": 8}
+{"index": 21, "url": "https://nuxt.com/blog/shiki-v1", "timestamp": "2025-03-01 01:15:04", "status": "success", "entries_created": 11}
+{"index": 22, "url": "https://nuxt.com/blog/v3-4", "timestamp": "2025-03-01 01:15:19", "status": "success", "entries_created": 4}
+{"index": 23, "url": "https://nuxt.com/blog/going-full-static", "timestamp": "2025-03-01 01:18:04", "status": "success", "entries_created": 15}
+{"index": 24, "url": "https://nuxt.com/blog/nuxt-static-improvements", "timestamp": "2025-03-01 01:19:40", "status": "success", "entries_created": 12}
+{"index": 25, "url": "https://nuxt.com/blog/looking-forward-2024", "timestamp": "2025-03-01 01:22:20", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 26, "url": "https://nuxt.com/blog/introducing-nuxt-devtools", "timestamp": "2025-03-01 01:25:27", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 27, "url": "https://nuxt.com/blog/introducing-smart-prefetching", "timestamp": "2025-03-01 01:27:00", "status": "success", "entries_created": 3}
+{"index": 28, "url": "https://nuxt.com/blog/nuxt-devtools-v1-0", "timestamp": "2025-03-01 01:27:49", "status": "success", "entries_created": 30}
+{"index": 29, "url": "https://nuxt.com/blog/nuxt-on-the-edge", "timestamp": "2025-03-01 01:29:30", "status": "success", "entries_created": 7}
+{"index": 30, "url": "https://nuxt.com/blog/nuxt-icon-v1-0", "timestamp": "2025-03-01 01:32:10", "status": "success", "entries_created": 17}
+{"index": 31, "url": "https://nuxt.com/blog/nuxtjs-from-terminal-to-browser", "timestamp": "2025-03-01 01:32:19", "status": "success", "entries_created": 5}
+{"index": 32, "url": "https://nuxt.com/blog/understanding-how-fetch-works-in-nuxt-2-12", "timestamp": "2025-03-01 01:33:02", "status": "success", "entries_created": 23}
+{"index": 14, "url": "https://nuxt.com/blog/v3-11", "timestamp": "2025-03-01 01:33:50", "status": "success", "entries_created": 18}
+{"index": 25, "url": "https://nuxt.com/blog/looking-forward-2024", "timestamp": "2025-03-01 01:36:48", "status": "success", "entries_created": 10}
+{"index": 26, "url": "https://nuxt.com/blog/introducing-nuxt-devtools", "timestamp": "2025-03-01 01:37:30", "status": "success", "entries_created": 22}

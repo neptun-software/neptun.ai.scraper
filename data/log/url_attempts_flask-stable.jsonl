@@ -1,0 +1,87 @@
+{"index": 0, "url": "https://flask.palletsprojects.com/en/stable", "timestamp": "2025-03-01 02:53:25", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 1, "url": "https://flask.palletsprojects.com/en/stable/errorhandling", "timestamp": "2025-03-01 02:56:35", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 2, "url": "https://flask.palletsprojects.com/en/stable/extensiondev", "timestamp": "2025-03-01 02:57:18", "status": "success", "entries_created": 10}
+{"index": 3, "url": "https://flask.palletsprojects.com/en/stable/api", "timestamp": "2025-03-01 03:00:26", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 4, "url": "https://flask.palletsprojects.com/en/stable/cli", "timestamp": "2025-03-01 03:05:14", "status": "success", "entries_created": 7}
+{"index": 5, "url": "https://flask.palletsprojects.com/en/stable/design", "timestamp": "2025-03-01 03:05:46", "status": "success", "entries_created": 10}
+{"index": 6, "url": "https://flask.palletsprojects.com/en/stable/views", "timestamp": "2025-03-01 03:07:46", "status": "success", "entries_created": 9}
+{"index": 7, "url": "https://flask.palletsprojects.com/en/stable/shell", "timestamp": "2025-03-01 03:08:16", "status": "success", "entries_created": 9}
+{"index": 8, "url": "https://flask.palletsprojects.com/en/stable/genindex", "timestamp": "2025-03-01 03:08:35", "status": "success", "entries_created": 26}
+{"index": 9, "url": "https://flask.palletsprojects.com/en/stable/changes", "timestamp": "2025-03-01 03:09:28", "status": "success", "entries_created": 11}
+{"index": 10, "url": "https://flask.palletsprojects.com/en/stable/templating", "timestamp": "2025-03-01 03:10:17", "status": "success", "entries_created": 9}
+{"index": 11, "url": "https://flask.palletsprojects.com/en/stable/testing", "timestamp": "2025-03-01 03:13:22", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 12, "url": "https://flask.palletsprojects.com/en/stable/blueprints", "timestamp": "2025-03-01 03:16:17", "status": "success", "entries_created": 14}
+{"index": 13, "url": "https://flask.palletsprojects.com/en/stable/logging", "timestamp": "2025-03-01 03:18:03", "status": "success", "entries_created": 12}
+{"index": 14, "url": "https://flask.palletsprojects.com/en/stable/quickstart", "timestamp": "2025-03-01 03:20:41", "status": "success", "entries_created": 7}
+{"index": 15, "url": "https://flask.palletsprojects.com/en/stable/appcontext", "timestamp": "2025-03-01 03:21:09", "status": "success", "entries_created": 9}
+{"index": 16, "url": "https://flask.palletsprojects.com/en/stable/deploying", "timestamp": "2025-03-01 03:21:55", "status": "success", "entries_created": 5}
+{"index": 17, "url": "https://flask.palletsprojects.com/en/stable/signals", "timestamp": "2025-03-01 03:22:32", "status": "success", "entries_created": 9}
+{"index": 18, "url": "https://flask.palletsprojects.com/en/stable/config", "timestamp": "2025-03-01 03:22:53", "status": "success", "entries_created": 6}
+{"index": 19, "url": "https://flask.palletsprojects.com/en/stable/lifecycle", "timestamp": "2025-03-01 03:23:48", "status": "success", "entries_created": 7}
+{"index": 20, "url": "https://flask.palletsprojects.com/en/stable/reqcontext", "timestamp": "2025-03-01 03:25:11", "status": "success", "entries_created": 11}
+{"index": 21, "url": "https://flask.palletsprojects.com/en/stable/server", "timestamp": "2025-03-01 03:25:40", "status": "success", "entries_created": 7}
+{"index": 22, "url": "https://flask.palletsprojects.com/en/stable/installation", "timestamp": "2025-03-01 03:26:14", "status": "success", "entries_created": 11}
+{"index": 23, "url": "https://flask.palletsprojects.com/en/stable/debugging", "timestamp": "2025-03-01 03:28:54", "status": "success", "entries_created": 6}
+{"index": 24, "url": "https://flask.palletsprojects.com/en/stable/patterns", "timestamp": "2025-03-01 03:29:23", "status": "success", "entries_created": 25}
+{"index": 25, "url": "https://flask.palletsprojects.com/en/stable/tutorial", "timestamp": "2025-03-01 03:29:56", "status": "success", "entries_created": 3}
+{"index": 26, "url": "https://flask.palletsprojects.com/en/stable/extensions", "timestamp": "2025-03-01 03:30:06", "status": "success", "entries_created": 5}
+{"index": 27, "url": "https://flask.palletsprojects.com/en/stable/license", "timestamp": "2025-03-01 03:30:31", "status": "success", "entries_created": 3}
+{"index": 28, "url": "https://flask.palletsprojects.com/en/stable/contributing", "timestamp": "2025-03-01 03:31:01", "status": "success", "entries_created": 3}
+{"index": 29, "url": "https://flask.palletsprojects.com/en/stable/tutorial/blog", "timestamp": "2025-03-01 03:31:43", "status": "success", "entries_created": 7}
+{"index": 30, "url": "https://flask.palletsprojects.com/en/stable/patterns/sqlalchemy", "timestamp": "2025-03-01 03:32:11", "status": "failure", "error": "string indices must be integers, not 'str'"}
+{"index": 31, "url": "https://flask.palletsprojects.com/en/stable/patterns/wtforms", "timestamp": "2025-03-01 03:33:10", "status": "success", "entries_created": 7}
+{"index": 32, "url": "https://flask.palletsprojects.com/en/stable/web-security", "timestamp": "2025-03-01 03:35:58", "status": "success", "entries_created": 8}
+{"index": 33, "url": "https://flask.palletsprojects.com/en/stable/patterns/appdispatch", "timestamp": "2025-03-01 03:36:17", "status": "success", "entries_created": 7}
+{"index": 34, "url": "https://flask.palletsprojects.com/en/stable/tutorial/factory", "timestamp": "2025-03-01 03:38:46", "status": "success", "entries_created": 5}
+{"index": 35, "url": "https://flask.palletsprojects.com/en/stable/patterns/flashing", "timestamp": "2025-03-01 03:39:14", "status": "success", "entries_created": 7}
+{"index": 36, "url": "https://flask.palletsprojects.com/en/stable/patterns/celery", "timestamp": "2025-03-01 03:42:12", "status": "success", "entries_created": 9}
+{"index": 37, "url": "https://flask.palletsprojects.com/en/stable/tutorial/templates", "timestamp": "2025-03-01 03:43:04", "status": "success", "entries_created": 7}
+{"index": 38, "url": "https://flask.palletsprojects.com/en/stable/tutorial/views", "timestamp": "2025-03-01 03:43:24", "status": "success", "entries_created": 9}
+{"index": 39, "url": "https://flask.palletsprojects.com/en/stable/deploying/uwsgi", "timestamp": "2025-03-01 03:43:47", "status": "success", "entries_created": 7}
+{"index": 40, "url": "https://flask.palletsprojects.com/en/stable/patterns/javascript", "timestamp": "2025-03-01 03:44:35", "status": "success", "entries_created": 10}
+{"index": 41, "url": "https://flask.palletsprojects.com/en/stable/tutorial/database", "timestamp": "2025-03-01 03:45:02", "status": "success", "entries_created": 6}
+{"index": 42, "url": "https://flask.palletsprojects.com/en/stable/patterns/packages", "timestamp": "2025-03-01 03:45:54", "status": "success", "entries_created": 6}
+{"index": 43, "url": "https://flask.palletsprojects.com/en/stable/patterns/appfactories", "timestamp": "2025-03-01 03:47:23", "status": "success", "entries_created": 8}
+{"index": 44, "url": "https://flask.palletsprojects.com/en/stable/patterns/fileuploads", "timestamp": "2025-03-01 03:47:49", "status": "success", "entries_created": 7}
+{"index": 45, "url": "https://flask.palletsprojects.com/en/stable/tutorial/deploy", "timestamp": "2025-03-01 03:48:14", "status": "success", "entries_created": 6}
+{"index": 46, "url": "https://flask.palletsprojects.com/en/stable/tutorial/tests", "timestamp": "2025-03-01 03:50:09", "status": "success", "entries_created": 4}
+{"index": 47, "url": "https://flask.palletsprojects.com/en/stable/patterns/sqlite3", "timestamp": "2025-03-01 03:50:27", "status": "success", "entries_created": 5}
+{"index": 48, "url": "https://flask.palletsprojects.com/en/stable/patterns/viewdecorators", "timestamp": "2025-03-01 03:50:44", "status": "success", "entries_created": 8}
+{"index": 49, "url": "https://flask.palletsprojects.com/en/stable/patterns/urlprocessors", "timestamp": "2025-03-01 03:51:22", "status": "success", "entries_created": 5}
+{"index": 50, "url": "https://flask.palletsprojects.com/en/stable/deploying/waitress", "timestamp": "2025-03-01 03:52:02", "status": "success", "entries_created": 7}
+{"index": 51, "url": "https://flask.palletsprojects.com/en/stable/async-await", "timestamp": "2025-03-01 03:52:36", "status": "success", "entries_created": 9}
+{"index": 52, "url": "https://flask.palletsprojects.com/en/stable/patterns/lazyloading", "timestamp": "2025-03-01 03:53:10", "status": "success", "entries_created": 6}
+{"index": 53, "url": "https://flask.palletsprojects.com/en/stable/tutorial/static", "timestamp": "2025-03-01 03:54:40", "status": "success", "entries_created": 4}
+{"index": 54, "url": "https://flask.palletsprojects.com/en/stable/deploying/gunicorn", "timestamp": "2025-03-01 03:56:39", "status": "success", "entries_created": 7}
+{"index": 55, "url": "https://flask.palletsprojects.com/en/stable/tutorial/install", "timestamp": "2025-03-01 03:57:10", "status": "success", "entries_created": 5}
+{"index": 56, "url": "https://flask.palletsprojects.com/en/stable/patterns/favicon", "timestamp": "2025-03-01 03:58:32", "status": "success", "entries_created": 9}
+{"index": 57, "url": "https://flask.palletsprojects.com/en/stable/tutorial/layout", "timestamp": "2025-03-01 03:58:56", "status": "success", "entries_created": 6}
+{"index": 58, "url": "https://flask.palletsprojects.com/en/stable/patterns/mongoengine", "timestamp": "2025-03-01 03:59:23", "status": "success", "entries_created": 8}
+{"index": 59, "url": "https://flask.palletsprojects.com/en/stable/deploying/nginx", "timestamp": "2025-03-01 03:59:54", "status": "success", "entries_created": 5}
+{"index": 60, "url": "https://flask.palletsprojects.com/en/stable/deploying/mod_wsgi", "timestamp": "2025-03-01 04:00:09", "status": "success", "entries_created": 6}
+{"index": 61, "url": "https://flask.palletsprojects.com/en/stable/deploying/gevent", "timestamp": "2025-03-01 04:00:30", "status": "success", "entries_created": 7}
+{"index": 62, "url": "https://flask.palletsprojects.com/en/stable/patterns/requestchecksum", "timestamp": "2025-03-01 04:00:48", "status": "success", "entries_created": 6}
+{"index": 63, "url": "https://flask.palletsprojects.com/en/stable/patterns/streaming", "timestamp": "2025-03-01 04:01:10", "status": "success", "entries_created": 6}
+{"index": 64, "url": "https://flask.palletsprojects.com/en/stable/patterns/deferredcallbacks", "timestamp": "2025-03-01 04:01:35", "status": "success", "entries_created": 4}
+{"index": 65, "url": "https://flask.palletsprojects.com/en/stable/tutorial/next", "timestamp": "2025-03-01 04:01:47", "status": "success", "entries_created": 3}
+{"index": 66, "url": "https://flask.palletsprojects.com/en/stable/deploying/eventlet", "timestamp": "2025-03-01 04:02:04", "status": "success", "entries_created": 7}
+{"index": 67, "url": "https://flask.palletsprojects.com/en/stable/patterns/templateinheritance", "timestamp": "2025-03-01 04:02:22", "status": "success", "entries_created": 4}
+{"index": 68, "url": "https://flask.palletsprojects.com/en/stable/deploying/proxy_fix", "timestamp": "2025-03-01 04:02:33", "status": "success", "entries_created": 6}
+{"index": 69, "url": "https://flask.palletsprojects.com/en/stable/patterns/methodoverrides", "timestamp": "2025-03-01 04:02:52", "status": "success", "entries_created": 5}
+{"index": 70, "url": "https://flask.palletsprojects.com/en/stable/patterns/singlepageapplications", "timestamp": "2025-03-01 04:03:03", "status": "success", "entries_created": 4}
+{"index": 71, "url": "https://flask.palletsprojects.com/en/stable/deploying/asgi", "timestamp": "2025-03-01 04:03:10", "status": "success", "entries_created": 4}
+{"index": 72, "url": "https://flask.palletsprojects.com/en/stable/patterns/caching", "timestamp": "2025-03-01 04:03:34", "status": "success", "entries_created": 4}
+{"index": 73, "url": "https://flask.palletsprojects.com/en/stable/patterns/subclassing", "timestamp": "2025-03-01 04:04:17", "status": "success", "entries_created": 4}
+{"index": 74, "url": "https://flask.palletsprojects.com/en/stable/py-modindex", "timestamp": "2025-03-01 04:05:59", "status": "success", "entries_created": 2}
+{"index": 75, "url": "https://flask.palletsprojects.com/en/stable/patterns/jquery", "timestamp": "2025-03-01 04:06:32", "status": "success", "entries_created": 3}
+{"index": 76, "url": "https://flask.palletsprojects.com/en/stable/deploying/apache-httpd", "timestamp": "2025-03-01 04:09:08", "status": "success", "entries_created": 5}
+{"index": 0, "url": "https://flask.palletsprojects.com/en/stable", "timestamp": "2025-03-01 04:12:13", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 1, "url": "https://flask.palletsprojects.com/en/stable/errorhandling", "timestamp": "2025-03-01 04:14:04", "status": "success", "entries_created": 16}
+{"index": 3, "url": "https://flask.palletsprojects.com/en/stable/api", "timestamp": "2025-03-01 04:16:04", "status": "success", "entries_created": 36}
+{"index": 11, "url": "https://flask.palletsprojects.com/en/stable/testing", "timestamp": "2025-03-01 04:19:14", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 30, "url": "https://flask.palletsprojects.com/en/stable/patterns/sqlalchemy", "timestamp": "2025-03-01 04:19:55", "status": "failure", "error": "Error on retry 1: string indices must be integers, not 'str'"}
+{"index": 0, "url": "https://flask.palletsprojects.com/en/stable", "timestamp": "2025-03-01 04:22:39", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 11, "url": "https://flask.palletsprojects.com/en/stable/testing", "timestamp": "2025-03-01 04:23:32", "status": "success", "entries_created": 12}
+{"index": 30, "url": "https://flask.palletsprojects.com/en/stable/patterns/sqlalchemy", "timestamp": "2025-03-01 04:25:08", "status": "success", "entries_created": 6}
+{"index": 0, "url": "https://flask.palletsprojects.com/en/stable", "timestamp": "2025-03-01 04:28:18", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 0, "url": "https://flask.palletsprojects.com/en/stable", "timestamp": "2025-03-01 04:29:58", "status": "success", "entries_created": 5}

@@ -1,0 +1,317 @@
+{"index": 0, "url": "https://biomejs.dev/linter", "timestamp": "2025-02-28 21:58:57", "status": "success", "entries_created": 16}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-02-28 22:02:03", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-02-28 22:05:10", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 3, "url": "https://biomejs.dev/linter/rules/no-autofocus", "timestamp": "2025-02-28 22:06:36", "status": "success", "entries_created": 5}
+{"index": 4, "url": "https://biomejs.dev/linter/rules/no-namespace", "timestamp": "2025-02-28 22:09:03", "status": "success", "entries_created": 7}
+{"index": 5, "url": "https://biomejs.dev/linter/rules/no-void", "timestamp": "2025-02-28 22:12:08", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 6, "url": "https://biomejs.dev/linter/rules/use-template", "timestamp": "2025-02-28 22:13:03", "status": "success", "entries_created": 5}
+{"index": 7, "url": "https://biomejs.dev/linter/rules/no-var", "timestamp": "2025-02-28 22:14:18", "status": "success", "entries_created": 7}
+{"index": 8, "url": "https://biomejs.dev/linter/rules/no-redeclare", "timestamp": "2025-02-28 22:15:01", "status": "success", "entries_created": 7}
+{"index": 9, "url": "https://biomejs.dev/linter/rules/no-with", "timestamp": "2025-02-28 22:16:01", "status": "success", "entries_created": 7}
+{"index": 10, "url": "https://biomejs.dev/linter/rules/use-const", "timestamp": "2025-02-28 22:18:47", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 11, "url": "https://biomejs.dev/linter/rules/no-secrets", "timestamp": "2025-02-28 22:20:22", "status": "success", "entries_created": 11}
+{"index": 12, "url": "https://biomejs.dev/linter/rules/use-await", "timestamp": "2025-02-28 22:23:10", "status": "success", "entries_created": 7}
+{"index": 13, "url": "https://biomejs.dev/linter/rules/no-console", "timestamp": "2025-02-28 22:25:09", "status": "success", "entries_created": 8}
+{"index": 14, "url": "https://biomejs.dev/linter/rules/no-debugger", "timestamp": "2025-02-28 22:28:21", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 15, "url": "https://biomejs.dev/linter/rules/use-while", "timestamp": "2025-02-28 22:30:56", "status": "success", "entries_created": 5}
+{"index": 16, "url": "https://biomejs.dev/linter/rules/no-delete", "timestamp": "2025-02-28 22:31:18", "status": "success", "entries_created": 7}
+{"index": 17, "url": "https://biomejs.dev/linter/rules/use-yield", "timestamp": "2025-02-28 22:32:47", "status": "success", "entries_created": 7}
+{"index": 18, "url": "https://biomejs.dev/linter/rules/no-noninteractive-tabindex", "timestamp": "2025-02-28 22:35:57", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 19, "url": "https://biomejs.dev/linter/rules/no-useless-catch", "timestamp": "2025-02-28 22:36:09", "status": "success", "entries_created": 7}
+{"index": 20, "url": "https://biomejs.dev/linter/rules/no-console-log", "timestamp": "2025-02-28 22:36:21", "status": "success", "entries_created": 7}
+{"index": 21, "url": "https://biomejs.dev/linter/rules/use-shorthand-assign", "timestamp": "2025-02-28 22:36:52", "status": "success", "entries_created": 9}
+{"index": 22, "url": "https://biomejs.dev/linter/rules/no-common-js", "timestamp": "2025-02-28 22:37:12", "status": "success", "entries_created": 8}
+{"index": 23, "url": "https://biomejs.dev/linter/rules/use-valid-typeof", "timestamp": "2025-02-28 22:37:29", "status": "success", "entries_created": 9}
+{"index": 24, "url": "https://biomejs.dev/linter/rules/use-exponentiation-operator", "timestamp": "2025-02-28 22:37:55", "status": "success", "entries_created": 7}
+{"index": 25, "url": "https://biomejs.dev/linter/rules/no-distracting-elements", "timestamp": "2025-02-28 22:39:22", "status": "success", "entries_created": 8}
+{"index": 26, "url": "https://biomejs.dev/linter/rules/use-literal-keys", "timestamp": "2025-02-28 22:41:13", "status": "success", "entries_created": 7}
+{"index": 27, "url": "https://biomejs.dev/linter/rules/use-import-type", "timestamp": "2025-02-28 22:42:58", "status": "success", "entries_created": 9}
+{"index": 28, "url": "https://biomejs.dev/linter/rules/use-exhaustive-dependencies", "timestamp": "2025-02-28 22:43:18", "status": "success", "entries_created": 5}
+{"index": 29, "url": "https://biomejs.dev/linter/rules/use-semantic-elements", "timestamp": "2025-02-28 22:44:42", "status": "success", "entries_created": 7}
+{"index": 30, "url": "https://biomejs.dev/linter/rules/no-restricted-globals", "timestamp": "2025-02-28 22:47:48", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 31, "url": "https://biomejs.dev/linter/rules/use-valid-anchor", "timestamp": "2025-02-28 22:48:16", "status": "success", "entries_created": 4}
+{"index": 32, "url": "https://biomejs.dev/linter/rules/no-shouty-constants", "timestamp": "2025-02-28 22:49:10", "status": "success", "entries_created": 7}
+{"index": 33, "url": "https://biomejs.dev/linter/rules/no-then-property", "timestamp": "2025-02-28 22:51:54", "status": "success", "entries_created": 7}
+{"index": 34, "url": "https://biomejs.dev/linter/rules/use-focusable-interactive", "timestamp": "2025-02-28 22:52:52", "status": "success", "entries_created": 8}
+{"index": 35, "url": "https://biomejs.dev/linter/rules/no-img-element", "timestamp": "2025-02-28 22:53:16", "status": "success", "entries_created": 7}
+{"index": 36, "url": "https://biomejs.dev/linter/rules/no-double-equals", "timestamp": "2025-02-28 22:53:33", "status": "success", "entries_created": 8}
+{"index": 37, "url": "https://biomejs.dev/linter/rules/use-getter-return", "timestamp": "2025-02-28 22:54:22", "status": "success", "entries_created": 7}
+{"index": 38, "url": "https://biomejs.dev/linter/rules/no-switch-declarations", "timestamp": "2025-02-28 22:55:56", "status": "success", "entries_created": 7}
+{"index": 39, "url": "https://biomejs.dev/linter/rules/use-flat-map", "timestamp": "2025-02-28 22:57:13", "status": "success", "entries_created": 7}
+{"index": 40, "url": "https://biomejs.dev/linter/rules/no-negation-else", "timestamp": "2025-02-28 22:57:34", "status": "success", "entries_created": 7}
+{"index": 41, "url": "https://biomejs.dev/linter/rules/no-process-env", "timestamp": "2025-02-28 22:59:00", "status": "success", "entries_created": 5}
+{"index": 42, "url": "https://biomejs.dev/linter/rules/no-namespace-import", "timestamp": "2025-02-28 22:59:15", "status": "success", "entries_created": 7}
+{"index": 43, "url": "https://biomejs.dev/linter/rules/use-number-namespace", "timestamp": "2025-02-28 22:59:41", "status": "success", "entries_created": 7}
+{"index": 44, "url": "https://biomejs.dev/linter/rules/no-unknown-function", "timestamp": "2025-02-28 23:00:56", "status": "success", "entries_created": 7}
+{"index": 45, "url": "https://biomejs.dev/linter/rules/use-anchor-content", "timestamp": "2025-02-28 23:04:02", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 46, "url": "https://biomejs.dev/linter/rules/no-irregular-whitespace", "timestamp": "2025-02-28 23:07:07", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 47, "url": "https://biomejs.dev/linter/rules/no-parameter-properties", "timestamp": "2025-02-28 23:07:19", "status": "success", "entries_created": 7}
+{"index": 48, "url": "https://biomejs.dev/linter/rules/no-for-each", "timestamp": "2025-02-28 23:07:45", "status": "success", "entries_created": 10}
+{"index": 49, "url": "https://biomejs.dev/linter/rules/use-valid-lang", "timestamp": "2025-02-28 23:10:12", "status": "success", "entries_created": 5}
+{"index": 50, "url": "https://biomejs.dev/linter/rules/no-catch-assign", "timestamp": "2025-02-28 23:10:25", "status": "success", "entries_created": 8}
+{"index": 51, "url": "https://biomejs.dev/linter/rules/no-misleading-instantiator", "timestamp": "2025-02-28 23:12:22", "status": "success", "entries_created": 7}
+{"index": 52, "url": "https://biomejs.dev/linter/rules/use-heading-content", "timestamp": "2025-02-28 23:14:16", "status": "success", "entries_created": 8}
+{"index": 53, "url": "https://biomejs.dev/linter/rules/no-inner-declarations", "timestamp": "2025-02-28 23:15:48", "status": "success", "entries_created": 7}
+{"index": 54, "url": "https://biomejs.dev/linter/rules/no-precision-loss", "timestamp": "2025-02-28 23:16:02", "status": "success", "entries_created": 7}
+{"index": 55, "url": "https://biomejs.dev/linter/rules/no-const-assign", "timestamp": "2025-02-28 23:16:21", "status": "success", "entries_created": 5}
+{"index": 56, "url": "https://biomejs.dev/linter/rules/no-duplicate-parameters", "timestamp": "2025-02-28 23:16:42", "status": "success", "entries_created": 7}
+{"index": 57, "url": "https://biomejs.dev/linter/rules/no-barrel-file", "timestamp": "2025-02-28 23:19:06", "status": "success", "entries_created": 4}
+{"index": 58, "url": "https://biomejs.dev/linter/rules/use-naming-convention", "timestamp": "2025-02-28 23:19:23", "status": "success", "entries_created": 23}
+{"index": 59, "url": "https://biomejs.dev/linter/rules/use-date-now", "timestamp": "2025-02-28 23:20:52", "status": "success", "entries_created": 7}
+{"index": 60, "url": "https://biomejs.dev/linter/rules/no-explicit-any", "timestamp": "2025-02-28 23:21:03", "status": "success", "entries_created": 7}
+{"index": 61, "url": "https://biomejs.dev/linter/rules/use-explicit-type", "timestamp": "2025-02-28 23:21:23", "status": "success", "entries_created": 9}
+{"index": 62, "url": "https://biomejs.dev/linter/rules/use-error-message", "timestamp": "2025-02-28 23:21:37", "status": "success", "entries_created": 7}
+{"index": 63, "url": "https://biomejs.dev/linter/rules/use-namespace-keyword", "timestamp": "2025-02-28 23:21:52", "status": "success", "entries_created": 7}
+{"index": 64, "url": "https://biomejs.dev/linter/rules/use-iframe-title", "timestamp": "2025-02-28 23:22:40", "status": "success", "entries_created": 5}
+{"index": 65, "url": "https://biomejs.dev/linter/rules/use-is-array", "timestamp": "2025-02-28 23:23:02", "status": "success", "entries_created": 7}
+{"index": 66, "url": "https://biomejs.dev/linter/rules/no-self-compare", "timestamp": "2025-02-28 23:24:32", "status": "success", "entries_created": 7}
+{"index": 67, "url": "https://biomejs.dev/linter/rules/use-html-lang", "timestamp": "2025-02-28 23:24:48", "status": "success", "entries_created": 8}
+{"index": 68, "url": "https://biomejs.dev/linter/rules/no-undeclared-dependencies", "timestamp": "2025-02-28 23:25:19", "status": "success", "entries_created": 8}
+{"index": 69, "url": "https://biomejs.dev/linter/rules/no-done-callback", "timestamp": "2025-02-28 23:25:26", "status": "success", "entries_created": 9}
+{"index": 70, "url": "https://biomejs.dev/linter/rules/no-useless-else", "timestamp": "2025-02-28 23:26:01", "status": "success", "entries_created": 7}
+{"index": 71, "url": "https://biomejs.dev/linter/rules/use-deprecated-reason", "timestamp": "2025-02-28 23:27:11", "status": "success", "entries_created": 7}
+{"index": 72, "url": "https://biomejs.dev/linter/rules/no-unreachable-super", "timestamp": "2025-02-28 23:27:28", "status": "success", "entries_created": 7}
+{"index": 73, "url": "https://biomejs.dev/linter/rules/no-const-enum", "timestamp": "2025-02-28 23:27:51", "status": "success", "entries_created": 7}
+{"index": 74, "url": "https://biomejs.dev/linter/rules/no-implicit-boolean", "timestamp": "2025-02-28 23:29:06", "status": "success", "entries_created": 7}
+{"index": 75, "url": "https://biomejs.dev/linter/rules/use-button-type", "timestamp": "2025-02-28 23:29:18", "status": "success", "entries_created": 5}
+{"index": 76, "url": "https://biomejs.dev/linter/rules/no-misplaced-assertion", "timestamp": "2025-02-28 23:29:48", "status": "success", "entries_created": 7}
+{"index": 77, "url": "https://biomejs.dev/linter/rules/no-global-eval", "timestamp": "2025-02-28 23:30:20", "status": "success", "entries_created": 7}
+{"index": 78, "url": "https://biomejs.dev/linter/rules/no-prototype-builtins", "timestamp": "2025-02-28 23:30:50", "status": "success", "entries_created": 7}
+{"index": 79, "url": "https://biomejs.dev/linter/rules/use-filenaming-convention", "timestamp": "2025-02-28 23:31:18", "status": "success", "entries_created": 12}
+{"index": 80, "url": "https://biomejs.dev/linter/rules/no-duplicated-fields", "timestamp": "2025-02-28 23:32:35", "status": "success", "entries_created": 7}
+{"index": 81, "url": "https://biomejs.dev/linter/rules/no-confusing-labels", "timestamp": "2025-02-28 23:32:54", "status": "success", "entries_created": 9}
+{"index": 82, "url": "https://biomejs.dev/linter/rules/no-redundant-roles", "timestamp": "2025-02-28 23:33:08", "status": "success", "entries_created": 7}
+{"index": 83, "url": "https://biomejs.dev/linter/rules/no-constructor-return", "timestamp": "2025-02-28 23:33:27", "status": "success", "entries_created": 8}
+{"index": 84, "url": "https://biomejs.dev/linter/rules/use-for-of", "timestamp": "2025-02-28 23:33:49", "status": "success", "entries_created": 7}
+{"index": 85, "url": "https://biomejs.dev/linter/rules/use-exports-last", "timestamp": "2025-02-28 23:33:59", "status": "success", "entries_created": 5}
+{"index": 86, "url": "https://biomejs.dev/linter/rules/no-self-assign", "timestamp": "2025-02-28 23:34:46", "status": "success", "entries_created": 7}
+{"index": 87, "url": "https://biomejs.dev/linter/rules/no-empty-interface", "timestamp": "2025-02-28 23:35:00", "status": "success", "entries_created": 5}
+{"index": 88, "url": "https://biomejs.dev/linter/rules/no-inferrable-types", "timestamp": "2025-02-28 23:35:47", "status": "success", "entries_created": 8}
+{"index": 89, "url": "https://biomejs.dev/linter/rules/use-enum-initializers", "timestamp": "2025-02-28 23:36:13", "status": "success", "entries_created": 7}
+{"index": 90, "url": "https://biomejs.dev/linter/rules/use-optional-chain", "timestamp": "2025-02-28 23:36:36", "status": "success", "entries_created": 5}
+{"index": 91, "url": "https://biomejs.dev/linter/rules/no-useless-ternary", "timestamp": "2025-02-28 23:37:02", "status": "success", "entries_created": 5}
+{"index": 92, "url": "https://biomejs.dev/linter/rules/no-evolving-types", "timestamp": "2025-02-28 23:37:16", "status": "success", "entries_created": 7}
+{"index": 93, "url": "https://biomejs.dev/linter/rules/no-useless-rename", "timestamp": "2025-02-28 23:37:39", "status": "success", "entries_created": 7}
+{"index": 94, "url": "https://biomejs.dev/linter/rules/no-unsafe-finally", "timestamp": "2025-02-28 23:39:11", "status": "success", "entries_created": 7}
+{"index": 95, "url": "https://biomejs.dev/linter/rules/no-parameter-assign", "timestamp": "2025-02-28 23:39:44", "status": "success", "entries_created": 8}
+{"index": 96, "url": "https://biomejs.dev/linter/rules/use-fragment-syntax", "timestamp": "2025-02-28 23:39:54", "status": "success", "entries_created": 5}
+{"index": 97, "url": "https://biomejs.dev/linter/rules/use-media-caption", "timestamp": "2025-02-28 23:40:09", "status": "success", "entries_created": 7}
+{"index": 98, "url": "https://biomejs.dev/linter/rules/no-duplicate-properties", "timestamp": "2025-02-28 23:40:36", "status": "success", "entries_created": 7}
+{"index": 99, "url": "https://biomejs.dev/linter/rules/no-unnecessary-continue", "timestamp": "2025-02-28 23:41:00", "status": "success", "entries_created": 7}
+{"index": 100, "url": "https://biomejs.dev/linter/rules/no-redundant-alt", "timestamp": "2025-02-28 23:41:18", "status": "success", "entries_created": 5}
+{"index": 101, "url": "https://biomejs.dev/linter/rules/no-positive-tabindex", "timestamp": "2025-02-28 23:41:40", "status": "success", "entries_created": 8}
+{"index": 102, "url": "https://biomejs.dev/linter/rules/use-is-nan", "timestamp": "2025-02-28 23:42:05", "status": "success", "entries_created": 8}
+{"index": 103, "url": "https://biomejs.dev/linter/rules/no-banned-types", "timestamp": "2025-02-28 23:42:44", "status": "success", "entries_created": 4}
+{"index": 104, "url": "https://biomejs.dev/linter/rules/no-comment-text", "timestamp": "2025-02-28 23:43:12", "status": "success", "entries_created": 7}
+{"index": 105, "url": "https://biomejs.dev/linter/rules/no-children-prop", "timestamp": "2025-02-28 23:43:36", "status": "success", "entries_created": 7}
+{"index": 106, "url": "https://biomejs.dev/linter/rules/no-new-symbol", "timestamp": "2025-02-28 23:43:50", "status": "success", "entries_created": 7}
+{"index": 107, "url": "https://biomejs.dev/linter/rules/no-yoda-expression", "timestamp": "2025-02-28 23:46:29", "status": "success", "entries_created": 9}
+{"index": 108, "url": "https://biomejs.dev/linter/rules/use-alt-text", "timestamp": "2025-02-28 23:46:46", "status": "success", "entries_created": 8}
+{"index": 109, "url": "https://biomejs.dev/linter/rules/no-descending-specificity", "timestamp": "2025-02-28 23:47:09", "status": "success", "entries_created": 8}
+{"index": 110, "url": "https://biomejs.dev/linter/rules/no-nodejs-modules", "timestamp": "2025-02-28 23:47:27", "status": "success", "entries_created": 7}
+{"index": 111, "url": "https://biomejs.dev/linter/rules/use-block-statements", "timestamp": "2025-02-28 23:47:52", "status": "success", "entries_created": 4}
+{"index": 112, "url": "https://biomejs.dev/linter/rules/use-arrow-function", "timestamp": "2025-02-28 23:48:19", "status": "success", "entries_created": 9}
+{"index": 113, "url": "https://biomejs.dev/linter/rules/no-blank-target", "timestamp": "2025-02-28 23:49:12", "status": "success", "entries_created": 6}
+{"index": 114, "url": "https://biomejs.dev/linter/rules/no-setter-return", "timestamp": "2025-02-28 23:49:27", "status": "success", "entries_created": 8}
+{"index": 115, "url": "https://biomejs.dev/linter/rules/use-import-extensions", "timestamp": "2025-02-28 23:50:03", "status": "success", "entries_created": 9}
+{"index": 116, "url": "https://biomejs.dev/linter/rules/no-restricted-imports", "timestamp": "2025-02-28 23:50:21", "status": "success", "entries_created": 5}
+{"index": 117, "url": "https://biomejs.dev/linter/rules/use-export-type", "timestamp": "2025-02-28 23:50:30", "status": "success", "entries_created": 9}
+{"index": 118, "url": "https://biomejs.dev/linter/rules/use-strict-mode", "timestamp": "2025-02-28 23:51:00", "status": "success", "entries_created": 7}
+{"index": 119, "url": "https://biomejs.dev/linter/rules/use-numeric-literals", "timestamp": "2025-02-28 23:51:33", "status": "success", "entries_created": 8}
+{"index": 120, "url": "https://biomejs.dev/linter/rules/no-document-cookie", "timestamp": "2025-02-28 23:51:44", "status": "success", "entries_created": 7}
+{"index": 121, "url": "https://biomejs.dev/linter/rules/use-sorted-classes", "timestamp": "2025-02-28 23:52:09", "status": "success", "entries_created": 5}
+{"index": 122, "url": "https://biomejs.dev/linter/rules/no-accumulating-spread", "timestamp": "2025-02-28 23:52:28", "status": "success", "entries_created": 4}
+{"index": 123, "url": "https://biomejs.dev/linter/rules/no-global-assign", "timestamp": "2025-02-28 23:52:43", "status": "success", "entries_created": 9}
+{"index": 124, "url": "https://biomejs.dev/linter/rules/use-simplified-logic-expression", "timestamp": "2025-02-28 23:53:05", "status": "success", "entries_created": 7}
+{"index": 125, "url": "https://biomejs.dev/linter/rules/use-google-font-display", "timestamp": "2025-02-28 23:53:22", "status": "success", "entries_created": 7}
+{"index": 126, "url": "https://biomejs.dev/linter/rules/use-valid-for-direction", "timestamp": "2025-02-28 23:54:02", "status": "success", "entries_created": 5}
+{"index": 127, "url": "https://biomejs.dev/linter/rules/use-nodejs-import-protocol", "timestamp": "2025-02-28 23:54:44", "status": "success", "entries_created": 8}
+{"index": 128, "url": "https://biomejs.dev/linter/rules/no-shorthand-property-overrides", "timestamp": "2025-02-28 23:55:09", "status": "success", "entries_created": 7}
+{"index": 129, "url": "https://biomejs.dev/linter/rules/no-useless-empty-export", "timestamp": "2025-02-28 23:55:26", "status": "success", "entries_created": 7}
+{"index": 130, "url": "https://biomejs.dev/linter/rules/use-default-switch-clause", "timestamp": "2025-02-28 23:55:44", "status": "success", "entries_created": 9}
+{"index": 131, "url": "https://biomejs.dev/linter/rules/no-static-element-interactions", "timestamp": "2025-02-28 23:56:22", "status": "success", "entries_created": 7}
+{"index": 132, "url": "https://biomejs.dev/linter/rules/use-as-const-assertion", "timestamp": "2025-02-28 23:56:36", "status": "success", "entries_created": 7}
+{"index": 133, "url": "https://biomejs.dev/linter/rules/use-top-level-regex", "timestamp": "2025-02-28 23:56:53", "status": "success", "entries_created": 7}
+{"index": 134, "url": "https://biomejs.dev/linter/rules/no-re-export-all", "timestamp": "2025-02-28 23:57:32", "status": "success", "entries_created": 7}
+{"index": 135, "url": "https://biomejs.dev/linter/rules/no-react-specific-props", "timestamp": "2025-02-28 23:57:45", "status": "success", "entries_created": 7}
+{"index": 136, "url": "https://biomejs.dev/linter/rules/no-global-object-calls", "timestamp": "2025-02-28 23:58:06", "status": "success", "entries_created": 6}
+{"index": 137, "url": "https://biomejs.dev/linter/rules/use-node-assert-strict", "timestamp": "2025-02-28 23:58:21", "status": "success", "entries_created": 7}
+{"index": 138, "url": "https://biomejs.dev/linter/rules/no-useless-type-constraint", "timestamp": "2025-02-28 23:58:35", "status": "success", "entries_created": 7}
+{"index": 139, "url": "https://biomejs.dev/linter/rules/use-valid-aria-values", "timestamp": "2025-02-28 23:58:52", "status": "success", "entries_created": 5}
+{"index": 140, "url": "https://biomejs.dev/linter/rules/no-unknown-pseudo-element", "timestamp": "2025-02-28 23:59:47", "status": "success", "entries_created": 7}
+{"index": 141, "url": "https://biomejs.dev/linter/rules/no-invalid-grid-areas", "timestamp": "2025-03-01 00:00:27", "status": "success", "entries_created": 7}
+{"index": 142, "url": "https://biomejs.dev/linter/rules/no-approximative-numeric-constant", "timestamp": "2025-03-01 00:00:44", "status": "success", "entries_created": 7}
+{"index": 143, "url": "https://biomejs.dev/linter/rules/no-duplicate-else-if", "timestamp": "2025-03-01 00:00:55", "status": "success", "entries_created": 7}
+{"index": 144, "url": "https://biomejs.dev/linter/rules/no-duplicate-jsx-props", "timestamp": "2025-03-01 00:01:05", "status": "success", "entries_created": 7}
+{"index": 145, "url": "https://biomejs.dev/linter/rules/no-duplicate-custom-properties", "timestamp": "2025-03-01 00:01:21", "status": "success", "entries_created": 7}
+{"index": 146, "url": "https://biomejs.dev/linter/rules/use-consistent-member-accessibility", "timestamp": "2025-03-01 00:01:54", "status": "success", "entries_created": 10}
+{"index": 147, "url": "https://biomejs.dev/linter/rules/use-collapsed-else-if", "timestamp": "2025-03-01 00:02:36", "status": "success", "entries_created": 5}
+{"index": 148, "url": "https://biomejs.dev/linter/rules/no-useless-string-raw", "timestamp": "2025-03-01 00:02:53", "status": "success", "entries_created": 7}
+{"index": 149, "url": "https://biomejs.dev/linter/rules/no-unknown-pseudo-class", "timestamp": "2025-03-01 00:03:09", "status": "success", "entries_created": 7}
+{"index": 150, "url": "https://biomejs.dev/linter/rules/no-global-is-finite", "timestamp": "2025-03-01 00:04:01", "status": "success", "entries_created": 7}
+{"index": 151, "url": "https://biomejs.dev/linter/rules/no-invalid-constructor-super", "timestamp": "2025-03-01 00:05:18", "status": "success", "entries_created": 7}
+{"index": 152, "url": "https://biomejs.dev/linter/rules/no-static-only-class", "timestamp": "2025-03-01 00:05:43", "status": "success", "entries_created": 10}
+{"index": 153, "url": "https://biomejs.dev/linter/rules/no-duplicate-font-names", "timestamp": "2025-03-01 00:06:04", "status": "success", "entries_created": 7}
+{"index": 154, "url": "https://biomejs.dev/linter/rules/use-trim-start-end", "timestamp": "2025-03-01 00:06:13", "status": "success", "entries_created": 4}
+{"index": 155, "url": "https://biomejs.dev/linter/rules/no-useless-undefined-initialization", "timestamp": "2025-03-01 00:06:32", "status": "success", "entries_created": 7}
+{"index": 156, "url": "https://biomejs.dev/linter/rules/no-useless-switch-case", "timestamp": "2025-03-01 00:08:47", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 157, "url": "https://biomejs.dev/linter/rules/no-unused-template-literal", "timestamp": "2025-03-01 00:08:58", "status": "success", "entries_created": 7}
+{"index": 158, "url": "https://biomejs.dev/linter/rules/use-consistent-builtin-instantiation", "timestamp": "2025-03-01 00:09:24", "status": "success", "entries_created": 7}
+{"index": 159, "url": "https://biomejs.dev/linter/rules/no-excessive-cognitive-complexity", "timestamp": "2025-03-01 00:09:47", "status": "success", "entries_created": 5}
+{"index": 160, "url": "https://biomejs.dev/linter/rules/no-void-type-return", "timestamp": "2025-03-01 00:10:07", "status": "success", "entries_created": 7}
+{"index": 161, "url": "https://biomejs.dev/linter/rules/no-array-index-key", "timestamp": "2025-03-01 00:13:17", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 162, "url": "https://biomejs.dev/linter/rules/no-duplicate-object-keys", "timestamp": "2025-03-01 00:13:36", "status": "success", "entries_created": 5}
+{"index": 163, "url": "https://biomejs.dev/linter/rules/use-single-case-statement", "timestamp": "2025-03-01 00:14:14", "status": "success", "entries_created": 8}
+{"index": 164, "url": "https://biomejs.dev/linter/rules/no-this-in-static", "timestamp": "2025-03-01 00:14:28", "status": "success", "entries_created": 7}
+{"index": 165, "url": "https://biomejs.dev/linter/rules/use-throw-only-error", "timestamp": "2025-03-01 00:14:39", "status": "success", "entries_created": 8}
+{"index": 166, "url": "https://biomejs.dev/linter/rules/use-generic-font-names", "timestamp": "2025-03-01 00:14:50", "status": "success", "entries_created": 7}
+{"index": 167, "url": "https://biomejs.dev/linter/rules/use-throw-new-error", "timestamp": "2025-03-01 00:15:11", "status": "success", "entries_created": 7}
+{"index": 168, "url": "https://biomejs.dev/linter/rules/no-label-without-control", "timestamp": "2025-03-01 00:15:41", "status": "success", "entries_created": 8}
+{"index": 169, "url": "https://biomejs.dev/linter/rules/no-implicit-any-let", "timestamp": "2025-03-01 00:15:50", "status": "success", "entries_created": 7}
+{"index": 170, "url": "https://biomejs.dev/linter/rules/use-explicit-length-check", "timestamp": "2025-03-01 00:16:01", "status": "success", "entries_created": 13}
+{"index": 171, "url": "https://biomejs.dev/linter/rules/use-consistent-curly-braces", "timestamp": "2025-03-01 00:16:15", "status": "success", "entries_created": 5}
+{"index": 172, "url": "https://biomejs.dev/linter/rules/no-unmatchable-anb-selector", "timestamp": "2025-03-01 00:16:31", "status": "success", "entries_created": 7}
+{"index": 173, "url": "https://biomejs.dev/linter/rules/use-valid-aria-role", "timestamp": "2025-03-01 00:16:47", "status": "success", "entries_created": 5}
+{"index": 174, "url": "https://biomejs.dev/linter/rules/no-invalid-new-builtin", "timestamp": "2025-03-01 00:16:58", "status": "success", "entries_created": 4}
+{"index": 175, "url": "https://biomejs.dev/linter/rules/no-flat-map-identity", "timestamp": "2025-03-01 00:17:05", "status": "success", "entries_created": 3}
+{"index": 176, "url": "https://biomejs.dev/linter/rules/no-exports-in-test", "timestamp": "2025-03-01 00:17:12", "status": "success", "entries_created": 9}
+{"index": 177, "url": "https://biomejs.dev/linter/rules/no-nonoctal-decimal-escape", "timestamp": "2025-03-01 00:17:26", "status": "success", "entries_created": 7}
+{"index": 178, "url": "https://biomejs.dev/linter/rules/use-guard-for-in", "timestamp": "2025-03-01 00:17:37", "status": "success", "entries_created": 7}
+{"index": 179, "url": "https://biomejs.dev/linter/rules/no-duplicate-test-hooks", "timestamp": "2025-03-01 00:17:48", "status": "success", "entries_created": 5}
+{"index": 180, "url": "https://biomejs.dev/linter/rules/no-fallthrough-switch-clause", "timestamp": "2025-03-01 00:17:57", "status": "success", "entries_created": 7}
+{"index": 181, "url": "https://biomejs.dev/linter/rules/no-redundant-use-strict", "timestamp": "2025-03-01 00:18:21", "status": "success", "entries_created": 3}
+{"index": 182, "url": "https://biomejs.dev/linter/rules/use-literal-enum-members", "timestamp": "2025-03-01 00:18:30", "status": "success", "entries_created": 7}
+{"index": 183, "url": "https://biomejs.dev/linter/rules/no-misleading-character-class", "timestamp": "2025-03-01 00:18:45", "status": "success", "entries_created": 5}
+{"index": 184, "url": "https://biomejs.dev/linter/rules/use-shorthand-function-type", "timestamp": "2025-03-01 00:18:56", "status": "success", "entries_created": 7}
+{"index": 185, "url": "https://biomejs.dev/linter/rules/no-value-at-rule", "timestamp": "2025-03-01 00:19:04", "status": "success", "entries_created": 7}
+{"index": 186, "url": "https://biomejs.dev/linter/rules/use-consistent-array-type", "timestamp": "2025-03-01 00:19:17", "status": "success", "entries_created": 9}
+{"index": 187, "url": "https://biomejs.dev/linter/rules/no-render-return-value", "timestamp": "2025-03-01 00:19:26", "status": "success", "entries_created": 7}
+{"index": 188, "url": "https://biomejs.dev/linter/rules/no-misrefactored-shorthand-assign", "timestamp": "2025-03-01 00:19:36", "status": "success", "entries_created": 7}
+{"index": 189, "url": "https://biomejs.dev/linter/rules/no-shadow-restricted-names", "timestamp": "2025-03-01 00:19:46", "status": "success", "entries_created": 7}
+{"index": 190, "url": "https://biomejs.dev/linter/rules/no-useless-this-alias", "timestamp": "2025-03-01 00:19:55", "status": "success", "entries_created": 7}
+{"index": 191, "url": "https://biomejs.dev/linter/rules/use-single-var-declarator", "timestamp": "2025-03-01 00:20:04", "status": "success", "entries_created": 7}
+{"index": 192, "url": "https://biomejs.dev/linter/rules/no-unsafe-optional-chaining", "timestamp": "2025-03-01 00:20:21", "status": "success", "entries_created": 7}
+{"index": 193, "url": "https://biomejs.dev/linter/rules/use-shorthand-array-type", "timestamp": "2025-03-01 00:20:41", "status": "success", "entries_created": 7}
+{"index": 194, "url": "https://biomejs.dev/linter/rules/use-valid-aria-props", "timestamp": "2025-03-01 00:20:50", "status": "success", "entries_created": 8}
+{"index": 195, "url": "https://biomejs.dev/linter/rules/use-self-closing-elements", "timestamp": "2025-03-01 00:21:04", "status": "success", "entries_created": 8}
+{"index": 196, "url": "https://biomejs.dev/linter/rules/no-useless-string-concat", "timestamp": "2025-03-01 00:21:18", "status": "success", "entries_created": 7}
+{"index": 197, "url": "https://biomejs.dev/linter/rules/no-important-in-keyframe", "timestamp": "2025-03-01 00:21:26", "status": "success", "entries_created": 7}
+{"index": 198, "url": "https://biomejs.dev/linter/rules/use-simple-number-keys", "timestamp": "2025-03-01 00:21:46", "status": "success", "entries_created": 8}
+{"index": 199, "url": "https://biomejs.dev/linter/rules/no-empty-block-statements", "timestamp": "2025-03-01 00:21:59", "status": "success", "entries_created": 7}
+{"index": 200, "url": "https://biomejs.dev/linter/rules/use-default-parameter-last", "timestamp": "2025-03-01 00:22:13", "status": "success", "entries_created": 5}
+{"index": 201, "url": "https://biomejs.dev/linter/rules/no-confusing-void-type", "timestamp": "2025-03-01 00:22:33", "status": "success", "entries_created": 7}
+{"index": 202, "url": "https://biomejs.dev/linter/rules/no-svg-without-title", "timestamp": "2025-03-01 00:22:55", "status": "success", "entries_created": 8}
+{"index": 203, "url": "https://biomejs.dev/linter/rules/no-async-promise-executor", "timestamp": "2025-03-01 00:23:12", "status": "success", "entries_created": 7}
+{"index": 204, "url": "https://biomejs.dev/linter/rules/no-unsafe-declaration-merging", "timestamp": "2025-03-01 00:23:21", "status": "success", "entries_created": 7}
+{"index": 205, "url": "https://biomejs.dev/linter/rules/no-non-null-assertion", "timestamp": "2025-03-01 00:23:33", "status": "success", "entries_created": 7}
+{"index": 206, "url": "https://biomejs.dev/linter/rules/no-global-is-nan", "timestamp": "2025-03-01 00:23:41", "status": "success", "entries_created": 7}
+{"index": 207, "url": "https://biomejs.dev/linter/rules/no-invalid-builtin-instantiation", "timestamp": "2025-03-01 00:23:52", "status": "success", "entries_created": 7}
+{"index": 208, "url": "https://biomejs.dev/linter/rules/no-useless-lone-block-statements", "timestamp": "2025-03-01 00:24:05", "status": "success", "entries_created": 7}
+{"index": 209, "url": "https://biomejs.dev/linter/rules/no-extra-non-null-assertion", "timestamp": "2025-03-01 00:24:19", "status": "success", "entries_created": 7}
+{"index": 210, "url": "https://biomejs.dev/linter/rules/no-suspicious-semicolon-in-jsx", "timestamp": "2025-03-01 00:24:27", "status": "success", "entries_created": 5}
+{"index": 211, "url": "https://biomejs.dev/linter/rules/no-duplicate-at-import-rules", "timestamp": "2025-03-01 00:24:42", "status": "success", "entries_created": 7}
+{"index": 212, "url": "https://biomejs.dev/linter/rules/use-key-with-click-events", "timestamp": "2025-03-01 00:24:52", "status": "success", "entries_created": 8}
+{"index": 213, "url": "https://biomejs.dev/linter/rules/use-key-with-mouse-events", "timestamp": "2025-03-01 00:25:02", "status": "success", "entries_created": 8}
+{"index": 214, "url": "https://biomejs.dev/linter/rules/use-aria-activedescendant-with-tabindex", "timestamp": "2025-03-01 00:25:14", "status": "success", "entries_created": 7}
+{"index": 215, "url": "https://biomejs.dev/linter/rules/no-document-import-in-page", "timestamp": "2025-03-01 00:25:26", "status": "success", "entries_created": 7}
+{"index": 216, "url": "https://biomejs.dev/linter/rules/no-duplicate-selectors-keyframe-block", "timestamp": "2025-03-01 00:25:38", "status": "success", "entries_created": 7}
+{"index": 217, "url": "https://biomejs.dev/linter/rules/use-aria-props-for-role", "timestamp": "2025-03-01 00:25:55", "status": "success", "entries_created": 9}
+{"index": 218, "url": "https://biomejs.dev/linter/rules/no-unknown-media-feature-name", "timestamp": "2025-03-01 00:26:11", "status": "success", "entries_created": 4}
+{"index": 219, "url": "https://biomejs.dev/linter/rules/no-dangerously-set-inner-html", "timestamp": "2025-03-01 00:26:23", "status": "success", "entries_created": 7}
+{"index": 220, "url": "https://biomejs.dev/linter/rules/use-hook-at-top-level", "timestamp": "2025-03-01 00:26:34", "status": "success", "entries_created": 5}
+{"index": 221, "url": "https://biomejs.dev/linter/rules/no-invalid-use-before-declaration", "timestamp": "2025-03-01 00:26:47", "status": "success", "entries_created": 5}
+{"index": 222, "url": "https://biomejs.dev/linter/rules/no-control-characters-in-regex", "timestamp": "2025-03-01 00:27:12", "status": "success", "entries_created": 7}
+{"index": 223, "url": "https://biomejs.dev/linter/rules/no-useless-escape-in-regex", "timestamp": "2025-03-01 00:27:23", "status": "success", "entries_created": 7}
+{"index": 224, "url": "https://biomejs.dev/linter/rules/no-template-curly-in-string", "timestamp": "2025-03-01 00:27:33", "status": "success", "entries_created": 7}
+{"index": 225, "url": "https://biomejs.dev/linter/rules/use-jsx-key-in-iterable", "timestamp": "2025-03-01 00:27:49", "status": "success", "entries_created": 7}
+{"index": 226, "url": "https://biomejs.dev/linter/rules/no-unreachable", "timestamp": "2025-03-01 00:27:59", "status": "success", "entries_created": 5}
+{"index": 227, "url": "https://biomejs.dev/linter/rules/no-enum", "timestamp": "2025-03-01 00:28:14", "status": "success", "entries_created": 7}
+{"index": 228, "url": "https://biomejs.dev/linter/rules/no-invalid-position-at-import-rule", "timestamp": "2025-03-01 00:28:27", "status": "success", "entries_created": 7}
+{"index": 229, "url": "https://biomejs.dev/linter/rules/no-constant-math-min-max-clamp", "timestamp": "2025-03-01 00:28:40", "status": "success", "entries_created": 7}
+{"index": 230, "url": "https://biomejs.dev/linter/rules/use-aria-props-supported-by-role", "timestamp": "2025-03-01 00:28:48", "status": "success", "entries_created": 5}
+{"index": 231, "url": "https://biomejs.dev/linter/rules/no-invalid-direction-in-linear-gradient", "timestamp": "2025-03-01 00:29:01", "status": "success", "entries_created": 7}
+{"index": 232, "url": "https://biomejs.dev/linter/rules/no-noninteractive-element-to-interactive-role", "timestamp": "2025-03-01 00:29:13", "status": "success", "entries_created": 9}
+{"index": 233, "url": "https://biomejs.dev/linter/rules/no-empty-character-class-in-regex", "timestamp": "2025-03-01 00:29:23", "status": "success", "entries_created": 7}
+{"index": 234, "url": "https://biomejs.dev/linter/rules/use-number-to-fixed-digits-argument", "timestamp": "2025-03-01 00:29:33", "status": "success", "entries_created": 8}
+{"index": 235, "url": "https://biomejs.dev/linter/rules/no-unknown-property", "timestamp": "2025-03-01 00:29:38", "status": "success", "entries_created": 4}
+{"index": 236, "url": "https://biomejs.dev/linter/rules/no-empty-pattern", "timestamp": "2025-03-01 00:29:46", "status": "success", "entries_created": 7}
+{"index": 237, "url": "https://biomejs.dev/linter/rules/no-default-export", "timestamp": "2025-03-01 00:29:59", "status": "success", "entries_created": 7}
+{"index": 238, "url": "https://biomejs.dev/linter/rules/no-unused-labels", "timestamp": "2025-03-01 00:30:10", "status": "success", "entries_created": 5}
+{"index": 239, "url": "https://biomejs.dev/linter/rules/no-import-assign", "timestamp": "2025-03-01 00:31:31", "status": "success", "entries_created": 5}
+{"index": 240, "url": "https://biomejs.dev/linter/rules/no-empty-block", "timestamp": "2025-03-01 00:31:45", "status": "success", "entries_created": 7}
+{"index": 241, "url": "https://biomejs.dev/linter/rules/no-useless-label", "timestamp": "2025-03-01 00:31:52", "status": "success", "entries_created": 7}
+{"index": 242, "url": "https://biomejs.dev/linter/rules/no-multiple-spaces-in-regular-expression-literals", "timestamp": "2025-03-01 00:32:10", "status": "success", "entries_created": 6}
+{"index": 243, "url": "https://biomejs.dev/linter/rules/no-focused-tests", "timestamp": "2025-03-01 00:32:19", "status": "success", "entries_created": 7}
+{"index": 244, "url": "https://biomejs.dev/linter/rules/no-useless-fragments", "timestamp": "2025-03-01 00:32:39", "status": "success", "entries_created": 5}
+{"index": 245, "url": "https://biomejs.dev/linter/rules/no-sparse-array", "timestamp": "2025-03-01 00:33:11", "status": "success", "entries_created": 6}
+{"index": 246, "url": "https://biomejs.dev/linter/rules/no-dangerously-set-inner-html-with-children", "timestamp": "2025-03-01 00:33:25", "status": "success", "entries_created": 5}
+{"index": 247, "url": "https://biomejs.dev/linter/rules/no-skipped-tests", "timestamp": "2025-03-01 00:33:34", "status": "success", "entries_created": 7}
+{"index": 248, "url": "https://biomejs.dev/linter/rules/no-unsafe-negation", "timestamp": "2025-03-01 00:33:49", "status": "success", "entries_created": 7}
+{"index": 249, "url": "https://biomejs.dev/linter/rules/no-comma-operator", "timestamp": "2025-03-01 00:34:00", "status": "success", "entries_created": 8}
+{"index": 250, "url": "https://biomejs.dev/linter/rules/no-restricted-types", "timestamp": "2025-03-01 00:34:07", "status": "success", "entries_created": 7}
+{"index": 251, "url": "https://biomejs.dev/linter/rules/use-import-restrictions", "timestamp": "2025-03-01 00:34:29", "status": "success", "entries_created": 8}
+{"index": 252, "url": "https://biomejs.dev/linter/rules/no-unused-imports", "timestamp": "2025-03-01 00:34:46", "status": "success", "entries_created": 8}
+{"index": 253, "url": "https://biomejs.dev/linter/rules/no-useless-constructor", "timestamp": "2025-03-01 00:35:36", "status": "success", "entries_created": 8}
+{"index": 254, "url": "https://biomejs.dev/linter/rules/no-class-assign", "timestamp": "2025-03-01 00:37:00", "status": "success", "entries_created": 8}
+{"index": 255, "url": "https://biomejs.dev/linter/rules/no-unused-variables", "timestamp": "2025-03-01 00:37:23", "status": "success", "entries_created": 7}
+{"index": 256, "url": "https://biomejs.dev/linter/rules/no-assign-in-expressions", "timestamp": "2025-03-01 00:37:39", "status": "success", "entries_created": 8}
+{"index": 257, "url": "https://biomejs.dev/linter/rules/no-unused-function-parameters", "timestamp": "2025-03-01 00:40:48", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 258, "url": "https://biomejs.dev/linter/rules/no-extra-boolean-cast", "timestamp": "2025-03-01 00:41:08", "status": "success", "entries_created": 7}
+{"index": 259, "url": "https://biomejs.dev/linter/rules/no-unknown-type-selector", "timestamp": "2025-03-01 00:41:20", "status": "success", "entries_created": 7}
+{"index": 260, "url": "https://biomejs.dev/linter/rules/no-duplicate-class-members", "timestamp": "2025-03-01 00:41:38", "status": "success", "entries_created": 7}
+{"index": 261, "url": "https://biomejs.dev/linter/rules/no-unused-private-class-members", "timestamp": "2025-03-01 00:41:47", "status": "success", "entries_created": 5}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 00:44:52", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 00:47:58", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 5, "url": "https://biomejs.dev/linter/rules/no-void", "timestamp": "2025-03-01 00:48:10", "status": "success", "entries_created": 7}
+{"index": 10, "url": "https://biomejs.dev/linter/rules/use-const", "timestamp": "2025-03-01 00:48:37", "status": "success", "entries_created": 7}
+{"index": 14, "url": "https://biomejs.dev/linter/rules/no-debugger", "timestamp": "2025-03-01 00:49:14", "status": "success", "entries_created": 7}
+{"index": 18, "url": "https://biomejs.dev/linter/rules/no-noninteractive-tabindex", "timestamp": "2025-03-01 00:49:36", "status": "success", "entries_created": 8}
+{"index": 30, "url": "https://biomejs.dev/linter/rules/no-restricted-globals", "timestamp": "2025-03-01 00:49:48", "status": "success", "entries_created": 8}
+{"index": 45, "url": "https://biomejs.dev/linter/rules/use-anchor-content", "timestamp": "2025-03-01 00:50:12", "status": "success", "entries_created": 8}
+{"index": 46, "url": "https://biomejs.dev/linter/rules/no-irregular-whitespace", "timestamp": "2025-03-01 00:50:25", "status": "success", "entries_created": 7}
+{"index": 156, "url": "https://biomejs.dev/linter/rules/no-useless-switch-case", "timestamp": "2025-03-01 00:50:41", "status": "success", "entries_created": 8}
+{"index": 161, "url": "https://biomejs.dev/linter/rules/no-array-index-key", "timestamp": "2025-03-01 00:51:59", "status": "success", "entries_created": 3}
+{"index": 257, "url": "https://biomejs.dev/linter/rules/no-unused-function-parameters", "timestamp": "2025-03-01 00:52:35", "status": "success", "entries_created": 3}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 00:55:45", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 00:58:51", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 01:02:11", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 01:05:16", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 01:08:32", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 01:11:38", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 01:14:48", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 01:17:54", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 01:21:04", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 01:24:10", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 01:27:20", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 01:30:26", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 01:33:37", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 01:36:42", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 01:39:53", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 01:42:59", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 01:46:09", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 01:48:24", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 01:51:34", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 01:54:40", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 01:57:50", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 02:00:56", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 02:04:06", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 02:07:12", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 02:10:22", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 02:13:28", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 02:16:38", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 02:19:44", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 02:22:55", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 02:26:03", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 02:29:14", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 02:32:19", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 02:35:30", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 02:38:35", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 02:41:46", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 02:44:52", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 1, "url": "https://biomejs.dev/linter/rules", "timestamp": "2025-03-01 02:47:49", "status": "success", "entries_created": 8}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 02:50:55", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 02:54:05", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 02:57:16", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 03:00:33", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 03:03:43", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 2, "url": "https://biomejs.dev/linter/rules-sources", "timestamp": "2025-03-01 03:06:54", "status": "failure", "error": "No usable data returned on retry 25"}

@@ -1,0 +1,280 @@
+{"index": 0, "url": "https://sass-lang.com/documentation", "timestamp": "2025-02-28 21:58:45", "status": "success", "entries_created": 7}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-02-28 22:01:50", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 2, "url": "https://sass-lang.com/documentation/interpolation", "timestamp": "2025-02-28 22:02:28", "status": "success", "entries_created": 17}
+{"index": 3, "url": "https://sass-lang.com/documentation/operators", "timestamp": "2025-02-28 22:03:19", "status": "success", "entries_created": 16}
+{"index": 4, "url": "https://sass-lang.com/documentation/modules", "timestamp": "2025-02-28 22:06:18", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 5, "url": "https://sass-lang.com/documentation/variables", "timestamp": "2025-02-28 22:07:41", "status": "success", "entries_created": 15}
+{"index": 6, "url": "https://sass-lang.com/documentation/values", "timestamp": "2025-02-28 22:10:12", "status": "success", "entries_created": 4}
+{"index": 7, "url": "https://sass-lang.com/documentation/syntax", "timestamp": "2025-02-28 22:10:47", "status": "success", "entries_created": 5}
+{"index": 8, "url": "https://sass-lang.com/documentation/cli", "timestamp": "2025-02-28 22:11:34", "status": "success", "entries_created": 7}
+{"index": 9, "url": "https://sass-lang.com/documentation/style-rules", "timestamp": "2025-02-28 22:14:08", "status": "success", "entries_created": 12}
+{"index": 10, "url": "https://sass-lang.com/documentation/values/booleans", "timestamp": "2025-02-28 22:17:13", "status": "success", "entries_created": 8}
+{"index": 11, "url": "https://sass-lang.com/documentation/modules/meta", "timestamp": "2025-02-28 22:17:58", "status": "success", "entries_created": 11}
+{"index": 12, "url": "https://sass-lang.com/documentation/values/strings", "timestamp": "2025-02-28 22:19:52", "status": "success", "entries_created": 24}
+{"index": 13, "url": "https://sass-lang.com/documentation/values/numbers", "timestamp": "2025-02-28 22:22:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 14, "url": "https://sass-lang.com/documentation/modules/list", "timestamp": "2025-02-28 22:25:12", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 15, "url": "https://sass-lang.com/documentation/modules/map", "timestamp": "2025-02-28 22:28:21", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 16, "url": "https://sass-lang.com/documentation/js-api", "timestamp": "2025-02-28 22:30:48", "status": "success", "entries_created": 4}
+{"index": 17, "url": "https://sass-lang.com/documentation/operators/equality", "timestamp": "2025-02-28 22:31:16", "status": "success", "entries_created": 7}
+{"index": 18, "url": "https://sass-lang.com/documentation/cli/migrator", "timestamp": "2025-02-28 22:34:22", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 19, "url": "https://sass-lang.com/documentation/values/maps", "timestamp": "2025-02-28 22:37:27", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 20, "url": "https://sass-lang.com/documentation/values/functions", "timestamp": "2025-02-28 22:37:42", "status": "success", "entries_created": 5}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-02-28 22:40:47", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 22, "url": "https://sass-lang.com/documentation/breaking-changes", "timestamp": "2025-02-28 22:42:02", "status": "success", "entries_created": 7}
+{"index": 23, "url": "https://sass-lang.com/documentation/syntax/comments", "timestamp": "2025-02-28 22:42:24", "status": "success", "entries_created": 6}
+{"index": 24, "url": "https://sass-lang.com/documentation/operators/numeric", "timestamp": "2025-02-28 22:44:49", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 25, "url": "https://sass-lang.com/documentation/modules/color", "timestamp": "2025-02-28 22:45:33", "status": "success", "entries_created": 22}
+{"index": 26, "url": "https://sass-lang.com/documentation/values/lists", "timestamp": "2025-02-28 22:48:39", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 27, "url": "https://sass-lang.com/documentation/syntax/structure", "timestamp": "2025-02-28 22:49:00", "status": "success", "entries_created": 11}
+{"index": 28, "url": "https://sass-lang.com/documentation/modules/selector", "timestamp": "2025-02-28 22:52:05", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 29, "url": "https://sass-lang.com/documentation/values/calculations", "timestamp": "2025-02-28 22:52:34", "status": "success", "entries_created": 16}
+{"index": 30, "url": "https://sass-lang.com/documentation/operators/string", "timestamp": "2025-02-28 22:53:04", "status": "success", "entries_created": 14}
+{"index": 31, "url": "https://sass-lang.com/documentation/values/null", "timestamp": "2025-02-28 22:53:33", "status": "success", "entries_created": 19}
+{"index": 32, "url": "https://sass-lang.com/documentation/values/colors", "timestamp": "2025-02-28 22:54:08", "status": "success", "entries_created": 15}
+{"index": 33, "url": "https://sass-lang.com/documentation/modules/string", "timestamp": "2025-02-28 22:56:46", "status": "success", "entries_created": 5}
+{"index": 34, "url": "https://sass-lang.com/documentation/syntax/parsing", "timestamp": "2025-02-28 22:57:01", "status": "success", "entries_created": 4}
+{"index": 35, "url": "https://sass-lang.com/documentation/operators/relational", "timestamp": "2025-02-28 22:57:25", "status": "success", "entries_created": 13}
+{"index": 36, "url": "https://sass-lang.com/documentation/values/mixins", "timestamp": "2025-02-28 22:57:41", "status": "success", "entries_created": 6}
+{"index": 37, "url": "https://sass-lang.com/documentation/at-rules", "timestamp": "2025-02-28 22:58:17", "status": "success", "entries_created": 6}
+{"index": 38, "url": "https://sass-lang.com/documentation/operators/boolean", "timestamp": "2025-02-28 22:59:09", "status": "success", "entries_created": 8}
+{"index": 39, "url": "https://sass-lang.com/documentation/Sass/Media", "timestamp": "2025-02-28 22:59:18", "status": "success", "entries_created": 1}
+{"index": 40, "url": "https://sass-lang.com/documentation/at-rules/extend", "timestamp": "2025-02-28 22:59:49", "status": "success", "entries_created": 16}
+{"index": 41, "url": "https://sass-lang.com/documentation/at-rules/function", "timestamp": "2025-02-28 23:00:38", "status": "success", "entries_created": 40}
+{"index": 42, "url": "https://sass-lang.com/documentation/at-rules/css", "timestamp": "2025-02-28 23:02:12", "status": "success", "entries_created": 23}
+{"index": 43, "url": "https://sass-lang.com/documentation/style-rules/declarations", "timestamp": "2025-02-28 23:02:46", "status": "success", "entries_created": 22}
+{"index": 44, "url": "https://sass-lang.com/documentation/at-rules/forward", "timestamp": "2025-02-28 23:05:18", "status": "success", "entries_created": 21}
+{"index": 45, "url": "https://sass-lang.com/documentation/syntax/special-functions", "timestamp": "2025-02-28 23:07:14", "status": "success", "entries_created": 5}
+{"index": 46, "url": "https://sass-lang.com/documentation/js-api/modules", "timestamp": "2025-02-28 23:08:23", "status": "success", "entries_created": 11}
+{"index": 47, "url": "https://sass-lang.com/documentation/at-rules/use", "timestamp": "2025-02-28 23:09:16", "status": "success", "entries_created": 46}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-02-28 23:12:21", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 49, "url": "https://sass-lang.com/documentation/at-rules/import", "timestamp": "2025-02-28 23:14:04", "status": "success", "entries_created": 24}
+{"index": 50, "url": "https://sass-lang.com/documentation/Sass/Exec", "timestamp": "2025-02-28 23:14:18", "status": "success", "entries_created": 1}
+{"index": 51, "url": "https://sass-lang.com/documentation/cli/ruby-sass", "timestamp": "2025-02-28 23:15:02", "status": "success", "entries_created": 36}
+{"index": 52, "url": "https://sass-lang.com/documentation/at-rules/mixin", "timestamp": "2025-02-28 23:16:52", "status": "success", "entries_created": 26}
+{"index": 53, "url": "https://sass-lang.com/documentation/breaking-changes/import", "timestamp": "2025-02-28 23:17:13", "status": "success", "entries_created": 11}
+{"index": 54, "url": "https://sass-lang.com/documentation/Sass/Source", "timestamp": "2025-02-28 23:17:48", "status": "success", "entries_created": 1}
+{"index": 55, "url": "https://sass-lang.com/documentation/Sass/Supports", "timestamp": "2025-02-28 23:20:01", "status": "success", "entries_created": 1}
+{"index": 56, "url": "https://sass-lang.com/documentation/at-rules/error", "timestamp": "2025-02-28 23:20:17", "status": "success", "entries_created": 6}
+{"index": 57, "url": "https://sass-lang.com/documentation/Sass/Script/Tree", "timestamp": "2025-02-28 23:20:43", "status": "success", "entries_created": 1}
+{"index": 58, "url": "https://sass-lang.com/documentation/at-rules/debug", "timestamp": "2025-02-28 23:21:00", "status": "success", "entries_created": 8}
+{"index": 59, "url": "https://sass-lang.com/documentation/at-rules/warn", "timestamp": "2025-02-28 23:21:13", "status": "success", "entries_created": 8}
+{"index": 60, "url": "https://sass-lang.com/documentation/at-rules/control", "timestamp": "2025-02-28 23:21:27", "status": "success", "entries_created": 4}
+{"index": 61, "url": "https://sass-lang.com/documentation/Sass/Script/Value", "timestamp": "2025-02-28 23:21:39", "status": "success", "entries_created": 1}
+{"index": 62, "url": "https://sass-lang.com/documentation/js-api/interfaces/deprecations", "timestamp": "2025-02-28 23:22:07", "status": "success", "entries_created": 5}
+{"index": 63, "url": "https://sass-lang.com/documentation/js-api/types/polarcolorspace", "timestamp": "2025-02-28 23:22:51", "status": "success", "entries_created": 3}
+{"index": 64, "url": "https://sass-lang.com/documentation/js-api/interfaces/compileresult", "timestamp": "2025-02-28 23:24:01", "status": "success", "entries_created": 4}
+{"index": 65, "url": "https://sass-lang.com/documentation/js-api/functions/compile", "timestamp": "2025-02-28 23:25:00", "status": "success", "entries_created": 10}
+{"index": 66, "url": "https://sass-lang.com/documentation/js-api/types/legacysyncimporter", "timestamp": "2025-02-28 23:25:13", "status": "success", "entries_created": 8}
+{"index": 67, "url": "https://sass-lang.com/documentation/js-api/types/legacyimporterresult", "timestamp": "2025-02-28 23:26:04", "status": "success", "entries_created": 5}
+{"index": 68, "url": "https://sass-lang.com/documentation/breaking-changes/abs-percent", "timestamp": "2025-02-28 23:26:25", "status": "success", "entries_created": 9}
+{"index": 69, "url": "https://sass-lang.com/documentation/js-api/classes/sasscalculation", "timestamp": "2025-02-28 23:28:15", "status": "success", "entries_created": 5}
+{"index": 70, "url": "https://sass-lang.com/documentation/js-api/interfaces/legacystringoptions", "timestamp": "2025-02-28 23:29:45", "status": "success", "entries_created": 11}
+{"index": 71, "url": "https://sass-lang.com/documentation/js-api/interfaces/importer", "timestamp": "2025-02-28 23:32:09", "status": "success", "entries_created": 5}
+{"index": 72, "url": "https://sass-lang.com/documentation/js-api/variables/null", "timestamp": "2025-02-28 23:34:26", "status": "success", "entries_created": 4}
+{"index": 73, "url": "https://sass-lang.com/documentation/js-api/interfaces/legacyimporterthis", "timestamp": "2025-02-28 23:35:44", "status": "success", "entries_created": 7}
+{"index": 74, "url": "https://sass-lang.com/documentation/js-api/interfaces/legacyexception", "timestamp": "2025-02-28 23:38:48", "status": "success", "entries_created": 5}
+{"index": 75, "url": "https://sass-lang.com/documentation/breaking-changes/extend-compound", "timestamp": "2025-02-28 23:39:09", "status": "success", "entries_created": 16}
+{"index": 76, "url": "https://sass-lang.com/documentation/breaking-changes/bogus-combinators", "timestamp": "2025-02-28 23:39:28", "status": "success", "entries_created": 5}
+{"index": 77, "url": "https://sass-lang.com/documentation/js-api/classes/sassnumber", "timestamp": "2025-02-28 23:39:45", "status": "success", "entries_created": 5}
+{"index": 78, "url": "https://sass-lang.com/documentation/js-api/functions/rendersync", "timestamp": "2025-02-28 23:39:56", "status": "success", "entries_created": 8}
+{"index": 79, "url": "https://sass-lang.com/documentation/breaking-changes/function-units", "timestamp": "2025-02-28 23:41:48", "status": "success", "entries_created": 10}
+{"index": 80, "url": "https://sass-lang.com/documentation/js-api/types/colorspacehwb", "timestamp": "2025-02-28 23:41:59", "status": "success", "entries_created": 2}
+{"index": 81, "url": "https://sass-lang.com/documentation/js-api/functions/initasynccompiler", "timestamp": "2025-02-28 23:42:11", "status": "success", "entries_created": 8}
+{"index": 82, "url": "https://sass-lang.com/documentation/js-api/variables/true", "timestamp": "2025-02-28 23:42:28", "status": "success", "entries_created": 5}
+{"index": 83, "url": "https://sass-lang.com/documentation/breaking-changes/slash-div", "timestamp": "2025-02-28 23:42:43", "status": "success", "entries_created": 10}
+{"index": 84, "url": "https://sass-lang.com/documentation/js-api/types/calculationvalue", "timestamp": "2025-02-28 23:43:05", "status": "success", "entries_created": 3}
+{"index": 85, "url": "https://sass-lang.com/documentation/js-api/types/colorspacehsl", "timestamp": "2025-02-28 23:43:47", "status": "success", "entries_created": 2}
+{"index": 86, "url": "https://sass-lang.com/documentation/style-rules/parent-selector", "timestamp": "2025-02-28 23:46:46", "status": "success", "entries_created": 25}
+{"index": 87, "url": "https://sass-lang.com/documentation/js-api/types/channelname", "timestamp": "2025-02-28 23:49:01", "status": "success", "entries_created": 3}
+{"index": 88, "url": "https://sass-lang.com/documentation/js-api/types/legacyasyncimporter", "timestamp": "2025-02-28 23:49:14", "status": "success", "entries_created": 5}
+{"index": 89, "url": "https://sass-lang.com/documentation/js-api/types/gamutmapmethod", "timestamp": "2025-02-28 23:49:51", "status": "success", "entries_created": 5}
+{"index": 90, "url": "https://sass-lang.com/documentation/js-api/modules/logger", "timestamp": "2025-02-28 23:50:03", "status": "success", "entries_created": 5}
+{"index": 91, "url": "https://sass-lang.com/documentation/js-api/types/listseparator", "timestamp": "2025-02-28 23:50:38", "status": "success", "entries_created": 7}
+{"index": 92, "url": "https://sass-lang.com/documentation/js-api/variables/sasstrue", "timestamp": "2025-02-28 23:50:54", "status": "success", "entries_created": 2}
+{"index": 93, "url": "https://sass-lang.com/documentation/js-api/types/outputstyle", "timestamp": "2025-02-28 23:50:58", "status": "success", "entries_created": 3}
+{"index": 94, "url": "https://sass-lang.com/documentation/js-api/functions/compilestringasync", "timestamp": "2025-02-28 23:51:03", "status": "success", "entries_created": 8}
+{"index": 95, "url": "https://sass-lang.com/documentation/breaking-changes/moz-document", "timestamp": "2025-02-28 23:51:21", "status": "success", "entries_created": 12}
+{"index": 96, "url": "https://sass-lang.com/documentation/js-api/types/colorspacelch", "timestamp": "2025-02-28 23:51:24", "status": "success", "entries_created": 2}
+{"index": 97, "url": "https://sass-lang.com/documentation/js-api/classes/sasslist", "timestamp": "2025-02-28 23:51:36", "status": "success", "entries_created": 6}
+{"index": 98, "url": "https://sass-lang.com/documentation/js-api/interfaces/options", "timestamp": "2025-02-28 23:51:53", "status": "success", "entries_created": 26}
+{"index": 99, "url": "https://sass-lang.com/documentation/js-api/functions/compilestring", "timestamp": "2025-02-28 23:52:00", "status": "success", "entries_created": 8}
+{"index": 100, "url": "https://sass-lang.com/documentation/js-api/classes/sassboolean", "timestamp": "2025-02-28 23:52:20", "status": "success", "entries_created": 6}
+{"index": 101, "url": "https://sass-lang.com/documentation/style-rules/placeholder-selectors", "timestamp": "2025-02-28 23:53:05", "status": "success", "entries_created": 12}
+{"index": 102, "url": "https://sass-lang.com/documentation/breaking-changes/feature-exists", "timestamp": "2025-02-28 23:53:16", "status": "success", "entries_created": 9}
+{"index": 103, "url": "https://sass-lang.com/documentation/js-api/interfaces/canonicalizecontext", "timestamp": "2025-02-28 23:53:21", "status": "success", "entries_created": 5}
+{"index": 104, "url": "https://sass-lang.com/documentation/js-api/interfaces/legacysharedoptions", "timestamp": "2025-02-28 23:53:39", "status": "success", "entries_created": 11}
+{"index": 105, "url": "https://sass-lang.com/documentation/js-api/types/channelnamelab", "timestamp": "2025-02-28 23:54:31", "status": "success", "entries_created": 3}
+{"index": 106, "url": "https://sass-lang.com/documentation/js-api/variables/sassfalse", "timestamp": "2025-02-28 23:55:41", "status": "success", "entries_created": 4}
+{"index": 107, "url": "https://sass-lang.com/documentation/js-api/interfaces/fileimporter", "timestamp": "2025-02-28 23:56:58", "status": "success", "entries_created": 9}
+{"index": 108, "url": "https://sass-lang.com/documentation/js-api/functions/compileasync", "timestamp": "2025-02-28 23:57:18", "status": "success", "entries_created": 8}
+{"index": 109, "url": "https://sass-lang.com/documentation/js-api/interfaces/legacyfileoptions", "timestamp": "2025-02-28 23:57:46", "status": "success", "entries_created": 10}
+{"index": 110, "url": "https://sass-lang.com/documentation/js-api/types/legacysyncfunction", "timestamp": "2025-02-28 23:57:52", "status": "success", "entries_created": 4}
+{"index": 111, "url": "https://sass-lang.com/documentation/js-api/types/colorspacergb", "timestamp": "2025-02-28 23:58:30", "status": "success", "entries_created": 3}
+{"index": 112, "url": "https://sass-lang.com/documentation/js-api/types/legacyvalue", "timestamp": "2025-02-28 23:58:38", "status": "success", "entries_created": 3}
+{"index": 113, "url": "https://sass-lang.com/documentation/breaking-changes/color-functions", "timestamp": "2025-02-28 23:59:05", "status": "success", "entries_created": 15}
+{"index": 114, "url": "https://sass-lang.com/documentation/js-api/types/hueinterpolationmethod", "timestamp": "2025-02-28 23:59:15", "status": "success", "entries_created": 3}
+{"index": 115, "url": "https://sass-lang.com/documentation/js-api/types/deprecationstatus", "timestamp": "2025-02-28 23:59:26", "status": "success", "entries_created": 3}
+{"index": 116, "url": "https://sass-lang.com/documentation/js-api/classes/calculationoperation", "timestamp": "2025-02-28 23:59:40", "status": "success", "entries_created": 6}
+{"index": 117, "url": "https://sass-lang.com/documentation/js-api/types/channelnamehwb", "timestamp": "2025-02-28 23:59:53", "status": "success", "entries_created": 4}
+{"index": 118, "url": "https://sass-lang.com/documentation/js-api/types/legacyoptions", "timestamp": "2025-02-28 23:59:56", "status": "success", "entries_created": 5}
+{"index": 119, "url": "https://sass-lang.com/documentation/js-api/classes/sassfunction", "timestamp": "2025-03-01 00:00:12", "status": "success", "entries_created": 9}
+{"index": 120, "url": "https://sass-lang.com/documentation/js-api/types/legacyasyncfunction", "timestamp": "2025-03-01 00:00:35", "status": "success", "entries_created": 9}
+{"index": 121, "url": "https://sass-lang.com/documentation/js-api/classes/sassstring", "timestamp": "2025-03-01 00:01:11", "status": "success", "entries_created": 7}
+{"index": 122, "url": "https://sass-lang.com/documentation/js-api/variables/false", "timestamp": "2025-03-01 00:01:21", "status": "success", "entries_created": 3}
+{"index": 123, "url": "https://sass-lang.com/documentation/js-api/modules/types", "timestamp": "2025-03-01 00:02:04", "status": "success", "entries_created": 5}
+{"index": 124, "url": "https://sass-lang.com/documentation/js-api/functions/initcompiler", "timestamp": "2025-03-01 00:02:16", "status": "success", "entries_created": 8}
+{"index": 125, "url": "https://sass-lang.com/documentation/js-api/classes/calculationinterpolation", "timestamp": "2025-03-01 00:02:31", "status": "success", "entries_created": 5}
+{"index": 126, "url": "https://sass-lang.com/documentation/at-rules/at-root", "timestamp": "2025-03-01 00:02:53", "status": "success", "entries_created": 10}
+{"index": 127, "url": "https://sass-lang.com/documentation/breaking-changes/css-vars", "timestamp": "2025-03-01 00:03:23", "status": "success", "entries_created": 13}
+{"index": 128, "url": "https://sass-lang.com/documentation/at-rules/control/if", "timestamp": "2025-03-01 00:06:02", "status": "success", "entries_created": 7}
+{"index": 129, "url": "https://sass-lang.com/documentation/js-api/classes/value", "timestamp": "2025-03-01 00:06:15", "status": "success", "entries_created": 4}
+{"index": 130, "url": "https://sass-lang.com/documentation/js-api/types/deprecationorid", "timestamp": "2025-03-01 00:06:33", "status": "success", "entries_created": 4}
+{"index": 131, "url": "https://sass-lang.com/documentation/js-api/types/calculationoperator", "timestamp": "2025-03-01 00:06:43", "status": "success", "entries_created": 3}
+{"index": 132, "url": "https://sass-lang.com/documentation/breaking-changes/media-logic", "timestamp": "2025-03-01 00:07:01", "status": "success", "entries_created": 11}
+{"index": 133, "url": "https://sass-lang.com/documentation/js-api/types/legacyimporter", "timestamp": "2025-03-01 00:07:10", "status": "success", "entries_created": 5}
+{"index": 134, "url": "https://sass-lang.com/documentation/js-api/classes/sassmixin", "timestamp": "2025-03-01 00:07:25", "status": "success", "entries_created": 7}
+{"index": 135, "url": "https://sass-lang.com/documentation/at-rules/control/each", "timestamp": "2025-03-01 00:08:24", "status": "success", "entries_created": 15}
+{"index": 136, "url": "https://sass-lang.com/documentation/js-api/types/stringoptionswithoutimporter", "timestamp": "2025-03-01 00:08:32", "status": "success", "entries_created": 4}
+{"index": 137, "url": "https://sass-lang.com/documentation/js-api/types/legacyfunction", "timestamp": "2025-03-01 00:09:55", "status": "success", "entries_created": 5}
+{"index": 138, "url": "https://sass-lang.com/documentation/js-api/types/rectangularcolorspace", "timestamp": "2025-03-01 00:12:07", "status": "success", "entries_created": 4}
+{"index": 139, "url": "https://sass-lang.com/documentation/js-api/types/promiseor", "timestamp": "2025-03-01 00:13:20", "status": "success", "entries_created": 4}
+{"index": 140, "url": "https://sass-lang.com/documentation/breaking-changes/mixed-decls", "timestamp": "2025-03-01 00:15:46", "status": "success", "entries_created": 16}
+{"index": 141, "url": "https://sass-lang.com/documentation/js-api/types/channelnamelch", "timestamp": "2025-03-01 00:16:14", "status": "success", "entries_created": 3}
+{"index": 142, "url": "https://sass-lang.com/documentation/js-api/classes/sassmap", "timestamp": "2025-03-01 00:16:40", "status": "success", "entries_created": 5}
+{"index": 143, "url": "https://sass-lang.com/documentation/js-api/interfaces/legacypluginthis", "timestamp": "2025-03-01 00:16:54", "status": "success", "entries_created": 7}
+{"index": 144, "url": "https://sass-lang.com/documentation/js-api/interfaces/sourcespan", "timestamp": "2025-03-01 00:19:21", "status": "success", "entries_created": 4}
+{"index": 145, "url": "https://sass-lang.com/documentation/breaking-changes/null-alpha", "timestamp": "2025-03-01 00:21:06", "status": "success", "entries_created": 11}
+{"index": 146, "url": "https://sass-lang.com/documentation/js-api/classes/nodepackageimporter", "timestamp": "2025-03-01 00:21:29", "status": "success", "entries_created": 10}
+{"index": 147, "url": "https://sass-lang.com/documentation/js-api/types/syntax", "timestamp": "2025-03-01 00:22:45", "status": "success", "entries_created": 3}
+{"index": 148, "url": "https://sass-lang.com/documentation/js-api/interfaces/importerresult", "timestamp": "2025-03-01 00:23:09", "status": "success", "entries_created": 4}
+{"index": 149, "url": "https://sass-lang.com/documentation/js-api/classes/exception", "timestamp": "2025-03-01 00:23:20", "status": "success", "entries_created": 6}
+{"index": 150, "url": "https://sass-lang.com/documentation/js-api/variables/info", "timestamp": "2025-03-01 00:23:53", "status": "success", "entries_created": 2}
+{"index": 151, "url": "https://sass-lang.com/documentation/at-rules/control/while", "timestamp": "2025-03-01 00:24:24", "status": "success", "entries_created": 7}
+{"index": 152, "url": "https://sass-lang.com/documentation/js-api/types/channelnamehsl", "timestamp": "2025-03-01 00:24:48", "status": "success", "entries_created": 3}
+{"index": 153, "url": "https://sass-lang.com/documentation/breaking-changes/strict-unary", "timestamp": "2025-03-01 00:25:35", "status": "success", "entries_created": 12}
+{"index": 154, "url": "https://sass-lang.com/documentation/js-api/functions/render", "timestamp": "2025-03-01 00:26:24", "status": "success", "entries_created": 8}
+{"index": 155, "url": "https://sass-lang.com/documentation/js-api/interfaces/legacyresult", "timestamp": "2025-03-01 00:27:16", "status": "success", "entries_created": 19}
+{"index": 156, "url": "https://sass-lang.com/documentation/js-api/classes/asynccompiler", "timestamp": "2025-03-01 00:28:03", "status": "success", "entries_created": 6}
+{"index": 157, "url": "https://sass-lang.com/documentation/js-api/types/channelnamergb", "timestamp": "2025-03-01 00:28:08", "status": "success", "entries_created": 3}
+{"index": 158, "url": "https://sass-lang.com/documentation/js-api/types/colorspacexyz", "timestamp": "2025-03-01 00:28:25", "status": "success", "entries_created": 2}
+{"index": 159, "url": "https://sass-lang.com/documentation/js-api/types/loggerwarnoptions", "timestamp": "2025-03-01 00:28:40", "status": "success", "entries_created": 4}
+{"index": 160, "url": "https://sass-lang.com/documentation/breaking-changes/default-export", "timestamp": "2025-03-01 00:28:56", "status": "success", "entries_created": 10}
+{"index": 161, "url": "https://sass-lang.com/documentation/js-api/types/stringoptionswithimporter", "timestamp": "2025-03-01 00:29:08", "status": "success", "entries_created": 4}
+{"index": 162, "url": "https://sass-lang.com/documentation/js-api/types/customfunction", "timestamp": "2025-03-01 00:31:00", "status": "success", "entries_created": 6}
+{"index": 163, "url": "https://sass-lang.com/documentation/js-api/types/channelnamexyz", "timestamp": "2025-03-01 00:31:28", "status": "success", "entries_created": 2}
+{"index": 164, "url": "https://sass-lang.com/documentation/js-api/interfaces/deprecation", "timestamp": "2025-03-01 00:32:18", "status": "success", "entries_created": 4}
+{"index": 165, "url": "https://sass-lang.com/documentation/js-api/variables/sassnull", "timestamp": "2025-03-01 00:33:01", "status": "success", "entries_created": 4}
+{"index": 166, "url": "https://sass-lang.com/documentation/Sass/Importers/Filesystem.html", "timestamp": "2025-03-01 00:33:16", "status": "success", "entries_created": 1}
+{"index": 167, "url": "https://sass-lang.com/documentation/js-api/classes/version", "timestamp": "2025-03-01 00:34:34", "status": "success", "entries_created": 10}
+{"index": 168, "url": "https://sass-lang.com/documentation/js-api/classes/sassargumentlist", "timestamp": "2025-03-01 00:35:58", "status": "success", "entries_created": 5}
+{"index": 169, "url": "https://sass-lang.com/documentation/js-api/interfaces/sourcelocation", "timestamp": "2025-03-01 00:36:08", "status": "success", "entries_created": 4}
+{"index": 170, "url": "https://sass-lang.com/documentation/js-api/interfaces/stringoptions", "timestamp": "2025-03-01 00:39:18", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 171, "url": "https://sass-lang.com/documentation/js-api/types/colorspacelab", "timestamp": "2025-03-01 00:39:33", "status": "success", "entries_created": 3}
+{"index": 172, "url": "https://sass-lang.com/documentation/js-api/types/knowncolorspace", "timestamp": "2025-03-01 00:42:23", "status": "success", "entries_created": 3}
+{"index": 173, "url": "https://sass-lang.com/documentation/js-api/classes/sasscolor", "timestamp": "2025-03-01 00:44:17", "status": "success", "entries_created": 6}
+{"index": 174, "url": "https://sass-lang.com/documentation/js-api/classes/compiler", "timestamp": "2025-03-01 00:44:43", "status": "success", "entries_created": 5}
+{"index": 175, "url": "https://sass-lang.com/documentation/Sass/Tree/Visitors", "timestamp": "2025-03-01 00:45:19", "status": "success", "entries_created": 1}
+{"index": 176, "url": "https://sass-lang.com/documentation/Sass/CacheStores/Filesystem.html", "timestamp": "2025-03-01 00:45:23", "status": "success", "entries_created": 1}
+{"index": 177, "url": "https://sass-lang.com/documentation/at-rules/control/for", "timestamp": "2025-03-01 00:45:36", "status": "success", "entries_created": 7}
+{"index": 178, "url": "https://sass-lang.com/documentation/Sass/Selector/Placeholder.html", "timestamp": "2025-03-01 00:45:45", "status": "success", "entries_created": 1}
+{"index": 179, "url": "https://sass-lang.com/documentation/js-api/variables/deprecations-1", "timestamp": "2025-03-01 00:45:55", "status": "success", "entries_created": 3}
+{"index": 180, "url": "https://sass-lang.com/documentation/js-api/classes/types.map", "timestamp": "2025-03-01 00:46:42", "status": "success", "entries_created": 8}
+{"index": 181, "url": "https://sass-lang.com/documentation/breaking-changes/css-function-mixin", "timestamp": "2025-03-01 00:48:13", "status": "success", "entries_created": 9}
+{"index": 182, "url": "https://sass-lang.com/documentation/js-api/classes/types.null", "timestamp": "2025-03-01 00:48:33", "status": "success", "entries_created": 7}
+{"index": 183, "url": "https://sass-lang.com/documentation/js-api/classes/types.string", "timestamp": "2025-03-01 00:49:30", "status": "success", "entries_created": 5}
+{"index": 184, "url": "https://sass-lang.com/documentation/breaking-changes/duplicate-var-flags", "timestamp": "2025-03-01 00:50:10", "status": "success", "entries_created": 9}
+{"index": 185, "url": "https://sass-lang.com/documentation/Sass/Tree/Visitors/Base.html", "timestamp": "2025-03-01 00:50:15", "status": "success", "entries_created": 1}
+{"index": 186, "url": "https://sass-lang.com/documentation/js-api/classes/types.boolean", "timestamp": "2025-03-01 00:51:52", "status": "success", "entries_created": 11}
+{"index": 187, "url": "https://sass-lang.com/documentation/breaking-changes/color-4-api", "timestamp": "2025-03-01 00:52:38", "status": "success", "entries_created": 11}
+{"index": 188, "url": "https://sass-lang.com/documentation/js-api/classes/types.color", "timestamp": "2025-03-01 00:53:29", "status": "success", "entries_created": 6}
+{"index": 189, "url": "https://sass-lang.com/documentation/js-api/interfaces/logger-1", "timestamp": "2025-03-01 00:53:52", "status": "success", "entries_created": 6}
+{"index": 190, "url": "https://sass-lang.com/documentation/breaking-changes/legacy-js-api", "timestamp": "2025-03-01 00:54:45", "status": "success", "entries_created": 9}
+{"index": 191, "url": "https://sass-lang.com/documentation/Sass/Script/Tree/StringInterpolation.html", "timestamp": "2025-03-01 00:55:55", "status": "success", "entries_created": 1}
+{"index": 192, "url": "https://sass-lang.com/documentation/js-api/classes/types.list", "timestamp": "2025-03-01 00:56:16", "status": "success", "entries_created": 7}
+{"index": 193, "url": "https://sass-lang.com/documentation/js-api/classes/types.number", "timestamp": "2025-03-01 00:56:31", "status": "success", "entries_created": 5}
+{"index": 194, "url": "https://sass-lang.com/documentation/js-api/variables/logger.silent", "timestamp": "2025-03-01 00:56:38", "status": "success", "entries_created": 4}
+{"index": 195, "url": "https://sass-lang.com/documentation/Sass/Script/Value/Bool.html", "timestamp": "2025-03-01 00:56:42", "status": "success", "entries_created": 1}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 00:59:48", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 4, "url": "https://sass-lang.com/documentation/modules", "timestamp": "2025-03-01 01:00:31", "status": "success", "entries_created": 27}
+{"index": 13, "url": "https://sass-lang.com/documentation/values/numbers", "timestamp": "2025-03-01 01:01:32", "status": "success", "entries_created": 26}
+{"index": 14, "url": "https://sass-lang.com/documentation/modules/list", "timestamp": "2025-03-01 01:03:33", "status": "success", "entries_created": 25}
+{"index": 15, "url": "https://sass-lang.com/documentation/modules/map", "timestamp": "2025-03-01 01:04:24", "status": "success", "entries_created": 34}
+{"index": 18, "url": "https://sass-lang.com/documentation/cli/migrator", "timestamp": "2025-03-01 01:07:37", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 19, "url": "https://sass-lang.com/documentation/values/maps", "timestamp": "2025-03-01 01:08:15", "status": "success", "entries_created": 8}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 01:11:20", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 24, "url": "https://sass-lang.com/documentation/operators/numeric", "timestamp": "2025-03-01 01:14:26", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 26, "url": "https://sass-lang.com/documentation/values/lists", "timestamp": "2025-03-01 01:15:00", "status": "success", "entries_created": 7}
+{"index": 28, "url": "https://sass-lang.com/documentation/modules/selector", "timestamp": "2025-03-01 01:18:06", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 01:21:12", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 170, "url": "https://sass-lang.com/documentation/js-api/interfaces/stringoptions", "timestamp": "2025-03-01 01:21:51", "status": "success", "entries_created": 27}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 01:25:01", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 18, "url": "https://sass-lang.com/documentation/cli/migrator", "timestamp": "2025-03-01 01:25:32", "status": "success", "entries_created": 4}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 01:28:37", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 24, "url": "https://sass-lang.com/documentation/operators/numeric", "timestamp": "2025-03-01 01:40:43", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 28, "url": "https://sass-lang.com/documentation/modules/selector", "timestamp": "2025-03-01 01:43:49", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 01:46:54", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 01:50:04", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 01:53:10", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 24, "url": "https://sass-lang.com/documentation/operators/numeric", "timestamp": "2025-03-01 01:56:16", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 28, "url": "https://sass-lang.com/documentation/modules/selector", "timestamp": "2025-03-01 01:59:19", "status": "success", "entries_created": 28}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 02:02:30", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 02:05:41", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 02:08:51", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 24, "url": "https://sass-lang.com/documentation/operators/numeric", "timestamp": "2025-03-01 02:09:43", "status": "success", "entries_created": 33}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 02:12:49", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 02:15:59", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 02:19:05", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 02:22:10", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 02:25:21", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 02:28:27", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 02:31:32", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 02:34:43", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 02:37:48", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 02:40:57", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 02:44:08", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 02:47:14", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 02:50:19", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 02:53:30", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 02:56:35", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 02:59:41", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 03:11:53", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 03:15:04", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 03:18:09", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 03:21:19", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 03:24:25", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 03:27:31", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 03:30:41", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 03:33:47", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 03:36:57", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 03:40:07", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 03:43:13", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 03:46:18", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 03:49:29", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 03:52:38", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 03:55:48", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 03:59:02", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 04:02:07", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 04:14:13", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 04:17:23", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 04:20:28", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 04:23:34", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 04:26:44", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 04:29:50", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 04:32:55", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 04:36:06", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 04:39:11", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 48, "url": "https://sass-lang.com/documentation/cli/dart-sass", "timestamp": "2025-03-01 04:39:48", "status": "success", "entries_created": 37}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 04:42:58", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 04:46:04", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 04:49:15", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 04:52:20", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 04:55:31", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 04:58:36", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 05:01:24", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 05:04:30", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 05:07:45", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 05:10:51", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 05:14:01", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 05:17:07", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 1, "url": "https://sass-lang.com/documentation/file.SASS_CHANGELOG.html", "timestamp": "2025-03-01 05:20:17", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 21, "url": "https://sass-lang.com/documentation/modules/math", "timestamp": "2025-03-01 05:23:22", "status": "failure", "error": "No usable data returned on retry 25"}

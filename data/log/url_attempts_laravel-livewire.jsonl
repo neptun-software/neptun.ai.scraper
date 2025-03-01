@@ -1,0 +1,73 @@
+{"index": 0, "url": "https://livewire.laravel.com/docs", "timestamp": "2025-03-01 02:50:17", "status": "success", "entries_created": 10}
+{"index": 1, "url": "https://livewire.laravel.com/docs/upgrading", "timestamp": "2025-03-01 02:51:02", "status": "success", "entries_created": 39}
+{"index": 2, "url": "https://livewire.laravel.com/docs/hydration", "timestamp": "2025-03-01 03:03:12", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 3, "url": "https://livewire.laravel.com/docs/security", "timestamp": "2025-03-01 03:04:56", "status": "success", "entries_created": 10}
+{"index": 4, "url": "https://livewire.laravel.com/docs/downloads", "timestamp": "2025-03-01 03:05:30", "status": "success", "entries_created": 10}
+{"index": 5, "url": "https://livewire.laravel.com/docs/events", "timestamp": "2025-03-01 03:05:59", "status": "success", "entries_created": 30}
+{"index": 6, "url": "https://livewire.laravel.com/docs/redirecting", "timestamp": "2025-03-01 03:06:19", "status": "success", "entries_created": 10}
+{"index": 7, "url": "https://livewire.laravel.com/docs/troubleshooting", "timestamp": "2025-03-01 03:06:52", "status": "success", "entries_created": 10}
+{"index": 8, "url": "https://livewire.laravel.com/docs/forms", "timestamp": "2025-03-01 03:09:57", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 9, "url": "https://livewire.laravel.com/docs/morphing", "timestamp": "2025-03-01 03:10:37", "status": "success", "entries_created": 18}
+{"index": 10, "url": "https://livewire.laravel.com/docs/pagination", "timestamp": "2025-03-01 03:13:43", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 11, "url": "https://livewire.laravel.com/docs/alpine", "timestamp": "2025-03-01 03:16:16", "status": "success", "entries_created": 10}
+{"index": 12, "url": "https://livewire.laravel.com/docs/url", "timestamp": "2025-03-01 03:16:40", "status": "success", "entries_created": 10}
+{"index": 13, "url": "https://livewire.laravel.com/docs/volt", "timestamp": "2025-03-01 03:17:15", "status": "success", "entries_created": 10}
+{"index": 14, "url": "https://livewire.laravel.com/docs/nesting", "timestamp": "2025-03-01 03:18:00", "status": "success", "entries_created": 24}
+{"index": 15, "url": "https://livewire.laravel.com/docs/teleport", "timestamp": "2025-03-01 03:18:30", "status": "success", "entries_created": 12}
+{"index": 16, "url": "https://livewire.laravel.com/docs/testing", "timestamp": "2025-03-01 03:21:21", "status": "success", "entries_created": 11}
+{"index": 17, "url": "https://livewire.laravel.com/docs/lazy", "timestamp": "2025-03-01 03:21:57", "status": "success", "entries_created": 10}
+{"index": 18, "url": "https://livewire.laravel.com/docs/actions", "timestamp": "2025-03-01 03:22:28", "status": "success", "entries_created": 26}
+{"index": 19, "url": "https://livewire.laravel.com/docs/bundling", "timestamp": "2025-03-01 03:24:27", "status": "success", "entries_created": 13}
+{"index": 20, "url": "https://livewire.laravel.com/docs/properties", "timestamp": "2025-03-01 03:24:47", "status": "success", "entries_created": 27}
+{"index": 21, "url": "https://livewire.laravel.com/docs/components", "timestamp": "2025-03-01 03:36:53", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 22, "url": "https://livewire.laravel.com/docs/installation", "timestamp": "2025-03-01 03:37:52", "status": "success", "entries_created": 10}
+{"index": 23, "url": "https://livewire.laravel.com/docs/validation", "timestamp": "2025-03-01 03:38:05", "status": "success", "entries_created": 10}
+{"index": 24, "url": "https://livewire.laravel.com/docs/locked", "timestamp": "2025-03-01 03:39:41", "status": "success", "entries_created": 15}
+{"index": 25, "url": "https://livewire.laravel.com/docs/uploads", "timestamp": "2025-03-01 03:40:10", "status": "success", "entries_created": 10}
+{"index": 26, "url": "https://livewire.laravel.com/docs/synthesizers", "timestamp": "2025-03-01 03:40:56", "status": "success", "entries_created": 10}
+{"index": 27, "url": "https://livewire.laravel.com/docs/offline", "timestamp": "2025-03-01 03:41:25", "status": "success", "entries_created": 11}
+{"index": 28, "url": "https://livewire.laravel.com/docs/javascript", "timestamp": "2025-03-01 03:41:57", "status": "success", "entries_created": 14}
+{"index": 29, "url": "https://livewire.laravel.com/docs/navigate", "timestamp": "2025-03-01 03:42:31", "status": "success", "entries_created": 10}
+{"index": 30, "url": "https://livewire.laravel.com/docs/wire-loading", "timestamp": "2025-03-01 03:43:55", "status": "success", "entries_created": 10}
+{"index": 31, "url": "https://livewire.laravel.com/docs/wire-current", "timestamp": "2025-03-01 03:44:29", "status": "success", "entries_created": 10}
+{"index": 32, "url": "https://livewire.laravel.com/docs/wire-confirm", "timestamp": "2025-03-01 03:46:01", "status": "success", "entries_created": 10}
+{"index": 33, "url": "https://livewire.laravel.com/docs/computed-properties", "timestamp": "2025-03-01 03:49:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 34, "url": "https://livewire.laravel.com/docs/wire-dirty", "timestamp": "2025-03-01 03:50:04", "status": "success", "entries_created": 10}
+{"index": 35, "url": "https://livewire.laravel.com/docs/wire-show", "timestamp": "2025-03-01 04:00:46", "status": "success", "entries_created": 10}
+{"index": 36, "url": "https://livewire.laravel.com/docs/wire-cloak", "timestamp": "2025-03-01 04:03:00", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 37, "url": "https://livewire.laravel.com/docs/wire-click", "timestamp": "2025-03-01 04:06:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 38, "url": "https://livewire.laravel.com/docs/wire-navigate", "timestamp": "2025-03-01 04:07:30", "status": "success", "entries_created": 10}
+{"index": 39, "url": "https://livewire.laravel.com/docs/wire-poll", "timestamp": "2025-03-01 04:10:16", "status": "success", "entries_created": 10}
+{"index": 40, "url": "https://livewire.laravel.com/docs/wire-offline", "timestamp": "2025-03-01 04:12:12", "status": "success", "entries_created": 10}
+{"index": 41, "url": "https://livewire.laravel.com/docs/wire-stream", "timestamp": "2025-03-01 04:12:34", "status": "success", "entries_created": 10}
+{"index": 42, "url": "https://livewire.laravel.com/docs/understanding-nesting", "timestamp": "2025-03-01 04:14:21", "status": "success", "entries_created": 10}
+{"index": 43, "url": "https://livewire.laravel.com/docs/contribution-guide", "timestamp": "2025-03-01 04:16:51", "status": "success", "entries_created": 4}
+{"index": 44, "url": "https://livewire.laravel.com/docs/session-properties", "timestamp": "2025-03-01 04:17:37", "status": "success", "entries_created": 11}
+{"index": 45, "url": "https://livewire.laravel.com/docs/wire-model", "timestamp": "2025-03-01 04:20:42", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 46, "url": "https://livewire.laravel.com/docs/wire-replace", "timestamp": "2025-03-01 04:23:42", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 47, "url": "https://livewire.laravel.com/docs/wire-submit", "timestamp": "2025-03-01 04:24:41", "status": "success", "entries_created": 10}
+{"index": 48, "url": "https://livewire.laravel.com/docs/wire-ignore", "timestamp": "2025-03-01 04:27:46", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 49, "url": "https://livewire.laravel.com/docs/wire-text", "timestamp": "2025-03-01 04:28:34", "status": "success", "entries_created": 11}
+{"index": 50, "url": "https://livewire.laravel.com/docs/wire-transition", "timestamp": "2025-03-01 04:29:28", "status": "success", "entries_created": 10}
+{"index": 51, "url": "https://livewire.laravel.com/docs/lifecycle-hooks", "timestamp": "2025-03-01 04:30:18", "status": "success", "entries_created": 12}
+{"index": 52, "url": "https://livewire.laravel.com/docs/wire-init", "timestamp": "2025-03-01 04:31:55", "status": "success", "entries_created": 10}
+{"index": 2, "url": "https://livewire.laravel.com/docs/hydration", "timestamp": "2025-03-01 04:33:57", "status": "success", "entries_created": 19}
+{"index": 8, "url": "https://livewire.laravel.com/docs/forms", "timestamp": "2025-03-01 04:37:03", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 10, "url": "https://livewire.laravel.com/docs/pagination", "timestamp": "2025-03-01 04:40:13", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 21, "url": "https://livewire.laravel.com/docs/components", "timestamp": "2025-03-01 04:43:19", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 33, "url": "https://livewire.laravel.com/docs/computed-properties", "timestamp": "2025-03-01 04:44:54", "status": "success", "entries_created": 12}
+{"index": 36, "url": "https://livewire.laravel.com/docs/wire-cloak", "timestamp": "2025-03-01 04:45:37", "status": "success", "entries_created": 10}
+{"index": 37, "url": "https://livewire.laravel.com/docs/wire-click", "timestamp": "2025-03-01 04:46:13", "status": "success", "entries_created": 10}
+{"index": 45, "url": "https://livewire.laravel.com/docs/wire-model", "timestamp": "2025-03-01 04:47:01", "status": "success", "entries_created": 10}
+{"index": 46, "url": "https://livewire.laravel.com/docs/wire-replace", "timestamp": "2025-03-01 04:47:58", "status": "success", "entries_created": 10}
+{"index": 48, "url": "https://livewire.laravel.com/docs/wire-ignore", "timestamp": "2025-03-01 04:50:39", "status": "success", "entries_created": 10}
+{"index": 8, "url": "https://livewire.laravel.com/docs/forms", "timestamp": "2025-03-01 04:53:49", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 10, "url": "https://livewire.laravel.com/docs/pagination", "timestamp": "2025-03-01 04:56:55", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 21, "url": "https://livewire.laravel.com/docs/components", "timestamp": "2025-03-01 05:00:00", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 8, "url": "https://livewire.laravel.com/docs/forms", "timestamp": "2025-03-01 05:03:10", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 10, "url": "https://livewire.laravel.com/docs/pagination", "timestamp": "2025-03-01 05:05:25", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 21, "url": "https://livewire.laravel.com/docs/components", "timestamp": "2025-03-01 05:08:30", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 8, "url": "https://livewire.laravel.com/docs/forms", "timestamp": "2025-03-01 05:11:32", "status": "success", "entries_created": 19}
+{"index": 10, "url": "https://livewire.laravel.com/docs/pagination", "timestamp": "2025-03-01 05:14:42", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 21, "url": "https://livewire.laravel.com/docs/components", "timestamp": "2025-03-01 05:14:52", "status": "success", "entries_created": 10}
+{"index": 10, "url": "https://livewire.laravel.com/docs/pagination", "timestamp": "2025-03-01 05:16:55", "status": "success", "entries_created": 25}

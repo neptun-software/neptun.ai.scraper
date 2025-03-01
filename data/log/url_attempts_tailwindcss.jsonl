@@ -1,0 +1,312 @@
+{"index": 0, "url": "https://tailwindcss.com/docs", "timestamp": "2025-02-28 22:00:58", "status": "success", "entries_created": 4}
+{"index": 1, "url": "https://tailwindcss.com/docs/columns", "timestamp": "2025-02-28 22:01:17", "status": "success", "entries_created": 4}
+{"index": 2, "url": "https://tailwindcss.com/docs/position", "timestamp": "2025-02-28 22:02:11", "status": "success", "entries_created": 6}
+{"index": 3, "url": "https://tailwindcss.com/docs/margin", "timestamp": "2025-02-28 22:04:07", "status": "success", "entries_created": 5}
+{"index": 4, "url": "https://tailwindcss.com/docs/content", "timestamp": "2025-02-28 22:07:08", "status": "success", "entries_created": 5}
+{"index": 5, "url": "https://tailwindcss.com/docs/presets", "timestamp": "2025-02-28 22:09:36", "status": "success", "entries_created": 12}
+{"index": 6, "url": "https://tailwindcss.com/docs/order", "timestamp": "2025-02-28 22:10:01", "status": "success", "entries_created": 6}
+{"index": 7, "url": "https://tailwindcss.com/docs/float", "timestamp": "2025-02-28 22:11:28", "status": "success", "entries_created": 6}
+{"index": 8, "url": "https://tailwindcss.com/docs/width", "timestamp": "2025-02-28 22:12:03", "status": "success", "entries_created": 7}
+{"index": 9, "url": "https://tailwindcss.com/docs/clear", "timestamp": "2025-02-28 22:12:35", "status": "success", "entries_created": 5}
+{"index": 10, "url": "https://tailwindcss.com/docs/color", "timestamp": "2025-02-28 22:13:33", "status": "success", "entries_created": 6}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-02-28 22:16:38", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 12, "url": "https://tailwindcss.com/docs/skew", "timestamp": "2025-02-28 22:17:30", "status": "success", "entries_created": 6}
+{"index": 13, "url": "https://tailwindcss.com/docs/preflight", "timestamp": "2025-02-28 22:17:51", "status": "success", "entries_created": 13}
+{"index": 14, "url": "https://tailwindcss.com/docs/visibility", "timestamp": "2025-02-28 22:18:19", "status": "success", "entries_created": 5}
+{"index": 15, "url": "https://tailwindcss.com/docs/compatibility", "timestamp": "2025-02-28 22:20:15", "status": "success", "entries_created": 15}
+{"index": 16, "url": "https://tailwindcss.com/docs/appearance", "timestamp": "2025-02-28 22:20:36", "status": "success", "entries_created": 6}
+{"index": 17, "url": "https://tailwindcss.com/docs/height", "timestamp": "2025-02-28 22:21:11", "status": "success", "entries_created": 4}
+{"index": 18, "url": "https://tailwindcss.com/docs/flex", "timestamp": "2025-02-28 22:21:36", "status": "success", "entries_created": 5}
+{"index": 19, "url": "https://tailwindcss.com/docs/stroke", "timestamp": "2025-02-28 22:22:25", "status": "success", "entries_created": 6}
+{"index": 20, "url": "https://tailwindcss.com/docs/opacity", "timestamp": "2025-02-28 22:22:41", "status": "success", "entries_created": 5}
+{"index": 21, "url": "https://tailwindcss.com/docs/display", "timestamp": "2025-02-28 22:23:03", "status": "success", "entries_created": 5}
+{"index": 22, "url": "https://tailwindcss.com/docs/overflow", "timestamp": "2025-02-28 22:23:35", "status": "success", "entries_created": 5}
+{"index": 23, "url": "https://tailwindcss.com/docs/animation", "timestamp": "2025-02-28 22:25:23", "status": "success", "entries_created": 7}
+{"index": 24, "url": "https://tailwindcss.com/docs/cursor", "timestamp": "2025-02-28 22:25:37", "status": "success", "entries_created": 5}
+{"index": 25, "url": "https://tailwindcss.com/docs/resize", "timestamp": "2025-02-28 22:25:53", "status": "success", "entries_created": 5}
+{"index": 26, "url": "https://tailwindcss.com/docs/perspective", "timestamp": "2025-02-28 22:26:50", "status": "success", "entries_created": 6}
+{"index": 27, "url": "https://tailwindcss.com/docs/hyphens", "timestamp": "2025-02-28 22:26:59", "status": "success", "entries_created": 5}
+{"index": 28, "url": "https://tailwindcss.com/docs/gap", "timestamp": "2025-02-28 22:27:19", "status": "success", "entries_created": 4}
+{"index": 29, "url": "https://tailwindcss.com/docs/filter", "timestamp": "2025-02-28 22:27:34", "status": "success", "entries_created": 3}
+{"index": 30, "url": "https://tailwindcss.com/docs/isolation", "timestamp": "2025-02-28 22:27:40", "status": "success", "entries_created": 5}
+{"index": 31, "url": "https://tailwindcss.com/docs/padding", "timestamp": "2025-02-28 22:28:03", "status": "success", "entries_created": 6}
+{"index": 32, "url": "https://tailwindcss.com/docs/fill", "timestamp": "2025-02-28 22:28:47", "status": "success", "entries_created": 6}
+{"index": 33, "url": "https://tailwindcss.com/docs/grid-row", "timestamp": "2025-02-28 22:29:03", "status": "success", "entries_created": 6}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-02-28 22:32:08", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 35, "url": "https://tailwindcss.com/docs/line-clamp", "timestamp": "2025-02-28 22:32:19", "status": "success", "entries_created": 4}
+{"index": 36, "url": "https://tailwindcss.com/docs/accent-color", "timestamp": "2025-02-28 22:33:05", "status": "success", "entries_created": 7}
+{"index": 37, "url": "https://tailwindcss.com/docs/place-items", "timestamp": "2025-02-28 22:33:16", "status": "success", "entries_created": 6}
+{"index": 38, "url": "https://tailwindcss.com/docs/break-after", "timestamp": "2025-02-28 22:33:25", "status": "success", "entries_created": 6}
+{"index": 39, "url": "https://tailwindcss.com/docs/font-family", "timestamp": "2025-02-28 22:33:48", "status": "success", "entries_created": 6}
+{"index": 40, "url": "https://tailwindcss.com/docs/justify-self", "timestamp": "2025-02-28 22:34:00", "status": "success", "entries_created": 6}
+{"index": 41, "url": "https://tailwindcss.com/docs/align-items", "timestamp": "2025-02-28 22:34:19", "status": "success", "entries_created": 5}
+{"index": 42, "url": "https://tailwindcss.com/docs/word-break", "timestamp": "2025-02-28 22:34:30", "status": "success", "entries_created": 5}
+{"index": 43, "url": "https://tailwindcss.com/docs/filter-grayscale", "timestamp": "2025-02-28 22:34:44", "status": "success", "entries_created": 7}
+{"index": 44, "url": "https://tailwindcss.com/docs/dark-mode", "timestamp": "2025-02-28 22:34:56", "status": "success", "entries_created": 6}
+{"index": 45, "url": "https://tailwindcss.com/docs/outline-width", "timestamp": "2025-02-28 22:35:06", "status": "success", "entries_created": 5}
+{"index": 46, "url": "https://tailwindcss.com/docs/background-size", "timestamp": "2025-02-28 22:35:23", "status": "success", "entries_created": 5}
+{"index": 47, "url": "https://tailwindcss.com/docs/scroll-behavior", "timestamp": "2025-02-28 22:35:29", "status": "success", "entries_created": 5}
+{"index": 48, "url": "https://tailwindcss.com/docs/break-inside", "timestamp": "2025-02-28 22:35:36", "status": "success", "entries_created": 6}
+{"index": 49, "url": "https://tailwindcss.com/docs/transition-delay", "timestamp": "2025-02-28 22:35:48", "status": "success", "entries_created": 6}
+{"index": 50, "url": "https://tailwindcss.com/docs/field-sizing", "timestamp": "2025-02-28 22:35:56", "status": "success", "entries_created": 5}
+{"index": 51, "url": "https://tailwindcss.com/docs/break-before", "timestamp": "2025-02-28 22:36:07", "status": "success", "entries_created": 6}
+{"index": 52, "url": "https://tailwindcss.com/docs/upgrade-guide", "timestamp": "2025-02-28 22:37:06", "status": "success", "entries_created": 30}
+{"index": 53, "url": "https://tailwindcss.com/docs/filter-brightness", "timestamp": "2025-02-28 22:37:18", "status": "success", "entries_created": 7}
+{"index": 54, "url": "https://tailwindcss.com/docs/guides/nextjs", "timestamp": "2025-02-28 22:37:25", "status": "success", "entries_created": 10}
+{"index": 55, "url": "https://tailwindcss.com/docs/grid-column", "timestamp": "2025-02-28 22:37:36", "status": "success", "entries_created": 5}
+{"index": 56, "url": "https://tailwindcss.com/docs/transition-property", "timestamp": "2025-02-28 22:37:53", "status": "success", "entries_created": 4}
+{"index": 57, "url": "https://tailwindcss.com/docs/font-style", "timestamp": "2025-02-28 22:40:59", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 58, "url": "https://tailwindcss.com/docs/box-sizing", "timestamp": "2025-02-28 22:41:08", "status": "success", "entries_created": 5}
+{"index": 59, "url": "https://tailwindcss.com/docs/scroll-padding", "timestamp": "2025-02-28 22:41:29", "status": "success", "entries_created": 5}
+{"index": 60, "url": "https://tailwindcss.com/docs/background-attachment", "timestamp": "2025-02-28 22:41:40", "status": "success", "entries_created": 5}
+{"index": 61, "url": "https://tailwindcss.com/docs/object-position", "timestamp": "2025-02-28 22:41:48", "status": "success", "entries_created": 5}
+{"index": 62, "url": "https://tailwindcss.com/docs/border-color", "timestamp": "2025-02-28 22:44:53", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 63, "url": "https://tailwindcss.com/docs/font-weight", "timestamp": "2025-02-28 22:45:10", "status": "success", "entries_created": 9}
+{"index": 64, "url": "https://tailwindcss.com/docs/filter-contrast", "timestamp": "2025-02-28 22:45:22", "status": "success", "entries_created": 7}
+{"index": 65, "url": "https://tailwindcss.com/docs/background-color", "timestamp": "2025-02-28 22:48:22", "status": "success", "entries_created": 7}
+{"index": 66, "url": "https://tailwindcss.com/docs/flex-grow", "timestamp": "2025-02-28 22:48:37", "status": "success", "entries_created": 5}
+{"index": 67, "url": "https://tailwindcss.com/docs/text-transform", "timestamp": "2025-02-28 22:48:49", "status": "success", "entries_created": 5}
+{"index": 68, "url": "https://tailwindcss.com/docs/text-indent", "timestamp": "2025-02-28 22:48:59", "status": "success", "entries_created": 6}
+{"index": 69, "url": "https://tailwindcss.com/docs/filter-invert", "timestamp": "2025-02-28 22:49:11", "status": "success", "entries_created": 5}
+{"index": 70, "url": "https://tailwindcss.com/docs/scroll-margin", "timestamp": "2025-02-28 22:49:28", "status": "success", "entries_created": 4}
+{"index": 71, "url": "https://tailwindcss.com/docs/flex-wrap", "timestamp": "2025-02-28 22:49:35", "status": "success", "entries_created": 5}
+{"index": 72, "url": "https://tailwindcss.com/docs/touch-action", "timestamp": "2025-02-28 22:49:46", "status": "success", "entries_created": 6}
+{"index": 73, "url": "https://tailwindcss.com/docs/flex-shrink", "timestamp": "2025-02-28 22:49:56", "status": "success", "entries_created": 5}
+{"index": 74, "url": "https://tailwindcss.com/docs/flex-direction", "timestamp": "2025-02-28 22:50:04", "status": "success", "entries_created": 5}
+{"index": 75, "url": "https://tailwindcss.com/docs/min-height", "timestamp": "2025-02-28 22:50:14", "status": "success", "entries_created": 5}
+{"index": 76, "url": "https://tailwindcss.com/docs/line-height", "timestamp": "2025-02-28 22:50:31", "status": "success", "entries_created": 6}
+{"index": 77, "url": "https://tailwindcss.com/docs/caret-color", "timestamp": "2025-02-28 22:51:08", "status": "success", "entries_created": 7}
+{"index": 78, "url": "https://tailwindcss.com/docs/user-select", "timestamp": "2025-02-28 22:51:20", "status": "success", "entries_created": 5}
+{"index": 79, "url": "https://tailwindcss.com/docs/border-style", "timestamp": "2025-02-28 22:51:32", "status": "success", "entries_created": 4}
+{"index": 80, "url": "https://tailwindcss.com/docs/typography-plugin", "timestamp": "2025-02-28 22:52:29", "status": "success", "entries_created": 14}
+{"index": 81, "url": "https://tailwindcss.com/docs/text-overflow", "timestamp": "2025-02-28 22:52:37", "status": "success", "entries_created": 10}
+{"index": 82, "url": "https://tailwindcss.com/docs/backdrop-filter", "timestamp": "2025-02-28 22:53:01", "status": "success", "entries_created": 9}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-02-28 22:55:22", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 84, "url": "https://tailwindcss.com/docs/align-self", "timestamp": "2025-02-28 22:55:33", "status": "success", "entries_created": 5}
+{"index": 85, "url": "https://tailwindcss.com/docs/outline-style", "timestamp": "2025-02-28 22:55:44", "status": "success", "entries_created": 6}
+{"index": 86, "url": "https://tailwindcss.com/docs/object-fit", "timestamp": "2025-02-28 22:55:59", "status": "success", "entries_created": 6}
+{"index": 87, "url": "https://tailwindcss.com/docs/place-content", "timestamp": "2025-02-28 22:56:18", "status": "success", "entries_created": 5}
+{"index": 88, "url": "https://tailwindcss.com/docs/vertical-align", "timestamp": "2025-02-28 22:56:25", "status": "success", "entries_created": 5}
+{"index": 89, "url": "https://tailwindcss.com/docs/background-clip", "timestamp": "2025-02-28 22:56:34", "status": "success", "entries_created": 5}
+{"index": 90, "url": "https://tailwindcss.com/docs/overscroll-behavior", "timestamp": "2025-02-28 22:56:40", "status": "success", "entries_created": 5}
+{"index": 91, "url": "https://tailwindcss.com/docs/pointer-events", "timestamp": "2025-02-28 22:56:47", "status": "success", "entries_created": 5}
+{"index": 92, "url": "https://tailwindcss.com/docs/background-image", "timestamp": "2025-02-28 22:57:07", "status": "success", "entries_created": 4}
+{"index": 93, "url": "https://tailwindcss.com/docs/guides/sveltekit", "timestamp": "2025-02-28 22:57:17", "status": "success", "entries_created": 11}
+{"index": 94, "url": "https://tailwindcss.com/docs/color-scheme", "timestamp": "2025-02-28 22:59:53", "status": "success", "entries_created": 3}
+{"index": 95, "url": "https://tailwindcss.com/docs/responsive-design", "timestamp": "2025-02-28 23:02:59", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 96, "url": "https://tailwindcss.com/docs/max-height", "timestamp": "2025-02-28 23:06:04", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 97, "url": "https://tailwindcss.com/docs/font-stretch", "timestamp": "2025-02-28 23:06:54", "status": "success", "entries_created": 5}
+{"index": 98, "url": "https://tailwindcss.com/docs/guides/laravel", "timestamp": "2025-02-28 23:07:29", "status": "success", "entries_created": 12}
+{"index": 99, "url": "https://tailwindcss.com/docs/guides/angular", "timestamp": "2025-02-28 23:07:59", "status": "success", "entries_created": 10}
+{"index": 100, "url": "https://tailwindcss.com/docs/max-width", "timestamp": "2025-02-28 23:08:19", "status": "success", "entries_created": 5}
+{"index": 101, "url": "https://tailwindcss.com/docs/guides/symfony", "timestamp": "2025-02-28 23:09:40", "status": "success", "entries_created": 12}
+{"index": 102, "url": "https://tailwindcss.com/docs/white-space", "timestamp": "2025-02-28 23:10:28", "status": "success", "entries_created": 5}
+{"index": 103, "url": "https://tailwindcss.com/docs/border-collapse", "timestamp": "2025-02-28 23:10:42", "status": "success", "entries_created": 5}
+{"index": 104, "url": "https://tailwindcss.com/docs/background-origin", "timestamp": "2025-02-28 23:11:14", "status": "success", "entries_created": 6}
+{"index": 105, "url": "https://tailwindcss.com/docs/min-width", "timestamp": "2025-02-28 23:12:41", "status": "success", "entries_created": 5}
+{"index": 106, "url": "https://tailwindcss.com/docs/flex-basis", "timestamp": "2025-02-28 23:15:18", "status": "success", "entries_created": 4}
+{"index": 107, "url": "https://tailwindcss.com/docs/justify-content", "timestamp": "2025-02-28 23:16:35", "status": "success", "entries_created": 6}
+{"index": 108, "url": "https://tailwindcss.com/docs/transform-origin", "timestamp": "2025-02-28 23:16:49", "status": "success", "entries_created": 3}
+{"index": 109, "url": "https://tailwindcss.com/docs/transition-behavior", "timestamp": "2025-02-28 23:19:54", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 110, "url": "https://tailwindcss.com/docs/backface-visibility", "timestamp": "2025-02-28 23:20:14", "status": "success", "entries_created": 6}
+{"index": 111, "url": "https://tailwindcss.com/docs/guides/nuxtjs", "timestamp": "2025-02-28 23:23:20", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 112, "url": "https://tailwindcss.com/docs/transform-style", "timestamp": "2025-02-28 23:23:34", "status": "success", "entries_created": 6}
+{"index": 113, "url": "https://tailwindcss.com/docs/outline-color", "timestamp": "2025-02-28 23:26:40", "status": "success", "entries_created": 7}
+{"index": 114, "url": "https://tailwindcss.com/docs/guides/astro", "timestamp": "2025-02-28 23:26:54", "status": "success", "entries_created": 10}
+{"index": 115, "url": "https://tailwindcss.com/docs/caption-side", "timestamp": "2025-02-28 23:28:18", "status": "success", "entries_created": 9}
+{"index": 116, "url": "https://tailwindcss.com/docs/letter-spacing", "timestamp": "2025-02-28 23:28:35", "status": "success", "entries_created": 7}
+{"index": 117, "url": "https://tailwindcss.com/docs/background-repeat", "timestamp": "2025-02-28 23:28:57", "status": "success", "entries_created": 6}
+{"index": 118, "url": "https://tailwindcss.com/docs/filter-blur", "timestamp": "2025-02-28 23:29:19", "status": "success", "entries_created": 8}
+{"index": 119, "url": "https://tailwindcss.com/docs/editor-setup", "timestamp": "2025-02-28 23:29:42", "status": "success", "entries_created": 7}
+{"index": 120, "url": "https://tailwindcss.com/docs/place-self", "timestamp": "2025-02-28 23:30:37", "status": "success", "entries_created": 6}
+{"index": 121, "url": "https://tailwindcss.com/docs/aspect-ratio", "timestamp": "2025-02-28 23:30:58", "status": "success", "entries_created": 6}
+{"index": 122, "url": "https://tailwindcss.com/docs/font-smoothing", "timestamp": "2025-02-28 23:31:09", "status": "success", "entries_created": 6}
+{"index": 123, "url": "https://tailwindcss.com/docs/transition-duration", "timestamp": "2025-02-28 23:31:27", "status": "success", "entries_created": 6}
+{"index": 124, "url": "https://tailwindcss.com/docs/stroke-width", "timestamp": "2025-02-28 23:31:45", "status": "success", "entries_created": 5}
+{"index": 125, "url": "https://tailwindcss.com/docs/text-align", "timestamp": "2025-02-28 23:32:01", "status": "success", "entries_created": 5}
+{"index": 126, "url": "https://tailwindcss.com/docs/divide-width", "timestamp": "2025-02-28 23:32:30", "status": "success", "entries_created": 5}
+{"index": 127, "url": "https://tailwindcss.com/docs/background-position", "timestamp": "2025-02-28 23:32:55", "status": "success", "entries_created": 8}
+{"index": 128, "url": "https://tailwindcss.com/docs/font-size", "timestamp": "2025-02-28 23:33:17", "status": "success", "entries_created": 5}
+{"index": 129, "url": "https://tailwindcss.com/docs/filter-saturate", "timestamp": "2025-02-28 23:33:39", "status": "success", "entries_created": 7}
+{"index": 130, "url": "https://tailwindcss.com/docs/customizing-colors", "timestamp": "2025-02-28 23:34:05", "status": "success", "entries_created": 15}
+{"index": 131, "url": "https://tailwindcss.com/docs/border-spacing", "timestamp": "2025-02-28 23:36:27", "status": "success", "entries_created": 4}
+{"index": 132, "url": "https://tailwindcss.com/docs/justify-items", "timestamp": "2025-02-28 23:36:46", "status": "success", "entries_created": 6}
+{"index": 133, "url": "https://tailwindcss.com/docs/align-content", "timestamp": "2025-02-28 23:39:20", "status": "success", "entries_created": 4}
+{"index": 134, "url": "https://tailwindcss.com/docs/filter-sepia", "timestamp": "2025-02-28 23:39:46", "status": "success", "entries_created": 6}
+{"index": 135, "url": "https://tailwindcss.com/docs/outline-offset", "timestamp": "2025-02-28 23:41:08", "status": "success", "entries_created": 6}
+{"index": 136, "url": "https://tailwindcss.com/docs/perspective-origin", "timestamp": "2025-02-28 23:41:37", "status": "success", "entries_created": 8}
+{"index": 137, "url": "https://tailwindcss.com/docs/z-index", "timestamp": "2025-02-28 23:42:55", "status": "success", "entries_created": 6}
+{"index": 138, "url": "https://tailwindcss.com/docs/border-width", "timestamp": "2025-02-28 23:43:28", "status": "success", "entries_created": 5}
+{"index": 139, "url": "https://tailwindcss.com/docs/will-change", "timestamp": "2025-02-28 23:43:44", "status": "success", "entries_created": 6}
+{"index": 140, "url": "https://tailwindcss.com/docs/table-layout", "timestamp": "2025-02-28 23:44:03", "status": "success", "entries_created": 5}
+{"index": 141, "url": "https://tailwindcss.com/docs/text-wrap", "timestamp": "2025-02-28 23:44:19", "status": "success", "entries_created": 6}
+{"index": 142, "url": "https://tailwindcss.com/docs/filter-drop-shadow", "timestamp": "2025-02-28 23:44:34", "status": "success", "entries_created": 4}
+{"index": 143, "url": "https://tailwindcss.com/docs/forced-color-adjust", "timestamp": "2025-02-28 23:45:25", "status": "success", "entries_created": 8}
+{"index": 144, "url": "https://tailwindcss.com/docs/backdrop-filter-contrast", "timestamp": "2025-02-28 23:46:43", "status": "success", "entries_created": 5}
+{"index": 145, "url": "https://tailwindcss.com/docs/adding-custom-styles", "timestamp": "2025-02-28 23:47:27", "status": "success", "entries_created": 24}
+{"index": 146, "url": "https://tailwindcss.com/docs/backdrop-filter-blur", "timestamp": "2025-02-28 23:48:06", "status": "success", "entries_created": 8}
+{"index": 147, "url": "https://tailwindcss.com/docs/functions-and-directives", "timestamp": "2025-02-28 23:48:55", "status": "success", "entries_created": 4}
+{"index": 148, "url": "https://tailwindcss.com/docs/translate", "timestamp": "2025-02-28 23:49:22", "status": "success", "entries_created": 13}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-02-28 23:52:27", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 150, "url": "https://tailwindcss.com/docs/grid-template-columns", "timestamp": "2025-02-28 23:52:35", "status": "success", "entries_created": 9}
+{"index": 151, "url": "https://tailwindcss.com/docs/backdrop-filter-opacity", "timestamp": "2025-02-28 23:52:57", "status": "success", "entries_created": 7}
+{"index": 152, "url": "https://tailwindcss.com/docs/list-style-type", "timestamp": "2025-02-28 23:53:08", "status": "success", "entries_created": 3}
+{"index": 153, "url": "https://tailwindcss.com/docs/backdrop-filter-sepia", "timestamp": "2025-02-28 23:53:26", "status": "success", "entries_created": 7}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-02-28 23:56:34", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 155, "url": "https://tailwindcss.com/docs/backdrop-filter-brightness", "timestamp": "2025-02-28 23:57:15", "status": "success", "entries_created": 5}
+{"index": 156, "url": "https://tailwindcss.com/docs/backdrop-filter-invert", "timestamp": "2025-02-28 23:57:31", "status": "success", "entries_created": 7}
+{"index": 157, "url": "https://tailwindcss.com/docs/text-decoration-style", "timestamp": "2025-02-28 23:57:47", "status": "success", "entries_created": 8}
+{"index": 158, "url": "https://tailwindcss.com/docs/scroll-snap-align", "timestamp": "2025-02-28 23:58:25", "status": "success", "entries_created": 8}
+{"index": 159, "url": "https://tailwindcss.com/docs/list-style-position", "timestamp": "2025-02-28 23:58:34", "status": "success", "entries_created": 6}
+{"index": 160, "url": "https://tailwindcss.com/docs/installation/framework-guides", "timestamp": "2025-02-28 23:58:49", "status": "success", "entries_created": 24}
+{"index": 161, "url": "https://tailwindcss.com/docs/background-blend-mode", "timestamp": "2025-02-28 23:59:12", "status": "success", "entries_created": 4}
+{"index": 162, "url": "https://tailwindcss.com/docs/installation/play-cdn", "timestamp": "2025-02-28 23:59:22", "status": "success", "entries_created": 7}
+{"index": 163, "url": "https://tailwindcss.com/docs/list-style-image", "timestamp": "2025-02-28 23:59:35", "status": "success", "entries_created": 6}
+{"index": 164, "url": "https://tailwindcss.com/docs/transition-timing-function", "timestamp": "2025-02-28 23:59:50", "status": "success", "entries_created": 7}
+{"index": 165, "url": "https://tailwindcss.com/docs/scale", "timestamp": "2025-03-01 00:00:00", "status": "success", "entries_created": 5}
+{"index": 166, "url": "https://tailwindcss.com/docs/grid-auto-columns", "timestamp": "2025-03-01 00:00:18", "status": "success", "entries_created": 4}
+{"index": 167, "url": "https://tailwindcss.com/docs/rotate", "timestamp": "2025-03-01 00:02:01", "status": "success", "entries_created": 6}
+{"index": 168, "url": "https://tailwindcss.com/docs/mix-blend-mode", "timestamp": "2025-03-01 00:02:11", "status": "success", "entries_created": 4}
+{"index": 169, "url": "https://tailwindcss.com/docs/backdrop-filter-grayscale", "timestamp": "2025-03-01 00:02:27", "status": "success", "entries_created": 7}
+{"index": 170, "url": "https://tailwindcss.com/docs/backdrop-filter-saturate", "timestamp": "2025-03-01 00:02:41", "status": "success", "entries_created": 7}
+{"index": 171, "url": "https://tailwindcss.com/docs/scroll-snap-stop", "timestamp": "2025-03-01 00:04:29", "status": "success", "entries_created": 8}
+{"index": 172, "url": "https://tailwindcss.com/docs/text-decoration-line", "timestamp": "2025-03-01 00:04:42", "status": "success", "entries_created": 5}
+{"index": 173, "url": "https://tailwindcss.com/docs/using-with-preprocessors", "timestamp": "2025-03-01 00:05:39", "status": "success", "entries_created": 8}
+{"index": 174, "url": "https://tailwindcss.com/docs/text-decoration-thickness", "timestamp": "2025-03-01 00:06:10", "status": "success", "entries_created": 9}
+{"index": 175, "url": "https://tailwindcss.com/docs/ring-offset-width", "timestamp": "2025-03-01 00:06:30", "status": "success", "entries_created": 8}
+{"index": 176, "url": "https://tailwindcss.com/docs/font-variant-numeric", "timestamp": "2025-03-01 00:06:41", "status": "success", "entries_created": 5}
+{"index": 177, "url": "https://tailwindcss.com/docs/transform", "timestamp": "2025-03-01 00:06:49", "status": "success", "entries_created": 4}
+{"index": 178, "url": "https://tailwindcss.com/docs/box-decoration-break", "timestamp": "2025-03-01 00:07:04", "status": "success", "entries_created": 6}
+{"index": 179, "url": "https://tailwindcss.com/docs/grid-auto-rows", "timestamp": "2025-03-01 00:07:30", "status": "success", "entries_created": 5}
+{"index": 180, "url": "https://tailwindcss.com/docs/grid-auto-flow", "timestamp": "2025-03-01 00:08:48", "status": "success", "entries_created": 5}
+{"index": 181, "url": "https://tailwindcss.com/docs/styling-with-utility-classes", "timestamp": "2025-03-01 00:11:54", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 182, "url": "https://tailwindcss.com/docs/top-right-bottom-left", "timestamp": "2025-03-01 00:12:30", "status": "success", "entries_created": 4}
+{"index": 183, "url": "https://tailwindcss.com/docs/installation/framework-guides/react-router", "timestamp": "2025-03-01 00:12:45", "status": "success", "entries_created": 10}
+{"index": 184, "url": "https://tailwindcss.com/docs/hover-focus-and-other-states", "timestamp": "2025-03-01 00:13:28", "status": "success", "entries_created": 8}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 00:16:35", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 00:19:45", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 57, "url": "https://tailwindcss.com/docs/font-style", "timestamp": "2025-03-01 00:19:59", "status": "success", "entries_created": 5}
+{"index": 62, "url": "https://tailwindcss.com/docs/border-color", "timestamp": "2025-03-01 00:23:05", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 00:26:15", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 95, "url": "https://tailwindcss.com/docs/responsive-design", "timestamp": "2025-03-01 00:27:05", "status": "success", "entries_created": 19}
+{"index": 96, "url": "https://tailwindcss.com/docs/max-height", "timestamp": "2025-03-01 00:28:36", "status": "success", "entries_created": 5}
+{"index": 109, "url": "https://tailwindcss.com/docs/transition-behavior", "timestamp": "2025-03-01 00:28:47", "status": "success", "entries_created": 5}
+{"index": 111, "url": "https://tailwindcss.com/docs/guides/nuxtjs", "timestamp": "2025-03-01 00:29:04", "status": "success", "entries_created": 11}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 00:32:10", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 00:35:16", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 181, "url": "https://tailwindcss.com/docs/styling-with-utility-classes", "timestamp": "2025-03-01 00:35:50", "status": "success", "entries_created": 22}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 00:38:45", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 00:41:53", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 62, "url": "https://tailwindcss.com/docs/border-color", "timestamp": "2025-03-01 00:44:59", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 00:48:05", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 00:51:15", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 00:54:21", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 00:57:31", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 01:00:37", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 62, "url": "https://tailwindcss.com/docs/border-color", "timestamp": "2025-03-01 01:03:47", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 01:06:53", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 01:09:58", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 01:13:04", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 01:16:14", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 01:19:20", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 62, "url": "https://tailwindcss.com/docs/border-color", "timestamp": "2025-03-01 01:22:26", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 01:25:31", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 01:28:37", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 01:31:42", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 01:34:53", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 01:37:58", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 62, "url": "https://tailwindcss.com/docs/border-color", "timestamp": "2025-03-01 01:38:34", "status": "success", "entries_created": 3}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 01:41:39", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 01:44:45", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 01:47:50", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 01:51:02", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 01:54:08", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 01:57:13", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 02:00:19", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 02:03:33", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 02:06:44", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 02:09:49", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 02:12:55", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 02:16:01", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 02:19:06", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 02:22:17", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 02:25:23", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 02:28:29", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 02:31:34", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 02:34:40", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 02:37:50", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 02:41:00", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 02:43:45", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 02:46:50", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 02:50:00", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 02:53:11", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 02:56:16", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 02:59:26", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 03:01:34", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 03:13:42", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 03:16:52", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 03:20:06", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 03:23:12", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 03:26:17", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 03:29:23", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 03:32:33", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 03:35:39", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 03:38:23", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 03:41:33", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 03:44:38", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 03:47:49", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 03:50:59", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 03:54:04", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 03:57:10", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 04:00:15", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 04:03:26", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 04:06:31", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 04:09:37", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 04:12:42", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 04:15:47", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 04:19:02", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 04:22:08", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 04:25:13", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 04:28:23", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 04:31:15", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 04:34:25", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 04:37:31", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 04:40:36", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 04:43:42", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 154, "url": "https://tailwindcss.com/docs/text-decoration-color", "timestamp": "2025-03-01 04:44:37", "status": "success", "entries_created": 7}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 04:47:47", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 04:50:53", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 04:53:58", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 04:57:04", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 05:00:14", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 05:03:29", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 05:06:35", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 05:09:41", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 05:12:51", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 05:15:56", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 05:19:02", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 05:22:07", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 05:25:18", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 05:27:43", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 05:30:48", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 05:33:54", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 05:37:04", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 05:40:10", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 05:43:15", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 05:46:20", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 05:49:35", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 05:52:41", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 05:55:46", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 05:58:52", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 06:02:02", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 06:05:07", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 06:08:13", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 06:11:18", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 06:14:29", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 06:17:34", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 06:20:40", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 06:23:45", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 11, "url": "https://tailwindcss.com/docs/theme", "timestamp": "2025-03-01 06:26:55", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 34, "url": "https://tailwindcss.com/docs/box-shadow", "timestamp": "2025-03-01 06:30:01", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 83, "url": "https://tailwindcss.com/docs/border-radius", "timestamp": "2025-03-01 06:33:06", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 149, "url": "https://tailwindcss.com/docs/ring-offset-color", "timestamp": "2025-03-01 06:36:21", "status": "failure", "error": "No usable data returned on retry 25"}

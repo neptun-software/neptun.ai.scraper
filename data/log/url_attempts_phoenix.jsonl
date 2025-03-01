@@ -1,0 +1,412 @@
+{"index": 0, "url": "https://hexdocs.pm/phoenix", "timestamp": "2025-03-01 02:50:35", "status": "success", "entries_created": 9}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 02:53:40", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 2, "url": "https://hexdocs.pm/phoenix/up_and_running.html", "timestamp": "2025-03-01 02:57:04", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 3, "url": "https://hexdocs.pm/phoenix/request_lifecycle.html", "timestamp": "2025-03-01 03:00:11", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 4, "url": "https://hexdocs.pm/phoenix/plug.html", "timestamp": "2025-03-01 03:03:17", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 5, "url": "https://hexdocs.pm/phoenix/routing.html", "timestamp": "2025-03-01 03:04:11", "status": "success", "entries_created": 16}
+{"index": 6, "url": "https://hexdocs.pm/phoenix/components.html", "timestamp": "2025-03-01 03:07:06", "status": "success", "entries_created": 8}
+{"index": 7, "url": "https://hexdocs.pm/phoenix/testing.html", "timestamp": "2025-03-01 03:10:11", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 8, "url": "https://hexdocs.pm/phoenix/testing_contexts.html", "timestamp": "2025-03-01 03:11:39", "status": "success", "entries_created": 8}
+{"index": 9, "url": "https://hexdocs.pm/phoenix/ecto.html", "timestamp": "2025-03-01 03:14:45", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 10, "url": "https://hexdocs.pm/phoenix/directory_structure.html", "timestamp": "2025-03-01 03:17:57", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 11, "url": "https://hexdocs.pm/phoenix/gigalixir.html", "timestamp": "2025-03-01 03:18:30", "status": "success", "entries_created": 17}
+{"index": 12, "url": "https://hexdocs.pm/phoenix/testing_controllers.html", "timestamp": "2025-03-01 03:20:13", "status": "success", "entries_created": 12}
+{"index": 13, "url": "https://hexdocs.pm/phoenix/router.html", "timestamp": "2025-03-01 03:23:19", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 14, "url": "https://hexdocs.pm/phoenix/telemetry.html", "timestamp": "2025-03-01 03:26:24", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 15, "url": "https://hexdocs.pm/phoenix/mix_phx_gen_auth.html", "timestamp": "2025-03-01 03:27:17", "status": "success", "entries_created": 16}
+{"index": 16, "url": "https://hexdocs.pm/phoenix/mix_tasks.html", "timestamp": "2025-03-01 03:30:21", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 17, "url": "https://hexdocs.pm/phoenix/custom_error_pages.html", "timestamp": "2025-03-01 03:30:55", "status": "success", "entries_created": 4}
+{"index": 18, "url": "https://hexdocs.pm/phoenix/controllers.html", "timestamp": "2025-03-01 03:32:43", "status": "success", "entries_created": 15}
+{"index": 19, "url": "https://hexdocs.pm/phoenix/installation.html", "timestamp": "2025-03-01 03:34:18", "status": "success", "entries_created": 10}
+{"index": 20, "url": "https://hexdocs.pm/phoenix/presence.html", "timestamp": "2025-03-01 03:37:23", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 21, "url": "https://hexdocs.pm/phoenix/deployment.html", "timestamp": "2025-03-01 03:39:04", "status": "success", "entries_created": 7}
+{"index": 22, "url": "https://hexdocs.pm/phoenix/json_and_apis.html", "timestamp": "2025-03-01 03:42:10", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 23, "url": "https://hexdocs.pm/phoenix/api_authentication.html", "timestamp": "2025-03-01 03:44:24", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 24, "url": "https://hexdocs.pm/phoenix/packages_glossary.html", "timestamp": "2025-03-01 03:44:37", "status": "success", "entries_created": 5}
+{"index": 25, "url": "https://hexdocs.pm/phoenix/releases.html", "timestamp": "2025-03-01 03:47:43", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 26, "url": "https://hexdocs.pm/phoenix/file_uploads.html", "timestamp": "2025-03-01 03:50:48", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 27, "url": "https://hexdocs.pm/phoenix/contexts.html", "timestamp": "2025-03-01 03:53:54", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 28, "url": "https://hexdocs.pm/phoenix/writing_a_channels_client.html", "timestamp": "2025-03-01 03:56:59", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 29, "url": "https://hexdocs.pm/phoenix/community.html", "timestamp": "2025-03-01 03:58:57", "status": "success", "entries_created": 5}
+{"index": 30, "url": "https://hexdocs.pm/phoenix/changelog.html", "timestamp": "2025-03-01 03:59:55", "status": "success", "entries_created": 31}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 04:03:00", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 32, "url": "https://hexdocs.pm/phoenix/testing_channels.html", "timestamp": "2025-03-01 04:04:58", "status": "success", "entries_created": 9}
+{"index": 33, "url": "https://hexdocs.pm/phoenix/using_ssl.html", "timestamp": "2025-03-01 04:06:48", "status": "success", "entries_created": 7}
+{"index": 34, "url": "https://hexdocs.pm/phoenix/Phoenix.html", "timestamp": "2025-03-01 04:06:52", "status": "success", "entries_created": 5}
+{"index": 35, "url": "https://hexdocs.pm/phoenix/asset_management.html", "timestamp": "2025-03-01 04:08:22", "status": "success", "entries_created": 8}
+{"index": 36, "url": "https://hexdocs.pm/phoenix/fly.html", "timestamp": "2025-03-01 04:09:10", "status": "success", "entries_created": 19}
+{"index": 37, "url": "https://hexdocs.pm/phoenix/channels.html", "timestamp": "2025-03-01 04:09:41", "status": "success", "entries_created": 21}
+{"index": 38, "url": "https://hexdocs.pm/phoenix/1.0.4", "timestamp": "2025-03-01 04:11:11", "status": "success", "entries_created": 2}
+{"index": 39, "url": "https://hexdocs.pm/phoenix/0.10.0", "timestamp": "2025-03-01 04:11:27", "status": "success", "entries_created": 6}
+{"index": 40, "url": "https://hexdocs.pm/phoenix/1.7.14", "timestamp": "2025-03-01 04:11:43", "status": "success", "entries_created": 9}
+{"index": 41, "url": "https://hexdocs.pm/phoenix/1.2.2", "timestamp": "2025-03-01 04:11:52", "status": "success", "entries_created": 2}
+{"index": 42, "url": "https://hexdocs.pm/phoenix/0.6.1", "timestamp": "2025-03-01 04:12:16", "status": "success", "entries_created": 4}
+{"index": 43, "url": "https://hexdocs.pm/phoenix/0.17.0", "timestamp": "2025-03-01 04:12:26", "status": "success", "entries_created": 4}
+{"index": 44, "url": "https://hexdocs.pm/phoenix/0.9.0", "timestamp": "2025-03-01 04:15:31", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 45, "url": "https://hexdocs.pm/phoenix/0.6.2", "timestamp": "2025-03-01 04:15:52", "status": "success", "entries_created": 8}
+{"index": 46, "url": "https://hexdocs.pm/phoenix/Phoenix.Channel.html", "timestamp": "2025-03-01 04:18:58", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 47, "url": "https://hexdocs.pm/phoenix/Phoenix.Logger.html", "timestamp": "2025-03-01 04:20:29", "status": "success", "entries_created": 4}
+{"index": 48, "url": "https://hexdocs.pm/phoenix/Phoenix.Param.html", "timestamp": "2025-03-01 04:20:56", "status": "success", "entries_created": 4}
+{"index": 49, "url": "https://hexdocs.pm/phoenix/0.16.1", "timestamp": "2025-03-01 04:24:01", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 50, "url": "https://hexdocs.pm/phoenix/Phoenix.Router.html", "timestamp": "2025-03-01 04:24:43", "status": "success", "entries_created": 4}
+{"index": 51, "url": "https://hexdocs.pm/phoenix/0.17.1", "timestamp": "2025-03-01 04:25:14", "status": "success", "entries_created": 4}
+{"index": 52, "url": "https://hexdocs.pm/phoenix/Phoenix.Controller.html", "timestamp": "2025-03-01 04:26:06", "status": "success", "entries_created": 12}
+{"index": 53, "url": "https://hexdocs.pm/phoenix/1.4.16", "timestamp": "2025-03-01 04:27:05", "status": "success", "entries_created": 3}
+{"index": 54, "url": "https://hexdocs.pm/phoenix/0.6.0", "timestamp": "2025-03-01 04:27:19", "status": "success", "entries_created": 0}
+{"index": 55, "url": "https://hexdocs.pm/phoenix/1.4.8", "timestamp": "2025-03-01 04:27:44", "status": "success", "entries_created": 3}
+{"index": 56, "url": "https://hexdocs.pm/phoenix/Phoenix.NotAcceptableError.html", "timestamp": "2025-03-01 04:30:00", "status": "success", "entries_created": 4}
+{"index": 57, "url": "https://hexdocs.pm/phoenix/Phoenix.Token.html", "timestamp": "2025-03-01 04:33:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 58, "url": "https://hexdocs.pm/phoenix/Phoenix.ConnTest.html", "timestamp": "2025-03-01 04:34:02", "status": "success", "entries_created": 8}
+{"index": 59, "url": "https://hexdocs.pm/phoenix/0.7.0", "timestamp": "2025-03-01 04:35:27", "status": "success", "entries_created": 2}
+{"index": 60, "url": "https://hexdocs.pm/phoenix/Phoenix.Endpoint.html", "timestamp": "2025-03-01 04:38:33", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 61, "url": "https://hexdocs.pm/phoenix/api-reference.html", "timestamp": "2025-03-01 04:39:05", "status": "success", "entries_created": 3}
+{"index": 62, "url": "https://hexdocs.pm/phoenix/Phoenix.VerifiedRoutes.html", "timestamp": "2025-03-01 04:39:49", "status": "success", "entries_created": 8}
+{"index": 63, "url": "https://hexdocs.pm/phoenix/1.4.12", "timestamp": "2025-03-01 04:40:34", "status": "success", "entries_created": 3}
+{"index": 64, "url": "https://hexdocs.pm/phoenix/Phoenix.CodeReloader.html", "timestamp": "2025-03-01 04:40:59", "status": "success", "entries_created": 10}
+{"index": 65, "url": "https://hexdocs.pm/phoenix/0.8.0", "timestamp": "2025-03-01 04:41:26", "status": "success", "entries_created": 4}
+{"index": 66, "url": "https://hexdocs.pm/phoenix/Phoenix.Presence.html", "timestamp": "2025-03-01 04:42:25", "status": "success", "entries_created": 7}
+{"index": 67, "url": "https://hexdocs.pm/phoenix/0.13.1", "timestamp": "2025-03-01 04:43:38", "status": "success", "entries_created": 6}
+{"index": 68, "url": "https://hexdocs.pm/phoenix/Phoenix.ChannelTest.html", "timestamp": "2025-03-01 04:44:30", "status": "success", "entries_created": 7}
+{"index": 69, "url": "https://hexdocs.pm/phoenix/0.16.0", "timestamp": "2025-03-01 04:47:35", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 70, "url": "https://hexdocs.pm/phoenix/Phoenix.Naming.html", "timestamp": "2025-03-01 04:49:06", "status": "success", "entries_created": 5}
+{"index": 71, "url": "https://hexdocs.pm/phoenix/0.15.0", "timestamp": "2025-03-01 04:50:25", "status": "success", "entries_created": 2}
+{"index": 72, "url": "https://hexdocs.pm/phoenix/Phoenix.Socket.html", "timestamp": "2025-03-01 04:51:01", "status": "success", "entries_created": 12}
+{"index": 73, "url": "https://hexdocs.pm/phoenix/1.0.6", "timestamp": "2025-03-01 04:51:13", "status": "success", "entries_created": 2}
+{"index": 74, "url": "https://hexdocs.pm/phoenix/0.5.0", "timestamp": "2025-03-01 04:51:49", "status": "success", "entries_created": 8}
+{"index": 75, "url": "https://hexdocs.pm/phoenix/Phoenix.ActionClauseError.html", "timestamp": "2025-03-01 04:54:55", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 76, "url": "https://hexdocs.pm/phoenix/Phoenix.MissingParamError.html", "timestamp": "2025-03-01 04:55:07", "status": "success", "entries_created": 4}
+{"index": 77, "url": "https://hexdocs.pm/phoenix/Phoenix.Flash.html", "timestamp": "2025-03-01 04:55:25", "status": "success", "entries_created": 5}
+{"index": 78, "url": "https://hexdocs.pm/phoenix/1.7.20", "timestamp": "2025-03-01 04:55:47", "status": "success", "entries_created": 9}
+{"index": 79, "url": "https://hexdocs.pm/phoenix/Phoenix.Socket.Transport.html", "timestamp": "2025-03-01 04:58:28", "status": "success", "entries_created": 8}
+{"index": 80, "url": "https://hexdocs.pm/phoenix/Phoenix.Endpoint.SyncCodeReloadPlug.html", "timestamp": "2025-03-01 04:59:22", "status": "success", "entries_created": 5}
+{"index": 81, "url": "https://hexdocs.pm/phoenix/Phoenix.Socket.Broadcast.html", "timestamp": "2025-03-01 05:00:36", "status": "success", "entries_created": 4}
+{"index": 82, "url": "https://hexdocs.pm/phoenix/Phoenix.Endpoint.Cowboy2Adapter.html", "timestamp": "2025-03-01 05:02:19", "status": "success", "entries_created": 6}
+{"index": 83, "url": "https://hexdocs.pm/phoenix/Phoenix.Socket.Message.html", "timestamp": "2025-03-01 05:02:35", "status": "success", "entries_created": 6}
+{"index": 84, "url": "https://hexdocs.pm/phoenix/Phoenix.Socket.Serializer.html", "timestamp": "2025-03-01 05:02:52", "status": "success", "entries_created": 5}
+{"index": 85, "url": "https://hexdocs.pm/phoenix/Phoenix.Router.NoRouteError.html", "timestamp": "2025-03-01 05:03:02", "status": "success", "entries_created": 2}
+{"index": 86, "url": "https://hexdocs.pm/phoenix/Phoenix.Digester.Compressor.html", "timestamp": "2025-03-01 05:03:28", "status": "success", "entries_created": 6}
+{"index": 87, "url": "https://hexdocs.pm/phoenix/Mix.Tasks.Phx.html", "timestamp": "2025-03-01 05:03:37", "status": "success", "entries_created": 3}
+{"index": 88, "url": "https://hexdocs.pm/phoenix/Phoenix.Router.MalformedURIError.html", "timestamp": "2025-03-01 05:04:16", "status": "success", "entries_created": 2}
+{"index": 89, "url": "https://hexdocs.pm/phoenix/Phoenix.Socket.Reply.html", "timestamp": "2025-03-01 05:05:34", "status": "success", "entries_created": 4}
+{"index": 90, "url": "https://hexdocs.pm/phoenix/Phoenix.Digester.Gzip.html", "timestamp": "2025-03-01 05:05:55", "status": "success", "entries_created": 4}
+{"index": 91, "url": "https://hexdocs.pm/phoenix/1.4.13/releases.html", "timestamp": "2025-03-01 05:06:53", "status": "success", "entries_created": 9}
+{"index": 92, "url": "https://hexdocs.pm/phoenix/0.7.1/index.html", "timestamp": "2025-03-01 05:07:20", "status": "success", "entries_created": 2}
+{"index": 93, "url": "https://hexdocs.pm/phoenix/1.5.2/contexts.html", "timestamp": "2025-03-01 05:10:01", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 94, "url": "https://hexdocs.pm/phoenix/1.5.0/releases.html", "timestamp": "2025-03-01 05:11:58", "status": "success", "entries_created": 9}
+{"index": 95, "url": "https://hexdocs.pm/phoenix/1.4.9/testing.html", "timestamp": "2025-03-01 05:12:24", "status": "success", "entries_created": 11}
+{"index": 96, "url": "https://hexdocs.pm/phoenix/1.4.8/community.html", "timestamp": "2025-03-01 05:12:41", "status": "success", "entries_created": 2}
+{"index": 97, "url": "https://hexdocs.pm/phoenix/1.3.0/contexts.html", "timestamp": "2025-03-01 05:13:22", "status": "success", "entries_created": 11}
+{"index": 98, "url": "https://hexdocs.pm/phoenix/1.4.3/Phoenix.html", "timestamp": "2025-03-01 05:13:41", "status": "success", "entries_created": 7}
+{"index": 99, "url": "https://hexdocs.pm/phoenix/1.6.0/releases.html", "timestamp": "2025-03-01 05:16:47", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 100, "url": "https://hexdocs.pm/phoenix/1.1.9/Phoenix.html", "timestamp": "2025-03-01 05:18:13", "status": "success", "entries_created": 2}
+{"index": 101, "url": "https://hexdocs.pm/phoenix/0.13.0/index.html", "timestamp": "2025-03-01 05:18:48", "status": "success", "entries_created": 3}
+{"index": 102, "url": "https://hexdocs.pm/phoenix/1.4.2/views.html", "timestamp": "2025-03-01 05:21:21", "status": "success", "entries_created": 8}
+{"index": 103, "url": "https://hexdocs.pm/phoenix/1.1.7/index.html", "timestamp": "2025-03-01 05:23:04", "status": "success", "entries_created": 2}
+{"index": 104, "url": "https://hexdocs.pm/phoenix/1.4.3/contexts.html", "timestamp": "2025-03-01 05:23:36", "status": "success", "entries_created": 9}
+{"index": 105, "url": "https://hexdocs.pm/phoenix/1.1.5/index.html", "timestamp": "2025-03-01 05:23:47", "status": "success", "entries_created": 2}
+{"index": 106, "url": "https://hexdocs.pm/phoenix/1.3.0/adding_pages.html", "timestamp": "2025-03-01 05:24:40", "status": "success", "entries_created": 16}
+{"index": 107, "url": "https://hexdocs.pm/phoenix/1.2.2/Phoenix.html", "timestamp": "2025-03-01 05:24:57", "status": "success", "entries_created": 2}
+{"index": 108, "url": "https://hexdocs.pm/phoenix/1.1.1/index.html", "timestamp": "2025-03-01 05:25:08", "status": "success", "entries_created": 2}
+{"index": 109, "url": "https://hexdocs.pm/phoenix/1.0.1/Phoenix.html", "timestamp": "2025-03-01 05:26:03", "status": "success", "entries_created": 3}
+{"index": 110, "url": "https://hexdocs.pm/phoenix/1.5.4/contexts.html", "timestamp": "2025-03-01 05:26:23", "status": "success", "entries_created": 12}
+{"index": 111, "url": "https://hexdocs.pm/phoenix/1.3.4/plug.html", "timestamp": "2025-03-01 05:29:29", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 112, "url": "https://hexdocs.pm/phoenix/1.5.4/index.html", "timestamp": "2025-03-01 05:29:48", "status": "success", "entries_created": 8}
+{"index": 113, "url": "https://hexdocs.pm/phoenix/1.4.15/index.html", "timestamp": "2025-03-01 05:30:11", "status": "success", "entries_created": 3}
+{"index": 114, "url": "https://hexdocs.pm/phoenix/1.3.0/testing.html", "timestamp": "2025-03-01 05:31:36", "status": "success", "entries_created": 11}
+{"index": 115, "url": "https://hexdocs.pm/phoenix/1.5.8/contexts.html", "timestamp": "2025-03-01 05:33:22", "status": "success", "entries_created": 12}
+{"index": 116, "url": "https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Routes.html", "timestamp": "2025-03-01 05:34:47", "status": "success", "entries_created": 6}
+{"index": 117, "url": "https://hexdocs.pm/phoenix/1.4.1/plug.html", "timestamp": "2025-03-01 05:37:34", "status": "success", "entries_created": 12}
+{"index": 118, "url": "https://hexdocs.pm/phoenix/1.2.0-rc.0", "timestamp": "2025-03-01 05:38:45", "status": "success", "entries_created": 2}
+{"index": 119, "url": "https://hexdocs.pm/phoenix/0.12.0/index.html", "timestamp": "2025-03-01 05:40:24", "status": "success", "entries_created": 3}
+{"index": 120, "url": "https://hexdocs.pm/phoenix/1.4.9/releases.html", "timestamp": "2025-03-01 05:43:29", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 121, "url": "https://hexdocs.pm/phoenix/1.0.3/Phoenix.html", "timestamp": "2025-03-01 05:43:52", "status": "success", "entries_created": 2}
+{"index": 122, "url": "https://hexdocs.pm/phoenix/1.4.0/presence.html", "timestamp": "2025-03-01 05:45:23", "status": "success", "entries_created": 10}
+{"index": 123, "url": "https://hexdocs.pm/phoenix/1.5.14/index.html", "timestamp": "2025-03-01 05:45:58", "status": "success", "entries_created": 8}
+{"index": 124, "url": "https://hexdocs.pm/phoenix/0.10.0/index.html", "timestamp": "2025-03-01 05:46:48", "status": "success", "entries_created": 3}
+{"index": 125, "url": "https://hexdocs.pm/phoenix/1.5.7/overview.html", "timestamp": "2025-03-01 05:47:11", "status": "success", "entries_created": 8}
+{"index": 126, "url": "https://hexdocs.pm/phoenix/1.1.0/Phoenix.html", "timestamp": "2025-03-01 05:47:19", "status": "success", "entries_created": 2}
+{"index": 127, "url": "https://hexdocs.pm/phoenix/1.4.1/index.html", "timestamp": "2025-03-01 05:47:46", "status": "success", "entries_created": 3}
+{"index": 128, "url": "https://hexdocs.pm/phoenix/1.3.1/contexts.html", "timestamp": "2025-03-01 05:48:26", "status": "success", "entries_created": 11}
+{"index": 129, "url": "https://hexdocs.pm/phoenix/1.2.5/Phoenix.html", "timestamp": "2025-03-01 05:48:37", "status": "success", "entries_created": 2}
+{"index": 130, "url": "https://hexdocs.pm/phoenix/1.4.9/installation.html", "timestamp": "2025-03-01 05:49:03", "status": "success", "entries_created": 11}
+{"index": 131, "url": "https://hexdocs.pm/phoenix/1.2.1/Phoenix.html", "timestamp": "2025-03-01 05:49:28", "status": "success", "entries_created": 2}
+{"index": 132, "url": "https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Digest.html", "timestamp": "2025-03-01 05:49:47", "status": "success", "entries_created": 8}
+{"index": 133, "url": "https://hexdocs.pm/phoenix/1.6.2/changelog.html", "timestamp": "2025-03-01 05:50:29", "status": "success", "entries_created": 7}
+{"index": 134, "url": "https://hexdocs.pm/phoenix/1.4.1/installation.html", "timestamp": "2025-03-01 05:51:09", "status": "success", "entries_created": 11}
+{"index": 135, "url": "https://hexdocs.pm/phoenix/1.4.0/views.html", "timestamp": "2025-03-01 05:54:15", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 136, "url": "https://hexdocs.pm/phoenix/1.0.1/overview.html", "timestamp": "2025-03-01 05:57:10", "status": "success", "entries_created": 4}
+{"index": 137, "url": "https://hexdocs.pm/phoenix/1.5.3/contexts.html", "timestamp": "2025-03-01 06:00:16", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 138, "url": "https://hexdocs.pm/phoenix/1.4.13/index.html", "timestamp": "2025-03-01 06:01:05", "status": "success", "entries_created": 7}
+{"index": 139, "url": "https://hexdocs.pm/phoenix/1.4.5/contexts.html", "timestamp": "2025-03-01 06:11:58", "status": "success", "entries_created": 11}
+{"index": 140, "url": "https://hexdocs.pm/phoenix/1.6.4/overview.html", "timestamp": "2025-03-01 06:12:14", "status": "success", "entries_created": 9}
+{"index": 141, "url": "https://hexdocs.pm/phoenix/1.3.4/views.html", "timestamp": "2025-03-01 06:12:56", "status": "success", "entries_created": 4}
+{"index": 142, "url": "https://hexdocs.pm/phoenix/1.1.8/Phoenix.html", "timestamp": "2025-03-01 06:16:01", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 143, "url": "https://hexdocs.pm/phoenix/0.7.1/README.html", "timestamp": "2025-03-01 06:17:48", "status": "success", "entries_created": 4}
+{"index": 144, "url": "https://hexdocs.pm/phoenix/1.5.4/releases.html", "timestamp": "2025-03-01 06:19:42", "status": "success", "entries_created": 9}
+{"index": 145, "url": "https://hexdocs.pm/phoenix/1.4.17/index.html", "timestamp": "2025-03-01 06:19:53", "status": "success", "entries_created": 3}
+{"index": 146, "url": "https://hexdocs.pm/phoenix/Mix.Tasks.Phx.New.html", "timestamp": "2025-03-01 06:20:26", "status": "success", "entries_created": 6}
+{"index": 147, "url": "https://hexdocs.pm/phoenix/1.1.3/Phoenix.html", "timestamp": "2025-03-01 06:20:40", "status": "success", "entries_created": 2}
+{"index": 148, "url": "https://hexdocs.pm/phoenix/1.5.1/routing.html", "timestamp": "2025-03-01 06:21:14", "status": "success", "entries_created": 13}
+{"index": 149, "url": "https://hexdocs.pm/phoenix/1.6.16/changelog.html", "timestamp": "2025-03-01 06:21:47", "status": "success", "entries_created": 22}
+{"index": 150, "url": "https://hexdocs.pm/phoenix/1.5.1/overview.html", "timestamp": "2025-03-01 06:22:21", "status": "success", "entries_created": 8}
+{"index": 151, "url": "https://hexdocs.pm/phoenix/1.4.0/deployment.html", "timestamp": "2025-03-01 06:25:16", "status": "success", "entries_created": 7}
+{"index": 152, "url": "https://hexdocs.pm/phoenix/1.5.7/contexts.html", "timestamp": "2025-03-01 06:26:43", "status": "success", "entries_created": 12}
+{"index": 153, "url": "https://hexdocs.pm/phoenix/1.1.2/index.html", "timestamp": "2025-03-01 06:26:52", "status": "success", "entries_created": 2}
+{"index": 154, "url": "https://hexdocs.pm/phoenix/1.4.8/overview.html", "timestamp": "2025-03-01 06:27:31", "status": "success", "entries_created": 8}
+{"index": 155, "url": "https://hexdocs.pm/phoenix/1.4.16/overview.html", "timestamp": "2025-03-01 06:27:54", "status": "success", "entries_created": 3}
+{"index": 156, "url": "https://hexdocs.pm/phoenix/1.3.2/deployment.html", "timestamp": "2025-03-01 06:28:26", "status": "success", "entries_created": 7}
+{"index": 157, "url": "https://hexdocs.pm/phoenix/1.4.18/index.html", "timestamp": "2025-03-01 06:29:03", "status": "success", "entries_created": 3}
+{"index": 158, "url": "https://hexdocs.pm/phoenix/1.5.2/releases.html", "timestamp": "2025-03-01 06:30:01", "status": "success", "entries_created": 9}
+{"index": 159, "url": "https://hexdocs.pm/phoenix/1.5.7/releases.html", "timestamp": "2025-03-01 06:31:53", "status": "success", "entries_created": 9}
+{"index": 160, "url": "https://hexdocs.pm/phoenix/1.5.0/overview.html", "timestamp": "2025-03-01 06:32:00", "status": "success", "entries_created": 8}
+{"index": 161, "url": "https://hexdocs.pm/phoenix/1.4.1/phoenix_mix_tasks.html", "timestamp": "2025-03-01 06:35:05", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 162, "url": "https://hexdocs.pm/phoenix/1.4.3/presence.html", "timestamp": "2025-03-01 06:36:47", "status": "success", "entries_created": 12}
+{"index": 163, "url": "https://hexdocs.pm/phoenix/0.6.2/index.html", "timestamp": "2025-03-01 06:36:57", "status": "success", "entries_created": 34}
+{"index": 164, "url": "https://hexdocs.pm/phoenix/1.4.17/contexts.html", "timestamp": "2025-03-01 06:37:39", "status": "success", "entries_created": 10}
+{"index": 165, "url": "https://hexdocs.pm/phoenix/1.6.7/changelog.html", "timestamp": "2025-03-01 06:39:15", "status": "success", "entries_created": 13}
+{"index": 166, "url": "https://hexdocs.pm/phoenix/1.5.5/contexts.html", "timestamp": "2025-03-01 06:39:52", "status": "success", "entries_created": 10}
+{"index": 167, "url": "https://hexdocs.pm/phoenix/1.5.13/index.html", "timestamp": "2025-03-01 06:39:59", "status": "success", "entries_created": 8}
+{"index": 168, "url": "https://hexdocs.pm/phoenix/1.5.6/Phoenix.html", "timestamp": "2025-03-01 06:40:13", "status": "success", "entries_created": 5}
+{"index": 169, "url": "https://hexdocs.pm/phoenix/1.5.3/releases.html", "timestamp": "2025-03-01 06:41:13", "status": "success", "entries_created": 9}
+{"index": 170, "url": "https://hexdocs.pm/phoenix/1.3.3/controllers.html", "timestamp": "2025-03-01 06:41:47", "status": "success", "entries_created": 13}
+{"index": 171, "url": "https://hexdocs.pm/phoenix/1.3.2/installation.html", "timestamp": "2025-03-01 06:42:22", "status": "success", "entries_created": 11}
+{"index": 172, "url": "https://hexdocs.pm/phoenix/1.7.8/index.html", "timestamp": "2025-03-01 06:42:42", "status": "success", "entries_created": 4}
+{"index": 173, "url": "https://hexdocs.pm/phoenix/1.0.2/index.html", "timestamp": "2025-03-01 06:43:23", "status": "success", "entries_created": 2}
+{"index": 174, "url": "https://hexdocs.pm/phoenix/1.4.10/releases.html", "timestamp": "2025-03-01 06:46:28", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 175, "url": "https://hexdocs.pm/phoenix/1.2.0/Phoenix.html", "timestamp": "2025-03-01 06:47:08", "status": "success", "entries_created": 2}
+{"index": 176, "url": "https://hexdocs.pm/phoenix/1.5.2/overview.html", "timestamp": "2025-03-01 06:48:02", "status": "success", "entries_created": 8}
+{"index": 177, "url": "https://hexdocs.pm/phoenix/1.1.4/Phoenix.html", "timestamp": "2025-03-01 06:48:09", "status": "success", "entries_created": 2}
+{"index": 178, "url": "https://hexdocs.pm/phoenix/1.4.7/overview.html", "timestamp": "2025-03-01 06:48:38", "status": "success", "entries_created": 4}
+{"index": 179, "url": "https://hexdocs.pm/phoenix/1.4.6/index.html", "timestamp": "2025-03-01 06:48:51", "status": "success", "entries_created": 3}
+{"index": 180, "url": "https://hexdocs.pm/phoenix/1.4.0/installation.html", "timestamp": "2025-03-01 06:49:47", "status": "success", "entries_created": 11}
+{"index": 181, "url": "https://hexdocs.pm/phoenix/0.7.2/index.html", "timestamp": "2025-03-01 06:50:17", "status": "success", "entries_created": 2}
+{"index": 182, "url": "https://hexdocs.pm/phoenix/1.5.13/releases.html", "timestamp": "2025-03-01 06:53:03", "status": "success", "entries_created": 9}
+{"index": 183, "url": "https://hexdocs.pm/phoenix/1.5.12/releases.html", "timestamp": "2025-03-01 06:53:47", "status": "success", "entries_created": 9}
+{"index": 184, "url": "https://hexdocs.pm/phoenix/1.0.0/Phoenix.html", "timestamp": "2025-03-01 06:54:06", "status": "success", "entries_created": 3}
+{"index": 185, "url": "https://hexdocs.pm/phoenix/1.3.3/installation.html", "timestamp": "2025-03-01 06:54:44", "status": "success", "entries_created": 11}
+{"index": 186, "url": "https://hexdocs.pm/phoenix/1.5.1/releases.html", "timestamp": "2025-03-01 06:55:28", "status": "success", "entries_created": 9}
+{"index": 187, "url": "https://hexdocs.pm/phoenix/1.3.3/testing.html", "timestamp": "2025-03-01 06:56:05", "status": "success", "entries_created": 11}
+{"index": 188, "url": "https://hexdocs.pm/phoenix/1.4.10/contexts.html", "timestamp": "2025-03-01 06:57:31", "status": "success", "entries_created": 12}
+{"index": 189, "url": "https://hexdocs.pm/phoenix/1.5.12/index.html", "timestamp": "2025-03-01 06:58:56", "status": "success", "entries_created": 8}
+{"index": 190, "url": "https://hexdocs.pm/phoenix/1.3.1/routing.html", "timestamp": "2025-03-01 06:59:32", "status": "success", "entries_created": 18}
+{"index": 191, "url": "https://hexdocs.pm/phoenix/1.4.7/Phoenix.html", "timestamp": "2025-03-01 06:59:50", "status": "success", "entries_created": 6}
+{"index": 192, "url": "https://hexdocs.pm/phoenix/1.3.0/testing_schemas.html", "timestamp": "2025-03-01 07:02:27", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 193, "url": "https://hexdocs.pm/phoenix/0.11.0/modules_list.html", "timestamp": "2025-03-01 07:02:43", "status": "success", "entries_created": 42}
+{"index": 194, "url": "https://hexdocs.pm/phoenix/1.5.4/controllers.html", "timestamp": "2025-03-01 07:04:14", "status": "success", "entries_created": 16}
+{"index": 195, "url": "https://hexdocs.pm/phoenix/1.4.0/errors.html", "timestamp": "2025-03-01 07:06:35", "status": "success", "entries_created": 7}
+{"index": 196, "url": "https://hexdocs.pm/phoenix/1.6.1/changelog.html", "timestamp": "2025-03-01 07:06:58", "status": "success", "entries_created": 6}
+{"index": 197, "url": "https://hexdocs.pm/phoenix/1.7.2/up_and_running.html", "timestamp": "2025-03-01 07:08:32", "status": "success", "entries_created": 12}
+{"index": 198, "url": "https://hexdocs.pm/phoenix/1.4.4/community.html", "timestamp": "2025-03-01 07:08:56", "status": "success", "entries_created": 2}
+{"index": 199, "url": "https://hexdocs.pm/phoenix/1.5.10/contexts.html", "timestamp": "2025-03-01 07:09:49", "status": "success", "entries_created": 9}
+{"index": 200, "url": "https://hexdocs.pm/phoenix/1.4.6/endpoint.html", "timestamp": "2025-03-01 07:10:08", "status": "success", "entries_created": 9}
+{"index": 201, "url": "https://hexdocs.pm/phoenix/1.2.4/Phoenix.html", "timestamp": "2025-03-01 07:10:33", "status": "success", "entries_created": 2}
+{"index": 202, "url": "https://hexdocs.pm/phoenix/1.7.14/overview.html", "timestamp": "2025-03-01 07:10:42", "status": "success", "entries_created": 9}
+{"index": 203, "url": "https://hexdocs.pm/phoenix/1.4.10/index.html", "timestamp": "2025-03-01 07:10:59", "status": "success", "entries_created": 3}
+{"index": 204, "url": "https://hexdocs.pm/phoenix/1.5.10/releases.html", "timestamp": "2025-03-01 07:12:59", "status": "success", "entries_created": 9}
+{"index": 205, "url": "https://hexdocs.pm/phoenix/1.4.3/testing_controllers.html", "timestamp": "2025-03-01 07:16:04", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 206, "url": "https://hexdocs.pm/phoenix/1.5.14/community.html", "timestamp": "2025-03-01 07:16:53", "status": "success", "entries_created": 3}
+{"index": 207, "url": "https://hexdocs.pm/phoenix/1.2.0-rc.1", "timestamp": "2025-03-01 07:17:21", "status": "success", "entries_created": 7}
+{"index": 208, "url": "https://hexdocs.pm/phoenix/1.4.6/templates.html", "timestamp": "2025-03-01 07:19:06", "status": "success", "entries_created": 31}
+{"index": 209, "url": "https://hexdocs.pm/phoenix/1.5.5/controllers.html", "timestamp": "2025-03-01 07:19:34", "status": "success", "entries_created": 16}
+{"index": 210, "url": "https://hexdocs.pm/phoenix/1.3.0/installation.html", "timestamp": "2025-03-01 07:22:13", "status": "success", "entries_created": 11}
+{"index": 211, "url": "https://hexdocs.pm/phoenix/0.14.0/index.html", "timestamp": "2025-03-01 07:22:51", "status": "success", "entries_created": 3}
+{"index": 212, "url": "https://hexdocs.pm/phoenix/1.3.0-rc.0", "timestamp": "2025-03-01 07:24:22", "status": "success", "entries_created": 3}
+{"index": 213, "url": "https://hexdocs.pm/phoenix/1.7.0/changelog.html", "timestamp": "2025-03-01 07:25:03", "status": "success", "entries_created": 31}
+{"index": 214, "url": "https://hexdocs.pm/phoenix/0.11.0/index.html", "timestamp": "2025-03-01 07:25:48", "status": "success", "entries_created": 3}
+{"index": 215, "url": "https://hexdocs.pm/phoenix/1.4.1/presence.html", "timestamp": "2025-03-01 07:26:17", "status": "success", "entries_created": 12}
+{"index": 216, "url": "https://hexdocs.pm/phoenix/1.5.6/controllers.html", "timestamp": "2025-03-01 07:27:45", "status": "success", "entries_created": 16}
+{"index": 217, "url": "https://hexdocs.pm/phoenix/1.3.1/testing_controllers.html", "timestamp": "2025-03-01 07:28:03", "status": "success", "entries_created": 4}
+{"index": 218, "url": "https://hexdocs.pm/phoenix/1.6.2/releases.html", "timestamp": "2025-03-01 07:31:07", "status": "success", "entries_created": 8}
+{"index": 219, "url": "https://hexdocs.pm/phoenix/1.4.4/up_and_running.html", "timestamp": "2025-03-01 07:31:32", "status": "success", "entries_created": 8}
+{"index": 220, "url": "https://hexdocs.pm/phoenix/1.6.1/releases.html", "timestamp": "2025-03-01 07:34:38", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 221, "url": "https://hexdocs.pm/phoenix/1.5.6/index.html", "timestamp": "2025-03-01 07:34:50", "status": "success", "entries_created": 8}
+{"index": 222, "url": "https://hexdocs.pm/phoenix/1.5.3/overview.html", "timestamp": "2025-03-01 07:35:04", "status": "success", "entries_created": 8}
+{"index": 223, "url": "https://hexdocs.pm/phoenix/1.3.1/controllers.html", "timestamp": "2025-03-01 07:38:09", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 224, "url": "https://hexdocs.pm/phoenix/1.3.0/deployment.html", "timestamp": "2025-03-01 07:38:52", "status": "success", "entries_created": 7}
+{"index": 225, "url": "https://hexdocs.pm/phoenix/1.6.5/overview.html", "timestamp": "2025-03-01 07:39:19", "status": "success", "entries_created": 9}
+{"index": 226, "url": "https://hexdocs.pm/phoenix/1.5.3/custom_error_pages.html", "timestamp": "2025-03-01 07:40:03", "status": "success", "entries_created": 6}
+{"index": 227, "url": "https://hexdocs.pm/phoenix/1.6.5/views.html", "timestamp": "2025-03-01 07:43:11", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 228, "url": "https://hexdocs.pm/phoenix/1.4.7/installation.html", "timestamp": "2025-03-01 07:43:39", "status": "success", "entries_created": 11}
+{"index": 229, "url": "https://hexdocs.pm/phoenix/1.0.5/index.html", "timestamp": "2025-03-01 07:43:48", "status": "success", "entries_created": 2}
+{"index": 230, "url": "https://hexdocs.pm/phoenix/1.4.0-rc.2", "timestamp": "2025-03-01 07:44:10", "status": "success", "entries_created": 4}
+{"index": 231, "url": "https://hexdocs.pm/phoenix/1.4.1/contexts.html", "timestamp": "2025-03-01 07:44:46", "status": "success", "entries_created": 10}
+{"index": 232, "url": "https://hexdocs.pm/phoenix/1.5.9/index.html", "timestamp": "2025-03-01 07:44:56", "status": "success", "entries_created": 8}
+{"index": 233, "url": "https://hexdocs.pm/phoenix/1.5.9/releases.html", "timestamp": "2025-03-01 07:45:52", "status": "success", "entries_created": 7}
+{"index": 234, "url": "https://hexdocs.pm/phoenix/1.4.11/overview.html", "timestamp": "2025-03-01 07:46:31", "status": "success", "entries_created": 3}
+{"index": 235, "url": "https://hexdocs.pm/phoenix/1.6.3/changelog.html", "timestamp": "2025-03-01 07:48:00", "status": "success", "entries_created": 8}
+{"index": 236, "url": "https://hexdocs.pm/phoenix/1.1.6/index.html", "timestamp": "2025-03-01 07:48:33", "status": "success", "entries_created": 2}
+{"index": 237, "url": "https://hexdocs.pm/phoenix/1.3.4/deployment.html", "timestamp": "2025-03-01 07:50:03", "status": "success", "entries_created": 7}
+{"index": 238, "url": "https://hexdocs.pm/phoenix/1.2.3/Phoenix.html", "timestamp": "2025-03-01 07:50:32", "status": "success", "entries_created": 2}
+{"index": 239, "url": "https://hexdocs.pm/phoenix/1.5.5/index.html", "timestamp": "2025-03-01 07:50:41", "status": "success", "entries_created": 8}
+{"index": 240, "url": "https://hexdocs.pm/phoenix/1.7.11/index.html", "timestamp": "2025-03-01 07:50:56", "status": "success", "entries_created": 9}
+{"index": 241, "url": "https://hexdocs.pm/phoenix/1.4.17/releases.html", "timestamp": "2025-03-01 07:51:45", "status": "success", "entries_created": 9}
+{"index": 242, "url": "https://hexdocs.pm/phoenix/1.3.1/deployment.html", "timestamp": "2025-03-01 07:53:41", "status": "success", "entries_created": 7}
+{"index": 243, "url": "https://hexdocs.pm/phoenix/1.7.3/index.html", "timestamp": "2025-03-01 07:53:52", "status": "success", "entries_created": 4}
+{"index": 244, "url": "https://hexdocs.pm/phoenix/1.4.11/community.html", "timestamp": "2025-03-01 07:55:11", "status": "success", "entries_created": 4}
+{"index": 245, "url": "https://hexdocs.pm/phoenix/1.7.9/index.html", "timestamp": "2025-03-01 07:55:28", "status": "success", "entries_created": 4}
+{"index": 246, "url": "https://hexdocs.pm/phoenix/1.4.3/views.html", "timestamp": "2025-03-01 07:56:01", "status": "success", "entries_created": 7}
+{"index": 247, "url": "https://hexdocs.pm/phoenix/1.4.14/index.html", "timestamp": "2025-03-01 07:56:16", "status": "success", "entries_created": 3}
+{"index": 248, "url": "https://hexdocs.pm/phoenix/channels.html?ref=blixt-dev", "timestamp": "2025-03-01 07:56:32", "status": "success", "entries_created": 6}
+{"index": 249, "url": "https://hexdocs.pm/phoenix/1.4.6/installation.html", "timestamp": "2025-03-01 07:57:04", "status": "success", "entries_created": 11}
+{"index": 250, "url": "https://hexdocs.pm/phoenix/1.4.13/views.html", "timestamp": "2025-03-01 07:57:36", "status": "success", "entries_created": 8}
+{"index": 251, "url": "https://hexdocs.pm/phoenix/1.4.0/index.html", "timestamp": "2025-03-01 07:58:02", "status": "success", "entries_created": 4}
+{"index": 252, "url": "https://hexdocs.pm/phoenix/1.5.0/routing.html", "timestamp": "2025-03-01 07:58:31", "status": "success", "entries_created": 13}
+{"index": 253, "url": "https://hexdocs.pm/phoenix/1.3.4/installation.html", "timestamp": "2025-03-01 07:58:59", "status": "success", "entries_created": 11}
+{"index": 254, "url": "https://hexdocs.pm/phoenix/1.5.8/index.html", "timestamp": "2025-03-01 07:59:08", "status": "success", "entries_created": 8}
+{"index": 255, "url": "https://hexdocs.pm/phoenix/installation.html?ref=material-tailwind", "timestamp": "2025-03-01 07:59:40", "status": "success", "entries_created": 10}
+{"index": 256, "url": "https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.html", "timestamp": "2025-03-01 08:00:00", "status": "success", "entries_created": 4}
+{"index": 257, "url": "https://hexdocs.pm/phoenix/1.3.3/community.html", "timestamp": "2025-03-01 08:00:12", "status": "success", "entries_created": 5}
+{"index": 258, "url": "https://hexdocs.pm/phoenix/1.4.0/community.html", "timestamp": "2025-03-01 08:00:38", "status": "success", "entries_created": 6}
+{"index": 259, "url": "https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Server.html", "timestamp": "2025-03-01 08:00:48", "status": "success", "entries_created": 4}
+{"index": 260, "url": "https://hexdocs.pm/phoenix/Mix.Tasks.Local.Phx.html", "timestamp": "2025-03-01 08:00:53", "status": "success", "entries_created": 4}
+{"index": 261, "url": "https://hexdocs.pm/phoenix/1.3.0/learning.html", "timestamp": "2025-03-01 08:01:04", "status": "success", "entries_created": 3}
+{"index": 262, "url": "https://hexdocs.pm/phoenix/1.3.0/community.html", "timestamp": "2025-03-01 08:01:47", "status": "success", "entries_created": 5}
+{"index": 263, "url": "https://hexdocs.pm/phoenix/1.7.3/Phoenix.Flash.html", "timestamp": "2025-03-01 08:03:08", "status": "success", "entries_created": 6}
+{"index": 264, "url": "https://hexdocs.pm/phoenix/1.0.2/Phoenix.Channel.html", "timestamp": "2025-03-01 08:03:53", "status": "success", "entries_created": 11}
+{"index": 265, "url": "https://hexdocs.pm/phoenix/1.1.2/Phoenix.PubSub.html", "timestamp": "2025-03-01 08:04:24", "status": "success", "entries_created": 8}
+{"index": 266, "url": "https://hexdocs.pm/phoenix/1.1.7/Phoenix.Token.html", "timestamp": "2025-03-01 08:05:48", "status": "success", "entries_created": 8}
+{"index": 267, "url": "https://hexdocs.pm/phoenix/1.2.1/Phoenix.Supervisor.html", "timestamp": "2025-03-01 08:05:59", "status": "success", "entries_created": 4}
+{"index": 268, "url": "https://hexdocs.pm/phoenix/1.0.3/Phoenix.PubSub.html", "timestamp": "2025-03-01 08:06:30", "status": "success", "entries_created": 8}
+{"index": 269, "url": "https://hexdocs.pm/phoenix/1.4.0/Phoenix.Router.html", "timestamp": "2025-03-01 08:09:36", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 270, "url": "https://hexdocs.pm/phoenix/1.2.0/Phoenix.Channel.html", "timestamp": "2025-03-01 08:10:18", "status": "success", "entries_created": 12}
+{"index": 271, "url": "https://hexdocs.pm/phoenix/1.1.6/Phoenix.Router.html", "timestamp": "2025-03-01 08:11:00", "status": "success", "entries_created": 8}
+{"index": 272, "url": "https://hexdocs.pm/phoenix/1.1.6/Phoenix.PubSub.html", "timestamp": "2025-03-01 08:11:34", "status": "success", "entries_created": 8}
+{"index": 273, "url": "https://hexdocs.pm/phoenix/0.14.0/Phoenix.PubSub.html", "timestamp": "2025-03-01 08:12:13", "status": "success", "entries_created": 8}
+{"index": 274, "url": "https://hexdocs.pm/phoenix/1.2.5/Phoenix.Channel.html", "timestamp": "2025-03-01 08:12:56", "status": "success", "entries_created": 12}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 08:16:01", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 276, "url": "https://hexdocs.pm/phoenix/1.4.16/Phoenix.Template.html", "timestamp": "2025-03-01 08:16:20", "status": "success", "entries_created": 11}
+{"index": 277, "url": "https://hexdocs.pm/phoenix/1.1.0/Phoenix.PubSub.html", "timestamp": "2025-03-01 08:17:58", "status": "success", "entries_created": 7}
+{"index": 278, "url": "https://hexdocs.pm/phoenix/0.7.2/Phoenix.View.html", "timestamp": "2025-03-01 08:18:24", "status": "success", "entries_created": 7}
+{"index": 279, "url": "https://hexdocs.pm/phoenix/0.15.0/Phoenix.Controller.html", "timestamp": "2025-03-01 08:18:42", "status": "success", "entries_created": 7}
+{"index": 280, "url": "https://hexdocs.pm/phoenix/1.1.3/Phoenix.CodeReloader.html", "timestamp": "2025-03-01 08:19:06", "status": "success", "entries_created": 5}
+{"index": 281, "url": "https://hexdocs.pm/phoenix/1.4.14/Phoenix.CodeReloader.html", "timestamp": "2025-03-01 08:19:18", "status": "success", "entries_created": 5}
+{"index": 282, "url": "https://hexdocs.pm/phoenix/0.13.0/Phoenix.Endpoint.html", "timestamp": "2025-03-01 08:19:53", "status": "success", "entries_created": 8}
+{"index": 283, "url": "https://hexdocs.pm/phoenix/1.3.0/Phoenix.Socket.html", "timestamp": "2025-03-01 08:20:16", "status": "success", "entries_created": 8}
+{"index": 284, "url": "https://hexdocs.pm/phoenix/1.5.1/Phoenix.Logger.html", "timestamp": "2025-03-01 08:20:44", "status": "success", "entries_created": 4}
+{"index": 285, "url": "https://hexdocs.pm/phoenix/1.4.16/Phoenix.Logger.html", "timestamp": "2025-03-01 08:21:03", "status": "success", "entries_created": 4}
+{"index": 286, "url": "https://hexdocs.pm/phoenix/1.1.6/Phoenix.Socket.html", "timestamp": "2025-03-01 08:21:32", "status": "success", "entries_created": 11}
+{"index": 287, "url": "https://hexdocs.pm/phoenix/Mix.Tasks.Phx.New.Ecto.html", "timestamp": "2025-03-01 08:21:49", "status": "success", "entries_created": 5}
+{"index": 288, "url": "https://hexdocs.pm/phoenix/1.0.2/Phoenix.Token.html", "timestamp": "2025-03-01 08:22:19", "status": "success", "entries_created": 6}
+{"index": 289, "url": "https://hexdocs.pm/phoenix/1.0.4/Phoenix.Router.html", "timestamp": "2025-03-01 08:25:24", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 290, "url": "https://hexdocs.pm/phoenix/0.6.2/Phoenix.View.html", "timestamp": "2025-03-01 08:25:54", "status": "success", "entries_created": 9}
+{"index": 291, "url": "https://hexdocs.pm/phoenix/0.13.0/Phoenix.Router.html", "timestamp": "2025-03-01 08:26:47", "status": "success", "entries_created": 8}
+{"index": 292, "url": "https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Auth.html", "timestamp": "2025-03-01 08:27:34", "status": "success", "entries_created": 10}
+{"index": 293, "url": "https://hexdocs.pm/phoenix/0.9.0/Phoenix.View.html", "timestamp": "2025-03-01 08:29:03", "status": "success", "entries_created": 6}
+{"index": 294, "url": "https://hexdocs.pm/phoenix/1.3.3/Phoenix.Naming.html", "timestamp": "2025-03-01 08:29:27", "status": "success", "entries_created": 5}
+{"index": 295, "url": "https://hexdocs.pm/phoenix/1.0.4/Phoenix.PubSub.html", "timestamp": "2025-03-01 08:29:57", "status": "success", "entries_created": 8}
+{"index": 296, "url": "https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Schema.html", "timestamp": "2025-03-01 08:30:22", "status": "success", "entries_created": 12}
+{"index": 297, "url": "https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Context.html", "timestamp": "2025-03-01 08:30:42", "status": "success", "entries_created": 9}
+{"index": 298, "url": "https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Json.html", "timestamp": "2025-03-01 08:31:12", "status": "success", "entries_created": 7}
+{"index": 299, "url": "https://hexdocs.pm/phoenix/0.11.0/Phoenix.Endpoint.html", "timestamp": "2025-03-01 08:31:53", "status": "success", "entries_created": 8}
+{"index": 300, "url": "https://hexdocs.pm/phoenix/1.7.7/Phoenix.Digester.Compressor.html", "timestamp": "2025-03-01 08:32:11", "status": "success", "entries_created": 5}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 08:35:16", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 2, "url": "https://hexdocs.pm/phoenix/up_and_running.html", "timestamp": "2025-03-01 08:35:46", "status": "success", "entries_created": 5}
+{"index": 3, "url": "https://hexdocs.pm/phoenix/request_lifecycle.html", "timestamp": "2025-03-01 08:36:21", "status": "success", "entries_created": 12}
+{"index": 4, "url": "https://hexdocs.pm/phoenix/plug.html", "timestamp": "2025-03-01 08:37:02", "status": "success", "entries_created": 13}
+{"index": 7, "url": "https://hexdocs.pm/phoenix/testing.html", "timestamp": "2025-03-01 08:40:07", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 9, "url": "https://hexdocs.pm/phoenix/ecto.html", "timestamp": "2025-03-01 08:43:13", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 10, "url": "https://hexdocs.pm/phoenix/directory_structure.html", "timestamp": "2025-03-01 08:43:56", "status": "success", "entries_created": 7}
+{"index": 13, "url": "https://hexdocs.pm/phoenix/router.html", "timestamp": "2025-03-01 08:44:10", "status": "success", "entries_created": 7}
+{"index": 14, "url": "https://hexdocs.pm/phoenix/telemetry.html", "timestamp": "2025-03-01 08:45:41", "status": "success", "entries_created": 6}
+{"index": 16, "url": "https://hexdocs.pm/phoenix/mix_tasks.html", "timestamp": "2025-03-01 09:11:48", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 20, "url": "https://hexdocs.pm/phoenix/presence.html", "timestamp": "2025-03-01 09:13:37", "status": "success", "entries_created": 8}
+{"index": 22, "url": "https://hexdocs.pm/phoenix/json_and_apis.html", "timestamp": "2025-03-01 09:14:19", "status": "success", "entries_created": 8}
+{"index": 23, "url": "https://hexdocs.pm/phoenix/api_authentication.html", "timestamp": "2025-03-01 09:14:44", "status": "success", "entries_created": 6}
+{"index": 25, "url": "https://hexdocs.pm/phoenix/releases.html", "timestamp": "2025-03-01 09:15:33", "status": "success", "entries_created": 8}
+{"index": 26, "url": "https://hexdocs.pm/phoenix/file_uploads.html", "timestamp": "2025-03-01 09:15:59", "status": "success", "entries_created": 10}
+{"index": 27, "url": "https://hexdocs.pm/phoenix/contexts.html", "timestamp": "2025-03-01 09:17:13", "status": "success", "entries_created": 11}
+{"index": 28, "url": "https://hexdocs.pm/phoenix/writing_a_channels_client.html", "timestamp": "2025-03-01 09:17:29", "status": "success", "entries_created": 6}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 09:20:34", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 44, "url": "https://hexdocs.pm/phoenix/0.9.0", "timestamp": "2025-03-01 09:21:05", "status": "success", "entries_created": 4}
+{"index": 46, "url": "https://hexdocs.pm/phoenix/Phoenix.Channel.html", "timestamp": "2025-03-01 09:21:59", "status": "success", "entries_created": 17}
+{"index": 49, "url": "https://hexdocs.pm/phoenix/0.16.1", "timestamp": "2025-03-01 09:22:34", "status": "success", "entries_created": 7}
+{"index": 57, "url": "https://hexdocs.pm/phoenix/Phoenix.Token.html", "timestamp": "2025-03-01 09:23:28", "status": "success", "entries_created": 8}
+{"index": 60, "url": "https://hexdocs.pm/phoenix/Phoenix.Endpoint.html", "timestamp": "2025-03-01 09:24:33", "status": "success", "entries_created": 9}
+{"index": 69, "url": "https://hexdocs.pm/phoenix/0.16.0", "timestamp": "2025-03-01 09:27:40", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 75, "url": "https://hexdocs.pm/phoenix/Phoenix.ActionClauseError.html", "timestamp": "2025-03-01 09:27:45", "status": "success", "entries_created": 5}
+{"index": 93, "url": "https://hexdocs.pm/phoenix/1.5.2/contexts.html", "timestamp": "2025-03-01 09:28:01", "status": "success", "entries_created": 12}
+{"index": 99, "url": "https://hexdocs.pm/phoenix/1.6.0/releases.html", "timestamp": "2025-03-01 09:28:42", "status": "success", "entries_created": 8}
+{"index": 111, "url": "https://hexdocs.pm/phoenix/1.3.4/plug.html", "timestamp": "2025-03-01 09:29:11", "status": "success", "entries_created": 6}
+{"index": 120, "url": "https://hexdocs.pm/phoenix/1.4.9/releases.html", "timestamp": "2025-03-01 09:30:55", "status": "success", "entries_created": 9}
+{"index": 135, "url": "https://hexdocs.pm/phoenix/1.4.0/views.html", "timestamp": "2025-03-01 09:34:28", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 137, "url": "https://hexdocs.pm/phoenix/1.5.3/contexts.html", "timestamp": "2025-03-01 09:34:55", "status": "success", "entries_created": 12}
+{"index": 142, "url": "https://hexdocs.pm/phoenix/1.1.8/Phoenix.html", "timestamp": "2025-03-01 09:35:03", "status": "success", "entries_created": 2}
+{"index": 161, "url": "https://hexdocs.pm/phoenix/1.4.1/phoenix_mix_tasks.html", "timestamp": "2025-03-01 09:38:09", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 174, "url": "https://hexdocs.pm/phoenix/1.4.10/releases.html", "timestamp": "2025-03-01 09:38:47", "status": "success", "entries_created": 9}
+{"index": 192, "url": "https://hexdocs.pm/phoenix/1.3.0/testing_schemas.html", "timestamp": "2025-03-01 09:39:44", "status": "success", "entries_created": 10}
+{"index": 205, "url": "https://hexdocs.pm/phoenix/1.4.3/testing_controllers.html", "timestamp": "2025-03-01 09:40:59", "status": "success", "entries_created": 4}
+{"index": 220, "url": "https://hexdocs.pm/phoenix/1.6.1/releases.html", "timestamp": "2025-03-01 09:51:54", "status": "success", "entries_created": 8}
+{"index": 223, "url": "https://hexdocs.pm/phoenix/1.3.1/controllers.html", "timestamp": "2025-03-01 09:52:20", "status": "success", "entries_created": 17}
+{"index": 227, "url": "https://hexdocs.pm/phoenix/1.6.5/views.html", "timestamp": "2025-03-01 09:52:47", "status": "success", "entries_created": 12}
+{"index": 269, "url": "https://hexdocs.pm/phoenix/1.4.0/Phoenix.Router.html", "timestamp": "2025-03-01 09:53:11", "status": "success", "entries_created": 8}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 09:56:22", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 289, "url": "https://hexdocs.pm/phoenix/1.0.4/Phoenix.Router.html", "timestamp": "2025-03-01 09:57:00", "status": "success", "entries_created": 8}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 10:00:10", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 7, "url": "https://hexdocs.pm/phoenix/testing.html", "timestamp": "2025-03-01 10:03:16", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 9, "url": "https://hexdocs.pm/phoenix/ecto.html", "timestamp": "2025-03-01 10:03:30", "status": "success", "entries_created": 10}
+{"index": 16, "url": "https://hexdocs.pm/phoenix/mix_tasks.html", "timestamp": "2025-03-01 10:06:35", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 10:09:41", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 69, "url": "https://hexdocs.pm/phoenix/0.16.0", "timestamp": "2025-03-01 10:12:46", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 135, "url": "https://hexdocs.pm/phoenix/1.4.0/views.html", "timestamp": "2025-03-01 10:15:52", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 161, "url": "https://hexdocs.pm/phoenix/1.4.1/phoenix_mix_tasks.html", "timestamp": "2025-03-01 10:16:40", "status": "success", "entries_created": 5}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 10:19:45", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 10:22:56", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 7, "url": "https://hexdocs.pm/phoenix/testing.html", "timestamp": "2025-03-01 10:23:54", "status": "success", "entries_created": 12}
+{"index": 16, "url": "https://hexdocs.pm/phoenix/mix_tasks.html", "timestamp": "2025-03-01 10:26:15", "status": "success", "entries_created": 6}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 10:29:21", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 69, "url": "https://hexdocs.pm/phoenix/0.16.0", "timestamp": "2025-03-01 10:32:26", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 135, "url": "https://hexdocs.pm/phoenix/1.4.0/views.html", "timestamp": "2025-03-01 10:32:40", "status": "success", "entries_created": 8}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 10:35:45", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 10:38:55", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 10:42:01", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 69, "url": "https://hexdocs.pm/phoenix/0.16.0", "timestamp": "2025-03-01 10:45:06", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 10:48:12", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 10:51:22", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 10:54:36", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 69, "url": "https://hexdocs.pm/phoenix/0.16.0", "timestamp": "2025-03-01 10:57:42", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 11:00:49", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 11:03:59", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 11:07:05", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 69, "url": "https://hexdocs.pm/phoenix/0.16.0", "timestamp": "2025-03-01 11:09:14", "status": "success", "entries_created": 5}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 11:12:21", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 11:15:37", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 11:18:25", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 11:21:35", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 11:24:45", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 11:27:53", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 11:30:58", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 11:33:57", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 11:37:02", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 11:40:08", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 11:43:19", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 11:46:24", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 11:49:29", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 11:52:49", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 11:55:55", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 11:59:00", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 12:02:11", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 12:05:16", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 12:08:22", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 12:11:32", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 12:14:38", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 12:17:43", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 12:20:54", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 12:23:59", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 12:26:42", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 12:29:52", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 12:32:57", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 12:36:03", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 1, "url": "https://hexdocs.pm/phoenix/js", "timestamp": "2025-03-01 12:39:03", "status": "success", "entries_created": 16}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 12:42:08", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 12:45:18", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 12:48:33", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 12:51:51", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 12:55:01", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 275, "url": "https://hexdocs.pm/phoenix/0.6.0/Phoenix.Router.html", "timestamp": "2025-03-01 12:56:40", "status": "success", "entries_created": 14}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 12:59:51", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 13:03:06", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 13:06:21", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 13:09:32", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 13:12:42", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 13:15:53", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 31, "url": "https://hexdocs.pm/phoenix/heroku.html", "timestamp": "2025-03-01 13:36:01", "status": "failure", "error": "No usable data returned on retry 25"}

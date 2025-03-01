@@ -1,0 +1,129 @@
+{"index": 0, "url": "https://elysiajs.com", "timestamp": "2025-03-01 02:50:34", "status": "success", "entries_created": 8}
+{"index": 1, "url": "https://elysiajs.com/tutorial", "timestamp": "2025-03-01 02:53:18", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 2, "url": "https://elysiajs.com/blog", "timestamp": "2025-03-01 02:53:39", "status": "success", "entries_created": 14}
+{"index": 3, "url": "https://elysiajs.com/integrations/expo", "timestamp": "2025-03-01 02:53:57", "status": "success", "entries_created": 6}
+{"index": 4, "url": "https://elysiajs.com/essential/validation", "timestamp": "2025-03-01 02:54:29", "status": "success", "entries_created": 20}
+{"index": 5, "url": "https://elysiajs.com/plugins/opentelemetry", "timestamp": "2025-03-01 02:54:42", "status": "success", "entries_created": 5}
+{"index": 6, "url": "https://elysiajs.com/essential/route", "timestamp": "2025-03-01 02:57:53", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 7, "url": "https://elysiajs.com/plugins/jwt", "timestamp": "2025-03-01 02:58:41", "status": "success", "entries_created": 6}
+{"index": 8, "url": "https://elysiajs.com/plugins/overview", "timestamp": "2025-03-01 02:58:57", "status": "success", "entries_created": 4}
+{"index": 9, "url": "https://elysiajs.com/integrations/sveltekit", "timestamp": "2025-03-01 02:59:12", "status": "success", "entries_created": 5}
+{"index": 10, "url": "https://elysiajs.com/patterns/websocket", "timestamp": "2025-03-01 02:59:36", "status": "success", "entries_created": 17}
+{"index": 11, "url": "https://elysiajs.com/at-glance", "timestamp": "2025-03-01 03:00:07", "status": "success", "entries_created": 12}
+{"index": 12, "url": "https://elysiajs.com/eden/test", "timestamp": "2025-03-01 03:00:14", "status": "success", "entries_created": 4}
+{"index": 13, "url": "https://elysiajs.com/plugins/trpc", "timestamp": "2025-03-01 03:00:41", "status": "success", "entries_created": 6}
+{"index": 14, "url": "https://elysiajs.com/patterns/configuration", "timestamp": "2025-03-01 03:01:30", "status": "success", "entries_created": 13}
+{"index": 15, "url": "https://elysiajs.com/patterns/cookie", "timestamp": "2025-03-01 03:02:28", "status": "success", "entries_created": 27}
+{"index": 16, "url": "https://elysiajs.com/essential/handler", "timestamp": "2025-03-01 03:02:55", "status": "success", "entries_created": 7}
+{"index": 17, "url": "https://elysiajs.com/eden/overview", "timestamp": "2025-03-01 03:03:07", "status": "success", "entries_created": 7}
+{"index": 18, "url": "https://elysiajs.com/recipe/openapi", "timestamp": "2025-03-01 03:03:25", "status": "success", "entries_created": 8}
+{"index": 19, "url": "https://elysiajs.com/key-concept", "timestamp": "2025-03-01 03:03:51", "status": "success", "entries_created": 9}
+{"index": 20, "url": "https://elysiajs.com/plugins/cors", "timestamp": "2025-03-01 03:04:12", "status": "success", "entries_created": 15}
+{"index": 21, "url": "https://elysiajs.com/plugins/stream", "timestamp": "2025-03-01 03:04:32", "status": "success", "entries_created": 12}
+{"index": 22, "url": "https://elysiajs.com/eden/installation", "timestamp": "2025-03-01 03:05:08", "status": "success", "entries_created": 14}
+{"index": 23, "url": "https://elysiajs.com/essential/plugin", "timestamp": "2025-03-01 03:05:39", "status": "success", "entries_created": 13}
+{"index": 24, "url": "https://elysiajs.com/eden/fetch", "timestamp": "2025-03-01 03:06:00", "status": "success", "entries_created": 7}
+{"index": 25, "url": "https://elysiajs.com/plugins/cron", "timestamp": "2025-03-01 03:06:33", "status": "success", "entries_created": 10}
+{"index": 26, "url": "https://elysiajs.com/essential/structure", "timestamp": "2025-03-01 03:06:48", "status": "success", "entries_created": 20}
+{"index": 27, "url": "https://elysiajs.com/plugins/html", "timestamp": "2025-03-01 03:07:14", "status": "success", "entries_created": 8}
+{"index": 28, "url": "https://elysiajs.com/patterns/trace", "timestamp": "2025-03-01 03:07:46", "status": "success", "entries_created": 8}
+{"index": 29, "url": "https://elysiajs.com/integrations/nextjs", "timestamp": "2025-03-01 03:07:59", "status": "success", "entries_created": 5}
+{"index": 30, "url": "https://elysiajs.com/quick-start", "timestamp": "2025-03-01 03:08:12", "status": "success", "entries_created": 6}
+{"index": 31, "url": "https://elysiajs.com/patterns/mount", "timestamp": "2025-03-01 03:08:32", "status": "success", "entries_created": 5}
+{"index": 32, "url": "https://elysiajs.com/plugins/static", "timestamp": "2025-03-01 03:08:43", "status": "success", "entries_created": 10}
+{"index": 33, "url": "https://elysiajs.com/recipe/opentelemetry", "timestamp": "2025-03-01 03:09:01", "status": "success", "entries_created": 10}
+{"index": 34, "url": "https://elysiajs.com/plugins/swagger", "timestamp": "2025-03-01 03:09:29", "status": "success", "entries_created": 11}
+{"index": 35, "url": "https://elysiajs.com/recipe/drizzle", "timestamp": "2025-03-01 03:10:16", "status": "success", "entries_created": 12}
+{"index": 36, "url": "https://elysiajs.com/integrations/astro", "timestamp": "2025-03-01 03:10:47", "status": "success", "entries_created": 7}
+{"index": 37, "url": "https://elysiajs.com/patterns/macro", "timestamp": "2025-03-01 03:11:07", "status": "success", "entries_created": 7}
+{"index": 38, "url": "https://elysiajs.com/plugins/bearer", "timestamp": "2025-03-01 03:11:17", "status": "success", "entries_created": 7}
+{"index": 39, "url": "https://elysiajs.com/integrations/cheat-sheet", "timestamp": "2025-03-01 03:12:11", "status": "success", "entries_created": 21}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 03:15:16", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 41, "url": "https://elysiajs.com/essential/best-practice", "timestamp": "2025-03-01 03:15:46", "status": "success", "entries_created": 22}
+{"index": 42, "url": "https://elysiajs.com/plugins/graphql-apollo", "timestamp": "2025-03-01 03:16:02", "status": "success", "entries_created": 6}
+{"index": 43, "url": "https://elysiajs.com/plugins/server-timing", "timestamp": "2025-03-01 03:16:16", "status": "success", "entries_created": 11}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 03:19:26", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 45, "url": "https://elysiajs.com/blog/elysia-10", "timestamp": "2025-03-01 03:19:59", "status": "success", "entries_created": 18}
+{"index": 46, "url": "https://elysiajs.com/plugins/graphql-yoga", "timestamp": "2025-03-01 03:20:13", "status": "success", "entries_created": 9}
+{"index": 47, "url": "https://elysiajs.com/blog/elysia-02", "timestamp": "2025-03-01 03:20:42", "status": "success", "entries_created": 14}
+{"index": 48, "url": "https://elysiajs.com/blog/elysia-12", "timestamp": "2025-03-01 03:21:37", "status": "success", "entries_created": 24}
+{"index": 49, "url": "https://elysiajs.com/recipe/react-email", "timestamp": "2025-03-01 03:21:44", "status": "success", "entries_created": 5}
+{"index": 50, "url": "https://elysiajs.com/blog/elysia-08", "timestamp": "2025-03-01 03:22:38", "status": "success", "entries_created": 12}
+{"index": 51, "url": "https://elysiajs.com/blog/elysia-03", "timestamp": "2025-03-01 03:22:58", "status": "success", "entries_created": 13}
+{"index": 52, "url": "https://elysiajs.com/blog/elysia-11", "timestamp": "2025-03-01 03:23:16", "status": "success", "entries_created": 16}
+{"index": 53, "url": "https://elysiajs.com/blog/elysia-05", "timestamp": "2025-03-01 03:24:12", "status": "success", "entries_created": 13}
+{"index": 54, "url": "https://elysiajs.com/recipe/better-auth", "timestamp": "2025-03-01 03:24:41", "status": "success", "entries_created": 9}
+{"index": 55, "url": "https://elysiajs.com/table-of-content", "timestamp": "2025-03-01 03:24:45", "status": "success", "entries_created": 4}
+{"index": 56, "url": "https://elysiajs.com/blog/elysia-07", "timestamp": "2025-03-01 03:25:18", "status": "success", "entries_created": 16}
+{"index": 57, "url": "https://elysiajs.com/blog/elysia-04", "timestamp": "2025-03-01 03:25:29", "status": "success", "entries_created": 5}
+{"index": 58, "url": "https://elysiajs.com/blog/elysia-06", "timestamp": "2025-03-01 03:26:10", "status": "success", "entries_created": 12}
+{"index": 59, "url": "https://elysiajs.com/blog/with-prisma", "timestamp": "2025-03-01 03:27:52", "status": "success", "entries_created": 10}
+{"index": 60, "url": "https://elysiajs.com/patterns/unit-test", "timestamp": "2025-03-01 03:28:10", "status": "success", "entries_created": 5}
+{"index": 61, "url": "https://elysiajs.com/patterns/deployment", "timestamp": "2025-03-01 03:28:45", "status": "success", "entries_created": 11}
+{"index": 62, "url": "https://elysiajs.com/blog/integrate-trpc-with-elysia", "timestamp": "2025-03-01 03:29:36", "status": "success", "entries_created": 10}
+{"index": 63, "url": "https://elysiajs.com/eden/treaty/parameters", "timestamp": "2025-03-01 03:29:48", "status": "success", "entries_created": 4}
+{"index": 64, "url": "https://elysiajs.com/eden/treaty/config", "timestamp": "2025-03-01 03:30:26", "status": "success", "entries_created": 12}
+{"index": 65, "url": "https://elysiajs.com/eden/treaty/response", "timestamp": "2025-03-01 03:30:40", "status": "success", "entries_created": 5}
+{"index": 66, "url": "https://elysiajs.com/eden/treaty/overview", "timestamp": "2025-03-01 03:30:55", "status": "success", "entries_created": 7}
+{"index": 67, "url": "https://elysiajs.com/eden/treaty/websocket", "timestamp": "2025-03-01 03:31:02", "status": "success", "entries_created": 5}
+{"index": 68, "url": "https://elysiajs.com/eden/treaty/legacy", "timestamp": "2025-03-01 03:31:31", "status": "success", "entries_created": 12}
+{"index": 69, "url": "https://elysiajs.com/eden/treaty/unit-test", "timestamp": "2025-03-01 03:31:37", "status": "success", "entries_created": 5}
+{"index": 1, "url": "https://elysiajs.com/tutorial", "timestamp": "2025-03-01 03:31:58", "status": "success", "entries_created": 9}
+{"index": 6, "url": "https://elysiajs.com/essential/route", "timestamp": "2025-03-01 03:35:04", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 03:38:09", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 03:41:15", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 6, "url": "https://elysiajs.com/essential/route", "timestamp": "2025-03-01 03:44:30", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 03:47:25", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 03:50:08", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 6, "url": "https://elysiajs.com/essential/route", "timestamp": "2025-03-01 03:53:24", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 03:55:55", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 03:59:02", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 6, "url": "https://elysiajs.com/essential/route", "timestamp": "2025-03-01 04:02:13", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 04:05:18", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 04:08:12", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 6, "url": "https://elysiajs.com/essential/route", "timestamp": "2025-03-01 04:11:23", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 04:14:33", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 04:17:38", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 6, "url": "https://elysiajs.com/essential/route", "timestamp": "2025-03-01 04:20:49", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 04:23:54", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 04:27:00", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 6, "url": "https://elysiajs.com/essential/route", "timestamp": "2025-03-01 04:30:10", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 04:33:16", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 04:36:21", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 6, "url": "https://elysiajs.com/essential/route", "timestamp": "2025-03-01 04:37:26", "status": "success", "entries_created": 18}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 04:40:31", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 04:43:37", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 04:46:47", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 04:49:53", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 04:53:04", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 04:56:19", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 04:59:29", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 05:02:35", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 05:05:59", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 05:09:04", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 05:12:16", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 05:15:22", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 05:18:33", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 05:21:38", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 05:24:49", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 05:27:43", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 05:30:53", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 05:33:59", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 05:37:09", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 05:40:15", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 05:43:25", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 05:46:31", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 05:49:20", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 05:52:25", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 05:55:36", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 05:58:41", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 06:01:52", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 06:04:57", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 06:08:07", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 06:11:15", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 06:14:26", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 06:17:31", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 06:20:42", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 06:23:08", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 40, "url": "https://elysiajs.com/blog/elysia-supabase", "timestamp": "2025-03-01 06:26:19", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 44, "url": "https://elysiajs.com/essential/life-cycle", "timestamp": "2025-03-01 06:29:24", "status": "failure", "error": "No usable data returned on retry 25"}

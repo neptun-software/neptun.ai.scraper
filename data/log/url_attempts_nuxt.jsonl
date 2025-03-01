@@ -1,0 +1,288 @@
+{"index": 0, "url": "https://nuxt.com/docs", "timestamp": "2025-03-01 00:56:27", "status": "success", "entries_created": 9}
+{"index": 1, "url": "https://nuxt.com/docs/guide", "timestamp": "2025-03-01 00:56:35", "status": "success", "entries_created": 5}
+{"index": 2, "url": "https://nuxt.com/docs/api", "timestamp": "2025-03-01 00:56:51", "status": "success", "entries_created": 8}
+{"index": 3, "url": "https://nuxt.com/docs/migration", "timestamp": "2025-03-01 00:58:04", "status": "success", "entries_created": 4}
+{"index": 4, "url": "https://nuxt.com/docs/migration/configuration", "timestamp": "2025-03-01 00:58:17", "status": "success", "entries_created": 5}
+{"index": 5, "url": "https://nuxt.com/docs/community/roadmap", "timestamp": "2025-03-01 00:58:28", "status": "success", "entries_created": 4}
+{"index": 6, "url": "https://nuxt.com/docs/migration/meta", "timestamp": "2025-03-01 01:01:34", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 7, "url": "https://nuxt.com/docs/api/components", "timestamp": "2025-03-01 01:01:46", "status": "success", "entries_created": 5}
+{"index": 8, "url": "https://nuxt.com/docs/bridge/overview", "timestamp": "2025-03-01 01:02:08", "status": "success", "entries_created": 7}
+{"index": 9, "url": "https://nuxt.com/docs/bridge/meta", "timestamp": "2025-03-01 01:03:01", "status": "success", "entries_created": 9}
+{"index": 10, "url": "https://nuxt.com/docs/bridge/configuration", "timestamp": "2025-03-01 01:03:23", "status": "success", "entries_created": 7}
+{"index": 11, "url": "https://nuxt.com/docs/community/contribution", "timestamp": "2025-03-01 01:06:30", "status": "success", "entries_created": 9}
+{"index": 12, "url": "https://nuxt.com/docs/bridge/typescript", "timestamp": "2025-03-01 01:06:47", "status": "success", "entries_created": 6}
+{"index": 13, "url": "https://nuxt.com/docs/bridge/nitro", "timestamp": "2025-03-01 01:08:06", "status": "success", "entries_created": 12}
+{"index": 14, "url": "https://nuxt.com/docs/community/changelog", "timestamp": "2025-03-01 01:08:25", "status": "success", "entries_created": 13}
+{"index": 15, "url": "https://nuxt.com/docs/api/composables", "timestamp": "2025-03-01 01:08:30", "status": "success", "entries_created": 4}
+{"index": 16, "url": "https://nuxt.com/docs/migration/server", "timestamp": "2025-03-01 01:08:48", "status": "success", "entries_created": 3}
+{"index": 17, "url": "https://nuxt.com/docs/bridge/vite", "timestamp": "2025-03-01 01:09:10", "status": "success", "entries_created": 5}
+{"index": 18, "url": "https://nuxt.com/docs/migration/bundling", "timestamp": "2025-03-01 01:11:27", "status": "success", "entries_created": 4}
+{"index": 19, "url": "https://nuxt.com/docs/guide/concepts/modules", "timestamp": "2025-03-01 01:12:13", "status": "success", "entries_created": 6}
+{"index": 20, "url": "https://nuxt.com/docs/getting-started/layers", "timestamp": "2025-03-01 01:13:51", "status": "success", "entries_created": 6}
+{"index": 21, "url": "https://nuxt.com/docs/examples/advanced/locale", "timestamp": "2025-03-01 01:14:08", "status": "success", "entries_created": 3}
+{"index": 22, "url": "https://nuxt.com/docs/api/kit/modules", "timestamp": "2025-03-01 01:14:54", "status": "success", "entries_created": 4}
+{"index": 23, "url": "https://nuxt.com/docs/api/kit/resolving", "timestamp": "2025-03-01 01:15:37", "status": "success", "entries_created": 7}
+{"index": 24, "url": "https://nuxt.com/docs/examples/experimental/wasm", "timestamp": "2025-03-01 01:15:44", "status": "success", "entries_created": 3}
+{"index": 25, "url": "https://nuxt.com/docs/getting-started/deployment", "timestamp": "2025-03-01 01:16:14", "status": "success", "entries_created": 8}
+{"index": 26, "url": "https://nuxt.com/docs/api/commands/add", "timestamp": "2025-03-01 01:17:00", "status": "success", "entries_created": 14}
+{"index": 27, "url": "https://nuxt.com/docs/community/getting-help", "timestamp": "2025-03-01 01:17:17", "status": "success", "entries_created": 5}
+{"index": 28, "url": "https://nuxt.com/docs/api/kit/nitro", "timestamp": "2025-03-01 01:20:22", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 29, "url": "https://nuxt.com/docs/api/advanced/hooks", "timestamp": "2025-03-01 01:21:05", "status": "success", "entries_created": 4}
+{"index": 30, "url": "https://nuxt.com/docs/guide/concepts/typescript", "timestamp": "2025-03-01 01:21:37", "status": "success", "entries_created": 6}
+{"index": 31, "url": "https://nuxt.com/docs/examples/advanced/jsx", "timestamp": "2025-03-01 01:22:10", "status": "success", "entries_created": 4}
+{"index": 32, "url": "https://nuxt.com/docs/getting-started/transitions", "timestamp": "2025-03-01 01:25:16", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 33, "url": "https://nuxt.com/docs/api/kit/context", "timestamp": "2025-03-01 01:26:33", "status": "success", "entries_created": 6}
+{"index": 34, "url": "https://nuxt.com/docs/migration/component-options", "timestamp": "2025-03-01 01:29:12", "status": "success", "entries_created": 13}
+{"index": 35, "url": "https://nuxt.com/docs/api/commands/analyze", "timestamp": "2025-03-01 01:29:53", "status": "success", "entries_created": 6}
+{"index": 36, "url": "https://nuxt.com/docs/community/reporting-bugs", "timestamp": "2025-03-01 01:30:16", "status": "success", "entries_created": 6}
+{"index": 37, "url": "https://nuxt.com/docs/guide/concepts/esm", "timestamp": "2025-03-01 01:30:41", "status": "success", "entries_created": 8}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 01:33:46", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 39, "url": "https://nuxt.com/docs/api/kit/autoimports", "timestamp": "2025-03-01 01:44:30", "status": "success", "entries_created": 7}
+{"index": 40, "url": "https://nuxt.com/docs/community/framework-contribution", "timestamp": "2025-03-01 01:47:04", "status": "success", "entries_created": 15}
+{"index": 41, "url": "https://nuxt.com/docs/examples/features/layouts", "timestamp": "2025-03-01 01:47:38", "status": "success", "entries_created": 6}
+{"index": 42, "url": "https://nuxt.com/docs/api/commands/generate", "timestamp": "2025-03-01 01:47:52", "status": "success", "entries_created": 6}
+{"index": 43, "url": "https://nuxt.com/docs/getting-started/installation", "timestamp": "2025-03-01 01:49:10", "status": "success", "entries_created": 7}
+{"index": 44, "url": "https://nuxt.com/docs/api/commands/typecheck", "timestamp": "2025-03-01 01:50:31", "status": "success", "entries_created": 5}
+{"index": 45, "url": "https://nuxt.com/docs/getting-started/routing", "timestamp": "2025-03-01 01:51:16", "status": "success", "entries_created": 8}
+{"index": 46, "url": "https://nuxt.com/docs/api/utils/dollarfetch", "timestamp": "2025-03-01 01:52:02", "status": "success", "entries_created": 5}
+{"index": 47, "url": "https://nuxt.com/docs/api/kit/templates", "timestamp": "2025-03-01 01:55:07", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 48, "url": "https://nuxt.com/docs/api/commands/cleanup", "timestamp": "2025-03-01 01:55:25", "status": "success", "entries_created": 6}
+{"index": 49, "url": "https://nuxt.com/docs/getting-started/server", "timestamp": "2025-03-01 01:56:49", "status": "success", "entries_created": 7}
+{"index": 50, "url": "https://nuxt.com/docs/api/kit/logging", "timestamp": "2025-03-01 01:57:36", "status": "success", "entries_created": 6}
+{"index": 51, "url": "https://nuxt.com/docs/getting-started/views", "timestamp": "2025-03-01 01:58:02", "status": "success", "entries_created": 9}
+{"index": 52, "url": "https://nuxt.com/docs/getting-started/configuration", "timestamp": "2025-03-01 01:58:46", "status": "success", "entries_created": 5}
+{"index": 53, "url": "https://nuxt.com/docs/api/kit/plugins", "timestamp": "2025-03-01 01:59:00", "status": "success", "entries_created": 4}
+{"index": 54, "url": "https://nuxt.com/docs/api/kit/components", "timestamp": "2025-03-01 01:59:27", "status": "success", "entries_created": 4}
+{"index": 55, "url": "https://nuxt.com/docs/examples/advanced/teleport", "timestamp": "2025-03-01 02:00:49", "status": "success", "entries_created": 3}
+{"index": 56, "url": "https://nuxt.com/docs/api/nuxt-config", "timestamp": "2025-03-01 02:01:43", "status": "success", "entries_created": 7}
+{"index": 57, "url": "https://nuxt.com/docs/getting-started/styling", "timestamp": "2025-03-01 02:02:08", "status": "success", "entries_created": 24}
+{"index": 58, "url": "https://nuxt.com/docs/examples/hello-world", "timestamp": "2025-03-01 02:02:20", "status": "success", "entries_created": 5}
+{"index": 59, "url": "https://nuxt.com/docs/migration/module-authors", "timestamp": "2025-03-01 02:02:42", "status": "success", "entries_created": 12}
+{"index": 60, "url": "https://nuxt.com/docs/api/kit/layout", "timestamp": "2025-03-01 02:03:10", "status": "success", "entries_created": 6}
+{"index": 61, "url": "https://nuxt.com/docs/api/kit/compatibility", "timestamp": "2025-03-01 02:04:46", "status": "success", "entries_created": 22}
+{"index": 62, "url": "https://nuxt.com/docs/api/commands/preview", "timestamp": "2025-03-01 02:07:15", "status": "success", "entries_created": 5}
+{"index": 63, "url": "https://nuxt.com/docs/guide/concepts/rendering", "timestamp": "2025-03-01 02:07:40", "status": "success", "entries_created": 14}
+{"index": 64, "url": "https://nuxt.com/docs/api/components/teleports", "timestamp": "2025-03-01 02:07:53", "status": "success", "entries_created": 4}
+{"index": 65, "url": "https://nuxt.com/docs/examples/advanced/testing", "timestamp": "2025-03-01 02:09:00", "status": "success", "entries_created": 5}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 02:12:05", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 67, "url": "https://nuxt.com/docs/examples/routing/middleware", "timestamp": "2025-03-01 02:12:20", "status": "success", "entries_created": 6}
+{"index": 68, "url": "https://nuxt.com/docs/api/kit/builder", "timestamp": "2025-03-01 02:12:56", "status": "success", "entries_created": 4}
+{"index": 69, "url": "https://nuxt.com/docs/api/commands/init", "timestamp": "2025-03-01 02:13:11", "status": "success", "entries_created": 8}
+{"index": 70, "url": "https://nuxt.com/docs/examples/routing/pages", "timestamp": "2025-03-01 02:13:28", "status": "success", "entries_created": 5}
+{"index": 71, "url": "https://nuxt.com/docs/api/kit/pages", "timestamp": "2025-03-01 02:15:14", "status": "success", "entries_created": 6}
+{"index": 72, "url": "https://nuxt.com/docs/getting-started/prerendering", "timestamp": "2025-03-01 02:15:47", "status": "success", "entries_created": 6}
+{"index": 73, "url": "https://nuxt.com/docs/api/commands/module", "timestamp": "2025-03-01 02:18:10", "status": "success", "entries_created": 5}
+{"index": 74, "url": "https://nuxt.com/docs/api/commands/prepare", "timestamp": "2025-03-01 02:18:25", "status": "success", "entries_created": 5}
+{"index": 75, "url": "https://nuxt.com/docs/api/kit/programmatic", "timestamp": "2025-03-01 02:18:51", "status": "success", "entries_created": 7}
+{"index": 76, "url": "https://nuxt.com/docs/api/commands/dev", "timestamp": "2025-03-01 02:19:03", "status": "success", "entries_created": 5}
+{"index": 77, "url": "https://nuxt.com/docs/api/commands/devtools", "timestamp": "2025-03-01 02:19:25", "status": "success", "entries_created": 7}
+{"index": 78, "url": "https://nuxt.com/docs/api/commands/upgrade", "timestamp": "2025-03-01 02:22:35", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 79, "url": "https://nuxt.com/docs/api/kit/examples", "timestamp": "2025-03-01 02:25:38", "status": "success", "entries_created": 4}
+{"index": 80, "url": "https://nuxt.com/docs/getting-started/assets", "timestamp": "2025-03-01 02:25:48", "status": "success", "entries_created": 4}
+{"index": 81, "url": "https://nuxt.com/docs/api/commands/info", "timestamp": "2025-03-01 02:26:07", "status": "success", "entries_created": 5}
+{"index": 82, "url": "https://nuxt.com/docs/bridge/runtime-config", "timestamp": "2025-03-01 02:26:23", "status": "success", "entries_created": 7}
+{"index": 83, "url": "https://nuxt.com/docs/migration/runtime-config", "timestamp": "2025-03-01 02:26:42", "status": "success", "entries_created": 4}
+{"index": 84, "url": "https://nuxt.com/docs/migration/auto-imports", "timestamp": "2025-03-01 02:26:53", "status": "success", "entries_created": 3}
+{"index": 85, "url": "https://nuxt.com/docs/getting-started/error-handling", "timestamp": "2025-03-01 02:27:26", "status": "success", "entries_created": 10}
+{"index": 86, "url": "https://nuxt.com/docs/guide/concepts/auto-imports", "timestamp": "2025-03-01 02:27:56", "status": "success", "entries_created": 12}
+{"index": 87, "url": "https://nuxt.com/docs/guide/recipes/custom-usefetch", "timestamp": "2025-03-01 02:28:18", "status": "success", "entries_created": 5}
+{"index": 88, "url": "https://nuxt.com/docs/examples/features/meta-tags", "timestamp": "2025-03-01 02:28:26", "status": "success", "entries_created": 4}
+{"index": 89, "url": "https://nuxt.com/docs/api/composables/use-route", "timestamp": "2025-03-01 02:29:02", "status": "success", "entries_created": 5}
+{"index": 90, "url": "https://nuxt.com/docs/guide/going-further/internals", "timestamp": "2025-03-01 02:29:28", "status": "success", "entries_created": 6}
+{"index": 91, "url": "https://nuxt.com/docs/guide/directory-structure/env", "timestamp": "2025-03-01 02:31:03", "status": "success", "entries_created": 7}
+{"index": 92, "url": "https://nuxt.com/docs/api/components/nuxt-link", "timestamp": "2025-03-01 02:31:45", "status": "success", "entries_created": 15}
+{"index": 93, "url": "https://nuxt.com/docs/api/composables/on-prehydrate", "timestamp": "2025-03-01 02:32:10", "status": "success", "entries_created": 6}
+{"index": 94, "url": "https://nuxt.com/docs/guide/concepts/nuxt-lifecycle", "timestamp": "2025-03-01 02:33:43", "status": "success", "entries_created": 5}
+{"index": 95, "url": "https://nuxt.com/docs/examples/routing/universal-router", "timestamp": "2025-03-01 02:33:56", "status": "success", "entries_created": 2}
+{"index": 96, "url": "https://nuxt.com/docs/guide/concepts/server-engine", "timestamp": "2025-03-01 02:34:11", "status": "success", "entries_created": 6}
+{"index": 97, "url": "https://nuxt.com/docs/api/components/dev-only", "timestamp": "2025-03-01 02:45:00", "status": "success", "entries_created": 6}
+{"index": 98, "url": "https://nuxt.com/docs/guide/directory-structure/modules", "timestamp": "2025-03-01 02:45:26", "status": "success", "entries_created": 6}
+{"index": 99, "url": "https://nuxt.com/docs/api/components/nuxt-island", "timestamp": "2025-03-01 02:46:44", "status": "success", "entries_created": 7}
+{"index": 100, "url": "https://nuxt.com/docs/guide/directory-structure/utils", "timestamp": "2025-03-01 02:46:53", "status": "success", "entries_created": 8}
+{"index": 101, "url": "https://nuxt.com/docs/examples/advanced/error-handling", "timestamp": "2025-03-01 02:47:10", "status": "success", "entries_created": 4}
+{"index": 102, "url": "https://nuxt.com/docs/getting-started/data-fetching", "timestamp": "2025-03-01 02:50:15", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 103, "url": "https://nuxt.com/docs/guide/directory-structure/app", "timestamp": "2025-03-01 02:50:28", "status": "success", "entries_created": 6}
+{"index": 104, "url": "https://nuxt.com/docs/api/composables/use-state", "timestamp": "2025-03-01 02:50:49", "status": "success", "entries_created": 6}
+{"index": 105, "url": "https://nuxt.com/docs/api/utils/refresh-cookie", "timestamp": "2025-03-01 02:51:08", "status": "success", "entries_created": 6}
+{"index": 106, "url": "https://nuxt.com/docs/api/utils/prefetch-components", "timestamp": "2025-03-01 02:51:18", "status": "success", "entries_created": 8}
+{"index": 107, "url": "https://nuxt.com/docs/bridge/nuxt3-compatible-api", "timestamp": "2025-03-01 02:52:03", "status": "success", "entries_created": 13}
+{"index": 108, "url": "https://nuxt.com/docs/bridge/bridge-composition-api", "timestamp": "2025-03-01 02:52:37", "status": "success", "entries_created": 9}
+{"index": 109, "url": "https://nuxt.com/docs/migration/pages-and-layouts", "timestamp": "2025-03-01 02:54:24", "status": "success", "entries_created": 17}
+{"index": 110, "url": "https://nuxt.com/docs/api/composables/use-fetch", "timestamp": "2025-03-01 02:57:08", "status": "success", "entries_created": 7}
+{"index": 111, "url": "https://nuxt.com/docs/api/utils/call-once", "timestamp": "2025-03-01 02:57:50", "status": "success", "entries_created": 6}
+{"index": 112, "url": "https://nuxt.com/docs/guide/directory-structure/composables", "timestamp": "2025-03-01 02:58:26", "status": "success", "entries_created": 6}
+{"index": 113, "url": "https://nuxt.com/docs/guide/going-further/hooks", "timestamp": "2025-03-01 03:00:05", "status": "success", "entries_created": 7}
+{"index": 114, "url": "https://nuxt.com/docs/api/commands/build-module", "timestamp": "2025-03-01 03:02:35", "status": "success", "entries_created": 5}
+{"index": 115, "url": "https://nuxt.com/docs/api/composables/use-cookie", "timestamp": "2025-03-01 03:05:40", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 03:08:46", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 117, "url": "https://nuxt.com/docs/api/utils/navigate-to", "timestamp": "2025-03-01 03:11:08", "status": "success", "entries_created": 5}
+{"index": 118, "url": "https://nuxt.com/docs/getting-started/seo-meta", "timestamp": "2025-03-01 03:14:14", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 119, "url": "https://nuxt.com/docs/examples/features/auto-imports", "timestamp": "2025-03-01 03:14:36", "status": "success", "entries_created": 3}
+{"index": 120, "url": "https://nuxt.com/docs/examples/advanced/use-cookie", "timestamp": "2025-03-01 03:14:47", "status": "success", "entries_created": 6}
+{"index": 121, "url": "https://nuxt.com/docs/api/composables/use-id", "timestamp": "2025-03-01 03:16:26", "status": "success", "entries_created": 8}
+{"index": 122, "url": "https://nuxt.com/docs/api/utils/abort-navigation", "timestamp": "2025-03-01 03:18:32", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 123, "url": "https://nuxt.com/docs/guide/going-further/features", "timestamp": "2025-03-01 03:20:04", "status": "success", "entries_created": 9}
+{"index": 124, "url": "https://nuxt.com/docs/api/components/nuxt-layout", "timestamp": "2025-03-01 03:22:22", "status": "success", "entries_created": 7}
+{"index": 125, "url": "https://nuxt.com/docs/guide/going-further/debugging", "timestamp": "2025-03-01 03:22:52", "status": "success", "entries_created": 9}
+{"index": 126, "url": "https://nuxt.com/docs/guide/directory-structure/shared", "timestamp": "2025-03-01 03:24:11", "status": "success", "entries_created": 4}
+{"index": 127, "url": "https://nuxt.com/docs/api/utils/show-error", "timestamp": "2025-03-01 03:24:30", "status": "success", "entries_created": 9}
+{"index": 128, "url": "https://nuxt.com/docs/guide/directory-structure/server", "timestamp": "2025-03-01 03:25:28", "status": "success", "entries_created": 43}
+{"index": 129, "url": "https://nuxt.com/docs/guide/directory-structure/layouts", "timestamp": "2025-03-01 03:25:48", "status": "success", "entries_created": 6}
+{"index": 130, "url": "https://nuxt.com/docs/guide/directory-structure/middleware", "timestamp": "2025-03-01 03:26:15", "status": "success", "entries_created": 11}
+{"index": 131, "url": "https://nuxt.com/docs/guide/directory-structure/nuxtrc", "timestamp": "2025-03-01 03:26:40", "status": "success", "entries_created": 5}
+{"index": 132, "url": "https://nuxt.com/docs/api/composables/use-head", "timestamp": "2025-03-01 03:26:59", "status": "success", "entries_created": 5}
+{"index": 133, "url": "https://nuxt.com/docs/guide/directory-structure/nuxtignore", "timestamp": "2025-03-01 03:28:18", "status": "success", "entries_created": 4}
+{"index": 134, "url": "https://nuxt.com/docs/guide/recipes/custom-routing", "timestamp": "2025-03-01 03:28:39", "status": "success", "entries_created": 13}
+{"index": 135, "url": "https://nuxt.com/docs/api/composables/use-error", "timestamp": "2025-03-01 03:28:55", "status": "success", "entries_created": 7}
+{"index": 136, "url": "https://nuxt.com/docs/api/utils/create-error", "timestamp": "2025-03-01 03:29:24", "status": "success", "entries_created": 8}
+{"index": 137, "url": "https://nuxt.com/docs/guide/directory-structure/plugins", "timestamp": "2025-03-01 03:30:15", "status": "success", "entries_created": 14}
+{"index": 138, "url": "https://nuxt.com/docs/api/components/nuxt-page", "timestamp": "2025-03-01 03:30:42", "status": "success", "entries_created": 9}
+{"index": 139, "url": "https://nuxt.com/docs/api/composables/use-router", "timestamp": "2025-03-01 03:31:00", "status": "success", "entries_created": 8}
+{"index": 140, "url": "https://nuxt.com/docs/examples/features/state-management", "timestamp": "2025-03-01 03:31:19", "status": "success", "entries_created": 4}
+{"index": 141, "url": "https://nuxt.com/docs/guide/directory-structure/content", "timestamp": "2025-03-01 03:31:53", "status": "success", "entries_created": 7}
+{"index": 142, "url": "https://nuxt.com/docs/examples/features/data-fetching", "timestamp": "2025-03-01 03:31:58", "status": "success", "entries_created": 4}
+{"index": 143, "url": "https://nuxt.com/docs/examples/advanced/config-extends", "timestamp": "2025-03-01 03:32:07", "status": "success", "entries_created": 6}
+{"index": 144, "url": "https://nuxt.com/docs/guide/concepts/code-style", "timestamp": "2025-03-01 03:32:15", "status": "success", "entries_created": 5}
+{"index": 145, "url": "https://nuxt.com/docs/guide/directory-structure/assets", "timestamp": "2025-03-01 03:32:20", "status": "success", "entries_created": 4}
+{"index": 146, "url": "https://nuxt.com/docs/guide/directory-structure/public", "timestamp": "2025-03-01 03:32:28", "status": "success", "entries_created": 5}
+{"index": 147, "url": "https://nuxt.com/docs/migration/plugins-and-middleware", "timestamp": "2025-03-01 03:32:38", "status": "success", "entries_created": 7}
+{"index": 148, "url": "https://nuxt.com/docs/guide/concepts/vuejs-development", "timestamp": "2025-03-01 03:32:50", "status": "success", "entries_created": 12}
+{"index": 149, "url": "https://nuxt.com/docs/getting-started/state-management", "timestamp": "2025-03-01 03:33:06", "status": "success", "entries_created": 5}
+{"index": 150, "url": "https://nuxt.com/docs/api/utils/preload-components", "timestamp": "2025-03-01 03:33:11", "status": "success", "entries_created": 6}
+{"index": 151, "url": "https://nuxt.com/docs/guide/going-further/layers", "timestamp": "2025-03-01 03:33:25", "status": "success", "entries_created": 11}
+{"index": 152, "url": "https://nuxt.com/docs/api/advanced/import-meta", "timestamp": "2025-03-01 03:33:48", "status": "success", "entries_created": 6}
+{"index": 153, "url": "https://nuxt.com/docs/api/components/nuxt-img", "timestamp": "2025-03-01 03:33:55", "status": "success", "entries_created": 5}
+{"index": 154, "url": "https://nuxt.com/docs/guide/directory-structure/gitignore", "timestamp": "2025-03-01 03:34:02", "status": "success", "entries_created": 5}
+{"index": 155, "url": "https://nuxt.com/docs/guide/directory-structure/node_modules", "timestamp": "2025-03-01 03:34:08", "status": "success", "entries_created": 5}
+{"index": 156, "url": "https://nuxt.com/docs/guide/directory-structure/package", "timestamp": "2025-03-01 03:34:14", "status": "success", "entries_created": 4}
+{"index": 157, "url": "https://nuxt.com/docs/api/composables/use-hydration", "timestamp": "2025-03-01 03:34:24", "status": "success", "entries_created": 4}
+{"index": 158, "url": "https://nuxt.com/docs/guide/directory-structure/output", "timestamp": "2025-03-01 03:34:35", "status": "success", "entries_created": 6}
+{"index": 159, "url": "https://nuxt.com/docs/api/components/nuxt-welcome", "timestamp": "2025-03-01 03:34:46", "status": "success", "entries_created": 5}
+{"index": 160, "url": "https://nuxt.com/docs/bridge/plugins-and-middleware", "timestamp": "2025-03-01 03:35:00", "status": "success", "entries_created": 6}
+{"index": 161, "url": "https://nuxt.com/docs/guide/going-further/kit", "timestamp": "2025-03-01 03:35:08", "status": "success", "entries_created": 6}
+{"index": 162, "url": "https://nuxt.com/docs/guide/directory-structure/error", "timestamp": "2025-03-01 03:35:16", "status": "success", "entries_created": 8}
+{"index": 163, "url": "https://nuxt.com/docs/api/components/nuxt-picture", "timestamp": "2025-03-01 03:35:21", "status": "success", "entries_created": 4}
+{"index": 164, "url": "https://nuxt.com/docs/api/kit/runtime-config", "timestamp": "2025-03-01 03:35:26", "status": "success", "entries_created": 7}
+{"index": 165, "url": "https://nuxt.com/docs/api/utils/prerender-routes", "timestamp": "2025-03-01 03:35:32", "status": "success", "entries_created": 8}
+{"index": 166, "url": "https://nuxt.com/docs/api/utils/clear-error", "timestamp": "2025-03-01 03:35:38", "status": "success", "entries_created": 7}
+{"index": 167, "url": "https://nuxt.com/docs/guide/recipes/vite-plugin", "timestamp": "2025-03-01 03:35:48", "status": "success", "entries_created": 7}
+{"index": 168, "url": "https://nuxt.com/docs/guide/directory-structure/tsconfig", "timestamp": "2025-03-01 03:35:54", "status": "success", "entries_created": 4}
+{"index": 169, "url": "https://nuxt.com/docs/guide/directory-structure/nuxt", "timestamp": "2025-03-01 03:36:04", "status": "success", "entries_created": 4}
+{"index": 170, "url": "https://nuxt.com/docs/api/utils/reload-nuxt-app", "timestamp": "2025-03-01 03:36:10", "status": "success", "entries_created": 4}
+{"index": 171, "url": "https://nuxt.com/docs/guide/directory-structure/app-config", "timestamp": "2025-03-01 03:36:21", "status": "success", "entries_created": 8}
+{"index": 172, "url": "https://nuxt.com/docs/api/composables/use-loading-indicator", "timestamp": "2025-03-01 03:36:53", "status": "success", "entries_created": 7}
+{"index": 173, "url": "https://nuxt.com/docs/api/composables/use-runtime-config", "timestamp": "2025-03-01 03:38:42", "status": "success", "entries_created": 11}
+{"index": 174, "url": "https://nuxt.com/docs/api/composables/use-preview-mode", "timestamp": "2025-03-01 03:40:16", "status": "success", "entries_created": 6}
+{"index": 175, "url": "https://nuxt.com/docs/api/composables/use-runtime-hook", "timestamp": "2025-03-01 03:40:31", "status": "success", "entries_created": 5}
+{"index": 176, "url": "https://nuxt.com/docs/api/composables/use-seo-meta", "timestamp": "2025-03-01 03:40:46", "status": "success", "entries_created": 5}
+{"index": 177, "url": "https://nuxt.com/docs/api/components/nuxt-loading-indicator", "timestamp": "2025-03-01 03:41:11", "status": "success", "entries_created": 6}
+{"index": 178, "url": "https://nuxt.com/docs/guide/going-further/runtime-config", "timestamp": "2025-03-01 03:41:51", "status": "success", "entries_created": 7}
+{"index": 179, "url": "https://nuxt.com/docs/api/composables/use-request-url", "timestamp": "2025-03-01 03:42:06", "status": "success", "entries_created": 6}
+{"index": 180, "url": "https://nuxt.com/docs/api/composables/use-async-data", "timestamp": "2025-03-01 03:43:53", "status": "success", "entries_created": 8}
+{"index": 181, "url": "https://nuxt.com/docs/api/composables/use-request-headers", "timestamp": "2025-03-01 03:44:22", "status": "success", "entries_created": 6}
+{"index": 182, "url": "https://nuxt.com/docs/api/utils/set-page-layout", "timestamp": "2025-03-01 03:44:42", "status": "success", "entries_created": 7}
+{"index": 183, "url": "https://nuxt.com/docs/api/composables/use-head-safe", "timestamp": "2025-03-01 03:44:51", "status": "success", "entries_created": 4}
+{"index": 184, "url": "https://nuxt.com/docs/guide/going-further/nuxt-app", "timestamp": "2025-03-01 03:45:47", "status": "success", "entries_created": 7}
+{"index": 185, "url": "https://nuxt.com/docs/api/utils/preload-route-components", "timestamp": "2025-03-01 03:48:12", "status": "success", "entries_created": 4}
+{"index": 186, "url": "https://nuxt.com/docs/api/utils/set-response-status", "timestamp": "2025-03-01 03:48:34", "status": "success", "entries_created": 7}
+{"index": 187, "url": "https://nuxt.com/docs/guide/going-further/experimental-features", "timestamp": "2025-03-01 03:51:11", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 188, "url": "https://nuxt.com/docs/api/composables/use-nuxt-app", "timestamp": "2025-03-01 03:52:00", "status": "success", "entries_created": 14}
+{"index": 189, "url": "https://nuxt.com/docs/examples/advanced/module-extend-pages", "timestamp": "2025-03-01 03:53:26", "status": "success", "entries_created": 4}
+{"index": 190, "url": "https://nuxt.com/docs/api/composables/use-nuxt-data", "timestamp": "2025-03-01 03:53:54", "status": "success", "entries_created": 7}
+{"index": 191, "url": "https://nuxt.com/docs/api/composables/use-request-header", "timestamp": "2025-03-01 03:54:05", "status": "success", "entries_created": 6}
+{"index": 6, "url": "https://nuxt.com/docs/migration/meta", "timestamp": "2025-03-01 03:55:39", "status": "success", "entries_created": 6}
+{"index": 28, "url": "https://nuxt.com/docs/api/kit/nitro", "timestamp": "2025-03-01 03:58:44", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 32, "url": "https://nuxt.com/docs/getting-started/transitions", "timestamp": "2025-03-01 04:01:27", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 04:04:32", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 47, "url": "https://nuxt.com/docs/api/kit/templates", "timestamp": "2025-03-01 04:05:12", "status": "success", "entries_created": 8}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 04:08:13", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 78, "url": "https://nuxt.com/docs/api/commands/upgrade", "timestamp": "2025-03-01 04:09:39", "status": "success", "entries_created": 5}
+{"index": 102, "url": "https://nuxt.com/docs/getting-started/data-fetching", "timestamp": "2025-03-01 04:10:31", "status": "success", "entries_created": 29}
+{"index": 115, "url": "https://nuxt.com/docs/api/composables/use-cookie", "timestamp": "2025-03-01 04:11:10", "status": "success", "entries_created": 19}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 04:14:15", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 118, "url": "https://nuxt.com/docs/getting-started/seo-meta", "timestamp": "2025-03-01 04:17:21", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 122, "url": "https://nuxt.com/docs/api/utils/abort-navigation", "timestamp": "2025-03-01 04:17:59", "status": "success", "entries_created": 6}
+{"index": 187, "url": "https://nuxt.com/docs/guide/going-further/experimental-features", "timestamp": "2025-03-01 04:21:05", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 28, "url": "https://nuxt.com/docs/api/kit/nitro", "timestamp": "2025-03-01 04:24:16", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 32, "url": "https://nuxt.com/docs/getting-started/transitions", "timestamp": "2025-03-01 04:27:25", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 04:30:31", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 04:33:41", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 04:36:46", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 118, "url": "https://nuxt.com/docs/getting-started/seo-meta", "timestamp": "2025-03-01 04:37:40", "status": "success", "entries_created": 10}
+{"index": 187, "url": "https://nuxt.com/docs/guide/going-further/experimental-features", "timestamp": "2025-03-01 04:40:45", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 28, "url": "https://nuxt.com/docs/api/kit/nitro", "timestamp": "2025-03-01 04:41:48", "status": "success", "entries_created": 9}
+{"index": 32, "url": "https://nuxt.com/docs/getting-started/transitions", "timestamp": "2025-03-01 04:44:58", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 04:47:57", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 04:51:02", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 04:54:09", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 187, "url": "https://nuxt.com/docs/guide/going-further/experimental-features", "timestamp": "2025-03-01 04:57:15", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 32, "url": "https://nuxt.com/docs/getting-started/transitions", "timestamp": "2025-03-01 04:59:05", "status": "success", "entries_created": 12}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 05:02:27", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 05:05:33", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 05:08:38", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 187, "url": "https://nuxt.com/docs/guide/going-further/experimental-features", "timestamp": "2025-03-01 05:11:44", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 05:14:54", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 05:18:00", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 05:21:05", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 187, "url": "https://nuxt.com/docs/guide/going-further/experimental-features", "timestamp": "2025-03-01 05:24:11", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 05:26:40", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 05:29:46", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 05:32:51", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 187, "url": "https://nuxt.com/docs/guide/going-further/experimental-features", "timestamp": "2025-03-01 05:33:39", "status": "success", "entries_created": 34}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 05:36:34", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 05:39:39", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 05:42:45", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 05:45:55", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 05:49:01", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 05:52:06", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 05:55:16", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 05:58:22", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 06:01:27", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 06:04:19", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 06:07:24", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 06:10:30", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 06:13:41", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 06:16:46", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 06:19:56", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 06:23:07", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 06:26:12", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 06:29:18", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 06:32:28", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 06:35:33", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 06:38:39", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 06:41:49", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 06:44:54", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 06:48:00", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 06:51:10", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 06:54:20", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 06:57:26", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 07:00:36", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 07:03:41", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 07:06:47", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 07:09:43", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 07:12:52", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 07:15:57", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 07:19:08", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 07:22:13", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 07:25:19", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 07:28:31", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 07:31:37", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 07:34:43", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 07:37:53", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 07:40:59", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 07:44:04", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 07:47:14", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 07:50:20", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 07:53:32", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 07:56:42", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 07:59:48", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 08:02:53", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 08:06:04", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 08:09:09", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 08:12:15", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 08:15:17", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 08:18:26", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 08:21:32", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 38, "url": "https://nuxt.com/docs/getting-started/testing", "timestamp": "2025-03-01 08:24:42", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 66, "url": "https://nuxt.com/docs/getting-started/upgrade", "timestamp": "2025-03-01 08:27:52", "status": "failure", "error": "No usable data returned on retry 25"}
+{"index": 116, "url": "https://nuxt.com/docs/guide/directory-structure/components", "timestamp": "2025-03-01 08:30:58", "status": "failure", "error": "No usable data returned on retry 25"}

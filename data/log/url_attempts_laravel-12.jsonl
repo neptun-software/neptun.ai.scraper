@@ -1,0 +1,127 @@
+{"index": 0, "url": "https://laravel.com/docs/12.x", "timestamp": "2025-03-01 02:52:02", "status": "success", "entries_created": 13}
+{"index": 1, "url": "https://laravel.com/docs/12.x/sanctum", "timestamp": "2025-03-01 02:52:57", "status": "success", "entries_created": 13}
+{"index": 2, "url": "https://laravel.com/docs/12.x/pulse", "timestamp": "2025-03-01 02:54:39", "status": "success", "entries_created": 13}
+{"index": 3, "url": "https://laravel.com/docs/12.x/upgrade", "timestamp": "2025-03-01 02:55:26", "status": "success", "entries_created": 13}
+{"index": 4, "url": "https://laravel.com/docs/12.x/fortify", "timestamp": "2025-03-01 02:57:11", "status": "success", "entries_created": 13}
+{"index": 5, "url": "https://laravel.com/docs/12.x/requests", "timestamp": "2025-03-01 03:00:18", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 6, "url": "https://laravel.com/docs/12.x/broadcasting", "timestamp": "2025-03-01 03:01:00", "status": "success", "entries_created": 13}
+{"index": 7, "url": "https://laravel.com/docs/12.x/seeding", "timestamp": "2025-03-01 03:01:30", "status": "success", "entries_created": 9}
+{"index": 8, "url": "https://laravel.com/docs/12.x/releases", "timestamp": "2025-03-01 03:01:55", "status": "success", "entries_created": 11}
+{"index": 9, "url": "https://laravel.com/docs/12.x/passwords", "timestamp": "2025-03-01 03:02:35", "status": "success", "entries_created": 13}
+{"index": 10, "url": "https://laravel.com/docs/12.x/views", "timestamp": "2025-03-01 03:03:07", "status": "success", "entries_created": 13}
+{"index": 11, "url": "https://laravel.com/docs/12.x/concurrency", "timestamp": "2025-03-01 03:03:29", "status": "success", "entries_created": 8}
+{"index": 12, "url": "https://laravel.com/docs/12.x/blade", "timestamp": "2025-03-01 03:05:10", "status": "success", "entries_created": 9}
+{"index": 13, "url": "https://laravel.com/docs/12.x/localization", "timestamp": "2025-03-01 03:05:33", "status": "success", "entries_created": 14}
+{"index": 14, "url": "https://laravel.com/docs/12.x/events", "timestamp": "2025-03-01 03:06:01", "status": "success", "entries_created": 8}
+{"index": 15, "url": "https://laravel.com/docs/12.x/mongodb", "timestamp": "2025-03-01 03:06:39", "status": "success", "entries_created": 13}
+{"index": 16, "url": "https://laravel.com/docs/12.x/octane", "timestamp": "2025-03-01 03:07:16", "status": "success", "entries_created": 13}
+{"index": 17, "url": "https://laravel.com/docs/12.x/cache", "timestamp": "2025-03-01 03:08:06", "status": "success", "entries_created": 9}
+{"index": 18, "url": "https://laravel.com/docs/12.x/mix", "timestamp": "2025-03-01 03:08:35", "status": "success", "entries_created": 13}
+{"index": 19, "url": "https://laravel.com/docs/12.x/eloquent", "timestamp": "2025-03-01 03:09:23", "status": "success", "entries_created": 13}
+{"index": 20, "url": "https://laravel.com/docs/12.x/contracts", "timestamp": "2025-03-01 03:09:56", "status": "success", "entries_created": 13}
+{"index": 21, "url": "https://laravel.com/docs/12.x/validation", "timestamp": "2025-03-01 03:11:39", "status": "success", "entries_created": 9}
+{"index": 22, "url": "https://laravel.com/docs/12.x/documentation", "timestamp": "2025-03-01 03:12:07", "status": "success", "entries_created": 11}
+{"index": 23, "url": "https://laravel.com/docs/12.x/envoy", "timestamp": "2025-03-01 03:12:44", "status": "success", "entries_created": 13}
+{"index": 24, "url": "https://laravel.com/docs/12.x/authentication", "timestamp": "2025-03-01 03:13:23", "status": "success", "entries_created": 13}
+{"index": 25, "url": "https://laravel.com/docs/12.x/processes", "timestamp": "2025-03-01 03:13:55", "status": "success", "entries_created": 17}
+{"index": 26, "url": "https://laravel.com/docs/12.x/prompts", "timestamp": "2025-03-01 03:14:43", "status": "success", "entries_created": 13}
+{"index": 27, "url": "https://laravel.com/docs/12.x/middleware", "timestamp": "2025-03-01 03:15:29", "status": "success", "entries_created": 8}
+{"index": 28, "url": "https://laravel.com/docs/12.x/encryption", "timestamp": "2025-03-01 03:15:56", "status": "success", "entries_created": 7}
+{"index": 29, "url": "https://laravel.com/docs/12.x/telescope", "timestamp": "2025-03-01 03:16:29", "status": "success", "entries_created": 13}
+{"index": 30, "url": "https://laravel.com/docs/12.x/configuration", "timestamp": "2025-03-01 03:17:10", "status": "success", "entries_created": 13}
+{"index": 31, "url": "https://laravel.com/docs/12.x/mail", "timestamp": "2025-03-01 03:20:12", "status": "success", "entries_created": 23}
+{"index": 32, "url": "https://laravel.com/docs/12.x/database", "timestamp": "2025-03-01 03:20:46", "status": "success", "entries_created": 13}
+{"index": 33, "url": "https://laravel.com/docs/12.x/helpers", "timestamp": "2025-03-01 03:23:52", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 34, "url": "https://laravel.com/docs/12.x/context", "timestamp": "2025-03-01 03:24:31", "status": "success", "entries_created": 13}
+{"index": 35, "url": "https://laravel.com/docs/12.x/queues", "timestamp": "2025-03-01 03:25:09", "status": "success", "entries_created": 13}
+{"index": 36, "url": "https://laravel.com/docs/12.x/csrf", "timestamp": "2025-03-01 03:25:22", "status": "success", "entries_created": 10}
+{"index": 37, "url": "https://laravel.com/docs/12.x/authorization", "timestamp": "2025-03-01 03:27:55", "status": "success", "entries_created": 8}
+{"index": 38, "url": "https://laravel.com/docs/12.x/frontend", "timestamp": "2025-03-01 03:28:27", "status": "success", "entries_created": 13}
+{"index": 39, "url": "https://laravel.com/docs/12.x/session", "timestamp": "2025-03-01 03:29:20", "status": "success", "entries_created": 21}
+{"index": 40, "url": "https://laravel.com/docs/12.x/routing", "timestamp": "2025-03-01 03:29:55", "status": "success", "entries_created": 13}
+{"index": 41, "url": "https://laravel.com/docs/12.x/redis", "timestamp": "2025-03-01 03:30:40", "status": "success", "entries_created": 13}
+{"index": 42, "url": "https://laravel.com/docs/12.x/pagination", "timestamp": "2025-03-01 03:31:22", "status": "success", "entries_created": 13}
+{"index": 43, "url": "https://laravel.com/docs/12.x/homestead", "timestamp": "2025-03-01 03:32:07", "status": "success", "entries_created": 13}
+{"index": 44, "url": "https://laravel.com/docs/12.x/urls", "timestamp": "2025-03-01 03:32:41", "status": "success", "entries_created": 13}
+{"index": 45, "url": "https://laravel.com/docs/12.x/migrations", "timestamp": "2025-03-01 03:35:42", "status": "success", "entries_created": 11}
+{"index": 46, "url": "https://laravel.com/docs/12.x/queries", "timestamp": "2025-03-01 03:36:11", "status": "success", "entries_created": 13}
+{"index": 47, "url": "https://laravel.com/docs/12.x/testing", "timestamp": "2025-03-01 03:37:54", "status": "success", "entries_created": 13}
+{"index": 48, "url": "https://laravel.com/docs/12.x/structure", "timestamp": "2025-03-01 03:38:27", "status": "success", "entries_created": 12}
+{"index": 49, "url": "https://laravel.com/docs/12.x/mocking", "timestamp": "2025-03-01 03:38:52", "status": "success", "entries_created": 5}
+{"index": 50, "url": "https://laravel.com/docs/12.x/responses", "timestamp": "2025-03-01 03:39:17", "status": "success", "entries_created": 9}
+{"index": 51, "url": "https://laravel.com/docs/12.x/strings", "timestamp": "2025-03-01 03:39:58", "status": "success", "entries_created": 5}
+{"index": 52, "url": "https://laravel.com/docs/12.x/socialite", "timestamp": "2025-03-01 03:40:53", "status": "success", "entries_created": 13}
+{"index": 53, "url": "https://laravel.com/docs/12.x/dusk", "timestamp": "2025-03-01 03:41:29", "status": "success", "entries_created": 13}
+{"index": 54, "url": "https://laravel.com/docs/12.x/artisan", "timestamp": "2025-03-01 03:42:03", "status": "success", "entries_created": 13}
+{"index": 55, "url": "https://laravel.com/docs/12.x/billing", "timestamp": "2025-03-01 03:42:41", "status": "success", "entries_created": 13}
+{"index": 56, "url": "https://laravel.com/docs/12.x/lifecycle", "timestamp": "2025-03-01 03:43:12", "status": "success", "entries_created": 12}
+{"index": 57, "url": "https://laravel.com/docs/12.x/collections", "timestamp": "2025-03-01 03:44:57", "status": "success", "entries_created": 13}
+{"index": 58, "url": "https://laravel.com/docs/12.x/horizon", "timestamp": "2025-03-01 03:45:31", "status": "success", "entries_created": 13}
+{"index": 59, "url": "https://laravel.com/docs/12.x/folio", "timestamp": "2025-03-01 03:46:09", "status": "success", "entries_created": 13}
+{"index": 60, "url": "https://laravel.com/docs/12.x/installation", "timestamp": "2025-03-01 03:46:44", "status": "success", "entries_created": 13}
+{"index": 61, "url": "https://laravel.com/docs/12.x/contributions", "timestamp": "2025-03-01 03:47:13", "status": "success", "entries_created": 13}
+{"index": 62, "url": "https://laravel.com/docs/12.x/scheduling", "timestamp": "2025-03-01 03:47:44", "status": "success", "entries_created": 13}
+{"index": 63, "url": "https://laravel.com/docs/12.x/sail", "timestamp": "2025-03-01 03:48:21", "status": "success", "entries_created": 13}
+{"index": 64, "url": "https://laravel.com/docs/12.x/hashing", "timestamp": "2025-03-01 03:48:46", "status": "success", "entries_created": 9}
+{"index": 65, "url": "https://laravel.com/docs/12.x/packages", "timestamp": "2025-03-01 03:49:20", "status": "success", "entries_created": 13}
+{"index": 66, "url": "https://laravel.com/docs/12.x/precognition", "timestamp": "2025-03-01 03:50:03", "status": "success", "entries_created": 13}
+{"index": 67, "url": "https://laravel.com/docs/12.x/deployment", "timestamp": "2025-03-01 03:51:38", "status": "success", "entries_created": 10}
+{"index": 68, "url": "https://laravel.com/docs/12.x/controllers", "timestamp": "2025-03-01 03:52:14", "status": "success", "entries_created": 13}
+{"index": 69, "url": "https://laravel.com/docs/12.x/scout", "timestamp": "2025-03-01 03:52:48", "status": "success", "entries_created": 13}
+{"index": 70, "url": "https://laravel.com/docs/12.x/verification", "timestamp": "2025-03-01 03:53:34", "status": "success", "entries_created": 13}
+{"index": 71, "url": "https://laravel.com/docs/12.x/notifications", "timestamp": "2025-03-01 03:54:12", "status": "success", "entries_created": 13}
+{"index": 72, "url": "https://laravel.com/docs/12.x/filesystem", "timestamp": "2025-03-01 03:56:51", "status": "success", "entries_created": 13}
+{"index": 73, "url": "https://laravel.com/docs/12.x/redirects", "timestamp": "2025-03-01 03:57:44", "status": "success", "entries_created": 8}
+{"index": 74, "url": "https://laravel.com/docs/12.x/valet", "timestamp": "2025-03-01 03:58:27", "status": "success", "entries_created": 13}
+{"index": 75, "url": "https://laravel.com/docs/12.x/pint", "timestamp": "2025-03-01 03:59:00", "status": "success", "entries_created": 13}
+{"index": 76, "url": "https://laravel.com/docs/12.x/container", "timestamp": "2025-03-01 03:59:28", "status": "success", "entries_created": 13}
+{"index": 77, "url": "https://laravel.com/docs/12.x/vite", "timestamp": "2025-03-01 04:00:01", "status": "success", "entries_created": 13}
+{"index": 78, "url": "https://laravel.com/docs/12.x/providers", "timestamp": "2025-03-01 04:00:41", "status": "success", "entries_created": 13}
+{"index": 79, "url": "https://laravel.com/docs/12.x/passport", "timestamp": "2025-03-01 04:01:21", "status": "success", "entries_created": 13}
+{"index": 80, "url": "https://laravel.com/docs/12.x/errors", "timestamp": "2025-03-01 04:01:41", "status": "success", "entries_created": 8}
+{"index": 81, "url": "https://laravel.com/docs/12.x/reverb", "timestamp": "2025-03-01 04:02:22", "status": "success", "entries_created": 13}
+{"index": 82, "url": "https://laravel.com/docs/12.x/facades", "timestamp": "2025-03-01 04:03:06", "status": "success", "entries_created": 13}
+{"index": 83, "url": "https://laravel.com/docs/12.x/readme", "timestamp": "2025-03-01 04:03:34", "status": "success", "entries_created": 12}
+{"index": 84, "url": "https://laravel.com/docs/12.x/pennant", "timestamp": "2025-03-01 04:04:18", "status": "success", "entries_created": 13}
+{"index": 85, "url": "https://laravel.com/docs/12.x/logging", "timestamp": "2025-03-01 04:05:47", "status": "success", "entries_created": 8}
+{"index": 86, "url": "https://laravel.com/docs/12.x/eloquent-factories", "timestamp": "2025-03-01 04:06:34", "status": "success", "entries_created": 13}
+{"index": 87, "url": "https://laravel.com/docs/12.x/eloquent-mutators", "timestamp": "2025-03-01 04:06:46", "status": "success", "entries_created": 8}
+{"index": 88, "url": "https://laravel.com/docs/12.x/eloquent-resources", "timestamp": "2025-03-01 04:07:28", "status": "success", "entries_created": 13}
+{"index": 89, "url": "https://laravel.com/docs/12.x/eloquent-collections", "timestamp": "2025-03-01 04:08:00", "status": "success", "entries_created": 13}
+{"index": 90, "url": "https://laravel.com/docs/12.x/cashier-paddle", "timestamp": "2025-03-01 04:08:29", "status": "success", "entries_created": 13}
+{"index": 91, "url": "https://laravel.com/docs/12.x/starter-kits", "timestamp": "2025-03-01 04:08:59", "status": "success", "entries_created": 13}
+{"index": 92, "url": "https://laravel.com/docs/12.x/console-tests", "timestamp": "2025-03-01 04:09:08", "status": "success", "entries_created": 5}
+{"index": 93, "url": "https://laravel.com/docs/12.x/eloquent-serialization", "timestamp": "2025-03-01 04:09:31", "status": "success", "entries_created": 8}
+{"index": 94, "url": "https://laravel.com/docs/12.x/database-testing", "timestamp": "2025-03-01 04:10:20", "status": "success", "entries_created": 8}
+{"index": 95, "url": "https://laravel.com/docs/12.x/rate-limiting", "timestamp": "2025-03-01 04:11:00", "status": "success", "entries_created": 9}
+{"index": 96, "url": "https://laravel.com/docs/12.x/http-client", "timestamp": "2025-03-01 04:11:36", "status": "success", "entries_created": 15}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:14:51", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 98, "url": "https://laravel.com/docs/12.x/eloquent-relationships", "timestamp": "2025-03-01 04:15:26", "status": "success", "entries_created": 13}
+{"index": 5, "url": "https://laravel.com/docs/12.x/requests", "timestamp": "2025-03-01 04:18:31", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 33, "url": "https://laravel.com/docs/12.x/helpers", "timestamp": "2025-03-01 04:20:09", "status": "success", "entries_created": 13}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:23:15", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 5, "url": "https://laravel.com/docs/12.x/requests", "timestamp": "2025-03-01 04:24:17", "status": "success", "entries_created": 7}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:27:23", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:30:33", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:33:44", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:36:54", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:40:09", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:43:29", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:46:39", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:49:54", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:53:05", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:56:15", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 04:59:13", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:02:27", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:05:37", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:08:48", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:11:58", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:15:09", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:18:19", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:21:30", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:24:40", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:27:43", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:30:58", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:34:08", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:37:19", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 97, "url": "https://laravel.com/docs/12.x/http-tests", "timestamp": "2025-03-01 05:40:29", "status": "failure", "error": "No usable data returned on retry 25"}

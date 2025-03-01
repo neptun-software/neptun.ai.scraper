@@ -1,0 +1,401 @@
+{"index": 0, "url": "https://www.typescriptlang.org/docs", "timestamp": "2025-02-28 21:58:48", "status": "success", "entries_created": 10}
+{"index": 1, "url": "https://www.typescriptlang.org/docs/handbook", "timestamp": "2025-02-28 22:00:28", "status": "success", "entries_created": 9}
+{"index": 2, "url": "https://www.typescriptlang.org/docs/handbook/symbols.html", "timestamp": "2025-02-28 22:00:49", "status": "success", "entries_created": 4}
+{"index": 3, "url": "https://www.typescriptlang.org/docs/handbook/basic-types", "timestamp": "2025-02-28 22:01:42", "status": "success", "entries_created": 18}
+{"index": 4, "url": "https://www.typescriptlang.org/docs/handbook/react.html", "timestamp": "2025-02-28 22:03:24", "status": "success", "entries_created": 4}
+{"index": 5, "url": "https://www.typescriptlang.org/docs/handbook/interfaces.html", "timestamp": "2025-02-28 22:06:29", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 6, "url": "https://www.typescriptlang.org/docs/handbook/mixins.html", "timestamp": "2025-02-28 22:09:31", "status": "success", "entries_created": 7}
+{"index": 7, "url": "https://www.typescriptlang.org/docs/handbook/functions.html", "timestamp": "2025-02-28 22:10:03", "status": "success", "entries_created": 7}
+{"index": 8, "url": "https://www.typescriptlang.org/docs/handbook/intro.html", "timestamp": "2025-02-28 22:10:26", "status": "success", "entries_created": 6}
+{"index": 9, "url": "https://www.typescriptlang.org/docs/handbook/advanced-types.html", "timestamp": "2025-02-28 22:10:45", "status": "success", "entries_created": 24}
+{"index": 10, "url": "https://www.typescriptlang.org/docs/handbook/configuring-watch.html", "timestamp": "2025-02-28 22:11:29", "status": "success", "entries_created": 7}
+{"index": 11, "url": "https://www.typescriptlang.org/docs/handbook/utility-types.html", "timestamp": "2025-02-28 22:12:01", "status": "success", "entries_created": 22}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-02-28 22:15:11", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 13, "url": "https://www.typescriptlang.org/docs/handbook/project-references.html", "timestamp": "2025-02-28 22:15:54", "status": "success", "entries_created": 13}
+{"index": 14, "url": "https://www.typescriptlang.org/docs/handbook/2/functions.html", "timestamp": "2025-02-28 22:16:42", "status": "success", "entries_created": 18}
+{"index": 15, "url": "https://www.typescriptlang.org/docs/handbook/2/modules.html", "timestamp": "2025-02-28 22:18:13", "status": "success", "entries_created": 16}
+{"index": 16, "url": "https://www.typescriptlang.org/docs/handbook/2/narrowing.html", "timestamp": "2025-02-28 22:19:11", "status": "success", "entries_created": 4}
+{"index": 17, "url": "https://www.typescriptlang.org/docs/handbook/declaration-merging.html", "timestamp": "2025-02-28 22:20:01", "status": "success", "entries_created": 10}
+{"index": 18, "url": "https://www.typescriptlang.org/docs/handbook/tsconfig-json.html", "timestamp": "2025-02-28 22:20:26", "status": "success", "entries_created": 9}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-02-28 22:23:32", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 20, "url": "https://www.typescriptlang.org/docs/handbook/type-inference.html", "timestamp": "2025-02-28 22:23:48", "status": "success", "entries_created": 5}
+{"index": 21, "url": "https://www.typescriptlang.org/docs/handbook/nightly-builds.html", "timestamp": "2025-02-28 22:24:02", "status": "success", "entries_created": 10}
+{"index": 22, "url": "https://www.typescriptlang.org/docs/handbook/type-compatibility.html", "timestamp": "2025-02-28 22:24:42", "status": "success", "entries_created": 16}
+{"index": 23, "url": "https://www.typescriptlang.org/docs/handbook/2/objects.html", "timestamp": "2025-02-28 22:26:43", "status": "success", "entries_created": 18}
+{"index": 24, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates.html", "timestamp": "2025-02-28 22:26:51", "status": "success", "entries_created": 3}
+{"index": 25, "url": "https://www.typescriptlang.org/docs/handbook/2/conditional-types.html", "timestamp": "2025-02-28 22:27:13", "status": "success", "entries_created": 9}
+{"index": 26, "url": "https://www.typescriptlang.org/docs/handbook/2/understanding-errors.html", "timestamp": "2025-02-28 22:27:41", "status": "success", "entries_created": 5}
+{"index": 27, "url": "https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html", "timestamp": "2025-02-28 22:29:15", "status": "success", "entries_created": 31}
+{"index": 28, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/publishing.html", "timestamp": "2025-02-28 22:29:46", "status": "success", "entries_created": 13}
+{"index": 29, "url": "https://www.typescriptlang.org/docs/handbook/asp-net-core.html", "timestamp": "2025-02-28 22:30:05", "status": "success", "entries_created": 5}
+{"index": 30, "url": "https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html", "timestamp": "2025-02-28 22:30:38", "status": "success", "entries_created": 8}
+{"index": 31, "url": "https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html", "timestamp": "2025-02-28 22:30:48", "status": "success", "entries_created": 4}
+{"index": 32, "url": "https://www.typescriptlang.org/docs/handbook/babel-with-typescript.html", "timestamp": "2025-02-28 22:31:05", "status": "success", "entries_created": 6}
+{"index": 33, "url": "https://www.typescriptlang.org/docs/handbook/iterators-and-generators.html", "timestamp": "2025-02-28 22:31:41", "status": "success", "entries_created": 8}
+{"index": 34, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/consumption.html", "timestamp": "2025-02-28 22:31:59", "status": "success", "entries_created": 6}
+{"index": 35, "url": "https://www.typescriptlang.org/docs/handbook/2/typeof-types.html", "timestamp": "2025-02-28 22:35:05", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 36, "url": "https://www.typescriptlang.org/docs/handbook/2/mapped-types.html", "timestamp": "2025-02-28 22:38:15", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 37, "url": "https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html", "timestamp": "2025-02-28 22:39:09", "status": "success", "entries_created": 9}
+{"index": 38, "url": "https://www.typescriptlang.org/docs/handbook/2/basic-types.html", "timestamp": "2025-02-28 22:42:15", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 39, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html", "timestamp": "2025-02-28 22:44:49", "status": "success", "entries_created": 8}
+{"index": 40, "url": "https://www.typescriptlang.org/docs/handbook/react-&-webpack.html", "timestamp": "2025-02-28 22:46:32", "status": "success", "entries_created": 12}
+{"index": 41, "url": "https://www.typescriptlang.org/docs/handbook/2/keyof-types.html", "timestamp": "2025-02-28 22:46:58", "status": "success", "entries_created": 4}
+{"index": 42, "url": "https://www.typescriptlang.org/docs/handbook/2/type-declarations.html", "timestamp": "2025-02-28 22:48:32", "status": "success", "entries_created": 12}
+{"index": 43, "url": "https://www.typescriptlang.org/docs/handbook/triple-slash-directives.html", "timestamp": "2025-02-28 22:48:47", "status": "success", "entries_created": 13}
+{"index": 44, "url": "https://www.typescriptlang.org/docs/handbook/classes", "timestamp": "2025-02-28 22:51:52", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 45, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/deep-dive.html", "timestamp": "2025-02-28 22:52:14", "status": "success", "entries_created": 13}
+{"index": 46, "url": "https://www.typescriptlang.org/docs/handbook/integrating-with-build-tools.html", "timestamp": "2025-02-28 22:54:07", "status": "success", "entries_created": 14}
+{"index": 47, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html", "timestamp": "2025-02-28 22:54:54", "status": "success", "entries_created": 10}
+{"index": 48, "url": "https://www.typescriptlang.org/docs/handbook/2/types-from-types.html", "timestamp": "2025-02-28 22:55:15", "status": "success", "entries_created": 5}
+{"index": 49, "url": "https://www.typescriptlang.org/docs/handbook/intro-to-js-ts.html", "timestamp": "2025-02-28 22:55:31", "status": "success", "entries_created": 6}
+{"index": 50, "url": "https://www.typescriptlang.org/docs/handbook/type-checking-javascript-files.html", "timestamp": "2025-02-28 22:56:29", "status": "success", "entries_created": 14}
+{"index": 51, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/library-structures.html", "timestamp": "2025-02-28 22:58:11", "status": "success", "entries_created": 26}
+{"index": 52, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options-in-msbuild.html", "timestamp": "2025-02-28 22:58:55", "status": "success", "entries_created": 12}
+{"index": 53, "url": "https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html", "timestamp": "2025-02-28 23:02:05", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 54, "url": "https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html", "timestamp": "2025-02-28 23:03:01", "status": "success", "entries_created": 20}
+{"index": 55, "url": "https://www.typescriptlang.org/docs/handbook/interfaces.html?azure-portal=true", "timestamp": "2025-02-28 23:06:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 56, "url": "https://www.typescriptlang.org/docs/handbook/advanced-types.html?ref=nehalist.io", "timestamp": "2025-02-28 23:09:12", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 57, "url": "https://www.typescriptlang.org/docs/handbook/advanced-types.html?ref=zohaib.me", "timestamp": "2025-02-28 23:10:28", "status": "success", "entries_created": 24}
+{"index": 58, "url": "https://www.typescriptlang.org/docs/handbook/advanced-types.html?ref=dsebastien.net", "timestamp": "2025-02-28 23:12:59", "status": "success", "entries_created": 23}
+{"index": 59, "url": "https://www.typescriptlang.org/docs/handbook/basic-types.html?ref=davidgomes.com", "timestamp": "2025-02-28 23:14:26", "status": "success", "entries_created": 18}
+{"index": 60, "url": "https://www.typescriptlang.org/docs/handbook/basic-types.html?azure-portal=true", "timestamp": "2025-02-28 23:15:50", "status": "success", "entries_created": 18}
+{"index": 61, "url": "https://www.typescriptlang.org/docs/handbook/angular.html", "timestamp": "2025-02-28 23:16:07", "status": "success", "entries_created": 8}
+{"index": 62, "url": "https://www.typescriptlang.org/docs/handbook/interfaces.html?ref=blog.lsantos.dev", "timestamp": "2025-02-28 23:18:04", "status": "success", "entries_created": 10}
+{"index": 63, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html", "timestamp": "2025-02-28 23:19:01", "status": "success", "entries_created": 8}
+{"index": 64, "url": "https://www.typescriptlang.org/docs/handbook/jsx.html", "timestamp": "2025-02-28 23:19:12", "status": "success", "entries_created": 4}
+{"index": 65, "url": "https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html", "timestamp": "2025-02-28 23:20:53", "status": "success", "entries_created": 10}
+{"index": 66, "url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html", "timestamp": "2025-02-28 23:21:42", "status": "success", "entries_created": 17}
+{"index": 67, "url": "https://www.typescriptlang.org/docs/handbook/namespaces.html", "timestamp": "2025-02-28 23:22:25", "status": "success", "entries_created": 16}
+{"index": 68, "url": "https://www.typescriptlang.org/docs/handbook/modules/guides/choosing-compiler-options.html", "timestamp": "2025-02-28 23:22:57", "status": "success", "entries_created": 12}
+{"index": 69, "url": "https://www.typescriptlang.org/docs/handbook/modules/appendices/esm-cjs-interop.html", "timestamp": "2025-02-28 23:23:25", "status": "success", "entries_created": 24}
+{"index": 70, "url": "https://www.typescriptlang.org/docs/handbook/advanced-types.html?ref=rahulpnath.com", "timestamp": "2025-02-28 23:24:03", "status": "success", "entries_created": 23}
+{"index": 71, "url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html", "timestamp": "2025-02-28 23:27:09", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 72, "url": "https://www.typescriptlang.org/docs/handbook/enums.html", "timestamp": "2025-02-28 23:28:42", "status": "success", "entries_created": 15}
+{"index": 73, "url": "https://www.typescriptlang.org/docs/handbook/gulp.html", "timestamp": "2025-02-28 23:31:53", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 74, "url": "https://www.typescriptlang.org/docs/handbook/decorators.html", "timestamp": "2025-02-28 23:33:52", "status": "success", "entries_created": 14}
+{"index": 75, "url": "https://www.typescriptlang.org/docs/handbook/functions.html?ref=cypress-io.ghost.io", "timestamp": "2025-02-28 23:34:06", "status": "success", "entries_created": 4}
+{"index": 76, "url": "https://www.typescriptlang.org/docs/handbook/functions.html?WT.mc_id=tsforjs-blog-jeliknes", "timestamp": "2025-02-28 23:34:17", "status": "success", "entries_created": 4}
+{"index": 77, "url": "https://www.typescriptlang.org/docs/handbook/basic-types.html?WT.mc_id=devto-blog-gllemos", "timestamp": "2025-02-28 23:36:02", "status": "success", "entries_created": 18}
+{"index": 78, "url": "https://www.typescriptlang.org/docs/handbook/literal-types.html", "timestamp": "2025-02-28 23:36:22", "status": "success", "entries_created": 7}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-02-28 23:39:28", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 80, "url": "https://www.typescriptlang.org/docs/handbook/variable-declarations.html", "timestamp": "2025-02-28 23:42:31", "status": "success", "entries_created": 28}
+{"index": 81, "url": "https://www.typescriptlang.org/docs/handbook/basic-types.html?WT.mc_id=tsforjs-blog-jeliknes", "timestamp": "2025-02-28 23:42:35", "status": "success", "entries_created": 2}
+{"index": 82, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html", "timestamp": "2025-02-28 23:44:26", "status": "success", "entries_created": 14}
+{"index": 83, "url": "https://www.typescriptlang.org/docs/handbook/dom-manipulation.html", "timestamp": "2025-02-28 23:44:34", "status": "success", "entries_created": 4}
+{"index": 84, "url": "https://www.typescriptlang.org/docs/handbook/2/generics.html", "timestamp": "2025-02-28 23:45:23", "status": "success", "entries_created": 12}
+{"index": 85, "url": "https://www.typescriptlang.org/docs/handbook/modules/introduction.html", "timestamp": "2025-02-28 23:45:29", "status": "success", "entries_created": 6}
+{"index": 86, "url": "https://www.typescriptlang.org/docs/handbook/2/classes.html", "timestamp": "2025-02-28 23:46:14", "status": "success", "entries_created": 44}
+{"index": 87, "url": "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html", "timestamp": "2025-02-28 23:47:50", "status": "success", "entries_created": 8}
+{"index": 88, "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html", "timestamp": "2025-02-28 23:50:55", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 89, "url": "https://www.typescriptlang.org/docs/handbook/classes.html?ref=dsebastien.net", "timestamp": "2025-02-28 23:52:49", "status": "success", "entries_created": 17}
+{"index": 90, "url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html", "timestamp": "2025-02-28 23:53:33", "status": "success", "entries_created": 8}
+{"index": 91, "url": "https://www.typescriptlang.org/docs/handbook/interfaces.html?utm_source=jeliknes&utm_medium=blog&utm_campaign=tsforjs&WT.mc_id=tsforjs-blog-jeliknes", "timestamp": "2025-02-28 23:56:02", "status": "success", "entries_created": 16}
+{"index": 92, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-6.html", "timestamp": "2025-02-28 23:56:50", "status": "success", "entries_created": 15}
+{"index": 93, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-5.html", "timestamp": "2025-02-28 23:57:48", "status": "success", "entries_created": 17}
+{"index": 94, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-1.html", "timestamp": "2025-02-28 23:58:38", "status": "success", "entries_created": 13}
+{"index": 95, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-7.html", "timestamp": "2025-03-01 00:01:48", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 96, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-0.html", "timestamp": "2025-03-01 00:02:43", "status": "success", "entries_created": 65}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 00:05:49", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 98, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-1-7.html", "timestamp": "2025-03-01 00:06:33", "status": "success", "entries_created": 9}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 00:09:39", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 100, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-2.html", "timestamp": "2025-03-01 00:10:22", "status": "success", "entries_created": 13}
+{"index": 101, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-1.html", "timestamp": "2025-03-01 00:10:33", "status": "success", "entries_created": 6}
+{"index": 102, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-7.html", "timestamp": "2025-03-01 00:11:17", "status": "success", "entries_created": 14}
+{"index": 103, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-0.html", "timestamp": "2025-03-01 00:11:55", "status": "success", "entries_created": 11}
+{"index": 104, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-4.html", "timestamp": "2025-03-01 00:12:54", "status": "success", "entries_created": 14}
+{"index": 105, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-9.html", "timestamp": "2025-03-01 00:16:04", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 106, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-6.html", "timestamp": "2025-03-01 00:16:41", "status": "success", "entries_created": 17}
+{"index": 107, "url": "https://www.typescriptlang.org/docs/handbook/classes.html?ref=blog.yonatan.dev", "timestamp": "2025-03-01 00:17:38", "status": "success", "entries_created": 19}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 00:20:44", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 109, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-1.html", "timestamp": "2025-03-01 00:20:59", "status": "success", "entries_created": 17}
+{"index": 110, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-8.html", "timestamp": "2025-03-01 00:24:03", "status": "success", "entries_created": 13}
+{"index": 111, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-9.html", "timestamp": "2025-03-01 00:24:36", "status": "success", "entries_created": 20}
+{"index": 112, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-1-1.html", "timestamp": "2025-03-01 00:24:43", "status": "success", "entries_created": 5}
+{"index": 113, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-9.html", "timestamp": "2025-03-01 00:25:31", "status": "success", "entries_created": 11}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 00:28:37", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 115, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-3.html", "timestamp": "2025-03-01 00:29:11", "status": "success", "entries_created": 6}
+{"index": 116, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-6.html", "timestamp": "2025-03-01 00:29:56", "status": "success", "entries_created": 13}
+{"index": 117, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-2.html", "timestamp": "2025-03-01 00:30:31", "status": "success", "entries_created": 14}
+{"index": 118, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-3.html", "timestamp": "2025-03-01 00:31:19", "status": "success", "entries_created": 16}
+{"index": 119, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-1-4.html", "timestamp": "2025-03-01 00:31:51", "status": "success", "entries_created": 14}
+{"index": 120, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-1-8.html", "timestamp": "2025-03-01 00:32:47", "status": "success", "entries_created": 45}
+{"index": 121, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-6.html", "timestamp": "2025-03-01 00:35:53", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 122, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-1-3.html", "timestamp": "2025-03-01 00:36:03", "status": "success", "entries_created": 5}
+{"index": 123, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-4.html", "timestamp": "2025-03-01 00:36:18", "status": "success", "entries_created": 15}
+{"index": 124, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-5.html", "timestamp": "2025-03-01 00:36:30", "status": "success", "entries_created": 11}
+{"index": 125, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-1-5.html", "timestamp": "2025-03-01 00:36:44", "status": "success", "entries_created": 25}
+{"index": 126, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-4.html", "timestamp": "2025-03-01 00:37:05", "status": "success", "entries_created": 11}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 00:40:11", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 128, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-1-6.html", "timestamp": "2025-03-01 00:40:56", "status": "success", "entries_created": 29}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 00:44:01", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 130, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-3.html", "timestamp": "2025-03-01 00:44:40", "status": "success", "entries_created": 10}
+{"index": 131, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-2.html", "timestamp": "2025-03-01 00:47:45", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 132, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-5.html", "timestamp": "2025-03-01 00:48:00", "status": "success", "entries_created": 7}
+{"index": 133, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.html", "timestamp": "2025-03-01 00:48:43", "status": "success", "entries_created": 16}
+{"index": 134, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html", "timestamp": "2025-03-01 00:51:49", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 135, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-7.html", "timestamp": "2025-03-01 00:54:54", "status": "success", "entries_created": 18}
+{"index": 136, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-8.html", "timestamp": "2025-03-01 00:55:35", "status": "success", "entries_created": 26}
+{"index": 137, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html", "timestamp": "2025-03-01 00:58:40", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 138, "url": "https://www.typescriptlang.org/docs/handbook/classes.html?WT.mc_id=tsforjs-blog-jeliknes", "timestamp": "2025-03-01 01:01:46", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 139, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/module-d-ts.html", "timestamp": "2025-03-01 01:02:45", "status": "success", "entries_created": 12}
+{"index": 140, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/global-d-ts.html", "timestamp": "2025-03-01 01:03:47", "status": "success", "entries_created": 7}
+{"index": 141, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/module-plugin-d-ts.html", "timestamp": "2025-03-01 01:04:42", "status": "success", "entries_created": 7}
+{"index": 142, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/module-function-d-ts.html", "timestamp": "2025-03-01 01:07:24", "status": "success", "entries_created": 5}
+{"index": 143, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/global-plugin-d-ts.html", "timestamp": "2025-03-01 01:10:30", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 144, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/module-class-d-ts.html", "timestamp": "2025-03-01 01:12:08", "status": "success", "entries_created": 5}
+{"index": 145, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/global-modifying-module-d-ts.html", "timestamp": "2025-03-01 01:12:34", "status": "success", "entries_created": 5}
+{"index": 146, "url": "https://www.typescriptlang.org/docs/handbook/angular.html?source=post_page---------------------------", "timestamp": "2025-03-01 01:12:44", "status": "success", "entries_created": 7}
+{"index": 5, "url": "https://www.typescriptlang.org/docs/handbook/interfaces.html", "timestamp": "2025-03-01 01:15:50", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 01:18:55", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 01:22:01", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 35, "url": "https://www.typescriptlang.org/docs/handbook/2/typeof-types.html", "timestamp": "2025-03-01 01:22:29", "status": "success", "entries_created": 5}
+{"index": 36, "url": "https://www.typescriptlang.org/docs/handbook/2/mapped-types.html", "timestamp": "2025-03-01 01:22:50", "status": "success", "entries_created": 6}
+{"index": 38, "url": "https://www.typescriptlang.org/docs/handbook/2/basic-types.html", "timestamp": "2025-03-01 01:23:27", "status": "success", "entries_created": 15}
+{"index": 44, "url": "https://www.typescriptlang.org/docs/handbook/classes", "timestamp": "2025-03-01 01:26:33", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 53, "url": "https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html", "timestamp": "2025-03-01 01:27:06", "status": "success", "entries_created": 10}
+{"index": 55, "url": "https://www.typescriptlang.org/docs/handbook/interfaces.html?azure-portal=true", "timestamp": "2025-03-01 01:27:31", "status": "success", "entries_created": 11}
+{"index": 56, "url": "https://www.typescriptlang.org/docs/handbook/advanced-types.html?ref=nehalist.io", "timestamp": "2025-03-01 01:27:55", "status": "success", "entries_created": 24}
+{"index": 71, "url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html", "timestamp": "2025-03-01 01:28:47", "status": "success", "entries_created": 21}
+{"index": 73, "url": "https://www.typescriptlang.org/docs/handbook/gulp.html", "timestamp": "2025-03-01 01:31:52", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 01:34:58", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 88, "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html", "timestamp": "2025-03-01 01:38:04", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 95, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-7.html", "timestamp": "2025-03-01 01:40:10", "status": "success", "entries_created": 6}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 01:43:15", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 01:46:21", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 105, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-9.html", "timestamp": "2025-03-01 01:49:26", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 01:52:32", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 01:55:37", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 121, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-6.html", "timestamp": "2025-03-01 01:58:43", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 02:01:48", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 02:04:54", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 131, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-2.html", "timestamp": "2025-03-01 02:05:18", "status": "success", "entries_created": 12}
+{"index": 134, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html", "timestamp": "2025-03-01 02:08:23", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 137, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html", "timestamp": "2025-03-01 02:11:44", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 138, "url": "https://www.typescriptlang.org/docs/handbook/classes.html?WT.mc_id=tsforjs-blog-jeliknes", "timestamp": "2025-03-01 02:14:49", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 143, "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/global-plugin-d-ts.html", "timestamp": "2025-03-01 02:16:16", "status": "success", "entries_created": 24}
+{"index": 5, "url": "https://www.typescriptlang.org/docs/handbook/interfaces.html", "timestamp": "2025-03-01 02:19:31", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 02:22:37", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 02:25:42", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 44, "url": "https://www.typescriptlang.org/docs/handbook/classes", "timestamp": "2025-03-01 02:28:48", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 73, "url": "https://www.typescriptlang.org/docs/handbook/gulp.html", "timestamp": "2025-03-01 02:31:53", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 02:34:59", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 88, "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html", "timestamp": "2025-03-01 02:38:05", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 02:41:10", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 02:44:16", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 105, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-9.html", "timestamp": "2025-03-01 02:47:21", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 02:50:13", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 02:53:19", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 121, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-6.html", "timestamp": "2025-03-01 02:56:24", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 02:59:30", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 03:02:37", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 134, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html", "timestamp": "2025-03-01 03:05:43", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 137, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html", "timestamp": "2025-03-01 03:08:48", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 138, "url": "https://www.typescriptlang.org/docs/handbook/classes.html?WT.mc_id=tsforjs-blog-jeliknes", "timestamp": "2025-03-01 03:09:24", "status": "success", "entries_created": 9}
+{"index": 5, "url": "https://www.typescriptlang.org/docs/handbook/interfaces.html", "timestamp": "2025-03-01 03:10:29", "status": "success", "entries_created": 10}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 03:13:34", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 03:16:39", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 44, "url": "https://www.typescriptlang.org/docs/handbook/classes", "timestamp": "2025-03-01 03:20:00", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 73, "url": "https://www.typescriptlang.org/docs/handbook/gulp.html", "timestamp": "2025-03-01 03:22:56", "status": "success", "entries_created": 16}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 03:25:33", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 88, "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html", "timestamp": "2025-03-01 03:28:39", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 03:31:24", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 03:34:29", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 105, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-9.html", "timestamp": "2025-03-01 03:37:06", "status": "success", "entries_created": 10}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 03:40:11", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 03:43:17", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 121, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-6.html", "timestamp": "2025-03-01 03:46:22", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 03:49:32", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 03:52:38", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 134, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html", "timestamp": "2025-03-01 03:55:43", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 137, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html", "timestamp": "2025-03-01 03:58:48", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 04:02:08", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 04:05:13", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 44, "url": "https://www.typescriptlang.org/docs/handbook/classes", "timestamp": "2025-03-01 04:08:19", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 04:11:29", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 88, "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html", "timestamp": "2025-03-01 04:14:34", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 04:17:40", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 04:20:45", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 04:23:51", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 04:26:56", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 121, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-6.html", "timestamp": "2025-03-01 04:30:02", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 04:33:07", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 04:36:13", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 134, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html", "timestamp": "2025-03-01 04:38:08", "status": "success", "entries_created": 6}
+{"index": 137, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html", "timestamp": "2025-03-01 04:39:01", "status": "success", "entries_created": 12}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 04:42:12", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 04:45:17", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 44, "url": "https://www.typescriptlang.org/docs/handbook/classes", "timestamp": "2025-03-01 04:48:27", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 04:51:33", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 88, "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html", "timestamp": "2025-03-01 04:54:39", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 04:57:44", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 05:00:50", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 05:03:55", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 05:07:00", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 121, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-6.html", "timestamp": "2025-03-01 05:10:12", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 05:13:22", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 05:16:14", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 05:19:25", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 05:22:30", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 44, "url": "https://www.typescriptlang.org/docs/handbook/classes", "timestamp": "2025-03-01 05:25:36", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 05:28:41", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 88, "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html", "timestamp": "2025-03-01 05:31:47", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 05:34:53", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 05:37:58", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 05:41:08", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 05:44:14", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 121, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-6.html", "timestamp": "2025-03-01 05:47:19", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 05:50:27", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 05:53:42", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 05:56:53", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 06:00:03", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 44, "url": "https://www.typescriptlang.org/docs/handbook/classes", "timestamp": "2025-03-01 06:02:00", "status": "success", "entries_created": 17}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 06:05:06", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 88, "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html", "timestamp": "2025-03-01 06:08:11", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 06:11:21", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 06:14:27", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 06:17:32", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 06:20:38", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 121, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-6.html", "timestamp": "2025-03-01 06:21:55", "status": "success", "entries_created": 14}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 06:25:05", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 06:37:11", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 06:40:21", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 06:43:26", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 06:46:13", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 88, "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html", "timestamp": "2025-03-01 06:49:26", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 06:52:32", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 06:55:37", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 06:58:43", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 07:01:25", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 07:04:30", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 07:07:36", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 07:10:48", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 07:13:53", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 07:16:58", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 88, "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html", "timestamp": "2025-03-01 07:20:04", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 07:23:09", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 07:26:15", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 07:29:21", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 07:32:26", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 07:35:32", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 07:38:37", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 07:41:23", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 07:44:33", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 07:47:38", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 88, "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html", "timestamp": "2025-03-01 07:50:44", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 07:53:50", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 07:56:55", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 08:00:00", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 08:03:06", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 08:06:12", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 08:09:17", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 08:12:28", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 08:15:32", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 08:18:42", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 88, "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html", "timestamp": "2025-03-01 08:19:42", "status": "success", "entries_created": 31}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 08:22:50", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 08:25:56", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 08:29:01", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 08:32:07", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 08:34:38", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 08:37:44", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 08:40:54", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 08:44:00", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 09:10:45", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 09:13:51", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 09:16:40", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 09:19:45", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 09:22:51", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 09:26:02", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 09:29:07", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 09:32:18", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 09:35:37", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 09:38:42", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 09:41:48", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 09:44:53", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 09:47:59", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 09:51:04", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 09:54:10", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 09:57:15", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 10:00:26", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 10:03:31", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 10:06:37", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 10:09:42", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 10:12:48", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 10:15:58", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 10:19:08", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 10:22:13", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 10:25:23", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 10:28:34", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 10:31:39", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 10:34:45", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 10:37:51", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 10:41:01", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 10:44:11", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 10:47:16", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 10:50:22", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 10:53:27", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 10:56:41", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 10:59:52", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 11:02:57", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 11:06:03", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 11:09:08", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 11:21:14", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 11:24:19", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 11:27:29", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 11:30:34", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 11:32:54", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 11:36:00", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 11:39:05", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 11:42:11", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 11:45:16", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 11:48:22", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 11:50:36", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 11:53:52", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 11:56:57", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 12:00:07", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 12:03:13", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 12:06:19", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 12:09:24", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 12:12:30", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 12:15:35", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 12:18:41", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 12:21:46", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 12:24:52", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 12:28:02", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 12:31:12", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 12:34:17", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 12:37:25", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 12:40:39", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 12:43:44", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 12:46:49", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 12:58:55", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 13:02:01", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 13:05:11", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 13:08:17", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 13:11:22", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 13:14:28", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 13:17:33", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 13:37:03", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 13:40:09", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 13:43:16", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 13:46:21", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 13:49:32", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 13:52:50", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 13:56:00", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 13:59:11", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 14:02:26", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 14:05:32", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 14:08:37", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 14:11:43", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 14:14:37", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 14:17:47", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 14:21:00", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 79, "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html", "timestamp": "2025-03-01 14:24:05", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 97, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-3.html", "timestamp": "2025-03-01 16:51:07", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 99, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html", "timestamp": "2025-03-01 16:54:13", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 108, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-0.html", "timestamp": "2025-03-01 16:57:18", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 114, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-2.html", "timestamp": "2025-03-01 17:00:02", "status": "success", "entries_created": 6}
+{"index": 127, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html", "timestamp": "2025-03-01 17:03:07", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 129, "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html", "timestamp": "2025-03-01 17:06:13", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 12, "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html", "timestamp": "2025-03-01 17:09:23", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 19, "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html", "timestamp": "2025-03-01 17:12:30", "status": "failure", "error": "No usable data returned on retry 23"}

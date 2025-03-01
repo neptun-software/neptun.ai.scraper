@@ -1,0 +1,30 @@
+{"index": 0, "url": "https://docs.postalserver.io", "timestamp": "2025-03-01 02:51:26", "status": "success", "entries_created": 9}
+{"index": 1, "url": "https://docs.postalserver.io/welcome/feature-list", "timestamp": "2025-03-01 02:54:31", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 2, "url": "https://docs.postalserver.io/getting-started", "timestamp": "2025-03-01 02:54:56", "status": "success", "entries_created": 4}
+{"index": 3, "url": "https://docs.postalserver.io/developer/api", "timestamp": "2025-03-01 02:55:47", "status": "success", "entries_created": 7}
+{"index": 4, "url": "https://docs.postalserver.io/features/oidc", "timestamp": "2025-03-01 02:58:16", "status": "success", "entries_created": 9}
+{"index": 5, "url": "https://docs.postalserver.io/other/containers", "timestamp": "2025-03-01 03:01:00", "status": "success", "entries_created": 9}
+{"index": 6, "url": "https://docs.postalserver.io/developer/webhooks", "timestamp": "2025-03-01 03:04:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 7, "url": "https://docs.postalserver.io/welcome/faqs", "timestamp": "2025-03-01 03:04:17", "status": "success", "entries_created": 5}
+{"index": 8, "url": "https://docs.postalserver.io/features/logging", "timestamp": "2025-03-01 03:07:23", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 9, "url": "https://docs.postalserver.io/other/debugging", "timestamp": "2025-03-01 03:09:46", "status": "success", "entries_created": 6}
+{"index": 10, "url": "https://docs.postalserver.io/developer/http-payloads", "timestamp": "2025-03-01 03:10:36", "status": "success", "entries_created": 7}
+{"index": 11, "url": "https://docs.postalserver.io/getting-started/installation", "timestamp": "2025-03-01 03:11:02", "status": "success", "entries_created": 8}
+{"index": 12, "url": "https://docs.postalserver.io/getting-started/prerequisites", "timestamp": "2025-03-01 03:13:33", "status": "success", "entries_created": 9}
+{"index": 13, "url": "https://docs.postalserver.io/features/smtp-authentication", "timestamp": "2025-03-01 03:13:54", "status": "success", "entries_created": 5}
+{"index": 14, "url": "https://docs.postalserver.io/features/ip-pools", "timestamp": "2025-03-01 03:14:41", "status": "success", "entries_created": 5}
+{"index": 15, "url": "https://docs.postalserver.io/features/health-metrics", "timestamp": "2025-03-01 03:16:31", "status": "success", "entries_created": 4}
+{"index": 16, "url": "https://docs.postalserver.io/getting-started/configuration", "timestamp": "2025-03-01 03:17:45", "status": "success", "entries_created": 5}
+{"index": 17, "url": "https://docs.postalserver.io/getting-started/upgrading", "timestamp": "2025-03-01 03:18:19", "status": "success", "entries_created": 5}
+{"index": 18, "url": "https://docs.postalserver.io/developer/client-libraries", "timestamp": "2025-03-01 03:18:29", "status": "success", "entries_created": 3}
+{"index": 19, "url": "https://docs.postalserver.io/features/smtp-tls", "timestamp": "2025-03-01 03:20:31", "status": "success", "entries_created": 6}
+{"index": 20, "url": "https://docs.postalserver.io/getting-started/dns-configuration", "timestamp": "2025-03-01 03:21:55", "status": "success", "entries_created": 9}
+{"index": 21, "url": "https://docs.postalserver.io/getting-started/upgrade-to-v2", "timestamp": "2025-03-01 03:33:30", "status": "success", "entries_created": 15}
+{"index": 22, "url": "https://docs.postalserver.io/features/click-and-open-tracking", "timestamp": "2025-03-01 03:34:05", "status": "success", "entries_created": 8}
+{"index": 23, "url": "https://docs.postalserver.io/features/spam-and-virus-checking", "timestamp": "2025-03-01 03:34:30", "status": "success", "entries_created": 9}
+{"index": 24, "url": "https://docs.postalserver.io/other/auto-responders-and-bounces", "timestamp": "2025-03-01 03:35:12", "status": "success", "entries_created": 6}
+{"index": 25, "url": "https://docs.postalserver.io/getting-started/upgrade-to-v3", "timestamp": "2025-03-01 03:35:21", "status": "success", "entries_created": 9}
+{"index": 26, "url": "https://docs.postalserver.io/other/wildcards-and-address-tags", "timestamp": "2025-03-01 03:35:56", "status": "success", "entries_created": 3}
+{"index": 1, "url": "https://docs.postalserver.io/welcome/feature-list", "timestamp": "2025-03-01 03:36:05", "status": "success", "entries_created": 4}
+{"index": 6, "url": "https://docs.postalserver.io/developer/webhooks", "timestamp": "2025-03-01 03:37:27", "status": "success", "entries_created": 4}
+{"index": 8, "url": "https://docs.postalserver.io/features/logging", "timestamp": "2025-03-01 03:37:53", "status": "success", "entries_created": 5}

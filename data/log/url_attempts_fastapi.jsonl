@@ -1,0 +1,492 @@
+{"index": 0, "url": "https://fastapi.tiangolo.com", "timestamp": "2025-03-01 02:53:18", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 1, "url": "https://fastapi.tiangolo.com/alternatives", "timestamp": "2025-03-01 02:56:23", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 2, "url": "https://fastapi.tiangolo.com/async", "timestamp": "2025-03-01 02:59:29", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 3, "url": "https://fastapi.tiangolo.com/benchmarks", "timestamp": "2025-03-01 03:02:03", "status": "success", "entries_created": 3}
+{"index": 4, "url": "https://fastapi.tiangolo.com/contributing", "timestamp": "2025-03-01 03:02:37", "status": "success", "entries_created": 22}
+{"index": 5, "url": "https://fastapi.tiangolo.com/environment-variables", "timestamp": "2025-03-01 03:04:21", "status": "success", "entries_created": 9}
+{"index": 6, "url": "https://fastapi.tiangolo.com/external-links", "timestamp": "2025-03-01 03:07:26", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 7, "url": "https://fastapi.tiangolo.com/fastapi-cli", "timestamp": "2025-03-01 03:07:52", "status": "success", "entries_created": 6}
+{"index": 8, "url": "https://fastapi.tiangolo.com/fastapi-people", "timestamp": "2025-03-01 03:10:58", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 9, "url": "https://fastapi.tiangolo.com/features", "timestamp": "2025-03-01 03:11:26", "status": "success", "entries_created": 6}
+{"index": 10, "url": "https://fastapi.tiangolo.com/help-fastapi", "timestamp": "2025-03-01 03:12:15", "status": "success", "entries_created": 23}
+{"index": 11, "url": "https://fastapi.tiangolo.com/history-design-future", "timestamp": "2025-03-01 03:13:00", "status": "success", "entries_created": 7}
+{"index": 12, "url": "https://fastapi.tiangolo.com/management-tasks", "timestamp": "2025-03-01 03:13:52", "status": "success", "entries_created": 15}
+{"index": 13, "url": "https://fastapi.tiangolo.com/management", "timestamp": "2025-03-01 03:14:05", "status": "success", "entries_created": 5}
+{"index": 14, "url": "https://fastapi.tiangolo.com/newsletter", "timestamp": "2025-03-01 03:15:14", "status": "success", "entries_created": 5}
+{"index": 15, "url": "https://fastapi.tiangolo.com/project-generation", "timestamp": "2025-03-01 03:17:05", "status": "success", "entries_created": 2}
+{"index": 16, "url": "https://fastapi.tiangolo.com/python-types", "timestamp": "2025-03-01 03:19:30", "status": "success", "entries_created": 6}
+{"index": 17, "url": "https://fastapi.tiangolo.com/release-notes", "timestamp": "2025-03-01 03:31:38", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 18, "url": "https://fastapi.tiangolo.com/virtual-environments", "timestamp": "2025-03-01 03:32:19", "status": "success", "entries_created": 23}
+{"index": 19, "url": "https://fastapi.tiangolo.com/about", "timestamp": "2025-03-01 03:32:22", "status": "success", "entries_created": 1}
+{"index": 20, "url": "https://fastapi.tiangolo.com/advanced", "timestamp": "2025-03-01 03:32:32", "status": "success", "entries_created": 5}
+{"index": 21, "url": "https://fastapi.tiangolo.com/advanced/additional-responses", "timestamp": "2025-03-01 03:33:01", "status": "success", "entries_created": 7}
+{"index": 22, "url": "https://fastapi.tiangolo.com/advanced/additional-status-codes", "timestamp": "2025-03-01 03:33:10", "status": "success", "entries_created": 4}
+{"index": 23, "url": "https://fastapi.tiangolo.com/advanced/advanced-dependencies", "timestamp": "2025-03-01 03:33:49", "status": "success", "entries_created": 8}
+{"index": 24, "url": "https://fastapi.tiangolo.com/advanced/async-tests", "timestamp": "2025-03-01 03:34:26", "status": "success", "entries_created": 8}
+{"index": 25, "url": "https://fastapi.tiangolo.com/advanced/behind-a-proxy", "timestamp": "2025-03-01 03:35:03", "status": "success", "entries_created": 15}
+{"index": 26, "url": "https://fastapi.tiangolo.com/advanced/custom-response", "timestamp": "2025-03-01 03:35:27", "status": "success", "entries_created": 21}
+{"index": 27, "url": "https://fastapi.tiangolo.com/advanced/dataclasses", "timestamp": "2025-03-01 03:35:51", "status": "success", "entries_created": 7}
+{"index": 28, "url": "https://fastapi.tiangolo.com/advanced/events", "timestamp": "2025-03-01 03:36:19", "status": "success", "entries_created": 13}
+{"index": 29, "url": "https://fastapi.tiangolo.com/advanced/generate-clients", "timestamp": "2025-03-01 03:36:50", "status": "success", "entries_created": 20}
+{"index": 30, "url": "https://fastapi.tiangolo.com/advanced/middleware", "timestamp": "2025-03-01 03:38:37", "status": "success", "entries_created": 9}
+{"index": 31, "url": "https://fastapi.tiangolo.com/advanced/openapi-callbacks", "timestamp": "2025-03-01 03:39:26", "status": "success", "entries_created": 12}
+{"index": 32, "url": "https://fastapi.tiangolo.com/advanced/openapi-webhooks", "timestamp": "2025-03-01 03:40:12", "status": "success", "entries_created": 6}
+{"index": 33, "url": "https://fastapi.tiangolo.com/advanced/path-operation-advanced-configuration", "timestamp": "2025-03-01 03:41:49", "status": "success", "entries_created": 12}
+{"index": 34, "url": "https://fastapi.tiangolo.com/advanced/response-change-status-code", "timestamp": "2025-03-01 03:42:02", "status": "success", "entries_created": 5}
+{"index": 35, "url": "https://fastapi.tiangolo.com/advanced/response-cookies", "timestamp": "2025-03-01 03:42:29", "status": "success", "entries_created": 6}
+{"index": 36, "url": "https://fastapi.tiangolo.com/advanced/response-directly", "timestamp": "2025-03-01 03:42:57", "status": "success", "entries_created": 8}
+{"index": 37, "url": "https://fastapi.tiangolo.com/advanced/response-headers", "timestamp": "2025-03-01 03:43:13", "status": "success", "entries_created": 6}
+{"index": 38, "url": "https://fastapi.tiangolo.com/advanced/settings", "timestamp": "2025-03-01 03:44:53", "status": "success", "entries_created": 18}
+{"index": 39, "url": "https://fastapi.tiangolo.com/advanced/sub-applications", "timestamp": "2025-03-01 03:45:20", "status": "success", "entries_created": 9}
+{"index": 40, "url": "https://fastapi.tiangolo.com/advanced/templates", "timestamp": "2025-03-01 03:45:50", "status": "success", "entries_created": 10}
+{"index": 41, "url": "https://fastapi.tiangolo.com/advanced/testing-dependencies", "timestamp": "2025-03-01 03:46:11", "status": "success", "entries_created": 6}
+{"index": 42, "url": "https://fastapi.tiangolo.com/advanced/testing-events", "timestamp": "2025-03-01 03:46:28", "status": "success", "entries_created": 3}
+{"index": 43, "url": "https://fastapi.tiangolo.com/advanced/testing-websockets", "timestamp": "2025-03-01 03:46:43", "status": "success", "entries_created": 5}
+{"index": 44, "url": "https://fastapi.tiangolo.com/advanced/using-request-directly", "timestamp": "2025-03-01 03:46:52", "status": "success", "entries_created": 6}
+{"index": 45, "url": "https://fastapi.tiangolo.com/advanced/websockets", "timestamp": "2025-03-01 03:47:13", "status": "success", "entries_created": 4}
+{"index": 46, "url": "https://fastapi.tiangolo.com/advanced/wsgi", "timestamp": "2025-03-01 03:47:20", "status": "success", "entries_created": 5}
+{"index": 47, "url": "https://fastapi.tiangolo.com/advanced/security", "timestamp": "2025-03-01 03:47:42", "status": "success", "entries_created": 4}
+{"index": 48, "url": "https://fastapi.tiangolo.com/advanced/security/http-basic-auth", "timestamp": "2025-03-01 03:48:05", "status": "success", "entries_created": 7}
+{"index": 49, "url": "https://fastapi.tiangolo.com/advanced/security/oauth2-scopes", "timestamp": "2025-03-01 03:49:40", "status": "success", "entries_created": 8}
+{"index": 50, "url": "https://fastapi.tiangolo.com/deployment", "timestamp": "2025-03-01 03:50:07", "status": "success", "entries_created": 3}
+{"index": 51, "url": "https://fastapi.tiangolo.com/deployment/cloud", "timestamp": "2025-03-01 03:50:50", "status": "success", "entries_created": 2}
+{"index": 52, "url": "https://fastapi.tiangolo.com/deployment/concepts", "timestamp": "2025-03-01 03:51:27", "status": "success", "entries_created": 13}
+{"index": 53, "url": "https://fastapi.tiangolo.com/deployment/docker", "timestamp": "2025-03-01 03:52:12", "status": "success", "entries_created": 10}
+{"index": 54, "url": "https://fastapi.tiangolo.com/deployment/https", "timestamp": "2025-03-01 03:53:09", "status": "success", "entries_created": 6}
+{"index": 55, "url": "https://fastapi.tiangolo.com/deployment/manually", "timestamp": "2025-03-01 03:53:49", "status": "success", "entries_created": 9}
+{"index": 56, "url": "https://fastapi.tiangolo.com/deployment/server-workers", "timestamp": "2025-03-01 03:54:31", "status": "success", "entries_created": 7}
+{"index": 57, "url": "https://fastapi.tiangolo.com/deployment/versions", "timestamp": "2025-03-01 03:55:08", "status": "success", "entries_created": 10}
+{"index": 58, "url": "https://fastapi.tiangolo.com/how-to", "timestamp": "2025-03-01 03:56:15", "status": "success", "entries_created": 4}
+{"index": 59, "url": "https://fastapi.tiangolo.com/how-to/conditional-openapi", "timestamp": "2025-03-01 03:56:44", "status": "success", "entries_created": 5}
+{"index": 60, "url": "https://fastapi.tiangolo.com/how-to/configure-swagger-ui", "timestamp": "2025-03-01 03:57:08", "status": "success", "entries_created": 6}
+{"index": 61, "url": "https://fastapi.tiangolo.com/how-to/custom-docs-ui-assets", "timestamp": "2025-03-01 03:57:30", "status": "success", "entries_created": 4}
+{"index": 62, "url": "https://fastapi.tiangolo.com/how-to/custom-request-and-route", "timestamp": "2025-03-01 03:58:01", "status": "success", "entries_created": 9}
+{"index": 63, "url": "https://fastapi.tiangolo.com/how-to/extending-openapi", "timestamp": "2025-03-01 04:00:00", "status": "success", "entries_created": 11}
+{"index": 64, "url": "https://fastapi.tiangolo.com/how-to/general", "timestamp": "2025-03-01 04:01:13", "status": "success", "entries_created": 10}
+{"index": 65, "url": "https://fastapi.tiangolo.com/how-to/graphql", "timestamp": "2025-03-01 04:02:41", "status": "success", "entries_created": 5}
+{"index": 66, "url": "https://fastapi.tiangolo.com/how-to/separate-openapi-schemas", "timestamp": "2025-03-01 04:03:40", "status": "success", "entries_created": 7}
+{"index": 67, "url": "https://fastapi.tiangolo.com/how-to/testing-database", "timestamp": "2025-03-01 04:03:54", "status": "success", "entries_created": 3}
+{"index": 68, "url": "https://fastapi.tiangolo.com/learn", "timestamp": "2025-03-01 04:04:08", "status": "success", "entries_created": 1}
+{"index": 69, "url": "https://fastapi.tiangolo.com/reference", "timestamp": "2025-03-01 04:04:29", "status": "success", "entries_created": 2}
+{"index": 70, "url": "https://fastapi.tiangolo.com/reference/apirouter", "timestamp": "2025-03-01 04:07:10", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 71, "url": "https://fastapi.tiangolo.com/reference/background", "timestamp": "2025-03-01 04:08:20", "status": "success", "entries_created": 5}
+{"index": 72, "url": "https://fastapi.tiangolo.com/reference/dependencies", "timestamp": "2025-03-01 04:09:49", "status": "success", "entries_created": 5}
+{"index": 73, "url": "https://fastapi.tiangolo.com/reference/encoders", "timestamp": "2025-03-01 04:10:17", "status": "success", "entries_created": 4}
+{"index": 74, "url": "https://fastapi.tiangolo.com/reference/exceptions", "timestamp": "2025-03-01 04:10:54", "status": "success", "entries_created": 10}
+{"index": 75, "url": "https://fastapi.tiangolo.com/reference/fastapi", "timestamp": "2025-03-01 04:13:58", "status": "success", "entries_created": 6}
+{"index": 76, "url": "https://fastapi.tiangolo.com/reference/httpconnection", "timestamp": "2025-03-01 04:17:12", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 77, "url": "https://fastapi.tiangolo.com/reference/middleware", "timestamp": "2025-03-01 04:20:17", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 78, "url": "https://fastapi.tiangolo.com/reference/parameters", "timestamp": "2025-03-01 04:23:22", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 79, "url": "https://fastapi.tiangolo.com/reference/request", "timestamp": "2025-03-01 04:26:02", "status": "success", "entries_created": 29}
+{"index": 80, "url": "https://fastapi.tiangolo.com/reference/response", "timestamp": "2025-03-01 04:26:57", "status": "success", "entries_created": 13}
+{"index": 81, "url": "https://fastapi.tiangolo.com/reference/responses", "timestamp": "2025-03-01 04:30:02", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 82, "url": "https://fastapi.tiangolo.com/reference/staticfiles", "timestamp": "2025-03-01 04:30:12", "status": "success", "entries_created": 4}
+{"index": 83, "url": "https://fastapi.tiangolo.com/reference/status", "timestamp": "2025-03-01 04:31:04", "status": "success", "entries_created": 4}
+{"index": 84, "url": "https://fastapi.tiangolo.com/reference/templating", "timestamp": "2025-03-01 04:31:30", "status": "success", "entries_created": 4}
+{"index": 85, "url": "https://fastapi.tiangolo.com/reference/testclient", "timestamp": "2025-03-01 04:32:16", "status": "success", "entries_created": 4}
+{"index": 86, "url": "https://fastapi.tiangolo.com/reference/uploadfile", "timestamp": "2025-03-01 04:33:39", "status": "success", "entries_created": 8}
+{"index": 87, "url": "https://fastapi.tiangolo.com/reference/websockets", "timestamp": "2025-03-01 04:36:44", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 88, "url": "https://fastapi.tiangolo.com/reference/openapi", "timestamp": "2025-03-01 04:36:52", "status": "success", "entries_created": 1}
+{"index": 89, "url": "https://fastapi.tiangolo.com/reference/openapi/docs", "timestamp": "2025-03-01 04:39:57", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 90, "url": "https://fastapi.tiangolo.com/reference/openapi/models", "timestamp": "2025-03-01 04:40:51", "status": "success", "entries_created": 45}
+{"index": 91, "url": "https://fastapi.tiangolo.com/reference/security", "timestamp": "2025-03-01 04:43:57", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 92, "url": "https://fastapi.tiangolo.com/resources", "timestamp": "2025-03-01 04:43:59", "status": "success", "entries_created": 1}
+{"index": 93, "url": "https://fastapi.tiangolo.com/tutorial", "timestamp": "2025-03-01 04:44:51", "status": "success", "entries_created": 6}
+{"index": 94, "url": "https://fastapi.tiangolo.com/tutorial/background-tasks", "timestamp": "2025-03-01 04:45:22", "status": "success", "entries_created": 9}
+{"index": 95, "url": "https://fastapi.tiangolo.com/tutorial/bigger-applications", "timestamp": "2025-03-01 04:47:57", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 96, "url": "https://fastapi.tiangolo.com/tutorial/body-fields", "timestamp": "2025-03-01 04:49:07", "status": "success", "entries_created": 4}
+{"index": 97, "url": "https://fastapi.tiangolo.com/tutorial/body-multiple-params", "timestamp": "2025-03-01 04:52:18", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 98, "url": "https://fastapi.tiangolo.com/tutorial/body-nested-models", "timestamp": "2025-03-01 04:53:12", "status": "success", "entries_created": 12}
+{"index": 99, "url": "https://fastapi.tiangolo.com/tutorial/body-updates", "timestamp": "2025-03-01 04:53:55", "status": "success", "entries_created": 9}
+{"index": 100, "url": "https://fastapi.tiangolo.com/tutorial/body", "timestamp": "2025-03-01 04:57:01", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 101, "url": "https://fastapi.tiangolo.com/tutorial/cookie-param-models", "timestamp": "2025-03-01 04:57:48", "status": "success", "entries_created": 6}
+{"index": 102, "url": "https://fastapi.tiangolo.com/tutorial/cookie-params", "timestamp": "2025-03-01 05:00:54", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 103, "url": "https://fastapi.tiangolo.com/tutorial/cors", "timestamp": "2025-03-01 05:01:42", "status": "success", "entries_created": 9}
+{"index": 104, "url": "https://fastapi.tiangolo.com/tutorial/debugging", "timestamp": "2025-03-01 05:02:20", "status": "success", "entries_created": 6}
+{"index": 105, "url": "https://fastapi.tiangolo.com/tutorial/encoder", "timestamp": "2025-03-01 05:02:46", "status": "success", "entries_created": 4}
+{"index": 106, "url": "https://fastapi.tiangolo.com/tutorial/extra-data-types", "timestamp": "2025-03-01 05:04:32", "status": "success", "entries_created": 5}
+{"index": 107, "url": "https://fastapi.tiangolo.com/tutorial/extra-models", "timestamp": "2025-03-01 05:06:58", "status": "success", "entries_created": 4}
+{"index": 108, "url": "https://fastapi.tiangolo.com/tutorial/first-steps", "timestamp": "2025-03-01 05:07:32", "status": "success", "entries_created": 22}
+{"index": 109, "url": "https://fastapi.tiangolo.com/tutorial/handling-errors", "timestamp": "2025-03-01 05:08:27", "status": "success", "entries_created": 16}
+{"index": 110, "url": "https://fastapi.tiangolo.com/tutorial/header-param-models", "timestamp": "2025-03-01 05:09:10", "status": "success", "entries_created": 5}
+{"index": 111, "url": "https://fastapi.tiangolo.com/tutorial/header-params", "timestamp": "2025-03-01 05:10:05", "status": "success", "entries_created": 8}
+{"index": 112, "url": "https://fastapi.tiangolo.com/tutorial/metadata", "timestamp": "2025-03-01 05:10:34", "status": "success", "entries_created": 5}
+{"index": 113, "url": "https://fastapi.tiangolo.com/tutorial/middleware", "timestamp": "2025-03-01 05:10:51", "status": "success", "entries_created": 6}
+{"index": 114, "url": "https://fastapi.tiangolo.com/tutorial/path-operation-configuration", "timestamp": "2025-03-01 05:11:26", "status": "success", "entries_created": 11}
+{"index": 115, "url": "https://fastapi.tiangolo.com/tutorial/path-params-numeric-validations", "timestamp": "2025-03-01 05:14:32", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 116, "url": "https://fastapi.tiangolo.com/tutorial/path-params", "timestamp": "2025-03-01 05:14:49", "status": "success", "entries_created": 14}
+{"index": 117, "url": "https://fastapi.tiangolo.com/tutorial/query-param-models", "timestamp": "2025-03-01 05:15:18", "status": "success", "entries_created": 5}
+{"index": 118, "url": "https://fastapi.tiangolo.com/tutorial/query-params-str-validations", "timestamp": "2025-03-01 05:15:51", "status": "success", "entries_created": 13}
+{"index": 119, "url": "https://fastapi.tiangolo.com/tutorial/query-params", "timestamp": "2025-03-01 05:16:10", "status": "success", "entries_created": 9}
+{"index": 120, "url": "https://fastapi.tiangolo.com/tutorial/request-files", "timestamp": "2025-03-01 05:17:03", "status": "success", "entries_created": 11}
+{"index": 121, "url": "https://fastapi.tiangolo.com/tutorial/request-form-models", "timestamp": "2025-03-01 05:17:25", "status": "success", "entries_created": 5}
+{"index": 122, "url": "https://fastapi.tiangolo.com/tutorial/request-forms-and-files", "timestamp": "2025-03-01 05:17:44", "status": "success", "entries_created": 5}
+{"index": 123, "url": "https://fastapi.tiangolo.com/tutorial/request-forms", "timestamp": "2025-03-01 05:18:10", "status": "success", "entries_created": 7}
+{"index": 124, "url": "https://fastapi.tiangolo.com/tutorial/response-model", "timestamp": "2025-03-01 05:18:25", "status": "success", "entries_created": 6}
+{"index": 125, "url": "https://fastapi.tiangolo.com/tutorial/response-status-code", "timestamp": "2025-03-01 05:18:43", "status": "success", "entries_created": 7}
+{"index": 126, "url": "https://fastapi.tiangolo.com/tutorial/schema-extra-example", "timestamp": "2025-03-01 05:21:18", "status": "success", "entries_created": 5}
+{"index": 127, "url": "https://fastapi.tiangolo.com/tutorial/sql-databases", "timestamp": "2025-03-01 05:22:09", "status": "success", "entries_created": 22}
+{"index": 128, "url": "https://fastapi.tiangolo.com/tutorial/static-files", "timestamp": "2025-03-01 05:22:18", "status": "success", "entries_created": 7}
+{"index": 129, "url": "https://fastapi.tiangolo.com/tutorial/testing", "timestamp": "2025-03-01 05:22:44", "status": "success", "entries_created": 7}
+{"index": 130, "url": "https://fastapi.tiangolo.com/tutorial/dependencies", "timestamp": "2025-03-01 05:24:17", "status": "success", "entries_created": 15}
+{"index": 131, "url": "https://fastapi.tiangolo.com/tutorial/dependencies/classes-as-dependencies", "timestamp": "2025-03-01 05:24:48", "status": "success", "entries_created": 7}
+{"index": 132, "url": "https://fastapi.tiangolo.com/tutorial/dependencies/dependencies-in-path-operation-decorators", "timestamp": "2025-03-01 05:27:42", "status": "success", "entries_created": 10}
+{"index": 133, "url": "https://fastapi.tiangolo.com/tutorial/dependencies/dependencies-with-yield", "timestamp": "2025-03-01 05:28:11", "status": "success", "entries_created": 10}
+{"index": 134, "url": "https://fastapi.tiangolo.com/tutorial/dependencies/global-dependencies", "timestamp": "2025-03-01 05:28:51", "status": "success", "entries_created": 8}
+{"index": 135, "url": "https://fastapi.tiangolo.com/tutorial/dependencies/sub-dependencies", "timestamp": "2025-03-01 05:29:33", "status": "success", "entries_created": 8}
+{"index": 136, "url": "https://fastapi.tiangolo.com/tutorial/security", "timestamp": "2025-03-01 05:29:50", "status": "success", "entries_created": 9}
+{"index": 137, "url": "https://fastapi.tiangolo.com/tutorial/security/first-steps", "timestamp": "2025-03-01 05:30:03", "status": "success", "entries_created": 6}
+{"index": 138, "url": "https://fastapi.tiangolo.com/tutorial/security/get-current-user", "timestamp": "2025-03-01 05:33:08", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 139, "url": "https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt", "timestamp": "2025-03-01 05:33:57", "status": "success", "entries_created": 15}
+{"index": 140, "url": "https://fastapi.tiangolo.com/tutorial/security/simple-oauth2", "timestamp": "2025-03-01 05:34:44", "status": "success", "entries_created": 17}
+{"index": 141, "url": "https://fastapi.tiangolo.com/pt", "timestamp": "2025-03-01 05:35:23", "status": "success", "entries_created": 5}
+{"index": 142, "url": "https://fastapi.tiangolo.com/bn", "timestamp": "2025-03-01 05:35:50", "status": "success", "entries_created": 5}
+{"index": 143, "url": "https://fastapi.tiangolo.com/hu", "timestamp": "2025-03-01 05:36:17", "status": "success", "entries_created": 5}
+{"index": 144, "url": "https://fastapi.tiangolo.com/he", "timestamp": "2025-03-01 05:37:49", "status": "success", "entries_created": 5}
+{"index": 145, "url": "https://fastapi.tiangolo.com/nl", "timestamp": "2025-03-01 05:38:15", "status": "success", "entries_created": 5}
+{"index": 146, "url": "https://fastapi.tiangolo.com/uk", "timestamp": "2025-03-01 05:38:42", "status": "success", "entries_created": 5}
+{"index": 147, "url": "https://fastapi.tiangolo.com/ur", "timestamp": "2025-03-01 05:39:22", "status": "success", "entries_created": 5}
+{"index": 148, "url": "https://fastapi.tiangolo.com/vi", "timestamp": "2025-03-01 05:39:53", "status": "success", "entries_created": 5}
+{"index": 149, "url": "https://fastapi.tiangolo.com/it", "timestamp": "2025-03-01 05:40:24", "status": "success", "entries_created": 5}
+{"index": 150, "url": "https://fastapi.tiangolo.com/zh", "timestamp": "2025-03-01 05:40:52", "status": "success", "entries_created": 5}
+{"index": 151, "url": "https://fastapi.tiangolo.com/id", "timestamp": "2025-03-01 05:41:26", "status": "success", "entries_created": 5}
+{"index": 152, "url": "https://fastapi.tiangolo.com/fa", "timestamp": "2025-03-01 05:41:51", "status": "success", "entries_created": 5}
+{"index": 153, "url": "https://fastapi.tiangolo.com/tr", "timestamp": "2025-03-01 05:42:48", "status": "success", "entries_created": 5}
+{"index": 154, "url": "https://fastapi.tiangolo.com/em", "timestamp": "2025-03-01 05:43:02", "status": "success", "entries_created": 19}
+{"index": 155, "url": "https://fastapi.tiangolo.com/pl", "timestamp": "2025-03-01 05:43:37", "status": "success", "entries_created": 5}
+{"index": 156, "url": "https://fastapi.tiangolo.com/ru", "timestamp": "2025-03-01 05:44:08", "status": "success", "entries_created": 5}
+{"index": 157, "url": "https://fastapi.tiangolo.com/de", "timestamp": "2025-03-01 05:44:36", "status": "success", "entries_created": 5}
+{"index": 158, "url": "https://fastapi.tiangolo.com/yo", "timestamp": "2025-03-01 05:45:20", "status": "success", "entries_created": 4}
+{"index": 159, "url": "https://fastapi.tiangolo.com/es", "timestamp": "2025-03-01 05:45:49", "status": "success", "entries_created": 5}
+{"index": 160, "url": "https://fastapi.tiangolo.com/ko", "timestamp": "2025-03-01 05:46:17", "status": "success", "entries_created": 5}
+{"index": 161, "url": "https://fastapi.tiangolo.com/az", "timestamp": "2025-03-01 05:46:52", "status": "success", "entries_created": 5}
+{"index": 162, "url": "https://fastapi.tiangolo.com/ja", "timestamp": "2025-03-01 05:47:06", "status": "success", "entries_created": 20}
+{"index": 163, "url": "https://fastapi.tiangolo.com/fr", "timestamp": "2025-03-01 05:47:30", "status": "success", "entries_created": 5}
+{"index": 164, "url": "https://fastapi.tiangolo.com/ru/deployment", "timestamp": "2025-03-01 05:47:38", "status": "success", "entries_created": 3}
+{"index": 165, "url": "https://fastapi.tiangolo.com/pt/management", "timestamp": "2025-03-01 05:47:52", "status": "success", "entries_created": 5}
+{"index": 166, "url": "https://fastapi.tiangolo.com/pt/newsletter", "timestamp": "2025-03-01 05:47:57", "status": "success", "entries_created": 3}
+{"index": 167, "url": "https://fastapi.tiangolo.com/de/alternatives", "timestamp": "2025-03-01 05:51:03", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 168, "url": "https://fastapi.tiangolo.com/pt/tutorial", "timestamp": "2025-03-01 05:51:40", "status": "success", "entries_created": 6}
+{"index": 169, "url": "https://fastapi.tiangolo.com/tr/deployment", "timestamp": "2025-03-01 05:51:52", "status": "success", "entries_created": 3}
+{"index": 170, "url": "https://fastapi.tiangolo.com/ru/features", "timestamp": "2025-03-01 05:52:44", "status": "success", "entries_created": 6}
+{"index": 171, "url": "https://fastapi.tiangolo.com/uk/alternatives", "timestamp": "2025-03-01 05:55:36", "status": "success", "entries_created": 26}
+{"index": 172, "url": "https://fastapi.tiangolo.com/ja/advanced", "timestamp": "2025-03-01 05:55:58", "status": "success", "entries_created": 5}
+{"index": 173, "url": "https://fastapi.tiangolo.com/az/async", "timestamp": "2025-03-01 05:59:04", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 174, "url": "https://fastapi.tiangolo.com/fa/async", "timestamp": "2025-03-01 05:59:51", "status": "success", "entries_created": 22}
+{"index": 175, "url": "https://fastapi.tiangolo.com/em/tutorial", "timestamp": "2025-03-01 05:59:59", "status": "success", "entries_created": 7}
+{"index": 176, "url": "https://fastapi.tiangolo.com/fr/resources", "timestamp": "2025-03-01 06:00:03", "status": "success", "entries_created": 3}
+{"index": 177, "url": "https://fastapi.tiangolo.com/em/learn", "timestamp": "2025-03-01 06:00:07", "status": "success", "entries_created": 4}
+{"index": 178, "url": "https://fastapi.tiangolo.com/ko/async", "timestamp": "2025-03-01 06:00:50", "status": "success", "entries_created": 8}
+{"index": 179, "url": "https://fastapi.tiangolo.com/fr/features", "timestamp": "2025-03-01 06:01:32", "status": "success", "entries_created": 6}
+{"index": 180, "url": "https://fastapi.tiangolo.com/es/learn", "timestamp": "2025-03-01 06:01:35", "status": "success", "entries_created": 1}
+{"index": 181, "url": "https://fastapi.tiangolo.com/em/alternatives", "timestamp": "2025-03-01 06:01:44", "status": "success", "entries_created": 18}
+{"index": 182, "url": "https://fastapi.tiangolo.com/it/newsletter", "timestamp": "2025-03-01 06:01:49", "status": "success", "entries_created": 4}
+{"index": 183, "url": "https://fastapi.tiangolo.com/ja/alternatives", "timestamp": "2025-03-01 06:02:29", "status": "success", "entries_created": 7}
+{"index": 184, "url": "https://fastapi.tiangolo.com/de/learn", "timestamp": "2025-03-01 06:02:34", "status": "success", "entries_created": 3}
+{"index": 185, "url": "https://fastapi.tiangolo.com/fr/alternatives", "timestamp": "2025-03-01 06:03:03", "status": "success", "entries_created": 26}
+{"index": 186, "url": "https://fastapi.tiangolo.com/uk/resources", "timestamp": "2025-03-01 06:03:07", "status": "success", "entries_created": 3}
+{"index": 187, "url": "https://fastapi.tiangolo.com/ja/about", "timestamp": "2025-03-01 06:03:11", "status": "success", "entries_created": 2}
+{"index": 188, "url": "https://fastapi.tiangolo.com/em/newsletter", "timestamp": "2025-03-01 06:03:16", "status": "success", "entries_created": 4}
+{"index": 189, "url": "https://fastapi.tiangolo.com/yo/features", "timestamp": "2025-03-01 06:03:48", "status": "success", "entries_created": 6}
+{"index": 190, "url": "https://fastapi.tiangolo.com/tr/async", "timestamp": "2025-03-01 06:06:54", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 191, "url": "https://fastapi.tiangolo.com/fr/newsletter", "timestamp": "2025-03-01 06:06:59", "status": "success", "entries_created": 4}
+{"index": 192, "url": "https://fastapi.tiangolo.com/ru/resources", "timestamp": "2025-03-01 06:07:02", "status": "success", "entries_created": 3}
+{"index": 193, "url": "https://fastapi.tiangolo.com/tr/resources", "timestamp": "2025-03-01 06:07:05", "status": "success", "entries_created": 1}
+{"index": 194, "url": "https://fastapi.tiangolo.com/vi/features", "timestamp": "2025-03-01 06:07:37", "status": "success", "entries_created": 6}
+{"index": 195, "url": "https://fastapi.tiangolo.com/em/resources", "timestamp": "2025-03-01 06:07:54", "status": "success", "entries_created": 3}
+{"index": 196, "url": "https://fastapi.tiangolo.com/ja/features", "timestamp": "2025-03-01 06:08:05", "status": "success", "entries_created": 5}
+{"index": 197, "url": "https://fastapi.tiangolo.com/fr/learn", "timestamp": "2025-03-01 06:08:08", "status": "success", "entries_created": 1}
+{"index": 198, "url": "https://fastapi.tiangolo.com/es/features", "timestamp": "2025-03-01 06:08:44", "status": "success", "entries_created": 6}
+{"index": 199, "url": "https://fastapi.tiangolo.com/ru/reference", "timestamp": "2025-03-01 06:08:48", "status": "success", "entries_created": 2}
+{"index": 200, "url": "https://fastapi.tiangolo.com/ko/learn", "timestamp": "2025-03-01 06:08:51", "status": "success", "entries_created": 3}
+{"index": 201, "url": "https://fastapi.tiangolo.com/de/contributing", "timestamp": "2025-03-01 06:10:13", "status": "success", "entries_created": 22}
+{"index": 202, "url": "https://fastapi.tiangolo.com/az/features", "timestamp": "2025-03-01 06:10:49", "status": "success", "entries_created": 6}
+{"index": 203, "url": "https://fastapi.tiangolo.com/tr/features", "timestamp": "2025-03-01 06:10:59", "status": "success", "entries_created": 6}
+{"index": 204, "url": "https://fastapi.tiangolo.com/es/newsletter", "timestamp": "2025-03-01 06:11:05", "status": "success", "entries_created": 4}
+{"index": 205, "url": "https://fastapi.tiangolo.com/zh-hant", "timestamp": "2025-03-01 06:11:37", "status": "success", "entries_created": 5}
+{"index": 206, "url": "https://fastapi.tiangolo.com/it/features", "timestamp": "2025-03-01 06:12:13", "status": "success", "entries_created": 6}
+{"index": 207, "url": "https://fastapi.tiangolo.com/de/reference", "timestamp": "2025-03-01 06:12:16", "status": "success", "entries_created": 4}
+{"index": 208, "url": "https://fastapi.tiangolo.com/ru/about", "timestamp": "2025-03-01 06:12:20", "status": "success", "entries_created": 2}
+{"index": 209, "url": "https://fastapi.tiangolo.com/fr/about", "timestamp": "2025-03-01 06:12:25", "status": "success", "entries_created": 2}
+{"index": 210, "url": "https://fastapi.tiangolo.com/pl/tutorial", "timestamp": "2025-03-01 06:12:43", "status": "success", "entries_created": 6}
+{"index": 211, "url": "https://fastapi.tiangolo.com/pt/learn", "timestamp": "2025-03-01 06:12:47", "status": "success", "entries_created": 3}
+{"index": 212, "url": "https://fastapi.tiangolo.com/pl/features", "timestamp": "2025-03-01 06:13:33", "status": "success", "entries_created": 6}
+{"index": 213, "url": "https://fastapi.tiangolo.com/pt/about", "timestamp": "2025-03-01 06:13:36", "status": "success", "entries_created": 1}
+{"index": 214, "url": "https://fastapi.tiangolo.com/zh/resources", "timestamp": "2025-03-01 06:13:40", "status": "success", "entries_created": 3}
+{"index": 215, "url": "https://fastapi.tiangolo.com/ko/newsletter", "timestamp": "2025-03-01 06:13:45", "status": "success", "entries_created": 3}
+{"index": 216, "url": "https://fastapi.tiangolo.com/tr/benchmarks", "timestamp": "2025-03-01 06:14:04", "status": "success", "entries_created": 3}
+{"index": 217, "url": "https://fastapi.tiangolo.com/es/async", "timestamp": "2025-03-01 06:14:42", "status": "success", "entries_created": 22}
+{"index": 218, "url": "https://fastapi.tiangolo.com/zh/newsletter", "timestamp": "2025-03-01 06:14:49", "status": "success", "entries_created": 3}
+{"index": 219, "url": "https://fastapi.tiangolo.com/tr/newsletter", "timestamp": "2025-03-01 06:14:55", "status": "success", "entries_created": 5}
+{"index": 220, "url": "https://fastapi.tiangolo.com/ru/async", "timestamp": "2025-03-01 06:15:37", "status": "success", "entries_created": 14}
+{"index": 221, "url": "https://fastapi.tiangolo.com/az/learn", "timestamp": "2025-03-01 06:15:40", "status": "success", "entries_created": 1}
+{"index": 222, "url": "https://fastapi.tiangolo.com/fa/deployment", "timestamp": "2025-03-01 06:15:45", "status": "success", "entries_created": 3}
+{"index": 223, "url": "https://fastapi.tiangolo.com/pt/deployment", "timestamp": "2025-03-01 06:15:49", "status": "success", "entries_created": 2}
+{"index": 224, "url": "https://fastapi.tiangolo.com/tr/learn", "timestamp": "2025-03-01 06:15:52", "status": "success", "entries_created": 2}
+{"index": 225, "url": "https://fastapi.tiangolo.com/es/tutorial", "timestamp": "2025-03-01 06:16:09", "status": "success", "entries_created": 6}
+{"index": 226, "url": "https://fastapi.tiangolo.com/es/reference", "timestamp": "2025-03-01 06:16:14", "status": "success", "entries_created": 4}
+{"index": 227, "url": "https://fastapi.tiangolo.com/uk/reference", "timestamp": "2025-03-01 06:16:18", "status": "success", "entries_created": 4}
+{"index": 228, "url": "https://fastapi.tiangolo.com/em/reference", "timestamp": "2025-03-01 06:16:23", "status": "success", "entries_created": 2}
+{"index": 229, "url": "https://fastapi.tiangolo.com/uk/benchmarks", "timestamp": "2025-03-01 06:16:36", "status": "success", "entries_created": 3}
+{"index": 230, "url": "https://fastapi.tiangolo.com/ru/learn", "timestamp": "2025-03-01 06:16:39", "status": "success", "entries_created": 2}
+{"index": 231, "url": "https://fastapi.tiangolo.com/ru/management", "timestamp": "2025-03-01 06:16:47", "status": "success", "entries_created": 5}
+{"index": 232, "url": "https://fastapi.tiangolo.com/nl/features", "timestamp": "2025-03-01 06:19:52", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 233, "url": "https://fastapi.tiangolo.com/id/newsletter", "timestamp": "2025-03-01 06:19:57", "status": "success", "entries_created": 5}
+{"index": 234, "url": "https://fastapi.tiangolo.com/zh/about", "timestamp": "2025-03-01 06:20:26", "status": "success", "entries_created": 2}
+{"index": 235, "url": "https://fastapi.tiangolo.com/pl/benchmarks", "timestamp": "2025-03-01 06:20:53", "status": "success", "entries_created": 3}
+{"index": 236, "url": "https://fastapi.tiangolo.com/de/about", "timestamp": "2025-03-01 06:21:29", "status": "success", "entries_created": 2}
+{"index": 237, "url": "https://fastapi.tiangolo.com/ko/tutorial", "timestamp": "2025-03-01 06:22:00", "status": "success", "entries_created": 6}
+{"index": 238, "url": "https://fastapi.tiangolo.com/pt/resources", "timestamp": "2025-03-01 06:22:03", "status": "success", "entries_created": 1}
+{"index": 239, "url": "https://fastapi.tiangolo.com/de/deployment", "timestamp": "2025-03-01 06:22:09", "status": "success", "entries_created": 3}
+{"index": 240, "url": "https://fastapi.tiangolo.com/fa/learn", "timestamp": "2025-03-01 06:22:31", "status": "success", "entries_created": 4}
+{"index": 241, "url": "https://fastapi.tiangolo.com/zh/deployment", "timestamp": "2025-03-01 06:23:57", "status": "success", "entries_created": 4}
+{"index": 242, "url": "https://fastapi.tiangolo.com/de/newsletter", "timestamp": "2025-03-01 06:24:01", "status": "success", "entries_created": 4}
+{"index": 243, "url": "https://fastapi.tiangolo.com/ja/learn", "timestamp": "2025-03-01 06:24:05", "status": "success", "entries_created": 1}
+{"index": 244, "url": "https://fastapi.tiangolo.com/nl/newsletter", "timestamp": "2025-03-01 06:24:11", "status": "success", "entries_created": 5}
+{"index": 245, "url": "https://fastapi.tiangolo.com/uk/management", "timestamp": "2025-03-01 06:25:04", "status": "success", "entries_created": 5}
+{"index": 246, "url": "https://fastapi.tiangolo.com/ko/deployment", "timestamp": "2025-03-01 06:25:15", "status": "success", "entries_created": 3}
+{"index": 247, "url": "https://fastapi.tiangolo.com/ru/alternatives", "timestamp": "2025-03-01 06:28:21", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 248, "url": "https://fastapi.tiangolo.com/pt/benchmarks", "timestamp": "2025-03-01 06:28:33", "status": "success", "entries_created": 3}
+{"index": 249, "url": "https://fastapi.tiangolo.com/ko/features", "timestamp": "2025-03-01 06:29:16", "status": "success", "entries_created": 15}
+{"index": 250, "url": "https://fastapi.tiangolo.com/ja/contributing", "timestamp": "2025-03-01 06:29:57", "status": "success", "entries_created": 21}
+{"index": 251, "url": "https://fastapi.tiangolo.com/em/async", "timestamp": "2025-03-01 06:30:06", "status": "success", "entries_created": 8}
+{"index": 252, "url": "https://fastapi.tiangolo.com/tr/about", "timestamp": "2025-03-01 06:30:09", "status": "success", "entries_created": 1}
+{"index": 253, "url": "https://fastapi.tiangolo.com/fa/alternatives", "timestamp": "2025-03-01 06:31:08", "status": "success", "entries_created": 7}
+{"index": 254, "url": "https://fastapi.tiangolo.com/uk/features", "timestamp": "2025-03-01 06:31:53", "status": "success", "entries_created": 6}
+{"index": 255, "url": "https://fastapi.tiangolo.com/es/alternatives", "timestamp": "2025-03-01 06:42:07", "status": "success", "entries_created": 7}
+{"index": 256, "url": "https://fastapi.tiangolo.com/fa/newsletter", "timestamp": "2025-03-01 06:42:12", "status": "success", "entries_created": 4}
+{"index": 257, "url": "https://fastapi.tiangolo.com/ru/contributing", "timestamp": "2025-03-01 06:42:53", "status": "success", "entries_created": 21}
+{"index": 258, "url": "https://fastapi.tiangolo.com/pl/contributing", "timestamp": "2025-03-01 06:43:09", "status": "success", "entries_created": 22}
+{"index": 259, "url": "https://fastapi.tiangolo.com/ko/security", "timestamp": "2025-03-01 06:43:15", "status": "success", "entries_created": 4}
+{"index": 260, "url": "https://fastapi.tiangolo.com/pl/newsletter", "timestamp": "2025-03-01 06:43:21", "status": "success", "entries_created": 5}
+{"index": 261, "url": "https://fastapi.tiangolo.com/de/features", "timestamp": "2025-03-01 06:44:07", "status": "success", "entries_created": 6}
+{"index": 262, "url": "https://fastapi.tiangolo.com/ja/newsletter", "timestamp": "2025-03-01 06:44:21", "status": "success", "entries_created": 3}
+{"index": 263, "url": "https://fastapi.tiangolo.com/zh/features", "timestamp": "2025-03-01 06:44:49", "status": "success", "entries_created": 5}
+{"index": 264, "url": "https://fastapi.tiangolo.com/es/benchmarks", "timestamp": "2025-03-01 06:45:10", "status": "success", "entries_created": 3}
+{"index": 265, "url": "https://fastapi.tiangolo.com/fa/benchmarks", "timestamp": "2025-03-01 06:45:27", "status": "success", "entries_created": 3}
+{"index": 266, "url": "https://fastapi.tiangolo.com/zh/reference", "timestamp": "2025-03-01 06:45:30", "status": "success", "entries_created": 2}
+{"index": 267, "url": "https://fastapi.tiangolo.com/pt/advanced", "timestamp": "2025-03-01 06:45:36", "status": "success", "entries_created": 5}
+{"index": 268, "url": "https://fastapi.tiangolo.com/es/deployment", "timestamp": "2025-03-01 06:45:43", "status": "success", "entries_created": 3}
+{"index": 269, "url": "https://fastapi.tiangolo.com/az/benchmarks", "timestamp": "2025-03-01 06:45:55", "status": "success", "entries_created": 3}
+{"index": 270, "url": "https://fastapi.tiangolo.com/ja/benchmarks", "timestamp": "2025-03-01 06:46:14", "status": "success", "entries_created": 3}
+{"index": 271, "url": "https://fastapi.tiangolo.com/az/resources", "timestamp": "2025-03-01 06:46:29", "status": "success", "entries_created": 3}
+{"index": 272, "url": "https://fastapi.tiangolo.com/pt/alternatives", "timestamp": "2025-03-01 06:49:33", "status": "success", "entries_created": 22}
+{"index": 273, "url": "https://fastapi.tiangolo.com/fr/benchmarks", "timestamp": "2025-03-01 06:49:46", "status": "success", "entries_created": 3}
+{"index": 274, "url": "https://fastapi.tiangolo.com/ja/reference", "timestamp": "2025-03-01 06:49:53", "status": "success", "entries_created": 4}
+{"index": 275, "url": "https://fastapi.tiangolo.com/de/advanced", "timestamp": "2025-03-01 06:50:01", "status": "success", "entries_created": 5}
+{"index": 276, "url": "https://fastapi.tiangolo.com/ur/newsletter", "timestamp": "2025-03-01 06:50:20", "status": "success", "entries_created": 4}
+{"index": 277, "url": "https://fastapi.tiangolo.com/ja/deployment", "timestamp": "2025-03-01 06:50:24", "status": "success", "entries_created": 1}
+{"index": 278, "url": "https://fastapi.tiangolo.com/ko/about", "timestamp": "2025-03-01 06:50:27", "status": "success", "entries_created": 2}
+{"index": 279, "url": "https://fastapi.tiangolo.com/fr/advanced", "timestamp": "2025-03-01 06:50:32", "status": "success", "entries_created": 4}
+{"index": 280, "url": "https://fastapi.tiangolo.com/az/contributing", "timestamp": "2025-03-01 06:51:15", "status": "success", "entries_created": 21}
+{"index": 281, "url": "https://fastapi.tiangolo.com/fr/reference", "timestamp": "2025-03-01 06:51:19", "status": "success", "entries_created": 4}
+{"index": 282, "url": "https://fastapi.tiangolo.com/ru/tutorial", "timestamp": "2025-03-01 06:51:33", "status": "success", "entries_created": 6}
+{"index": 283, "url": "https://fastapi.tiangolo.com/es/resources", "timestamp": "2025-03-01 06:51:53", "status": "success", "entries_created": 1}
+{"index": 284, "url": "https://fastapi.tiangolo.com/zh/advanced", "timestamp": "2025-03-01 06:51:59", "status": "success", "entries_created": 4}
+{"index": 285, "url": "https://fastapi.tiangolo.com/de/management", "timestamp": "2025-03-01 06:52:08", "status": "success", "entries_created": 5}
+{"index": 286, "url": "https://fastapi.tiangolo.com/bn/features", "timestamp": "2025-03-01 06:52:35", "status": "success", "entries_created": 6}
+{"index": 287, "url": "https://fastapi.tiangolo.com/em/features", "timestamp": "2025-03-01 06:52:44", "status": "success", "entries_created": 5}
+{"index": 288, "url": "https://fastapi.tiangolo.com/zh/management", "timestamp": "2025-03-01 06:52:51", "status": "success", "entries_created": 5}
+{"index": 289, "url": "https://fastapi.tiangolo.com/de/tutorial", "timestamp": "2025-03-01 06:53:01", "status": "success", "entries_created": 6}
+{"index": 290, "url": "https://fastapi.tiangolo.com/fr/tutorial", "timestamp": "2025-03-01 06:53:14", "status": "success", "entries_created": 6}
+{"index": 291, "url": "https://fastapi.tiangolo.com/zh/async", "timestamp": "2025-03-01 06:56:19", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 292, "url": "https://fastapi.tiangolo.com/bn/learn", "timestamp": "2025-03-01 06:56:23", "status": "success", "entries_created": 2}
+{"index": 293, "url": "https://fastapi.tiangolo.com/de/async", "timestamp": "2025-03-01 06:59:28", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 294, "url": "https://fastapi.tiangolo.com/tr/advanced", "timestamp": "2025-03-01 07:00:41", "status": "success", "entries_created": 5}
+{"index": 295, "url": "https://fastapi.tiangolo.com/ur/benchmarks", "timestamp": "2025-03-01 07:00:59", "status": "success", "entries_created": 2}
+{"index": 296, "url": "https://fastapi.tiangolo.com/ko/management", "timestamp": "2025-03-01 07:01:08", "status": "success", "entries_created": 5}
+{"index": 297, "url": "https://fastapi.tiangolo.com/uk/about", "timestamp": "2025-03-01 07:01:12", "status": "success", "entries_created": 2}
+{"index": 298, "url": "https://fastapi.tiangolo.com/de/benchmarks", "timestamp": "2025-03-01 07:01:29", "status": "success", "entries_created": 3}
+{"index": 299, "url": "https://fastapi.tiangolo.com/he/features", "timestamp": "2025-03-01 07:04:24", "status": "success", "entries_created": 6}
+{"index": 300, "url": "https://fastapi.tiangolo.com/he/newsletter", "timestamp": "2025-03-01 07:04:29", "status": "success", "entries_created": 5}
+{"index": 301, "url": "https://fastapi.tiangolo.com/az/newsletter", "timestamp": "2025-03-01 07:04:34", "status": "success", "entries_created": 4}
+{"index": 302, "url": "https://fastapi.tiangolo.com/az/about", "timestamp": "2025-03-01 07:04:38", "status": "success", "entries_created": 2}
+{"index": 303, "url": "https://fastapi.tiangolo.com/ko/advanced", "timestamp": "2025-03-01 07:04:45", "status": "success", "entries_created": 5}
+{"index": 304, "url": "https://fastapi.tiangolo.com/ja/resources", "timestamp": "2025-03-01 07:04:49", "status": "success", "entries_created": 3}
+{"index": 305, "url": "https://fastapi.tiangolo.com/zh/tutorial", "timestamp": "2025-03-01 07:05:00", "status": "success", "entries_created": 6}
+{"index": 306, "url": "https://fastapi.tiangolo.com/es/advanced", "timestamp": "2025-03-01 07:05:08", "status": "success", "entries_created": 5}
+{"index": 307, "url": "https://fastapi.tiangolo.com/pt/reference", "timestamp": "2025-03-01 07:05:11", "status": "success", "entries_created": 4}
+{"index": 308, "url": "https://fastapi.tiangolo.com/fa/features", "timestamp": "2025-03-01 07:05:55", "status": "success", "entries_created": 4}
+{"index": 309, "url": "https://fastapi.tiangolo.com/ja/async", "timestamp": "2025-03-01 07:09:00", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 310, "url": "https://fastapi.tiangolo.com/id/features", "timestamp": "2025-03-01 07:09:45", "status": "success", "entries_created": 6}
+{"index": 311, "url": "https://fastapi.tiangolo.com/uk/newsletter", "timestamp": "2025-03-01 07:09:52", "status": "success", "entries_created": 4}
+{"index": 312, "url": "https://fastapi.tiangolo.com/ru/newsletter", "timestamp": "2025-03-01 07:09:57", "status": "success", "entries_created": 3}
+{"index": 313, "url": "https://fastapi.tiangolo.com/id/tutorial", "timestamp": "2025-03-01 07:10:09", "status": "success", "entries_created": 6}
+{"index": 314, "url": "https://fastapi.tiangolo.com/zh/learn", "timestamp": "2025-03-01 07:10:12", "status": "success", "entries_created": 1}
+{"index": 315, "url": "https://fastapi.tiangolo.com/uk/tutorial", "timestamp": "2025-03-01 07:10:28", "status": "success", "entries_created": 6}
+{"index": 316, "url": "https://fastapi.tiangolo.com/ja/management", "timestamp": "2025-03-01 07:10:42", "status": "success", "entries_created": 5}
+{"index": 317, "url": "https://fastapi.tiangolo.com/bn/newsletter", "timestamp": "2025-03-01 07:10:46", "status": "success", "entries_created": 3}
+{"index": 318, "url": "https://fastapi.tiangolo.com/az/deployment", "timestamp": "2025-03-01 07:10:54", "status": "success", "entries_created": 3}
+{"index": 319, "url": "https://fastapi.tiangolo.com/hu/features", "timestamp": "2025-03-01 07:11:29", "status": "success", "entries_created": 6}
+{"index": 320, "url": "https://fastapi.tiangolo.com/fr/deployment", "timestamp": "2025-03-01 07:11:36", "status": "success", "entries_created": 3}
+{"index": 321, "url": "https://fastapi.tiangolo.com/ko/benchmarks", "timestamp": "2025-03-01 07:11:52", "status": "success", "entries_created": 3}
+{"index": 322, "url": "https://fastapi.tiangolo.com/ko/resources", "timestamp": "2025-03-01 07:11:55", "status": "success", "entries_created": 1}
+{"index": 323, "url": "https://fastapi.tiangolo.com/ru/benchmarks", "timestamp": "2025-03-01 07:12:11", "status": "success", "entries_created": 3}
+{"index": 324, "url": "https://fastapi.tiangolo.com/fr/async", "timestamp": "2025-03-01 07:12:55", "status": "success", "entries_created": 11}
+{"index": 325, "url": "https://fastapi.tiangolo.com/tr/alternatives", "timestamp": "2025-03-01 07:16:01", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 326, "url": "https://fastapi.tiangolo.com/zh/benchmarks", "timestamp": "2025-03-01 07:16:15", "status": "success", "entries_created": 3}
+{"index": 327, "url": "https://fastapi.tiangolo.com/pt/features", "timestamp": "2025-03-01 07:16:55", "status": "success", "entries_created": 6}
+{"index": 328, "url": "https://fastapi.tiangolo.com/ko/reference", "timestamp": "2025-03-01 07:16:59", "status": "success", "entries_created": 4}
+{"index": 329, "url": "https://fastapi.tiangolo.com/es/about", "timestamp": "2025-03-01 07:17:07", "status": "success", "entries_created": 1}
+{"index": 330, "url": "https://fastapi.tiangolo.com/ja/tutorial", "timestamp": "2025-03-01 07:17:21", "status": "success", "entries_created": 6}
+{"index": 331, "url": "https://fastapi.tiangolo.com/de/resources", "timestamp": "2025-03-01 07:17:28", "status": "success", "entries_created": 1}
+{"index": 332, "url": "https://fastapi.tiangolo.com/em/python-types", "timestamp": "2025-03-01 07:17:37", "status": "success", "entries_created": 13}
+{"index": 333, "url": "https://fastapi.tiangolo.com/em/advanced/wsgi", "timestamp": "2025-03-01 07:17:43", "status": "success", "entries_created": 6}
+{"index": 334, "url": "https://fastapi.tiangolo.com/es/reference/templating", "timestamp": "2025-03-01 07:17:56", "status": "success", "entries_created": 4}
+{"index": 335, "url": "https://fastapi.tiangolo.com/nl/reference/parameters", "timestamp": "2025-03-01 07:21:01", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 336, "url": "https://fastapi.tiangolo.com/zh/reference/parameters", "timestamp": "2025-03-01 07:23:38", "status": "success", "entries_created": 11}
+{"index": 337, "url": "https://fastapi.tiangolo.com/es/deployment/manually", "timestamp": "2025-03-01 07:24:04", "status": "success", "entries_created": 8}
+{"index": 338, "url": "https://fastapi.tiangolo.com/ja/reference/parameters", "timestamp": "2025-03-01 07:27:09", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 339, "url": "https://fastapi.tiangolo.com/de/advanced/security", "timestamp": "2025-03-01 07:27:15", "status": "success", "entries_created": 4}
+{"index": 340, "url": "https://fastapi.tiangolo.com/fr/deployment/https", "timestamp": "2025-03-01 07:27:33", "status": "success", "entries_created": 4}
+{"index": 341, "url": "https://fastapi.tiangolo.com/uk/reference/security", "timestamp": "2025-03-01 07:29:58", "status": "success", "entries_created": 5}
+{"index": 342, "url": "https://fastapi.tiangolo.com/zh/release-notes", "timestamp": "2025-03-01 07:33:08", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 343, "url": "https://fastapi.tiangolo.com/zh/environment-variables", "timestamp": "2025-03-01 07:33:34", "status": "success", "entries_created": 9}
+{"index": 344, "url": "https://fastapi.tiangolo.com/ja/tutorial/cors", "timestamp": "2025-03-01 07:34:06", "status": "success", "entries_created": 10}
+{"index": 345, "url": "https://fastapi.tiangolo.com/tr/release-notes", "timestamp": "2025-03-01 07:37:12", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 346, "url": "https://fastapi.tiangolo.com/ja/release-notes", "timestamp": "2025-03-01 07:40:16", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 347, "url": "https://fastapi.tiangolo.com/ru/release-notes", "timestamp": "2025-03-01 07:43:21", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 348, "url": "https://fastapi.tiangolo.com/zh/project-generation", "timestamp": "2025-03-01 07:43:31", "status": "success", "entries_created": 2}
+{"index": 349, "url": "https://fastapi.tiangolo.com/ko/help-fastapi", "timestamp": "2025-03-01 07:44:26", "status": "success", "entries_created": 25}
+{"index": 350, "url": "https://fastapi.tiangolo.com/ko/advanced/wsgi", "timestamp": "2025-03-01 07:44:39", "status": "success", "entries_created": 5}
+{"index": 351, "url": "https://fastapi.tiangolo.com/yo/help-fastapi", "timestamp": "2025-03-01 07:45:09", "status": "success", "entries_created": 7}
+{"index": 352, "url": "https://fastapi.tiangolo.com/es/virtual-environments", "timestamp": "2025-03-01 07:45:35", "status": "success", "entries_created": 23}
+{"index": 353, "url": "https://fastapi.tiangolo.com/pl/tutorial/body", "timestamp": "2025-03-01 07:46:01", "status": "success", "entries_created": 15}
+{"index": 354, "url": "https://fastapi.tiangolo.com/ko/fastapi-people", "timestamp": "2025-03-01 07:47:34", "status": "success", "entries_created": 7}
+{"index": 355, "url": "https://fastapi.tiangolo.com/ur/release-notes", "timestamp": "2025-03-01 07:50:39", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 356, "url": "https://fastapi.tiangolo.com/zh/reference/responses", "timestamp": "2025-03-01 07:51:55", "status": "success", "entries_created": 13}
+{"index": 357, "url": "https://fastapi.tiangolo.com/zh/advanced/events", "timestamp": "2025-03-01 07:52:30", "status": "success", "entries_created": 13}
+{"index": 358, "url": "https://fastapi.tiangolo.com/az/tutorial/metadata", "timestamp": "2025-03-01 07:52:55", "status": "success", "entries_created": 5}
+{"index": 359, "url": "https://fastapi.tiangolo.com/tr/deployment/cloud", "timestamp": "2025-03-01 07:53:00", "status": "success", "entries_created": 2}
+{"index": 360, "url": "https://fastapi.tiangolo.com/fr/reference/background", "timestamp": "2025-03-01 07:53:10", "status": "success", "entries_created": 5}
+{"index": 361, "url": "https://fastapi.tiangolo.com/ja/advanced/templates", "timestamp": "2025-03-01 07:53:41", "status": "success", "entries_created": 10}
+{"index": 362, "url": "https://fastapi.tiangolo.com/pl/fastapi-people", "timestamp": "2025-03-01 07:56:47", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 363, "url": "https://fastapi.tiangolo.com/fa/release-notes", "timestamp": "2025-03-01 07:59:52", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 364, "url": "https://fastapi.tiangolo.com/ko/tutorial/testing", "timestamp": "2025-03-01 08:00:10", "status": "success", "entries_created": 6}
+{"index": 365, "url": "https://fastapi.tiangolo.com/es/reference/testclient", "timestamp": "2025-03-01 08:01:26", "status": "success", "entries_created": 5}
+{"index": 366, "url": "https://fastapi.tiangolo.com/de/reference/apirouter", "timestamp": "2025-03-01 08:04:32", "status": "success", "entries_created": 6}
+{"index": 367, "url": "https://fastapi.tiangolo.com/es/reference/apirouter", "timestamp": "2025-03-01 08:05:30", "status": "success", "entries_created": 6}
+{"index": 368, "url": "https://fastapi.tiangolo.com/de/tutorial/debugging", "timestamp": "2025-03-01 08:05:57", "status": "success", "entries_created": 4}
+{"index": 369, "url": "https://fastapi.tiangolo.com/pt/advanced/dataclasses", "timestamp": "2025-03-01 08:06:42", "status": "success", "entries_created": 7}
+{"index": 370, "url": "https://fastapi.tiangolo.com/bn/reference/parameters", "timestamp": "2025-03-01 08:09:48", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 371, "url": "https://fastapi.tiangolo.com/bn/reference/responses", "timestamp": "2025-03-01 08:12:35", "status": "success", "entries_created": 38}
+{"index": 372, "url": "https://fastapi.tiangolo.com/zh/tutorial/path-params", "timestamp": "2025-03-01 08:12:50", "status": "success", "entries_created": 21}
+{"index": 373, "url": "https://fastapi.tiangolo.com/es/tutorial/bigger-applications", "timestamp": "2025-03-01 08:13:22", "status": "success", "entries_created": 9}
+{"index": 0, "url": "https://fastapi.tiangolo.com", "timestamp": "2025-03-01 08:13:49", "status": "success", "entries_created": 4}
+{"index": 1, "url": "https://fastapi.tiangolo.com/alternatives", "timestamp": "2025-03-01 08:14:43", "status": "success", "entries_created": 7}
+{"index": 2, "url": "https://fastapi.tiangolo.com/async", "timestamp": "2025-03-01 08:17:48", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 6, "url": "https://fastapi.tiangolo.com/external-links", "timestamp": "2025-03-01 08:20:53", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 8, "url": "https://fastapi.tiangolo.com/fastapi-people", "timestamp": "2025-03-01 08:23:59", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 17, "url": "https://fastapi.tiangolo.com/release-notes", "timestamp": "2025-03-01 08:27:04", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 70, "url": "https://fastapi.tiangolo.com/reference/apirouter", "timestamp": "2025-03-01 08:29:07", "status": "success", "entries_created": 6}
+{"index": 76, "url": "https://fastapi.tiangolo.com/reference/httpconnection", "timestamp": "2025-03-01 08:29:23", "status": "success", "entries_created": 17}
+{"index": 77, "url": "https://fastapi.tiangolo.com/reference/middleware", "timestamp": "2025-03-01 08:30:17", "status": "success", "entries_created": 32}
+{"index": 78, "url": "https://fastapi.tiangolo.com/reference/parameters", "timestamp": "2025-03-01 08:33:22", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 81, "url": "https://fastapi.tiangolo.com/reference/responses", "timestamp": "2025-03-01 08:34:01", "status": "success", "entries_created": 18}
+{"index": 87, "url": "https://fastapi.tiangolo.com/reference/websockets", "timestamp": "2025-03-01 08:34:49", "status": "success", "entries_created": 42}
+{"index": 89, "url": "https://fastapi.tiangolo.com/reference/openapi/docs", "timestamp": "2025-03-01 08:37:07", "status": "success", "entries_created": 5}
+{"index": 91, "url": "https://fastapi.tiangolo.com/reference/security", "timestamp": "2025-03-01 08:39:26", "status": "success", "entries_created": 5}
+{"index": 95, "url": "https://fastapi.tiangolo.com/tutorial/bigger-applications", "timestamp": "2025-03-01 08:40:01", "status": "success", "entries_created": 12}
+{"index": 97, "url": "https://fastapi.tiangolo.com/tutorial/body-multiple-params", "timestamp": "2025-03-01 08:43:06", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 100, "url": "https://fastapi.tiangolo.com/tutorial/body", "timestamp": "2025-03-01 08:43:34", "status": "success", "entries_created": 13}
+{"index": 102, "url": "https://fastapi.tiangolo.com/tutorial/cookie-params", "timestamp": "2025-03-01 08:43:59", "status": "success", "entries_created": 7}
+{"index": 115, "url": "https://fastapi.tiangolo.com/tutorial/path-params-numeric-validations", "timestamp": "2025-03-01 08:45:57", "status": "success", "entries_created": 11}
+{"index": 138, "url": "https://fastapi.tiangolo.com/tutorial/security/get-current-user", "timestamp": "2025-03-01 09:12:51", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 167, "url": "https://fastapi.tiangolo.com/de/alternatives", "timestamp": "2025-03-01 09:15:37", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 173, "url": "https://fastapi.tiangolo.com/az/async", "timestamp": "2025-03-01 09:17:31", "status": "success", "entries_created": 21}
+{"index": 190, "url": "https://fastapi.tiangolo.com/tr/async", "timestamp": "2025-03-01 09:18:16", "status": "success", "entries_created": 19}
+{"index": 232, "url": "https://fastapi.tiangolo.com/nl/features", "timestamp": "2025-03-01 09:18:53", "status": "success", "entries_created": 6}
+{"index": 247, "url": "https://fastapi.tiangolo.com/ru/alternatives", "timestamp": "2025-03-01 09:21:58", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 291, "url": "https://fastapi.tiangolo.com/zh/async", "timestamp": "2025-03-01 09:25:03", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 293, "url": "https://fastapi.tiangolo.com/de/async", "timestamp": "2025-03-01 09:28:09", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 309, "url": "https://fastapi.tiangolo.com/ja/async", "timestamp": "2025-03-01 09:31:14", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 325, "url": "https://fastapi.tiangolo.com/tr/alternatives", "timestamp": "2025-03-01 09:34:33", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 335, "url": "https://fastapi.tiangolo.com/nl/reference/parameters", "timestamp": "2025-03-01 09:37:38", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 338, "url": "https://fastapi.tiangolo.com/ja/reference/parameters", "timestamp": "2025-03-01 09:40:44", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 342, "url": "https://fastapi.tiangolo.com/zh/release-notes", "timestamp": "2025-03-01 09:52:49", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 345, "url": "https://fastapi.tiangolo.com/tr/release-notes", "timestamp": "2025-03-01 09:55:42", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 346, "url": "https://fastapi.tiangolo.com/ja/release-notes", "timestamp": "2025-03-01 09:58:47", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 347, "url": "https://fastapi.tiangolo.com/ru/release-notes", "timestamp": "2025-03-01 10:01:53", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 355, "url": "https://fastapi.tiangolo.com/ur/release-notes", "timestamp": "2025-03-01 10:04:58", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 362, "url": "https://fastapi.tiangolo.com/pl/fastapi-people", "timestamp": "2025-03-01 10:08:03", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 363, "url": "https://fastapi.tiangolo.com/fa/release-notes", "timestamp": "2025-03-01 10:11:09", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 370, "url": "https://fastapi.tiangolo.com/bn/reference/parameters", "timestamp": "2025-03-01 10:14:14", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 2, "url": "https://fastapi.tiangolo.com/async", "timestamp": "2025-03-01 10:17:03", "status": "success", "entries_created": 20}
+{"index": 6, "url": "https://fastapi.tiangolo.com/external-links", "timestamp": "2025-03-01 10:20:11", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 8, "url": "https://fastapi.tiangolo.com/fastapi-people", "timestamp": "2025-03-01 10:23:17", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 17, "url": "https://fastapi.tiangolo.com/release-notes", "timestamp": "2025-03-01 10:26:22", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 78, "url": "https://fastapi.tiangolo.com/reference/parameters", "timestamp": "2025-03-01 10:29:28", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 97, "url": "https://fastapi.tiangolo.com/tutorial/body-multiple-params", "timestamp": "2025-03-01 10:32:38", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 138, "url": "https://fastapi.tiangolo.com/tutorial/security/get-current-user", "timestamp": "2025-03-01 10:35:43", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 167, "url": "https://fastapi.tiangolo.com/de/alternatives", "timestamp": "2025-03-01 10:38:49", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 247, "url": "https://fastapi.tiangolo.com/ru/alternatives", "timestamp": "2025-03-01 10:41:54", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 291, "url": "https://fastapi.tiangolo.com/zh/async", "timestamp": "2025-03-01 10:45:00", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 293, "url": "https://fastapi.tiangolo.com/de/async", "timestamp": "2025-03-01 10:48:05", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 309, "url": "https://fastapi.tiangolo.com/ja/async", "timestamp": "2025-03-01 10:48:58", "status": "success", "entries_created": 11}
+{"index": 325, "url": "https://fastapi.tiangolo.com/tr/alternatives", "timestamp": "2025-03-01 10:52:04", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 335, "url": "https://fastapi.tiangolo.com/nl/reference/parameters", "timestamp": "2025-03-01 10:55:18", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 338, "url": "https://fastapi.tiangolo.com/ja/reference/parameters", "timestamp": "2025-03-01 10:58:23", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 342, "url": "https://fastapi.tiangolo.com/zh/release-notes", "timestamp": "2025-03-01 11:01:29", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 345, "url": "https://fastapi.tiangolo.com/tr/release-notes", "timestamp": "2025-03-01 11:04:34", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 346, "url": "https://fastapi.tiangolo.com/ja/release-notes", "timestamp": "2025-03-01 11:07:40", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 347, "url": "https://fastapi.tiangolo.com/ru/release-notes", "timestamp": "2025-03-01 11:10:45", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 355, "url": "https://fastapi.tiangolo.com/ur/release-notes", "timestamp": "2025-03-01 11:22:51", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 362, "url": "https://fastapi.tiangolo.com/pl/fastapi-people", "timestamp": "2025-03-01 11:25:05", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 363, "url": "https://fastapi.tiangolo.com/fa/release-notes", "timestamp": "2025-03-01 11:32:54", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 370, "url": "https://fastapi.tiangolo.com/bn/reference/parameters", "timestamp": "2025-03-01 11:36:00", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 6, "url": "https://fastapi.tiangolo.com/external-links", "timestamp": "2025-03-01 11:38:45", "status": "success", "entries_created": 7}
+{"index": 8, "url": "https://fastapi.tiangolo.com/fastapi-people", "timestamp": "2025-03-01 11:41:50", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 17, "url": "https://fastapi.tiangolo.com/release-notes", "timestamp": "2025-03-01 11:44:56", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 78, "url": "https://fastapi.tiangolo.com/reference/parameters", "timestamp": "2025-03-01 11:48:01", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 97, "url": "https://fastapi.tiangolo.com/tutorial/body-multiple-params", "timestamp": "2025-03-01 11:51:11", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 138, "url": "https://fastapi.tiangolo.com/tutorial/security/get-current-user", "timestamp": "2025-03-01 11:54:17", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 167, "url": "https://fastapi.tiangolo.com/de/alternatives", "timestamp": "2025-03-01 11:57:22", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 247, "url": "https://fastapi.tiangolo.com/ru/alternatives", "timestamp": "2025-03-01 12:00:27", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 291, "url": "https://fastapi.tiangolo.com/zh/async", "timestamp": "2025-03-01 12:02:30", "status": "success", "entries_created": 21}
+{"index": 293, "url": "https://fastapi.tiangolo.com/de/async", "timestamp": "2025-03-01 12:05:40", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 325, "url": "https://fastapi.tiangolo.com/tr/alternatives", "timestamp": "2025-03-01 12:08:46", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 335, "url": "https://fastapi.tiangolo.com/nl/reference/parameters", "timestamp": "2025-03-01 12:10:18", "status": "success", "entries_created": 7}
+{"index": 338, "url": "https://fastapi.tiangolo.com/ja/reference/parameters", "timestamp": "2025-03-01 12:13:23", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 342, "url": "https://fastapi.tiangolo.com/zh/release-notes", "timestamp": "2025-03-01 12:16:29", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 345, "url": "https://fastapi.tiangolo.com/tr/release-notes", "timestamp": "2025-03-01 12:19:34", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 346, "url": "https://fastapi.tiangolo.com/ja/release-notes", "timestamp": "2025-03-01 12:22:41", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 347, "url": "https://fastapi.tiangolo.com/ru/release-notes", "timestamp": "2025-03-01 12:24:15", "status": "success", "entries_created": 7}
+{"index": 355, "url": "https://fastapi.tiangolo.com/ur/release-notes", "timestamp": "2025-03-01 12:36:20", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 362, "url": "https://fastapi.tiangolo.com/pl/fastapi-people", "timestamp": "2025-03-01 12:39:25", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 363, "url": "https://fastapi.tiangolo.com/fa/release-notes", "timestamp": "2025-03-01 12:42:31", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 370, "url": "https://fastapi.tiangolo.com/bn/reference/parameters", "timestamp": "2025-03-01 12:45:36", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 8, "url": "https://fastapi.tiangolo.com/fastapi-people", "timestamp": "2025-03-01 12:48:51", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 17, "url": "https://fastapi.tiangolo.com/release-notes", "timestamp": "2025-03-01 12:51:57", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 78, "url": "https://fastapi.tiangolo.com/reference/parameters", "timestamp": "2025-03-01 12:55:02", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 97, "url": "https://fastapi.tiangolo.com/tutorial/body-multiple-params", "timestamp": "2025-03-01 12:58:08", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 138, "url": "https://fastapi.tiangolo.com/tutorial/security/get-current-user", "timestamp": "2025-03-01 13:01:13", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 167, "url": "https://fastapi.tiangolo.com/de/alternatives", "timestamp": "2025-03-01 13:04:19", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 247, "url": "https://fastapi.tiangolo.com/ru/alternatives", "timestamp": "2025-03-01 13:05:11", "status": "success", "entries_created": 17}
+{"index": 293, "url": "https://fastapi.tiangolo.com/de/async", "timestamp": "2025-03-01 13:05:53", "status": "success", "entries_created": 21}
+{"index": 325, "url": "https://fastapi.tiangolo.com/tr/alternatives", "timestamp": "2025-03-01 13:08:58", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 338, "url": "https://fastapi.tiangolo.com/ja/reference/parameters", "timestamp": "2025-03-01 13:12:04", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 342, "url": "https://fastapi.tiangolo.com/zh/release-notes", "timestamp": "2025-03-01 13:15:09", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 345, "url": "https://fastapi.tiangolo.com/tr/release-notes", "timestamp": "2025-03-01 13:34:58", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 346, "url": "https://fastapi.tiangolo.com/ja/release-notes", "timestamp": "2025-03-01 13:38:10", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 355, "url": "https://fastapi.tiangolo.com/ur/release-notes", "timestamp": "2025-03-01 13:41:15", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 362, "url": "https://fastapi.tiangolo.com/pl/fastapi-people", "timestamp": "2025-03-01 13:44:21", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 363, "url": "https://fastapi.tiangolo.com/fa/release-notes", "timestamp": "2025-03-01 13:47:26", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 370, "url": "https://fastapi.tiangolo.com/bn/reference/parameters", "timestamp": "2025-03-01 13:50:36", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 8, "url": "https://fastapi.tiangolo.com/fastapi-people", "timestamp": "2025-03-01 13:53:53", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 17, "url": "https://fastapi.tiangolo.com/release-notes", "timestamp": "2025-03-01 13:56:59", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 78, "url": "https://fastapi.tiangolo.com/reference/parameters", "timestamp": "2025-03-01 14:00:04", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 97, "url": "https://fastapi.tiangolo.com/tutorial/body-multiple-params", "timestamp": "2025-03-01 14:03:10", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 138, "url": "https://fastapi.tiangolo.com/tutorial/security/get-current-user", "timestamp": "2025-03-01 14:06:16", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 167, "url": "https://fastapi.tiangolo.com/de/alternatives", "timestamp": "2025-03-01 14:09:27", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 325, "url": "https://fastapi.tiangolo.com/tr/alternatives", "timestamp": "2025-03-01 14:12:33", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 338, "url": "https://fastapi.tiangolo.com/ja/reference/parameters", "timestamp": "2025-03-01 14:15:38", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 342, "url": "https://fastapi.tiangolo.com/zh/release-notes", "timestamp": "2025-03-01 14:18:43", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 345, "url": "https://fastapi.tiangolo.com/tr/release-notes", "timestamp": "2025-03-01 14:21:59", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 346, "url": "https://fastapi.tiangolo.com/ja/release-notes", "timestamp": "2025-03-01 14:25:05", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 355, "url": "https://fastapi.tiangolo.com/ur/release-notes", "timestamp": "2025-03-01 16:52:09", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 362, "url": "https://fastapi.tiangolo.com/pl/fastapi-people", "timestamp": "2025-03-01 16:55:15", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 363, "url": "https://fastapi.tiangolo.com/fa/release-notes", "timestamp": "2025-03-01 16:58:21", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 370, "url": "https://fastapi.tiangolo.com/bn/reference/parameters", "timestamp": "2025-03-01 17:01:26", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 8, "url": "https://fastapi.tiangolo.com/fastapi-people", "timestamp": "2025-03-01 17:04:43", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 17, "url": "https://fastapi.tiangolo.com/release-notes", "timestamp": "2025-03-01 17:07:24", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 78, "url": "https://fastapi.tiangolo.com/reference/parameters", "timestamp": "2025-03-01 17:10:30", "status": "failure", "error": "No usable data returned on retry 6"}

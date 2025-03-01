@@ -1,0 +1,108 @@
+{"index": 0, "url": "https://asdf-vm.com", "timestamp": "2025-03-01 02:50:25", "status": "success", "entries_created": 7}
+{"index": 1, "url": "https://asdf-vm.com/ja-jp", "timestamp": "2025-03-01 02:50:43", "status": "success", "entries_created": 7}
+{"index": 2, "url": "https://asdf-vm.com/pt-br", "timestamp": "2025-03-01 02:50:56", "status": "success", "entries_created": 7}
+{"index": 3, "url": "https://asdf-vm.com/ko-kr", "timestamp": "2025-03-01 02:51:07", "status": "success", "entries_created": 7}
+{"index": 4, "url": "https://asdf-vm.com/zh-hans", "timestamp": "2025-03-01 02:51:53", "status": "success", "entries_created": 7}
+{"index": 5, "url": "https://asdf-vm.com/manage/versions.html", "timestamp": "2025-03-01 02:52:46", "status": "success", "entries_created": 14}
+{"index": 6, "url": "https://asdf-vm.com/manage/plugins.html", "timestamp": "2025-03-01 02:54:12", "status": "success", "entries_created": 10}
+{"index": 7, "url": "https://asdf-vm.com/more/faq.html", "timestamp": "2025-03-01 02:54:23", "status": "success", "entries_created": 6}
+{"index": 8, "url": "https://asdf-vm.com/contribute/core.html", "timestamp": "2025-03-01 02:54:55", "status": "success", "entries_created": 11}
+{"index": 9, "url": "https://asdf-vm.com/manage/commands.html", "timestamp": "2025-03-01 02:55:15", "status": "success", "entries_created": 5}
+{"index": 10, "url": "https://asdf-vm.com/guide/introduction.html", "timestamp": "2025-03-01 02:57:44", "status": "success", "entries_created": 6}
+{"index": 11, "url": "https://asdf-vm.com/plugins/create.html", "timestamp": "2025-03-01 02:58:33", "status": "success", "entries_created": 8}
+{"index": 12, "url": "https://asdf-vm.com/manage/configuration.html", "timestamp": "2025-03-01 03:00:26", "status": "success", "entries_created": 6}
+{"index": 13, "url": "https://asdf-vm.com/manage/core.html", "timestamp": "2025-03-01 03:03:27", "status": "success", "entries_created": 11}
+{"index": 14, "url": "https://asdf-vm.com/contribute/documentation.html", "timestamp": "2025-03-01 03:03:56", "status": "success", "entries_created": 8}
+{"index": 15, "url": "https://asdf-vm.com/more/thanks.html", "timestamp": "2025-03-01 03:04:37", "status": "success", "entries_created": 4}
+{"index": 16, "url": "https://asdf-vm.com/ko-kr/manage/core", "timestamp": "2025-03-01 03:05:28", "status": "success", "entries_created": 11}
+{"index": 17, "url": "https://asdf-vm.com/guide/getting-started.html", "timestamp": "2025-03-01 03:07:30", "status": "success", "entries_created": 10}
+{"index": 18, "url": "https://asdf-vm.com/ko-kr/manage/versions", "timestamp": "2025-03-01 03:08:23", "status": "success", "entries_created": 14}
+{"index": 19, "url": "https://asdf-vm.com/ko-kr/contribute/documentation", "timestamp": "2025-03-01 03:10:01", "status": "success", "entries_created": 8}
+{"index": 20, "url": "https://asdf-vm.com/ko-kr/plugins/create", "timestamp": "2025-03-01 03:13:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 21, "url": "https://asdf-vm.com/ko-kr/manage/configuration", "timestamp": "2025-03-01 03:14:58", "status": "success", "entries_created": 6}
+{"index": 22, "url": "https://asdf-vm.com/ko-kr/guide/introduction", "timestamp": "2025-03-01 03:15:21", "status": "success", "entries_created": 5}
+{"index": 23, "url": "https://asdf-vm.com/ko-kr/manage/plugins", "timestamp": "2025-03-01 03:15:38", "status": "success", "entries_created": 9}
+{"index": 24, "url": "https://asdf-vm.com/ko-kr/contribute/core", "timestamp": "2025-03-01 03:17:26", "status": "success", "entries_created": 11}
+{"index": 25, "url": "https://asdf-vm.com/ko-kr/more/faq", "timestamp": "2025-03-01 03:17:46", "status": "success", "entries_created": 5}
+{"index": 26, "url": "https://asdf-vm.com/ko-kr/manage/commands", "timestamp": "2025-03-01 03:18:17", "status": "success", "entries_created": 7}
+{"index": 27, "url": "https://asdf-vm.com/ko-kr/more/thanks", "timestamp": "2025-03-01 03:18:40", "status": "success", "entries_created": 4}
+{"index": 28, "url": "https://asdf-vm.com/contribute/github-actions.html", "timestamp": "2025-03-01 03:18:49", "status": "success", "entries_created": 2}
+{"index": 29, "url": "https://asdf-vm.com/more/community-projects.html", "timestamp": "2025-03-01 03:18:58", "status": "success", "entries_created": 3}
+{"index": 30, "url": "https://asdf-vm.com/pt-br/manage/commands.html", "timestamp": "2025-03-01 03:19:27", "status": "success", "entries_created": 7}
+{"index": 31, "url": "https://asdf-vm.com/zh-hans/manage/core.html", "timestamp": "2025-03-01 03:20:15", "status": "success", "entries_created": 11}
+{"index": 32, "url": "https://asdf-vm.com/ja-jp/manage/configuration.html", "timestamp": "2025-03-01 03:20:59", "status": "success", "entries_created": 6}
+{"index": 33, "url": "https://asdf-vm.com/zh-hans/manage/configuration.html", "timestamp": "2025-03-01 03:21:38", "status": "success", "entries_created": 5}
+{"index": 34, "url": "https://asdf-vm.com/pt-br/guide/introduction.html", "timestamp": "2025-03-01 03:31:52", "status": "success", "entries_created": 8}
+{"index": 35, "url": "https://asdf-vm.com/pt-br/manage/configuration.html", "timestamp": "2025-03-01 03:32:13", "status": "success", "entries_created": 6}
+{"index": 36, "url": "https://asdf-vm.com/pt-br/manage/core.html", "timestamp": "2025-03-01 03:32:53", "status": "success", "entries_created": 11}
+{"index": 37, "url": "https://asdf-vm.com/zh-hans/guide/introduction.html", "timestamp": "2025-03-01 03:33:05", "status": "success", "entries_created": 5}
+{"index": 38, "url": "https://asdf-vm.com/ja-jp/contribute/core.html", "timestamp": "2025-03-01 03:33:23", "status": "success", "entries_created": 6}
+{"index": 39, "url": "https://asdf-vm.com/zh-hans/more/faq.html", "timestamp": "2025-03-01 03:33:42", "status": "success", "entries_created": 7}
+{"index": 40, "url": "https://asdf-vm.com/ja-jp/manage/commands.html", "timestamp": "2025-03-01 03:33:52", "status": "success", "entries_created": 5}
+{"index": 41, "url": "https://asdf-vm.com/zh-hans/manage/commands.html", "timestamp": "2025-03-01 03:34:05", "status": "success", "entries_created": 5}
+{"index": 42, "url": "https://asdf-vm.com/pt-br/manage/versions.html", "timestamp": "2025-03-01 03:34:31", "status": "success", "entries_created": 14}
+{"index": 43, "url": "https://asdf-vm.com/zh-hans/manage/plugins.html", "timestamp": "2025-03-01 03:34:43", "status": "success", "entries_created": 9}
+{"index": 44, "url": "https://asdf-vm.com/zh-hans/plugins/create.html", "timestamp": "2025-03-01 03:35:02", "status": "success", "entries_created": 9}
+{"index": 45, "url": "https://asdf-vm.com/pt-br/plugins/create.html", "timestamp": "2025-03-01 03:35:39", "status": "success", "entries_created": 18}
+{"index": 46, "url": "https://asdf-vm.com/ja-jp/contribute/documentation.html", "timestamp": "2025-03-01 03:36:12", "status": "success", "entries_created": 8}
+{"index": 47, "url": "https://asdf-vm.com/pt-br/more/faq.html", "timestamp": "2025-03-01 03:36:30", "status": "success", "entries_created": 6}
+{"index": 48, "url": "https://asdf-vm.com/guide/getting-started-legacy.html", "timestamp": "2025-03-01 03:37:22", "status": "success", "entries_created": 14}
+{"index": 49, "url": "https://asdf-vm.com/pt-br/contribute/core.html", "timestamp": "2025-03-01 03:37:43", "status": "success", "entries_created": 8}
+{"index": 50, "url": "https://asdf-vm.com/pt-br/contribute/documentation.html", "timestamp": "2025-03-01 03:38:07", "status": "success", "entries_created": 8}
+{"index": 51, "url": "https://asdf-vm.com/ja-jp/manage/versions.html", "timestamp": "2025-03-01 03:38:55", "status": "success", "entries_created": 14}
+{"index": 52, "url": "https://asdf-vm.com/ja-jp/plugins/create.html", "timestamp": "2025-03-01 03:42:01", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 53, "url": "https://asdf-vm.com/pt-br/manage/plugins.html", "timestamp": "2025-03-01 03:43:17", "status": "success", "entries_created": 9}
+{"index": 54, "url": "https://asdf-vm.com/zh-hans/manage/versions.html", "timestamp": "2025-03-01 03:43:53", "status": "success", "entries_created": 14}
+{"index": 55, "url": "https://asdf-vm.com/ja-jp/manage/plugins.html", "timestamp": "2025-03-01 03:44:22", "status": "success", "entries_created": 9}
+{"index": 56, "url": "https://asdf-vm.com/zh-hans/contribute/documentation.html", "timestamp": "2025-03-01 03:44:45", "status": "success", "entries_created": 8}
+{"index": 57, "url": "https://asdf-vm.com/ja-jp/guide/introduction.html", "timestamp": "2025-03-01 03:45:11", "status": "success", "entries_created": 5}
+{"index": 58, "url": "https://asdf-vm.com/zh-hans/contribute/core.html", "timestamp": "2025-03-01 03:45:53", "status": "success", "entries_created": 8}
+{"index": 59, "url": "https://asdf-vm.com/ja-jp/more/faq.html", "timestamp": "2025-03-01 03:46:09", "status": "success", "entries_created": 5}
+{"index": 60, "url": "https://asdf-vm.com/ja-jp/manage/core.html", "timestamp": "2025-03-01 03:48:08", "status": "success", "entries_created": 11}
+{"index": 61, "url": "https://asdf-vm.com/ko-kr/more/community-projects", "timestamp": "2025-03-01 03:48:43", "status": "success", "entries_created": 3}
+{"index": 62, "url": "https://asdf-vm.com/ja-jp/more/thanks.html", "timestamp": "2025-03-01 03:49:02", "status": "success", "entries_created": 4}
+{"index": 63, "url": "https://asdf-vm.com/zh-hans/more/thanks.html", "timestamp": "2025-03-01 03:51:01", "status": "success", "entries_created": 4}
+{"index": 64, "url": "https://asdf-vm.com/ko-kr/contribute/github-actions", "timestamp": "2025-03-01 03:51:22", "status": "success", "entries_created": 1}
+{"index": 65, "url": "https://asdf-vm.com/contribute/first-party-plugins.html", "timestamp": "2025-03-01 03:51:29", "status": "success", "entries_created": 3}
+{"index": 66, "url": "https://asdf-vm.com/guide/upgrading-to-v0-16.html", "timestamp": "2025-03-01 03:52:20", "status": "success", "entries_created": 7}
+{"index": 67, "url": "https://asdf-vm.com/ja-jp/guide/getting-started-legacy", "timestamp": "2025-03-01 03:53:03", "status": "success", "entries_created": 10}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 03:56:08", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 69, "url": "https://asdf-vm.com/ja-jp/guide/getting-started.html", "timestamp": "2025-03-01 03:57:32", "status": "success", "entries_created": 11}
+{"index": 70, "url": "https://asdf-vm.com/ko-kr/guide/getting-started.html", "timestamp": "2025-03-01 03:58:30", "status": "success", "entries_created": 9}
+{"index": 71, "url": "https://asdf-vm.com/zh-hans/more/community-projects.html", "timestamp": "2025-03-01 03:58:56", "status": "success", "entries_created": 3}
+{"index": 72, "url": "https://asdf-vm.com/pt-br/contribute/github-actions.html", "timestamp": "2025-03-01 03:59:06", "status": "success", "entries_created": 2}
+{"index": 73, "url": "https://asdf-vm.com/pt-br/guide/getting-started.html", "timestamp": "2025-03-01 04:02:12", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 74, "url": "https://asdf-vm.com/ja-jp/contribute/github-actions.html", "timestamp": "2025-03-01 04:02:41", "status": "success", "entries_created": 1}
+{"index": 75, "url": "https://asdf-vm.com/ja-jp/more/community-projects.html", "timestamp": "2025-03-01 04:02:50", "status": "success", "entries_created": 3}
+{"index": 76, "url": "https://asdf-vm.com/pt-br/more/community-projects.html", "timestamp": "2025-03-01 04:03:00", "status": "success", "entries_created": 3}
+{"index": 77, "url": "https://asdf-vm.com/ko-kr/contribute/first-party-plugins", "timestamp": "2025-03-01 04:03:09", "status": "success", "entries_created": 3}
+{"index": 78, "url": "https://asdf-vm.com/zh-hans/contribute/github-actions.html", "timestamp": "2025-03-01 04:03:12", "status": "success", "entries_created": 2}
+{"index": 79, "url": "https://asdf-vm.com/ja-jp/guide/upgrading-to-v0-16", "timestamp": "2025-03-01 04:04:01", "status": "success", "entries_created": 7}
+{"index": 80, "url": "https://asdf-vm.com/ja-jp/contribute/first-party-plugins.html", "timestamp": "2025-03-01 04:04:08", "status": "success", "entries_created": 3}
+{"index": 81, "url": "https://asdf-vm.com/zh-hans/contribute/first-party-plugins.html", "timestamp": "2025-03-01 04:04:13", "status": "success", "entries_created": 3}
+{"index": 82, "url": "https://asdf-vm.com/pt-br/contribute/first-party-plugins.html", "timestamp": "2025-03-01 04:04:18", "status": "success", "entries_created": 4}
+{"index": 20, "url": "https://asdf-vm.com/ko-kr/plugins/create", "timestamp": "2025-03-01 04:05:08", "status": "success", "entries_created": 10}
+{"index": 52, "url": "https://asdf-vm.com/ja-jp/plugins/create.html", "timestamp": "2025-03-01 04:05:45", "status": "success", "entries_created": 7}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:08:50", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 73, "url": "https://asdf-vm.com/pt-br/guide/getting-started.html", "timestamp": "2025-03-01 04:11:56", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:15:06", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 73, "url": "https://asdf-vm.com/pt-br/guide/getting-started.html", "timestamp": "2025-03-01 04:18:15", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:21:25", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 73, "url": "https://asdf-vm.com/pt-br/guide/getting-started.html", "timestamp": "2025-03-01 04:22:26", "status": "success", "entries_created": 7}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:25:37", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:28:47", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:32:02", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:35:12", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:38:23", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:40:42", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:43:53", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:47:03", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:50:14", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:53:27", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:56:37", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 04:59:52", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 05:03:03", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 05:06:13", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 05:08:59", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 05:11:56", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 68, "url": "https://asdf-vm.com/zh-hans/guide/getting-started.html", "timestamp": "2025-03-01 05:15:06", "status": "success", "entries_created": 16}

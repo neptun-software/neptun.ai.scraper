@@ -1,0 +1,105 @@
+{"index": 0, "url": "https://docs.scrapy.org/en/latest", "timestamp": "2025-03-01 02:52:15", "status": "success", "entries_created": 8}
+{"index": 1, "url": "https://docs.scrapy.org/en/latest/faq.html", "timestamp": "2025-03-01 02:55:23", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 2, "url": "https://docs.scrapy.org/en/latest/genindex.html", "timestamp": "2025-03-01 02:55:49", "status": "success", "entries_created": 2}
+{"index": 3, "url": "https://docs.scrapy.org/en/latest/versioning.html", "timestamp": "2025-03-01 02:56:34", "status": "success", "entries_created": 5}
+{"index": 4, "url": "https://docs.scrapy.org/en/latest/contributing.html", "timestamp": "2025-03-01 02:57:30", "status": "success", "entries_created": 14}
+{"index": 5, "url": "https://docs.scrapy.org/en/latest/news.html", "timestamp": "2025-03-01 03:00:38", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 6, "url": "https://docs.scrapy.org/en/latest/search.html", "timestamp": "2025-03-01 03:00:44", "status": "success", "entries_created": 1}
+{"index": 7, "url": "https://docs.scrapy.org/en/latest/topics/email.html", "timestamp": "2025-03-01 03:01:22", "status": "success", "entries_created": 6}
+{"index": 8, "url": "https://docs.scrapy.org/en/latest/topics/components.html", "timestamp": "2025-03-01 03:01:58", "status": "success", "entries_created": 6}
+{"index": 9, "url": "https://docs.scrapy.org/en/latest/topics/scheduler.html", "timestamp": "2025-03-01 03:02:32", "status": "success", "entries_created": 6}
+{"index": 10, "url": "https://docs.scrapy.org/en/latest/topics/architecture.html", "timestamp": "2025-03-01 03:03:11", "status": "success", "entries_created": 6}
+{"index": 11, "url": "https://docs.scrapy.org/en/latest/topics/signals.html", "timestamp": "2025-03-01 03:03:57", "status": "success", "entries_created": 8}
+{"index": 12, "url": "https://docs.scrapy.org/en/latest/topics/shell.html", "timestamp": "2025-03-01 03:07:02", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 13, "url": "https://docs.scrapy.org/en/latest/topics/loaders.html", "timestamp": "2025-03-01 03:10:07", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 14, "url": "https://docs.scrapy.org/en/latest/topics/selectors.html", "timestamp": "2025-03-01 03:12:35", "status": "success", "entries_created": 6}
+{"index": 15, "url": "https://docs.scrapy.org/en/latest/topics/contracts.html", "timestamp": "2025-03-01 03:13:16", "status": "success", "entries_created": 6}
+{"index": 16, "url": "https://docs.scrapy.org/en/latest/topics/stats.html", "timestamp": "2025-03-01 03:13:45", "status": "success", "entries_created": 5}
+{"index": 17, "url": "https://docs.scrapy.org/en/latest/topics/benchmarking.html", "timestamp": "2025-03-01 03:15:35", "status": "success", "entries_created": 6}
+{"index": 18, "url": "https://docs.scrapy.org/en/latest/topics/asyncio.html", "timestamp": "2025-03-01 03:18:20", "status": "success", "entries_created": 9}
+{"index": 19, "url": "https://docs.scrapy.org/en/latest/topics/addons.html", "timestamp": "2025-03-01 03:18:26", "status": "success", "entries_created": 3}
+{"index": 20, "url": "https://docs.scrapy.org/en/latest/topics/logging.html", "timestamp": "2025-03-01 03:18:45", "status": "success", "entries_created": 8}
+{"index": 21, "url": "https://docs.scrapy.org/en/latest/topics/debug.html", "timestamp": "2025-03-01 03:21:41", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 22, "url": "https://docs.scrapy.org/en/latest/intro/tutorial.html", "timestamp": "2025-03-01 03:33:01", "status": "success", "entries_created": 4}
+{"index": 23, "url": "https://docs.scrapy.org/en/latest/topics/api.html", "timestamp": "2025-03-01 03:34:53", "status": "success", "entries_created": 72}
+{"index": 24, "url": "https://docs.scrapy.org/en/latest/topics/jobs.html", "timestamp": "2025-03-01 03:35:07", "status": "success", "entries_created": 7}
+{"index": 25, "url": "https://docs.scrapy.org/en/latest/py-modindex.html", "timestamp": "2025-03-01 03:35:14", "status": "success", "entries_created": 2}
+{"index": 26, "url": "https://docs.scrapy.org/en/latest/intro/install.html", "timestamp": "2025-03-01 03:35:51", "status": "success", "entries_created": 9}
+{"index": 27, "url": "https://docs.scrapy.org/en/latest/topics/settings.html", "timestamp": "2025-03-01 03:36:45", "status": "success", "entries_created": 16}
+{"index": 28, "url": "https://docs.scrapy.org/en/latest/intro/overview.html", "timestamp": "2025-03-01 03:38:13", "status": "success", "entries_created": 7}
+{"index": 29, "url": "https://docs.scrapy.org/en/latest/topics/exporters.html", "timestamp": "2025-03-01 03:38:50", "status": "success", "entries_created": 8}
+{"index": 30, "url": "https://docs.scrapy.org/en/latest/topics/leaks.html", "timestamp": "2025-03-01 03:41:48", "status": "success", "entries_created": 13}
+{"index": 31, "url": "https://docs.scrapy.org/en/latest/topics/commands.html", "timestamp": "2025-03-01 03:42:40", "status": "success", "entries_created": 10}
+{"index": 32, "url": "https://docs.scrapy.org/en/latest/topics/telnetconsole.html", "timestamp": "2025-03-01 03:43:05", "status": "success", "entries_created": 10}
+{"index": 33, "url": "https://docs.scrapy.org/en/latest/topics/spiders.html", "timestamp": "2025-03-01 03:43:45", "status": "success", "entries_created": 14}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 03:46:23", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 35, "url": "https://docs.scrapy.org/en/latest/topics/practices.html", "timestamp": "2025-03-01 03:47:01", "status": "success", "entries_created": 4}
+{"index": 36, "url": "https://docs.scrapy.org/en/latest/topics/items.html", "timestamp": "2025-03-01 03:47:24", "status": "success", "entries_created": 14}
+{"index": 37, "url": "https://docs.scrapy.org/en/latest/topics/autothrottle.html", "timestamp": "2025-03-01 03:48:16", "status": "success", "entries_created": 13}
+{"index": 38, "url": "https://docs.scrapy.org/en/latest/topics/exceptions.html", "timestamp": "2025-03-01 03:48:49", "status": "success", "entries_created": 11}
+{"index": 39, "url": "https://docs.scrapy.org/en/latest/_modules/index.html", "timestamp": "2025-03-01 03:49:01", "status": "success", "entries_created": 2}
+{"index": 40, "url": "https://docs.scrapy.org/en/latest/topics/coroutines.html", "timestamp": "2025-03-01 03:52:07", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 41, "url": "https://docs.scrapy.org/en/latest/topics/deploy.html", "timestamp": "2025-03-01 03:54:34", "status": "success", "entries_created": 4}
+{"index": 42, "url": "https://docs.scrapy.org/en/latest/topics/scrapyd.html", "timestamp": "2025-03-01 03:54:42", "status": "success", "entries_created": 2}
+{"index": 43, "url": "https://docs.scrapy.org/en/latest/topics/djangoitem.html", "timestamp": "2025-03-01 03:54:51", "status": "success", "entries_created": 3}
+{"index": 44, "url": "https://docs.scrapy.org/en/latest/intro/examples.html", "timestamp": "2025-03-01 03:56:02", "status": "success", "entries_created": 3}
+{"index": 45, "url": "https://docs.scrapy.org/en/latest/topics/spider-middleware.html", "timestamp": "2025-03-01 03:56:43", "status": "success", "entries_created": 10}
+{"index": 46, "url": "https://docs.scrapy.org/en/latest/topics/dynamic-content.html", "timestamp": "2025-03-01 03:57:19", "status": "success", "entries_created": 10}
+{"index": 47, "url": "https://docs.scrapy.org/en/latest/topics/media-pipeline.html", "timestamp": "2025-03-01 03:59:12", "status": "success", "entries_created": 11}
+{"index": 48, "url": "https://docs.scrapy.org/en/latest/topics/item-pipeline.html", "timestamp": "2025-03-01 04:00:00", "status": "success", "entries_created": 6}
+{"index": 49, "url": "https://docs.scrapy.org/en/latest/topics/downloader-middleware.html", "timestamp": "2025-03-01 04:03:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 50, "url": "https://docs.scrapy.org/en/latest/topics/feed-exports.html", "timestamp": "2025-03-01 04:06:07", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 51, "url": "https://docs.scrapy.org/en/latest/topics/request-response.html", "timestamp": "2025-03-01 04:08:56", "status": "success", "entries_created": 6}
+{"index": 52, "url": "https://docs.scrapy.org/en/latest/topics/developer-tools.html", "timestamp": "2025-03-01 04:12:06", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 53, "url": "https://docs.scrapy.org/en/latest/topics/broad-crawls.html", "timestamp": "2025-03-01 04:12:26", "status": "success", "entries_created": 4}
+{"index": 54, "url": "https://docs.scrapy.org/en/latest/topics/link-extractors.html", "timestamp": "2025-03-01 04:14:13", "status": "success", "entries_created": 4}
+{"index": 55, "url": "https://docs.scrapy.org/en/latest/_modules/scrapy/extensions/feedexport.html", "timestamp": "2025-03-01 04:16:34", "status": "success", "entries_created": 8}
+{"index": 56, "url": "https://docs.scrapy.org/en/latest/_modules/scrapy/utils/misc.html", "timestamp": "2025-03-01 04:17:46", "status": "success", "entries_created": 4}
+{"index": 57, "url": "https://docs.scrapy.org/en/latest/topics/items.html?highlight=field", "timestamp": "2025-03-01 04:20:05", "status": "success", "entries_created": 14}
+{"index": 58, "url": "https://docs.scrapy.org/en/latest/_modules/scrapy/extensions/spiderstate.html", "timestamp": "2025-03-01 04:23:11", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 59, "url": "https://docs.scrapy.org/en/latest/_modules/scrapy/http/response/json.html", "timestamp": "2025-03-01 04:25:11", "status": "success", "entries_created": 3}
+{"index": 60, "url": "https://docs.scrapy.org/en/latest/_static/selectors-sample1.html", "timestamp": "2025-03-01 04:26:23", "status": "success", "entries_created": 6}
+{"index": 61, "url": "https://docs.scrapy.org/en/latest/topics/shell.html?__hstc=199723825.2f3f33a24b44870ec4a577029c49e44b.1725667200263.1725667200264.1725667200265.1&__hssc=199723825.1.1725667200266&__hsfp=2420521548", "timestamp": "2025-03-01 04:27:51", "status": "success", "entries_created": 6}
+{"index": 62, "url": "https://docs.scrapy.org/en/latest/topics/contracts.html?utm_campaign=EXS&utm_activity=BLO&utm_medium=ORG&utm_source=HUB&utm_content=BLP&utm_primary=EXS&utm_goal=SIN&__hstc=199723825.2f3f33a24b44870ec4a577029c49e44b.1730851201067.1730851201068.1730851201069.1&__hssc=199723825.1.1730851201070&__hsfp=1169088524", "timestamp": "2025-03-01 04:29:37", "status": "success", "entries_created": 9}
+{"index": 1, "url": "https://docs.scrapy.org/en/latest/faq.html", "timestamp": "2025-03-01 04:30:35", "status": "success", "entries_created": 24}
+{"index": 5, "url": "https://docs.scrapy.org/en/latest/news.html", "timestamp": "2025-03-01 04:33:45", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 12, "url": "https://docs.scrapy.org/en/latest/topics/shell.html", "timestamp": "2025-03-01 04:34:14", "status": "success", "entries_created": 6}
+{"index": 13, "url": "https://docs.scrapy.org/en/latest/topics/loaders.html", "timestamp": "2025-03-01 04:35:02", "status": "success", "entries_created": 8}
+{"index": 21, "url": "https://docs.scrapy.org/en/latest/topics/debug.html", "timestamp": "2025-03-01 04:37:03", "status": "success", "entries_created": 8}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 04:40:08", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 40, "url": "https://docs.scrapy.org/en/latest/topics/coroutines.html", "timestamp": "2025-03-01 04:41:43", "status": "success", "entries_created": 8}
+{"index": 49, "url": "https://docs.scrapy.org/en/latest/topics/downloader-middleware.html", "timestamp": "2025-03-01 04:42:12", "status": "success", "entries_created": 7}
+{"index": 50, "url": "https://docs.scrapy.org/en/latest/topics/feed-exports.html", "timestamp": "2025-03-01 04:42:35", "status": "success", "entries_created": 17}
+{"index": 52, "url": "https://docs.scrapy.org/en/latest/topics/developer-tools.html", "timestamp": "2025-03-01 04:43:28", "status": "success", "entries_created": 6}
+{"index": 58, "url": "https://docs.scrapy.org/en/latest/_modules/scrapy/extensions/spiderstate.html", "timestamp": "2025-03-01 04:45:11", "status": "success", "entries_created": 5}
+{"index": 5, "url": "https://docs.scrapy.org/en/latest/news.html", "timestamp": "2025-03-01 04:48:21", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 04:51:31", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 5, "url": "https://docs.scrapy.org/en/latest/news.html", "timestamp": "2025-03-01 04:54:41", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 04:57:47", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 5, "url": "https://docs.scrapy.org/en/latest/news.html", "timestamp": "2025-03-01 05:00:57", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:04:03", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 5, "url": "https://docs.scrapy.org/en/latest/news.html", "timestamp": "2025-03-01 05:07:13", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:10:01", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 5, "url": "https://docs.scrapy.org/en/latest/news.html", "timestamp": "2025-03-01 05:13:12", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:16:18", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 5, "url": "https://docs.scrapy.org/en/latest/news.html", "timestamp": "2025-03-01 05:19:28", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:22:33", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 5, "url": "https://docs.scrapy.org/en/latest/news.html", "timestamp": "2025-03-01 05:23:37", "status": "success", "entries_created": 5}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:26:40", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:29:51", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:33:01", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:36:11", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:39:26", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:42:40", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:45:50", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:49:01", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:52:11", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:55:22", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 05:58:06", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 06:01:17", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 06:04:27", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 06:07:38", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 06:10:48", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 06:13:58", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 06:17:10", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 34, "url": "https://docs.scrapy.org/en/latest/topics/extensions.html", "timestamp": "2025-03-01 06:20:20", "status": "failure", "error": "No usable data returned on retry 25"}

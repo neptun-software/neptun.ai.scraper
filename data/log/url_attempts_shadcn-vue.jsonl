@@ -1,0 +1,109 @@
+{"index": 0, "url": "https://www.shadcn-vue.com/docs", "timestamp": "2025-02-28 21:58:33", "status": "success", "entries_created": 2}
+{"index": 1, "url": "https://www.shadcn-vue.com/docs/cli", "timestamp": "2025-02-28 21:58:49", "status": "success", "entries_created": 8}
+{"index": 2, "url": "https://www.shadcn-vue.com/docs/typography", "timestamp": "2025-02-28 21:59:02", "status": "success", "entries_created": 20}
+{"index": 3, "url": "https://www.shadcn-vue.com/docs/theming", "timestamp": "2025-02-28 21:59:35", "status": "success", "entries_created": 10}
+{"index": 4, "url": "https://www.shadcn-vue.com/docs/contribution", "timestamp": "2025-02-28 22:00:32", "status": "success", "entries_created": 21}
+{"index": 5, "url": "https://www.shadcn-vue.com/docs/charts", "timestamp": "2025-02-28 22:01:03", "status": "success", "entries_created": 8}
+{"index": 6, "url": "https://www.shadcn-vue.com/docs/about", "timestamp": "2025-02-28 22:04:08", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 7, "url": "https://www.shadcn-vue.com/docs/introduction", "timestamp": "2025-02-28 22:04:28", "status": "success", "entries_created": 4}
+{"index": 8, "url": "https://www.shadcn-vue.com/docs/installation", "timestamp": "2025-02-28 22:04:57", "status": "success", "entries_created": 6}
+{"index": 9, "url": "https://www.shadcn-vue.com/docs/figma", "timestamp": "2025-02-28 22:06:13", "status": "success", "entries_created": 2}
+{"index": 10, "url": "https://www.shadcn-vue.com/docs/components/textarea", "timestamp": "2025-02-28 22:06:46", "status": "success", "entries_created": 5}
+{"index": 11, "url": "https://www.shadcn-vue.com/docs/components/command", "timestamp": "2025-02-28 22:07:23", "status": "success", "entries_created": 5}
+{"index": 12, "url": "https://www.shadcn-vue.com/docs/components/button", "timestamp": "2025-02-28 22:10:11", "status": "success", "entries_created": 5}
+{"index": 13, "url": "https://www.shadcn-vue.com/docs/installation/manual", "timestamp": "2025-02-28 22:13:16", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 14, "url": "https://www.shadcn-vue.com/docs/charts/donut", "timestamp": "2025-02-28 22:14:31", "status": "success", "entries_created": 6}
+{"index": 15, "url": "https://www.shadcn-vue.com/docs/components/carousel", "timestamp": "2025-02-28 22:15:10", "status": "success", "entries_created": 7}
+{"index": 16, "url": "https://www.shadcn-vue.com/docs/charts/area", "timestamp": "2025-02-28 22:15:23", "status": "success", "entries_created": 6}
+{"index": 17, "url": "https://www.shadcn-vue.com/docs/components/resizable", "timestamp": "2025-02-28 22:16:03", "status": "success", "entries_created": 5}
+{"index": 18, "url": "https://www.shadcn-vue.com/docs/charts/bar", "timestamp": "2025-02-28 22:16:20", "status": "success", "entries_created": 6}
+{"index": 19, "url": "https://www.shadcn-vue.com/docs/components/sidebar", "timestamp": "2025-02-28 22:19:26", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 20, "url": "https://www.shadcn-vue.com/docs/components/drawer", "timestamp": "2025-02-28 22:21:07", "status": "success", "entries_created": 7}
+{"index": 21, "url": "https://www.shadcn-vue.com/docs/components/combobox", "timestamp": "2025-02-28 22:21:25", "status": "success", "entries_created": 4}
+{"index": 22, "url": "https://www.shadcn-vue.com/docs/components/sonner", "timestamp": "2025-02-28 22:21:45", "status": "success", "entries_created": 7}
+{"index": 23, "url": "https://www.shadcn-vue.com/docs/components/breadcrumb", "timestamp": "2025-02-28 22:22:33", "status": "success", "entries_created": 5}
+{"index": 24, "url": "https://www.shadcn-vue.com/docs/components/input", "timestamp": "2025-02-28 22:22:42", "status": "success", "entries_created": 5}
+{"index": 25, "url": "https://www.shadcn-vue.com/docs/components/badge", "timestamp": "2025-02-28 22:23:00", "status": "success", "entries_created": 5}
+{"index": 26, "url": "https://www.shadcn-vue.com/docs/components/stepper", "timestamp": "2025-02-28 22:23:34", "status": "success", "entries_created": 4}
+{"index": 27, "url": "https://www.shadcn-vue.com/docs/components/dialog", "timestamp": "2025-02-28 22:23:52", "status": "success", "entries_created": 7}
+{"index": 28, "url": "https://www.shadcn-vue.com/docs/charts/line", "timestamp": "2025-02-28 22:24:09", "status": "success", "entries_created": 6}
+{"index": 29, "url": "https://www.shadcn-vue.com/docs/components/calendar", "timestamp": "2025-02-28 22:24:23", "status": "success", "entries_created": 8}
+{"index": 30, "url": "https://www.shadcn-vue.com/docs/components/toggle", "timestamp": "2025-02-28 22:27:07", "status": "success", "entries_created": 5}
+{"index": 31, "url": "https://www.shadcn-vue.com/docs/components/tabs", "timestamp": "2025-02-28 22:27:46", "status": "success", "entries_created": 7}
+{"index": 32, "url": "https://www.shadcn-vue.com/docs/components/checkbox", "timestamp": "2025-02-28 22:28:02", "status": "success", "entries_created": 6}
+{"index": 33, "url": "https://www.shadcn-vue.com/docs/components/form", "timestamp": "2025-02-28 22:29:02", "status": "success", "entries_created": 5}
+{"index": 34, "url": "https://www.shadcn-vue.com/docs/components/select", "timestamp": "2025-02-28 22:29:15", "status": "success", "entries_created": 5}
+{"index": 35, "url": "https://www.shadcn-vue.com/docs/components/card", "timestamp": "2025-02-28 22:29:39", "status": "success", "entries_created": 6}
+{"index": 36, "url": "https://www.shadcn-vue.com/docs/components/toast", "timestamp": "2025-02-28 22:29:57", "status": "success", "entries_created": 6}
+{"index": 37, "url": "https://www.shadcn-vue.com/docs/components/accordion", "timestamp": "2025-02-28 22:30:11", "status": "success", "entries_created": 7}
+{"index": 38, "url": "https://www.shadcn-vue.com/docs/components/sheet", "timestamp": "2025-02-28 22:30:27", "status": "success", "entries_created": 6}
+{"index": 39, "url": "https://www.shadcn-vue.com/docs/installation/laravel", "timestamp": "2025-02-28 22:31:21", "status": "success", "entries_created": 6}
+{"index": 40, "url": "https://www.shadcn-vue.com/docs/components/alert", "timestamp": "2025-02-28 22:31:32", "status": "success", "entries_created": 6}
+{"index": 41, "url": "https://www.shadcn-vue.com/docs/components/menubar", "timestamp": "2025-02-28 22:32:18", "status": "success", "entries_created": 4}
+{"index": 42, "url": "https://www.shadcn-vue.com/docs/components/collapsible", "timestamp": "2025-02-28 22:32:38", "status": "success", "entries_created": 5}
+{"index": 43, "url": "https://www.shadcn-vue.com/docs/components/switch", "timestamp": "2025-02-28 22:33:08", "status": "success", "entries_created": 5}
+{"index": 44, "url": "https://www.shadcn-vue.com/docs/components/slider", "timestamp": "2025-02-28 22:33:44", "status": "success", "entries_created": 5}
+{"index": 45, "url": "https://www.shadcn-vue.com/docs/components/label", "timestamp": "2025-02-28 22:35:12", "status": "success", "entries_created": 4}
+{"index": 46, "url": "https://www.shadcn-vue.com/docs/components/tooltip", "timestamp": "2025-02-28 22:35:21", "status": "success", "entries_created": 4}
+{"index": 47, "url": "https://www.shadcn-vue.com/docs/components/pagination", "timestamp": "2025-02-28 22:36:21", "status": "success", "entries_created": 4}
+{"index": 48, "url": "https://www.shadcn-vue.com/docs/components/skeleton", "timestamp": "2025-02-28 22:36:26", "status": "success", "entries_created": 5}
+{"index": 49, "url": "https://www.shadcn-vue.com/docs/components/popover", "timestamp": "2025-02-28 22:36:55", "status": "success", "entries_created": 4}
+{"index": 50, "url": "https://www.shadcn-vue.com/docs/components/separator", "timestamp": "2025-02-28 22:37:31", "status": "success", "entries_created": 4}
+{"index": 51, "url": "https://www.shadcn-vue.com/docs/components/progress", "timestamp": "2025-02-28 22:39:09", "status": "success", "entries_created": 4}
+{"index": 52, "url": "https://www.shadcn-vue.com/docs/components/avatar", "timestamp": "2025-02-28 22:39:35", "status": "success", "entries_created": 4}
+{"index": 53, "url": "https://www.shadcn-vue.com/docs/dark-mode", "timestamp": "2025-02-28 22:39:50", "status": "success", "entries_created": 2}
+{"index": 54, "url": "https://www.shadcn-vue.com/docs/components/scroll-area", "timestamp": "2025-02-28 22:39:58", "status": "success", "entries_created": 4}
+{"index": 55, "url": "https://www.shadcn-vue.com/docs/dark-mode/astro", "timestamp": "2025-02-28 22:40:38", "status": "success", "entries_created": 5}
+{"index": 56, "url": "https://www.shadcn-vue.com/docs/components/auto-form", "timestamp": "2025-02-28 22:43:45", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 57, "url": "https://www.shadcn-vue.com/docs/components/toggle-group", "timestamp": "2025-02-28 22:45:01", "status": "success", "entries_created": 5}
+{"index": 58, "url": "https://www.shadcn-vue.com/docs/components/dropdown-menu", "timestamp": "2025-02-28 22:48:07", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-02-28 22:51:13", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 60, "url": "https://www.shadcn-vue.com/docs/dark-mode/vite", "timestamp": "2025-02-28 22:51:35", "status": "success", "entries_created": 6}
+{"index": 61, "url": "https://www.shadcn-vue.com/docs/components/number-field", "timestamp": "2025-02-28 22:51:45", "status": "success", "entries_created": 6}
+{"index": 62, "url": "https://www.shadcn-vue.com/docs/components/v-calendar", "timestamp": "2025-02-28 22:52:06", "status": "success", "entries_created": 7}
+{"index": 63, "url": "https://www.shadcn-vue.com/docs/components/pin-input", "timestamp": "2025-02-28 22:52:22", "status": "success", "entries_created": 4}
+{"index": 64, "url": "https://www.shadcn-vue.com/docs/components/date-picker", "timestamp": "2025-02-28 22:52:38", "status": "success", "entries_created": 3}
+{"index": 65, "url": "https://www.shadcn-vue.com/docs/components/tags-input", "timestamp": "2025-02-28 22:52:49", "status": "success", "entries_created": 4}
+{"index": 66, "url": "https://www.shadcn-vue.com/docs/components/range-calendar", "timestamp": "2025-02-28 22:52:54", "status": "success", "entries_created": 4}
+{"index": 67, "url": "https://www.shadcn-vue.com/docs/components/radio-group", "timestamp": "2025-02-28 22:53:05", "status": "success", "entries_created": 6}
+{"index": 68, "url": "https://www.shadcn-vue.com/docs/components/context-menu", "timestamp": "2025-02-28 22:53:29", "status": "success", "entries_created": 4}
+{"index": 69, "url": "https://www.shadcn-vue.com/docs/components/aspect-ratio", "timestamp": "2025-02-28 22:53:48", "status": "success", "entries_created": 4}
+{"index": 70, "url": "https://www.shadcn-vue.com/docs/dark-mode/nuxt", "timestamp": "2025-02-28 22:54:42", "status": "success", "entries_created": 6}
+{"index": 71, "url": "https://www.shadcn-vue.com/docs/components/navigation-menu", "timestamp": "2025-02-28 22:55:17", "status": "success", "entries_created": 6}
+{"index": 72, "url": "https://www.shadcn-vue.com/docs/dark-mode/vitepress", "timestamp": "2025-02-28 22:55:28", "status": "success", "entries_created": 6}
+{"index": 73, "url": "https://www.shadcn-vue.com/docs/components/alert-dialog", "timestamp": "2025-02-28 22:55:39", "status": "success", "entries_created": 4}
+{"index": 74, "url": "https://www.shadcn-vue.com/docs/components/hover-card", "timestamp": "2025-02-28 22:55:55", "status": "success", "entries_created": 4}
+{"index": 75, "url": "https://www.shadcn-vue.com/docs/components/v-date-picker", "timestamp": "2025-02-28 22:57:25", "status": "success", "entries_created": 7}
+{"index": 76, "url": "https://www.shadcn-vue.com/docs/changelog", "timestamp": "2025-02-28 22:58:08", "status": "success", "entries_created": 26}
+{"index": 77, "url": "https://www.shadcn-vue.com/docs/installation/nuxt", "timestamp": "2025-02-28 22:58:20", "status": "success", "entries_created": 11}
+{"index": 78, "url": "https://www.shadcn-vue.com/docs/installation/astro", "timestamp": "2025-02-28 22:58:36", "status": "success", "entries_created": 13}
+{"index": 79, "url": "https://www.shadcn-vue.com/docs/components-json", "timestamp": "2025-02-28 22:59:28", "status": "success", "entries_created": 17}
+{"index": 80, "url": "https://www.shadcn-vue.com/docs/installation/vite", "timestamp": "2025-02-28 22:59:50", "status": "success", "entries_created": 11}
+{"index": 81, "url": "https://www.shadcn-vue.com/docs/components/table", "timestamp": "2025-02-28 23:00:25", "status": "success", "entries_created": 5}
+{"index": 6, "url": "https://www.shadcn-vue.com/docs/about", "timestamp": "2025-02-28 23:00:42", "status": "success", "entries_created": 4}
+{"index": 13, "url": "https://www.shadcn-vue.com/docs/installation/manual", "timestamp": "2025-02-28 23:01:31", "status": "success", "entries_created": 11}
+{"index": 19, "url": "https://www.shadcn-vue.com/docs/components/sidebar", "timestamp": "2025-02-28 23:04:36", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 56, "url": "https://www.shadcn-vue.com/docs/components/auto-form", "timestamp": "2025-02-28 23:05:01", "status": "success", "entries_created": 7}
+{"index": 58, "url": "https://www.shadcn-vue.com/docs/components/dropdown-menu", "timestamp": "2025-02-28 23:05:51", "status": "success", "entries_created": 3}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-02-28 23:08:57", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 19, "url": "https://www.shadcn-vue.com/docs/components/sidebar", "timestamp": "2025-02-28 23:12:06", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-02-28 23:15:11", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 19, "url": "https://www.shadcn-vue.com/docs/components/sidebar", "timestamp": "2025-02-28 23:18:22", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-02-28 23:21:27", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 19, "url": "https://www.shadcn-vue.com/docs/components/sidebar", "timestamp": "2025-02-28 23:24:38", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-02-28 23:27:13", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 19, "url": "https://www.shadcn-vue.com/docs/components/sidebar", "timestamp": "2025-02-28 23:30:24", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-02-28 23:33:29", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 19, "url": "https://www.shadcn-vue.com/docs/components/sidebar", "timestamp": "2025-02-28 23:36:39", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-02-28 23:39:45", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 19, "url": "https://www.shadcn-vue.com/docs/components/sidebar", "timestamp": "2025-02-28 23:42:55", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-02-28 23:46:01", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 19, "url": "https://www.shadcn-vue.com/docs/components/sidebar", "timestamp": "2025-02-28 23:49:12", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-02-28 23:52:18", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 19, "url": "https://www.shadcn-vue.com/docs/components/sidebar", "timestamp": "2025-02-28 23:55:27", "status": "success", "entries_created": 27}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-02-28 23:58:33", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-03-01 00:01:44", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-03-01 00:04:54", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-03-01 00:08:05", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-03-01 00:11:16", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 59, "url": "https://www.shadcn-vue.com/docs/components/data-table", "timestamp": "2025-03-01 00:11:59", "status": "success", "entries_created": 8}

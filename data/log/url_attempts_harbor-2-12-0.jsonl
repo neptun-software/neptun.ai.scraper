@@ -1,0 +1,101 @@
+{"index": 0, "url": "https://goharbor.io/docs/2.12.0", "timestamp": "2025-03-01 02:50:21", "status": "success", "entries_created": 6}
+{"index": 1, "url": "https://goharbor.io/docs/2.12.0/install-config", "timestamp": "2025-03-01 02:51:39", "status": "success", "entries_created": 6}
+{"index": 2, "url": "https://goharbor.io/docs/2.12.0/administration/configure-authentication", "timestamp": "2025-03-01 02:52:28", "status": "success", "entries_created": 4}
+{"index": 3, "url": "https://goharbor.io/docs/2.12.0/administration", "timestamp": "2025-03-01 02:52:45", "status": "success", "entries_created": 2}
+{"index": 4, "url": "https://goharbor.io/docs/2.12.0/install-config/demo-server", "timestamp": "2025-03-01 02:53:08", "status": "success", "entries_created": 6}
+{"index": 5, "url": "https://goharbor.io/docs/2.12.0/administration/configure-authentication/db-auth", "timestamp": "2025-03-01 02:53:25", "status": "success", "entries_created": 5}
+{"index": 6, "url": "https://goharbor.io/docs/2.12.0/install-config/harbor-compatibility-list", "timestamp": "2025-03-01 02:54:08", "status": "success", "entries_created": 4}
+{"index": 7, "url": "https://goharbor.io/docs/2.12.0/administration/managing-users", "timestamp": "2025-03-01 02:54:19", "status": "success", "entries_created": 6}
+{"index": 8, "url": "https://goharbor.io/docs/2.12.0/working-with-projects", "timestamp": "2025-03-01 02:54:24", "status": "success", "entries_created": 2}
+{"index": 9, "url": "https://goharbor.io/docs/2.12.0/build-customize-contribute", "timestamp": "2025-03-01 02:54:30", "status": "success", "entries_created": 2}
+{"index": 10, "url": "https://goharbor.io/docs/2.12.0/administration/general-settings", "timestamp": "2025-03-01 02:54:37", "status": "success", "entries_created": 7}
+{"index": 11, "url": "https://goharbor.io/docs/2.12.0/administration/configure-authentication/ldap-auth", "timestamp": "2025-03-01 02:54:55", "status": "success", "entries_created": 5}
+{"index": 12, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/create-projects", "timestamp": "2025-03-01 02:55:05", "status": "success", "entries_created": 10}
+{"index": 13, "url": "https://goharbor.io/docs/2.12.0/administration/configuring-replication/create-replication-endpoints", "timestamp": "2025-03-01 02:55:24", "status": "success", "entries_created": 6}
+{"index": 14, "url": "https://goharbor.io/docs/2.12.0/install-config/installation-prereqs", "timestamp": "2025-03-01 02:55:32", "status": "success", "entries_created": 5}
+{"index": 15, "url": "https://goharbor.io/docs/2.12.0/administration/p2p-preheat/manage-preheat-providers", "timestamp": "2025-03-01 02:55:44", "status": "success", "entries_created": 5}
+{"index": 16, "url": "https://goharbor.io/docs/2.12.0/administration/managing-users/user-permissions-by-role", "timestamp": "2025-03-01 02:56:00", "status": "success", "entries_created": 3}
+{"index": 17, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/create-projects/add-users", "timestamp": "2025-03-01 02:56:11", "status": "success", "entries_created": 5}
+{"index": 18, "url": "https://goharbor.io/docs/2.12.0/administration/configure-authentication/oidc-auth", "timestamp": "2025-03-01 02:56:41", "status": "success", "entries_created": 7}
+{"index": 19, "url": "https://goharbor.io/docs/2.12.0/administration/configure-project-quotas", "timestamp": "2025-03-01 02:56:48", "status": "success", "entries_created": 4}
+{"index": 20, "url": "https://goharbor.io/docs/2.12.0/administration/vulnerability-scanning/pluggable-scanners", "timestamp": "2025-03-01 02:57:00", "status": "success", "entries_created": 5}
+{"index": 21, "url": "https://goharbor.io/docs/2.12.0/administration/managing-users/create-users-db", "timestamp": "2025-03-01 02:57:09", "status": "success", "entries_created": 3}
+{"index": 22, "url": "https://goharbor.io/docs/2.12.0/administration/configuring-replication/create-replication-rules", "timestamp": "2025-03-01 02:57:37", "status": "success", "entries_created": 7}
+{"index": 23, "url": "https://goharbor.io/docs/2.12.0/install-config/download-installer", "timestamp": "2025-03-01 02:58:27", "status": "success", "entries_created": 4}
+{"index": 24, "url": "https://goharbor.io/docs/2.12.0/administration/managing-users/reset-user-password", "timestamp": "2025-03-01 02:59:49", "status": "success", "entries_created": 3}
+{"index": 25, "url": "https://goharbor.io/docs/2.12.0/administration/user-defined-oci-artifact", "timestamp": "2025-03-01 03:00:37", "status": "success", "entries_created": 5}
+{"index": 26, "url": "https://goharbor.io/docs/2.12.0/install-config/configure-https", "timestamp": "2025-03-01 03:01:26", "status": "success", "entries_created": 9}
+{"index": 27, "url": "https://goharbor.io/docs/2.12.0/install-config/configure-internal-tls", "timestamp": "2025-03-01 03:02:51", "status": "success", "entries_created": 7}
+{"index": 28, "url": "https://goharbor.io/docs/2.12.0/administration/configuring-replication", "timestamp": "2025-03-01 03:04:03", "status": "success", "entries_created": 3}
+{"index": 29, "url": "https://goharbor.io/docs/2.12.0/administration/p2p-preheat", "timestamp": "2025-03-01 03:04:28", "status": "success", "entries_created": 10}
+{"index": 30, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/preheat-images", "timestamp": "2025-03-01 03:04:58", "status": "success", "entries_created": 6}
+{"index": 31, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/project-configuration", "timestamp": "2025-03-01 03:05:17", "status": "success", "entries_created": 6}
+{"index": 32, "url": "https://goharbor.io/docs/2.12.0/administration/configuring-replication/manage-replications", "timestamp": "2025-03-01 03:05:24", "status": "success", "entries_created": 3}
+{"index": 33, "url": "https://goharbor.io/docs/2.12.0/administration/vulnerability-scanning/scan-individual-artifact", "timestamp": "2025-03-01 03:05:45", "status": "success", "entries_created": 5}
+{"index": 34, "url": "https://goharbor.io/docs/2.12.0/administration/vulnerability-scanning/stop-scan", "timestamp": "2025-03-01 03:05:53", "status": "success", "entries_created": 4}
+{"index": 35, "url": "https://goharbor.io/docs/2.12.0/administration/vulnerability-scanning/deployment-security", "timestamp": "2025-03-01 03:06:00", "status": "success", "entries_created": 2}
+{"index": 36, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/project-configuration/access-project-logs", "timestamp": "2025-03-01 03:06:04", "status": "success", "entries_created": 3}
+{"index": 37, "url": "https://goharbor.io/docs/2.12.0/administration/configure-proxy-cache", "timestamp": "2025-03-01 03:06:16", "status": "success", "entries_created": 5}
+{"index": 38, "url": "https://goharbor.io/docs/2.12.0/install-config/configure-yml-file", "timestamp": "2025-03-01 03:09:21", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 39, "url": "https://goharbor.io/docs/2.12.0/install-config/run-installer-script", "timestamp": "2025-03-01 03:09:38", "status": "success", "entries_created": 7}
+{"index": 40, "url": "https://goharbor.io/docs/2.12.0/administration/vulnerability-scanning/scan-all-artifacts", "timestamp": "2025-03-01 03:09:49", "status": "success", "entries_created": 4}
+{"index": 41, "url": "https://goharbor.io/docs/2.12.0/administration/vulnerability-scanning", "timestamp": "2025-03-01 03:10:09", "status": "success", "entries_created": 9}
+{"index": 42, "url": "https://goharbor.io/docs/2.12.0/administration/metrics", "timestamp": "2025-03-01 03:10:47", "status": "success", "entries_created": 8}
+{"index": 43, "url": "https://goharbor.io/docs/2.12.0/administration/distributed-tracing", "timestamp": "2025-03-01 03:10:59", "status": "success", "entries_created": 5}
+{"index": 44, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/project-configuration/create-robot-accounts", "timestamp": "2025-03-01 03:11:17", "status": "success", "entries_created": 9}
+{"index": 45, "url": "https://goharbor.io/docs/2.12.0/administration/robot-accounts", "timestamp": "2025-03-01 03:11:46", "status": "success", "entries_created": 6}
+{"index": 46, "url": "https://goharbor.io/docs/2.12.0/install-config/harbor-ha-helm", "timestamp": "2025-03-01 03:11:59", "status": "success", "entries_created": 8}
+{"index": 47, "url": "https://goharbor.io/docs/2.12.0/administration/garbage-collection", "timestamp": "2025-03-01 03:12:14", "status": "success", "entries_created": 6}
+{"index": 48, "url": "https://goharbor.io/docs/2.12.0/administration/vulnerability-scanning/schedule-scans", "timestamp": "2025-03-01 03:12:20", "status": "success", "entries_created": 3}
+{"index": 49, "url": "https://goharbor.io/docs/2.12.0/administration/upgrade/helm-upgrade", "timestamp": "2025-03-01 03:12:34", "status": "success", "entries_created": 6}
+{"index": 50, "url": "https://goharbor.io/docs/2.12.0/administration/log-rotation", "timestamp": "2025-03-01 03:12:46", "status": "success", "entries_created": 6}
+{"index": 51, "url": "https://goharbor.io/docs/2.12.0/administration/sbom-integration", "timestamp": "2025-03-01 03:14:33", "status": "success", "entries_created": 6}
+{"index": 52, "url": "https://goharbor.io/docs/2.12.0/administration/security-hub", "timestamp": "2025-03-01 03:15:19", "status": "success", "entries_created": 7}
+{"index": 53, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/project-configuration/configure-webhooks", "timestamp": "2025-03-01 03:18:25", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 54, "url": "https://goharbor.io/docs/2.12.0/administration/vulnerability-scanning/import-vulnerability-data", "timestamp": "2025-03-01 03:19:11", "status": "success", "entries_created": 8}
+{"index": 55, "url": "https://goharbor.io/docs/2.12.0/administration/jobservice-dashboard", "timestamp": "2025-03-01 03:19:52", "status": "success", "entries_created": 7}
+{"index": 56, "url": "https://goharbor.io/docs/2.12.0/administration/upgrade/roll-back-upgrade", "timestamp": "2025-03-01 03:20:43", "status": "success", "entries_created": 7}
+{"index": 57, "url": "https://goharbor.io/docs/2.12.0/administration/upgrade", "timestamp": "2025-03-01 03:21:10", "status": "success", "entries_created": 5}
+{"index": 58, "url": "https://goharbor.io/docs/2.12.0/administration/backup-restore", "timestamp": "2025-03-01 03:22:35", "status": "success", "entries_created": 8}
+{"index": 59, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/project-configuration/configure-project-allowlist", "timestamp": "2025-03-01 03:23:07", "status": "success", "entries_created": 6}
+{"index": 60, "url": "https://goharbor.io/docs/2.12.0/administration/vulnerability-scanning/configure-system-allowlist", "timestamp": "2025-03-01 03:23:27", "status": "success", "entries_created": 6}
+{"index": 61, "url": "https://goharbor.io/docs/2.12.0/administration/upgrade/upgrade-test", "timestamp": "2025-03-01 03:24:06", "status": "success", "entries_created": 5}
+{"index": 62, "url": "https://goharbor.io/docs/2.12.0/install-config/troubleshoot-installation", "timestamp": "2025-03-01 03:25:56", "status": "success", "entries_created": 7}
+{"index": 63, "url": "https://goharbor.io/docs/2.12.0/administration/vulnerability-scanning/configure-custom-certs", "timestamp": "2025-03-01 03:26:32", "status": "success", "entries_created": 6}
+{"index": 64, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/project-configuration/implementing-content-trust", "timestamp": "2025-03-01 03:37:00", "status": "success", "entries_created": 3}
+{"index": 65, "url": "https://goharbor.io/docs/2.12.0/install-config/reconfigure-manage-lifecycle", "timestamp": "2025-03-01 03:37:18", "status": "success", "entries_created": 7}
+{"index": 66, "url": "https://goharbor.io/docs/2.12.0/install-config/customize-token-service", "timestamp": "2025-03-01 03:37:56", "status": "success", "entries_created": 5}
+{"index": 67, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images", "timestamp": "2025-03-01 03:38:49", "status": "success", "entries_created": 2}
+{"index": 68, "url": "https://goharbor.io/docs/2.12.0/install-config/configure-system-settings-cli", "timestamp": "2025-03-01 03:41:36", "status": "success", "entries_created": 6}
+{"index": 69, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/pulling-pushing-images", "timestamp": "2025-03-01 03:41:58", "status": "success", "entries_created": 9}
+{"index": 70, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-oci/working-with-helm-oci-charts", "timestamp": "2025-03-01 03:42:24", "status": "success", "entries_created": 8}
+{"index": 71, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/create-labels", "timestamp": "2025-03-01 03:42:53", "status": "success", "entries_created": 5}
+{"index": 72, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-oci", "timestamp": "2025-03-01 03:43:43", "status": "success", "entries_created": 2}
+{"index": 73, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/deleting-artifact", "timestamp": "2025-03-01 03:46:49", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 74, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/deleting-tags", "timestamp": "2025-03-01 03:46:58", "status": "success", "entries_created": 5}
+{"index": 75, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/repositories", "timestamp": "2025-03-01 03:47:37", "status": "success", "entries_created": 4}
+{"index": 76, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/retagging-images", "timestamp": "2025-03-01 03:47:56", "status": "success", "entries_created": 5}
+{"index": 77, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/adding-tags", "timestamp": "2025-03-01 03:48:17", "status": "success", "entries_created": 4}
+{"index": 78, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/create-tag-retention-rules", "timestamp": "2025-03-01 03:51:11", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 79, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/create-tag-immutability-rules", "timestamp": "2025-03-01 03:52:33", "status": "success", "entries_created": 7}
+{"index": 80, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/sign-images", "timestamp": "2025-03-01 03:53:22", "status": "success", "entries_created": 13}
+{"index": 81, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/using-api-explorer", "timestamp": "2025-03-01 03:53:59", "status": "success", "entries_created": 3}
+{"index": 82, "url": "https://goharbor.io/docs/2.12.0/build-customize-contribute/compile-guide", "timestamp": "2025-03-01 03:54:37", "status": "success", "entries_created": 7}
+{"index": 83, "url": "https://goharbor.io/docs/2.12.0/build-customize-contribute/customize-look-feel", "timestamp": "2025-03-01 03:55:00", "status": "success", "entries_created": 6}
+{"index": 84, "url": "https://goharbor.io/docs/2.12.0/build-customize-contribute/developer-guide-i18n", "timestamp": "2025-03-01 03:56:58", "status": "success", "entries_created": 6}
+{"index": 85, "url": "https://goharbor.io/docs/2.12.0/build-customize-contribute/ui-contribution-get-started", "timestamp": "2025-03-01 03:58:24", "status": "success", "entries_created": 9}
+{"index": 86, "url": "https://goharbor.io/docs/2.12.0/build-customize-contribute/style-guide", "timestamp": "2025-03-01 04:01:30", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 87, "url": "https://goharbor.io/docs/2.12.0/build-customize-contribute/registry-landscape", "timestamp": "2025-03-01 04:03:29", "status": "success", "entries_created": 3}
+{"index": 88, "url": "https://goharbor.io/docs/2.12.0/build-customize-contribute/use-make", "timestamp": "2025-03-01 04:04:42", "status": "success", "entries_created": 5}
+{"index": 38, "url": "https://goharbor.io/docs/2.12.0/install-config/configure-yml-file", "timestamp": "2025-03-01 04:07:48", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 53, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/project-configuration/configure-webhooks", "timestamp": "2025-03-01 04:10:53", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 73, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/deleting-artifact", "timestamp": "2025-03-01 04:11:28", "status": "success", "entries_created": 7}
+{"index": 78, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/create-tag-retention-rules", "timestamp": "2025-03-01 04:14:33", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 86, "url": "https://goharbor.io/docs/2.12.0/build-customize-contribute/style-guide", "timestamp": "2025-03-01 04:17:39", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 38, "url": "https://goharbor.io/docs/2.12.0/install-config/configure-yml-file", "timestamp": "2025-03-01 04:20:49", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 53, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/project-configuration/configure-webhooks", "timestamp": "2025-03-01 04:23:42", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 78, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/working-with-images/create-tag-retention-rules", "timestamp": "2025-03-01 04:26:51", "status": "success", "entries_created": 13}
+{"index": 86, "url": "https://goharbor.io/docs/2.12.0/build-customize-contribute/style-guide", "timestamp": "2025-03-01 04:29:22", "status": "success", "entries_created": 6}
+{"index": 38, "url": "https://goharbor.io/docs/2.12.0/install-config/configure-yml-file", "timestamp": "2025-03-01 04:32:37", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 53, "url": "https://goharbor.io/docs/2.12.0/working-with-projects/project-configuration/configure-webhooks", "timestamp": "2025-03-01 04:33:32", "status": "success", "entries_created": 4}
+{"index": 38, "url": "https://goharbor.io/docs/2.12.0/install-config/configure-yml-file", "timestamp": "2025-03-01 04:36:34", "status": "success", "entries_created": 6}

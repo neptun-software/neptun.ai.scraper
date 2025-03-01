@@ -1,0 +1,98 @@
+{"index": 0, "url": "https://vuejs.org/api", "timestamp": "2025-03-01 00:58:07", "status": "success", "entries_created": 2}
+{"index": 1, "url": "https://vuejs.org/api/application.html", "timestamp": "2025-03-01 00:58:59", "status": "success", "entries_created": 27}
+{"index": 2, "url": "https://vuejs.org/api/built-in-components.html", "timestamp": "2025-03-01 01:02:03", "status": "success", "entries_created": 9}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 01:05:13", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 4, "url": "https://vuejs.org/api/built-in-special-attributes.html", "timestamp": "2025-03-01 01:05:49", "status": "success", "entries_created": 6}
+{"index": 5, "url": "https://vuejs.org/api/built-in-special-elements.html", "timestamp": "2025-03-01 01:06:40", "status": "success", "entries_created": 6}
+{"index": 6, "url": "https://vuejs.org/api/compile-time-flags.html", "timestamp": "2025-03-01 01:07:21", "status": "success", "entries_created": 12}
+{"index": 7, "url": "https://vuejs.org/api/component-instance.html", "timestamp": "2025-03-01 01:09:01", "status": "success", "entries_created": 11}
+{"index": 8, "url": "https://vuejs.org/api/composition-api-dependency-injection.html", "timestamp": "2025-03-01 01:09:29", "status": "success", "entries_created": 6}
+{"index": 9, "url": "https://vuejs.org/api/composition-api-helpers.html", "timestamp": "2025-03-01 01:11:27", "status": "success", "entries_created": 8}
+{"index": 10, "url": "https://vuejs.org/api/composition-api-lifecycle.html", "timestamp": "2025-03-01 01:13:18", "status": "success", "entries_created": 16}
+{"index": 11, "url": "https://vuejs.org/api/composition-api-setup.html", "timestamp": "2025-03-01 01:14:08", "status": "success", "entries_created": 8}
+{"index": 12, "url": "https://vuejs.org/api/custom-elements.html", "timestamp": "2025-03-01 01:14:35", "status": "success", "entries_created": 7}
+{"index": 13, "url": "https://vuejs.org/api/custom-renderer.html", "timestamp": "2025-03-01 01:15:02", "status": "success", "entries_created": 4}
+{"index": 14, "url": "https://vuejs.org/api/general.html", "timestamp": "2025-03-01 01:15:43", "status": "success", "entries_created": 7}
+{"index": 15, "url": "https://vuejs.org/api/options-composition.html", "timestamp": "2025-03-01 01:16:32", "status": "success", "entries_created": 7}
+{"index": 16, "url": "https://vuejs.org/api/options-lifecycle.html", "timestamp": "2025-03-01 01:17:29", "status": "success", "entries_created": 17}
+{"index": 17, "url": "https://vuejs.org/api/options-misc.html", "timestamp": "2025-03-01 01:17:59", "status": "success", "entries_created": 6}
+{"index": 18, "url": "https://vuejs.org/api/options-rendering.html", "timestamp": "2025-03-01 01:18:21", "status": "success", "entries_created": 5}
+{"index": 19, "url": "https://vuejs.org/api/options-state.html", "timestamp": "2025-03-01 01:21:26", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 20, "url": "https://vuejs.org/api/reactivity-advanced.html", "timestamp": "2025-03-01 01:21:41", "status": "success", "entries_created": 13}
+{"index": 21, "url": "https://vuejs.org/api/reactivity-core.html", "timestamp": "2025-03-01 01:22:08", "status": "success", "entries_created": 4}
+{"index": 22, "url": "https://vuejs.org/api/reactivity-utilities.html", "timestamp": "2025-03-01 01:22:41", "status": "success", "entries_created": 11}
+{"index": 23, "url": "https://vuejs.org/api/render-function.html", "timestamp": "2025-03-01 01:23:25", "status": "success", "entries_created": 11}
+{"index": 24, "url": "https://vuejs.org/api/sfc-css-features.html", "timestamp": "2025-03-01 01:23:57", "status": "success", "entries_created": 14}
+{"index": 25, "url": "https://vuejs.org/api/sfc-script-setup.html", "timestamp": "2025-03-01 01:27:03", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 26, "url": "https://vuejs.org/api/sfc-spec.html", "timestamp": "2025-03-01 01:27:28", "status": "success", "entries_created": 7}
+{"index": 27, "url": "https://vuejs.org/api/ssr.html", "timestamp": "2025-03-01 01:28:01", "status": "success", "entries_created": 12}
+{"index": 28, "url": "https://vuejs.org/api/utility-types.html", "timestamp": "2025-03-01 01:28:56", "status": "success", "entries_created": 12}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 01:32:05", "status": "failure", "error": "No usable data returned from scrape_url"}
+{"index": 30, "url": "https://vuejs.org/api/general", "timestamp": "2025-03-01 01:32:36", "status": "success", "entries_created": 7}
+{"index": 31, "url": "https://vuejs.org/api/composition-api-lifecycle", "timestamp": "2025-03-01 01:34:31", "status": "success", "entries_created": 16}
+{"index": 32, "url": "https://vuejs.org/api/render-function", "timestamp": "2025-03-01 01:35:15", "status": "success", "entries_created": 11}
+{"index": 33, "url": "https://vuejs.org/api/reactivity-utilities", "timestamp": "2025-03-01 01:35:48", "status": "success", "entries_created": 11}
+{"index": 34, "url": "https://vuejs.org/api/composition-api-helpers", "timestamp": "2025-03-01 01:36:20", "status": "success", "entries_created": 8}
+{"index": 35, "url": "https://vuejs.org/api/built-in-components", "timestamp": "2025-03-01 01:36:57", "status": "success", "entries_created": 9}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 01:40:03", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 19, "url": "https://vuejs.org/api/options-state.html", "timestamp": "2025-03-01 01:43:13", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 25, "url": "https://vuejs.org/api/sfc-script-setup.html", "timestamp": "2025-03-01 01:46:18", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 01:49:24", "status": "failure", "error": "No usable data returned on retry 1"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 01:52:39", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 19, "url": "https://vuejs.org/api/options-state.html", "timestamp": "2025-03-01 01:55:44", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 25, "url": "https://vuejs.org/api/sfc-script-setup.html", "timestamp": "2025-03-01 01:58:50", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 02:01:55", "status": "failure", "error": "No usable data returned on retry 2"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 02:05:06", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 19, "url": "https://vuejs.org/api/options-state.html", "timestamp": "2025-03-01 02:08:11", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 25, "url": "https://vuejs.org/api/sfc-script-setup.html", "timestamp": "2025-03-01 02:11:17", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 02:14:27", "status": "failure", "error": "No usable data returned on retry 3"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 02:17:37", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 19, "url": "https://vuejs.org/api/options-state.html", "timestamp": "2025-03-01 02:20:43", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 25, "url": "https://vuejs.org/api/sfc-script-setup.html", "timestamp": "2025-03-01 02:23:49", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 02:26:55", "status": "failure", "error": "No usable data returned on retry 4"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 02:30:05", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 19, "url": "https://vuejs.org/api/options-state.html", "timestamp": "2025-03-01 02:33:11", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 25, "url": "https://vuejs.org/api/sfc-script-setup.html", "timestamp": "2025-03-01 02:36:16", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 02:39:22", "status": "failure", "error": "No usable data returned on retry 5"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 02:42:32", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 19, "url": "https://vuejs.org/api/options-state.html", "timestamp": "2025-03-01 02:54:38", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 25, "url": "https://vuejs.org/api/sfc-script-setup.html", "timestamp": "2025-03-01 02:57:43", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 03:00:51", "status": "failure", "error": "No usable data returned on retry 6"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 03:04:06", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 19, "url": "https://vuejs.org/api/options-state.html", "timestamp": "2025-03-01 03:07:11", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 25, "url": "https://vuejs.org/api/sfc-script-setup.html", "timestamp": "2025-03-01 03:08:10", "status": "success", "entries_created": 27}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 03:11:16", "status": "failure", "error": "No usable data returned on retry 7"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 03:14:26", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 19, "url": "https://vuejs.org/api/options-state.html", "timestamp": "2025-03-01 03:17:32", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 03:20:39", "status": "failure", "error": "No usable data returned on retry 8"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 03:23:54", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 19, "url": "https://vuejs.org/api/options-state.html", "timestamp": "2025-03-01 03:26:59", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 03:30:08", "status": "failure", "error": "No usable data returned on retry 9"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 03:33:19", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 19, "url": "https://vuejs.org/api/options-state.html", "timestamp": "2025-03-01 03:35:21", "status": "success", "entries_created": 10}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 03:38:27", "status": "failure", "error": "No usable data returned on retry 10"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 03:41:37", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 03:44:43", "status": "failure", "error": "No usable data returned on retry 11"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 03:47:25", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 03:50:08", "status": "failure", "error": "No usable data returned on retry 12"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 03:53:19", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 03:56:25", "status": "failure", "error": "No usable data returned on retry 13"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 03:59:22", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 04:02:27", "status": "failure", "error": "No usable data returned on retry 14"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 04:05:38", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 04:08:43", "status": "failure", "error": "No usable data returned on retry 15"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 04:11:58", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 04:15:03", "status": "failure", "error": "No usable data returned on retry 16"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 04:18:16", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 04:21:30", "status": "failure", "error": "No usable data returned on retry 17"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 04:24:41", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 04:27:46", "status": "failure", "error": "No usable data returned on retry 18"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 04:30:57", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 04:34:02", "status": "failure", "error": "No usable data returned on retry 19"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 04:37:13", "status": "failure", "error": "No usable data returned on retry 20"}
+{"index": 29, "url": "https://vuejs.org/api/application", "timestamp": "2025-03-01 04:38:11", "status": "success", "entries_created": 27}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 04:41:22", "status": "failure", "error": "No usable data returned on retry 21"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 04:44:32", "status": "failure", "error": "No usable data returned on retry 22"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 04:47:43", "status": "failure", "error": "No usable data returned on retry 23"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 04:50:53", "status": "failure", "error": "No usable data returned on retry 24"}
+{"index": 3, "url": "https://vuejs.org/api/built-in-directives.html", "timestamp": "2025-03-01 04:54:08", "status": "failure", "error": "No usable data returned on retry 25"}
