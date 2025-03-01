@@ -74,7 +74,7 @@ def combine_jsonl_files(input_dir, output_file):
         shutil.copy2(output_path, backup_path)
         logging.info(f"Created backup: {backup_path}")
     
-    excluded_dirs = ["log"]
+    excluded_dirs = ["log", "testing"]
     logging.info(f"Excluding subdirectories: {', '.join(excluded_dirs)}")
     
     processed_files = 0
