@@ -1,4 +1,33 @@
 $configArray = @(
+)
+
+$commands = @()
+
+foreach ($config in $configArray) {
+    $cmd = "python scrape.generic.docs.py --product $($config.product) --base_url $($config.base_url) --output_file $($config.output_file)"
+    $commands += $cmd
+}
+
+$wtArgs = @()
+$wtArgs += "-d ."
+$wtArgs += $commands[0]
+
+for ($i = 1; $i -lt $commands.Count; $i++) {
+    $wtArgs += "; new-tab"
+    $wtArgs += "-d ."
+    $wtArgs += $commands[$i]
+}
+
+$wtArgsString = $wtArgs -join " "
+Start-Process wt -ArgumentList $wtArgsString
+
+# Loop through each configuration and open a new tab in Windows Terminal
+# foreach ($config in $configArray) {
+#     wt new-tab -d . -- python scrape.generic.docs.py --product $config.product --base_url $config.base_url --output_file $config.output_file
+# }
+
+<#
+DONE
     @{
         product = "radix-ui-primitives"
         base_url = "https://www.radix-ui.com/primitives/docs"
@@ -99,34 +128,6 @@ $configArray = @(
         base_url = "https://vite.dev/config"
         output_file = "data/vite-config.jsonl"
     }
-)
-
-$commands = @()
-
-foreach ($config in $configArray) {
-    $cmd = "python scrape.generic.docs.py --product $($config.product) --base_url $($config.base_url) --output_file $($config.output_file)"
-    $commands += $cmd
-}
-
-$wtArgs = @()
-$wtArgs += "-d ."
-$wtArgs += $commands[0]
-
-for ($i = 1; $i -lt $commands.Count; $i++) {
-    $wtArgs += "; new-tab"
-    $wtArgs += "-d ."
-    $wtArgs += $commands[$i]
-}
-
-$wtArgsString = $wtArgs -join " "
-Start-Process wt -ArgumentList $wtArgsString
-
-# Loop through each configuration and open a new tab in Windows Terminal
-# foreach ($config in $configArray) {
-#     wt new-tab -d . -- python scrape.generic.docs.py --product $config.product --base_url $config.base_url --output_file $config.output_file
-# }
-
-<#
     @{
         product = "vite-guide"
         base_url = "https://vite.dev/guide"
@@ -226,7 +227,7 @@ Start-Process wt -ArgumentList $wtArgsString
         product = "astro"
         base_url = "https://docs.astro.build/en"
         output_file = "data/astro.jsonl"
-    },
+    }
     @{
         product = "astro-case-studies"
         base_url = "https://astro.build/case-studies"
@@ -357,9 +358,4 @@ Start-Process wt -ArgumentList $wtArgsString
         base_url = "https://hexdocs.pm/phoenix"
         output_file = "data/phoenix.jsonl"
     }
-#>
-
-<#
-DONE
-xxx
 #>
